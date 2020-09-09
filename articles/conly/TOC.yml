@@ -1,0 +1,440 @@
+- name: Dynamics 365 Project Operations (2. режим)
+  items:
+    - name: Почетна страница за Dynamics 365 Project Operations (2. режим)
+      href: project-operations-mode-2-home-page.md
+    - name: Применљиви сценарији
+      href: applicable-scenarios.md
+    - name: Шта је ново
+      href: whats-new-mode-2-project-operations.md
+    - name: Подесите окружење
+      href: set-up-environment-mode-2.md
+    - name: Пробни подаци
+      href: sample-data-mode-2.md
+    - name: Процес продаје
+      items:
+        - name: Преглед процеса продаје
+          href: ../project-operations/sales/sales-overview.md
+        - name: Кључне разлике
+          href: ../project-operations/sales/key-differences.md
+        - name: Подешавање
+          items:
+            - name: Производи
+              href: ../project-operations/sales/sales-products.md
+            - name: Јединице и групе јединица
+              href: ../project-operations/sales/sales-units-unit-groups.md
+            - name: Валута
+              href: ../project-operations/sales/sales-currency.md
+        - name: Управљање потенцијалним клијентима
+          href: ../project-operations/sales/managing-leads.md
+        - name: Управљане могућностима за пословање
+          items:
+            - name: Заглавље могућности за пословање
+              href: ../project-operations/sales/opportunity-header.md
+            - name: Ставке засноване на производу
+              href: ../project-operations/sales/product-based-lines.md
+            - name: Ставке засноване на пројекту
+              href: ../project-operations/sales/project-based-lines.md
+            - name: Повезивање понуда и могућности за пословање
+              href: ../project-operations/sales/link-quotes-opportunities.md
+            - name: Затварање могућности за пословање
+              href: ../project-operations/sales/close-opportunity.md
+        - name: Управљање понудама
+          items:
+            - name: Кључни концепти
+              href: ../project-operations/sales/quotes-key-concepts.md
+            - name: 'Управљање понуђеним вредностима, буџетима клијената и ограничењима које не смете премашити'
+              href: ../project-operations/sales/quote-values-budget-limits.md
+            - name: Управљање са више клијената у једној понуди
+              href: ../project-operations/sales/manage-multiple-customers-quote.md
+            - name: Ставке понуде засноване на производу
+              items:
+                - name: Ставке производа засноване на обрачуну
+                  href: ../project-operations/sales/costing-product-based-quote-lines.md
+                - name: Управљање сложеним јединицама за ставке понуде засноване на производима
+                  href: ../project-operations/sales/managing-complex-units-product-based-quote-lines.md
+            - name: Ставке понуде засноване на пројекту
+              items:
+                - name: Управљање ценовницима за пројекат
+                  href: ../project-operations/sales/manage-project-price-lists.md
+                - name: Управљање са више клијената на ставци понуде
+                  href: ../project-operations/sales/manage-multiple-customers-quote-line.md
+                - name: Мапирање пројеката и задатака на ставку понуде
+                  href: ../project-operations/sales/mapping-projects-tasks-quote-line.md
+                - name: Креирање процена на ставци понуде
+                  href: ../project-operations/sales/create-estimate-quote-line.md
+                - name: Увоз процена из пројекта у ставку понуде
+                  href: ../project-operations/sales/import-estimate-project-quote-line.md
+                - name: 'Управљање понуђеним вредностима, буџетима клијената и ограничењима које не смете премашити'
+                  href: ../project-operations/sales/manage-quoted-values-budget-limites-quote-line.md
+                - name: Распореди фактурисања на ставки понуде
+                  href: ../project-operations/sales/invoice-schedule-quote-line.md
+            - name: Добијање понуде
+              href: ../project-operations/sales/win-quote.md
+            - name: Губитак понуде
+              href: ../project-operations/sales/lose-quote.md
+        - name: Управљање уговорима
+          items:
+            - name: Кључни концепти
+              href: ../project-operations/sales/contracts-key-concepts.md
+            - name: 'Управљање вредностима уговора, буџетима клијената и ограничењима које не смете премашити'
+              href: ../project-operations/sales/contract-quote-values-budgets-limits.md
+            - name: Управљање са више клијената на једном уговору
+              href: ../project-operations/sales/manage-multiple-customers-contract.md
+            - name: Предмети уговора засновани на производу
+              items:
+                - name: Обрачун трошкова за предмете уговора засноване на производима
+                  href: ../project-operations/sales/cost-product-based-contract-lines.md
+                - name: Управљање сложеним јединицама за предмете уговора засноване на производима
+                  href: ../project-operations/sales/manage-complex-units-product-based-contract-lines.md
+            - name: Предмети уговора засновани на пројекту
+              items:
+                - name: Управљање ценовницима за пројекат
+                  href: ../project-operations/sales/manage-project-price-lists.md
+                - name: Управљање са више клијената на једном предмету уговора
+                  href: ../project-operations/sales/manage-multiple-customers-contract-line.md
+                - name: Мапирање пројеката и задатака на предмет уговора
+                  href: ../project-operations/sales/mapping-projects-tasks-contract-line.md
+                - name: Креирање процена из пројекта у предмет уговора
+                  href: ../project-operations/sales/create-estimate-project-contract-line.md
+                - name: Увоз процена из пројекта у предмет уговора
+                  href: ../project-operations/sales/import-estimate-project-contract-line.md
+                - name: 'Управљање вредностима уговора, буџетима клијената и ограничењима које не смете премашити на предмету уговора'
+                  href: ../project-operations/sales/manage-contract-values-project-based.md
+                - name: Распореди фактурисања на ставки понуде
+                  href: ../project-operations/sales/invoice-schedules-quote-line.md
+            - name: Потврдите уговор
+              href: ../project-operations/sales/confirm-contract.md
+            - name: Затворите уговор као завршен посао
+              href: ../project-operations/sales/close-contract-work-completed.md
+            - name: Затворите уговор као отказан
+              href: ../project-operations/sales/close-contract-canceled.md
+    - name: Цене и обрачун трошкова
+      items:
+        - name: Ценовници производа
+          href: ../project-operations/pricing-costing/product-price-lists.md
+        - name: Ценовници пројекта
+          items:
+            - name: Ценовник за цену
+              items:
+                - name: Подешавање ценовника коштања
+                  href: ../project-operations/pricing-costing/cost-price-list-setup.md
+                - name: Подразумеване вредности ценовника
+                  href: ../project-operations/pricing-costing/cost-price-list-default.md
+                - name: Замена подразумеваних вредности
+                  href: ../project-operations/pricing-costing/cost-override-default.md
+            - name: Подешавање ценовника за продају
+              items:
+                - name: Подешавање продајног ценовника
+                  href: ../project-operations/pricing-costing/sales-price-list-setup.md
+                - name: Подразумеване вредности за продајни ценовник
+                  href: ../project-operations/pricing-costing/sales-price-list-default.md
+                - name: Замена подразумеваних вредности
+                  href: ../project-operations/pricing-costing/sales-override-default.md
+        - name: Димензије за одређивање цена
+          items:
+            - name: Преглед димензија за одређивање цена
+              href: ../project-operations/pricing-costing/pricing-dimension-overview.md
+            - name: Коришћење постојећег поља у услузи Project Operations као димензије за одређивање цена
+              href: ../project-operations/pricing-costing/use-existing-field-pricing-dimension.md
+            - name: Прилагођена поља као димензија за одређивање цена
+              items:
+                - name: Креирање прилагођених поља и ентитета као димензије за одређивање цена
+                  href: ../project-operations/pricing-costing/create-custom-fields-entities-pricing-dimensions.md
+                - name: Додавање прилагођених поља у подешавање цена и трансакционе ентитете
+                  href: ../project-operations/pricing-costing/add-custom-fields-price-setup-transactional-entities.md
+                - name: Подешавање прилагођених поља као димензија за одређивање цена
+                  href: ../project-operations/pricing-costing/set-up-custom-fields-pricing-dimensions.md
+            - name: Искључивање димензије за одређивање цена
+              href: ../project-operations/pricing-costing/turn-off-pricing-dimension.md
+    - name: Управљање пројектима
+      items:
+        - name: Преглед управљања пројектима
+          href: ../project-operations/project-management/project-management-overview.md
+        - name: Фазе пројекта
+          href: ../project-operations/project-management/project-stages.md
+        - name: Кретање кроз кориснички интерфејс
+          href: ../project-operations/project-management/navigate-ui.md
+        - name: Разумевање статуса пројекта
+          href: ../project-operations/project-management/understand-project-status.md
+        - name: Дефинисање календара пројеката
+          href: ../project-operations/project-management/define-project-calendars.md
+        - name: Креирање пројекта
+          items:
+            - name: Креирање почетних процена
+              href: ../project-operations/project-management/create-initial-estimates.md
+            - name: Подешавање календара пројекта
+              href: ../project-operations/project-management/set-project-calendar.md
+            - name: Подешавање валуте пројекта
+              href: ../project-operations/project-management/set-project-currency.md
+            - name: Дефинисање клијента
+              href: ../project-operations/project-management/set-customer.md
+            - name: Додавање групе
+              href: ../project-operations/project-management/add-group.md
+        - name: Ажурирање пројекта
+          href: ../project-operations/project-management/update-project.md
+        - name: Копирање пројекта
+          href: ../project-operations/project-management/copy-project.md
+        - name: Планирање структурне анализе посла
+          items:
+            - name: Креирање структурне анализе посла
+              items:
+                - name: Креирање задатака
+                  href: ../project-operations/project-management/wbs-create-tasks.md
+                - name: 'Исецање, копирање и лепљење задатака'
+                  href: ../project-operations/project-management/cut-copy-paste-tasks.md
+                - name: Опозив и понављање задатака
+                  href: ../project-operations/project-management/undo-redo-tasks-wbs.md
+                - name: Хијерархија структурне анализе посла
+                  href: ../project-operations/project-management/work-breakdown-structure-hierarchy.md
+                - name: Групна ажурирања задатака
+                  href: ../project-operations/project-management/bulk-task-updates.md
+                - name: Уређивање детаља задатка
+                  href: ../project-operations/project-management/edit-task-details.md
+            - name: Креирање додела
+              items:
+                - name: Додавање постојећих ресурса
+                  href: ../project-operations/project-management/add-existing-resources.md
+                - name: Додавање генеричких ресурса
+                  href: ../project-operations/project-management/add-generic-resources.md
+                - name: 'Разумите утицај додела на ангажовање на задатку, трајање и датум завршетка'
+                  href: ../project-operations/project-management/understand-impact-assignment-task-effort-duration-end-date.md
+                - name: Приказ контура задатка
+                  href: ../project-operations/project-management/view-assignment-contours.md
+            - name: Кретање искуством управљања задацима
+              items:
+                - name: Управљање колонама
+                  href: ../project-operations/project-management/column-management.md
+                - name: Прикази
+                  href: ../project-operations/project-management/task-management-views.md
+                - name: Контејнери
+                  href: ../project-operations/project-management/task management-buckets.md
+        - name: Процена пројеката
+          items:
+            - name: Преглед процене пројеката
+              href: ../project-operations/project-management/estimate-projects-overview.md
+            - name: Процене ресурса
+              items:
+                - name: Освежавање процена пројеката ради одражавања промена у плану пројекта
+                  href: ../project-operations/project-management/refresh-project-estimates-reflect-changes-project-plan.md
+                - name: Освежавање цена и стопа трошкова на проценама пројеката
+                  href: ../project-operations/project-management/refresh-prices-cost-rates-project-estimates.md
+                - name: Подразумеване вредности цене коштања ресурса и валуте трошкова
+                  href: ../project-operations/project-management/resource-default-cost-price-cost-currency.md
+                - name: Подразумеване вредности стопе наплате за ресурс и продајне валуте
+                  href: ../project-operations/project-management/resource-default-bill-rate-sales-currency.md
+            - name: Креирање процена трошкова
+              items:
+                - name: Подразумеване вредности цене коштања трошкова и валуте трошкова
+                  href: ../project-operations/project-management/expense-default-cost-price-cost-currency.md
+                - name: Подразумеване вредности стопе наплате за трошак и продајне валуте
+                  href: ../project-operations/project-management/expense-default-bill-rate-sales-currency.md
+        - name: Израда понуда и уговора
+          items:
+            - name: Увоз структурне анализе посла у понуде
+              href: ../project-operations/project-management/import-wbs-structure-quotes.md
+            - name: Увоз структурне анализе посла у уговоре
+              href: ../project-operations/project-management/import-wbs-structure-contracts.md
+        - name: Праћење пројекта
+          items:
+            - name: Почетна страница за праћење пројеката
+              href: ../project-operations/project-management/cost-vs-effort-overview.md
+            - name: Дефиниције колона
+              items:
+                - name: Ангажовање
+                  href: ../project-operations/project-management/effort.md
+                - name: Цена
+                  href: ../project-operations/project-management/cost.md
+                - name: Продаја
+                  href: ../project-operations/project-management/sales.md
+            - name: Ажурирање процене по завршетку
+              href: ../project-operations/project-management/update-completed-estimate.md
+        - name: Чланови пројектног тима
+          items:
+            - name: Преглед чланова пројектног тима
+              href: ../project-operations/project-management/project-team-members-overview.md
+            - name: Одржавање чланова тима
+              items:
+                - name: Додавање чланова тима
+                  href: ../project-operations/project-management/add-team-members.md
+                - name: Ажурирање чланова пројектног тима
+                  href: ../project-operations/project-management/update-project-team-members.md
+                - name: Брисање чланова тима
+                  href: ../project-operations/project-management/delete-team-members.md
+                - name: Одржавање резервација
+                  href: ../project-operations/project-management/maintain-bookings.md
+                - name: Особе које одобравају пројекат
+                  href: ../project-operations/project-management/project-approvers.md
+        - name: Продаја
+          items:
+            - name: Преглед картице „Продаја“
+              href: ../project-operations/project-management/sales-tab-overview.md
+        - name: Сарадња
+          items:
+            - name: Групе
+              href: ../project-operations/project-management/groups.md
+        - name: Најчешћа питања о планирању пројекта
+          href: ../project-operations/project-management/project-planning-faq.md
+    - name: Управљање ресурсима
+      items:
+        - name: Преглед управљања ресурсима
+          href: ../project-operations/resource-management/resource-management-overview.md
+        - name: Кључни концепти
+          href: ../project-operations/resource-management/resource-management-key-concepts.md
+        - name: Резервације у односу на доделе
+          href: ../project-operations/resource-management/booking-vs-assignment.md
+        - name: Режими управљања ресурсима
+          items:
+            - name: Преглед режима управљања ресурсима
+              href: ../project-operations/resource-management/resource-management-mode-overview.md
+            - name: Хибрид
+              href: ../project-operations/resource-management/resource-management-mode-hybrid.md
+            - name: Централно
+              href: ../project-operations/resource-management/resource-management-mode-central.md
+        - name: Централизована резервација
+          items:
+            - name: Преглед централизованих резервација
+              href: ../project-operations/resource-management/centralized-booking-overview.md
+            - name: Додавање генеричких чланова тима у задатке
+              href: ../project-operations/resource-management/add-generic-team-members-tasks.md
+            - name: Дефинисање захтева за ресурсима
+              href: ../project-operations/resource-management/define-resource-requirements.md
+            - name: Дефинисање контура захтева
+              href: ../project-operations/resource-management/define-resource-requirement-contours.md
+            - name: Ажурирање захтева за ресурсима
+              href: ../project-operations/resource-management/update-resource-requirements.md
+            - name: Слање захтева за ресурсима
+              href: ../project-operations/resource-management/submit-resource-requirements.md
+            - name: Захтеви за ресурсима
+              items:
+                - name: Преглед захтева за ресурсима
+                  href: ../project-operations/resource-management/resource-requests-overview.md
+                - name: Преглед поља и радњи
+                  href: ../project-operations/resource-management/review-fields-actions.md
+                - name: Проналажење ресурса
+                  href: ../project-operations/resource-management/find-resources.md
+                - name: Преглед предложених ресурса
+                  href: ../project-operations/resource-management/review-proposed-resources.md
+        - name: Децентрализовано резервисање ресурса
+          items:
+            - name: Преглед децентрализованог резервисања ресурса
+              href: ../project-operations/resource-management/decentralized-resource-booking-overview.md
+            - name: Опције за директно резервисање
+              href: ../project-operations/resource-management/options-book-directly.md
+            - name: Испуњавање генеричких захтева за ресурсима
+              href: resource-management/generic-resource-requirement-fulfillment.md
+        - name: Администрација ресурса
+          items:
+            - name: Креирање ресурса
+              href: ../project-operations/resource-management/create-resources.md
+            - name: Дефинисање вештина и стручности
+              href: ../project-operations/resource-management/define-skills-proficiencies.md
+            - name: Дефинисање улога
+              href: ../project-operations/resource-management/define-roles.md
+            - name: Дефинисање календара ресурса
+              href: ../project-operations/resource-management/define-resource-calendars.md
+            - name: Повезивање ресурса са организационим јединицама
+              href: ../project-operations/resource-management/associate-resources-organizational-units.md
+            - name: Повезивање ресурса са компанијама
+              href: ../project-operations/resource-management/associate-resources-companies.md
+        - name: Начини доделе резервација
+          href: ../project-operations/resource-management/booking-allocation-methods.md
+        - name: Статуси резервација
+          href: resource-management/booking-status.md
+        - name: Вештине и модели стручности
+          href: ../project-operations/resource-management/skills-proficiency-models.md
+        - name: Сравњење ресурса
+          items:
+            - name: Преглед сравњења ресурса
+              href: ../project-operations/resource-management/resource-reconciliation-overview.md
+            - name: Кључни концепти
+              href: ../project-operations/resource-management/resource-reconciliation-key-concepts.md
+            - name: Навигација
+              href: ../project-operations/resource-management/resource-reconciliation-navigation.md
+            - name: Продужетак резервација
+              href: ../project-operations/resource-management/extend-bookings.md
+            - name: Управљање са више временских зона
+              href: ../project-operations/resource-management/manage-multiple-time-zones.md
+        - name: Укупна искоришћеност ресурса
+          items:
+            - name: Преглед укупне искоришћености ресурса
+              href: ../project-operations/resource-management/resource-utilization-overview.md
+            - name: 'Претрага, подешавања и навигација'
+              href: ../project-operations/resource-management/search-settings-navigation.md
+        - name: Табела распореда
+          items:
+            - name: Навигација и кључна подешавања
+              href: ../project-operations/resource-management/navigation-key-settings-urs.md
+            - name: Персонализација
+              href: ../project-operations/resource-management/personalization-urs.md
+            - name: Претрага
+              href: ../project-operations/resource-management/search-urs.md
+            - name: Радње резервације
+              href: ../project-operations/resource-management/booking-actions-urs.md
+            - name: Резервација
+              items:
+                - name: Резервисање за пројекат
+                  href: ../project-operations/resource-management/book-project.md
+                - name: Резервисање отворених захтева
+                  href: ../project-operations/resource-management/book-open-requirements.md
+                - name: Замена ресурса
+                  href: ../project-operations/resource-management/substitute-resources.md
+                - name: Уређивање постојећих резервација
+                  href: ../project-operations/resource-management/edit-existing-bookings.md
+        - name: Најчешћа питања о управљању ресурсима
+          href: ../project-operations/resource-management/resource-management-faq.md
+    - name: Време
+      items:
+        - name: Преглед ставке времена
+          href: ../project-operations/time/time-entry-overview.md
+        - name: Креирање ставки времена
+          items:
+            - name: 'Увоз резервација, задатака и ставки у календару'
+              href: ../project-operations/time/import-bookings-assignments-calendar-entries.md
+            - name: Понашање корисничког интерфејса
+              href: ../project-operations/time/ui-behavior.md
+        - name: Прослеђивање ставки времена
+          href: ../project-operations/time/submit-time-entries.md
+        - name: Опозив ставки времена
+          items:
+            - name: Пре одобрења
+              href: ../project-operations/time/recall-time-entries-before-approval.md
+            - name: Након одобрења
+              href: ../project-operations/time/recall-time-entries-after-approval.md
+        - name: Одобравање ставки времена
+          href: ../project-operations/time/approvals.md
+        - name: Напомене програмера
+          items:
+            - name: Проширење ставки времена
+              href: ../project-operations/time/extending-time-entries.md
+            - name: Прилагођавање координатне мреже седмичне ставке времена
+              href: ../project-operations/time/customize-weekly-time-entry-grid.md
+            - name: Безбедносна разматрања
+              href: ../project-operations/time/security-considerations.md
+    - name: Трошак
+      items:
+        - name: Почетна страница трошкова
+          href: ../project-operations/expense/expense-overview.md
+        - name: Ставка трошка
+          href: expense-entry.md
+    - name: Одобрења
+      items:
+        - name: Преглед
+          href: ../project-operarations/approvals/approvals-overview.md
+        - name: Одобравање ставки времена
+          href: approvals/approving-time-entries.md
+        - name: Одобрење ставки трошкова
+          href: approve-expense-entries.md
+    - name: Прављење предрачуна
+      items:
+        - name: Креирање распореда фактурисања
+          href: ../project-operarations/proforma-invoicing/create-invoice-schedules.md
+        - name: Креирање ручног предрачуна
+          href: ../project-operarations/proforma-invoicing/create-manual-proforma-invoice.md
+        - name: Управљање предрачуном
+          href: ../project-operarations/proforma-invoicing/manage-proforma-invoice.md
+        - name: Потврда предрачуна
+          href: ../project-operarations/proforma-invoicing/confirm-proforma-invoice.md
+        - name: Корективне фактуре
+          href: ../project-operarations/proforma-invoicing/corrective-invoices.md
+        - name: Конфигурисање аутоматског креирања фактуре
+          href: ../project-operarations/proforma-invoicing/configure-automated-invoice-creation.md
