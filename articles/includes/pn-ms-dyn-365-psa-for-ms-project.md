@@ -1,1 +1,1 @@
-Dynamics 365 Project Service Automation програмски додатак за Microsoft Project
+<span data-ttu-id="eb779-101">Dynamics 365 Project Service Automation програмски додатак за Microsoft Project</span><span class="sxs-lookup"><span data-stu-id="eb779-101">Dynamics 365 Project Service Automation Add-in for Microsoft Project</span></span>

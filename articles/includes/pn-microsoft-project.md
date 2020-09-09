@@ -1,1 +1,1 @@
-Microsoft Project
+<span data-ttu-id="939d6-101">Microsoft Project</span><span class="sxs-lookup"><span data-stu-id="939d6-101">Microsoft Project</span></span>

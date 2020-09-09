@@ -1,1 +1,1 @@
-Односи се на верзије апликације Project Service 3.x, 2.x и 1.x
+<span data-ttu-id="39c9c-101">Односи се на верзије апликације Project Service 3.x, 2.x и 1.x</span><span class="sxs-lookup"><span data-stu-id="39c9c-101">Applies to Project Service app versions 3.x, 2.x, and 1.x</span></span>

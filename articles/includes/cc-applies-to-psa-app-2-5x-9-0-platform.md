@@ -1,1 +1,1 @@
-Project Service апликација верзије 2.5.x или новија на систему Dynamics 365 (online) верзије 9.x
+<span data-ttu-id="67629-101">Project Service апликација верзије 2.5.x или новија на систему Dynamics 365 (online) верзије 9.x</span><span class="sxs-lookup"><span data-stu-id="67629-101">Project Service app version 2.5.x or later on Dynamics 365 (online) version 9.x</span></span>

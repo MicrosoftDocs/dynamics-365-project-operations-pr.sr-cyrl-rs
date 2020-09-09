@@ -1,1 +1,1 @@
-Office 365 групе
+<span data-ttu-id="6b80b-101">Office 365 групе</span><span class="sxs-lookup"><span data-stu-id="6b80b-101">Office 365 Groups</span></span>
