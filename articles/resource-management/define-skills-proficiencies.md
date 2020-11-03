@@ -7,7 +7,6 @@ ms.date: 09/23/2020
 ms.topic: article
 ms.prod: ''
 ms.service: dynamics-365-customerservice
-ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -18,28 +17,28 @@ ms.search.industry: Service industries
 ms.author: ruhercul
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 9376e0b268a3ab682716da604ceecfa1e878da68
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.openlocfilehash: 24538ed1d610a0cae4c2badc0fd33c2f738a8338
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3897649"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4083916"
 ---
-# <a name="define-skills-and-proficiencies"></a>Дефинисање вештина и стручности
+# <a name="define-skills-and-proficiencies"></a><span data-ttu-id="6d18b-103">Дефинисање вештина и стручности</span><span class="sxs-lookup"><span data-stu-id="6d18b-103">Define skills and proficiencies</span></span>
 
-_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_
+<span data-ttu-id="6d18b-104">_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_</span><span class="sxs-lookup"><span data-stu-id="6d18b-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-Вештине су карактеристике ресурса које се деле између услуга Dynamics 365 Project Operations и, ако постоји, Dynamics 365 Field Service. 
+<span data-ttu-id="6d18b-105">Вештине су карактеристике ресурса које се деле између услуга Dynamics 365 Project Operations и, ако постоји, Dynamics 365 Field Service.</span><span class="sxs-lookup"><span data-stu-id="6d18b-105">Skills are resource characteristics that are shared between Dynamics 365 Project Operations and if present, Dynamics 365 Field Service.</span></span> 
 
-- Да бисте одржали спремиште вештина у услузи Project Operations, идите на **Ресурси** \> **Вештине ресурса**. 
+- <span data-ttu-id="6d18b-106">Да бисте одржали спремиште вештина у услузи Project Operations, идите на **Ресурси** \> **Вештине ресурса**.</span><span class="sxs-lookup"><span data-stu-id="6d18b-106">To maintain the repository of skills in Project Operations, go to **Resources** \> **Resource Skills**.</span></span> 
 
-## <a name="use-proficiency-models-to-rate-resources"></a>Користите моделе стручности да бисте оценили ресурсе
+## <a name="use-proficiency-models-to-rate-resources"></a><span data-ttu-id="6d18b-107">Користите моделе стручности да бисте оценили ресурсе</span><span class="sxs-lookup"><span data-stu-id="6d18b-107">Use proficiency models to rate resources</span></span>
 
-Вештине за ресурсе оцењују се према моделима стручности. Појединачне оцене су у моделу стручности. 
+<span data-ttu-id="6d18b-108">Вештине за ресурсе оцењују се према моделима стручности.</span><span class="sxs-lookup"><span data-stu-id="6d18b-108">Skills for resources are rated by proficiency models.</span></span> <span data-ttu-id="6d18b-109">Појединачне оцене су у моделу стручности.</span><span class="sxs-lookup"><span data-stu-id="6d18b-109">The individual ratings are in a proficiency model.</span></span> 
 
-1. Да бисте креирали модел стручности, идите на **Ресурси** \> **Модели стручности**, а затим изаберите **Нови**.
-2. У новом моделу оцењивања наведите минималну вредност оцењивања, максималну вредност оцењивања и ентитет који се оцењује.
-3. У подформи **Вредности оцењивања** можете дефинисати различите вредности оцењивања, од минималне до максималне.
+1. <span data-ttu-id="6d18b-110">Да бисте креирали модел стручности, идите на **Ресурси** \> **Модели стручности** , а затим изаберите **Нови**.</span><span class="sxs-lookup"><span data-stu-id="6d18b-110">To create a proficiency model, go to **Resources** \> **Proficiency Models** , and then select **New**.</span></span>
+2. <span data-ttu-id="6d18b-111">У новом моделу оцењивања наведите минималну вредност оцењивања, максималну вредност оцењивања и ентитет који се оцењује.</span><span class="sxs-lookup"><span data-stu-id="6d18b-111">In the new rating model, specify the minimum rating value, the maximum rating value, and the entity that is being rated.</span></span>
+3. <span data-ttu-id="6d18b-112">У подформи **Вредности оцењивања** можете дефинисати различите вредности оцењивања, од минималне до максималне.</span><span class="sxs-lookup"><span data-stu-id="6d18b-112">In the **Rating Values** sub-grid, you can define the different rating values, from the minimum to the maximum.</span></span>
 
 
-Те вредности оцењивања су приказане у филтерима **Потребе за ресурсима**, **Табела распореда** и **Помоћник за заказивање**.
+<span data-ttu-id="6d18b-113">Те вредности оцењивања су приказане у филтерима **Потребе за ресурсима** , **Табела распореда** и **Помоћник за заказивање**.</span><span class="sxs-lookup"><span data-stu-id="6d18b-113">These rating values are shown on the **Resource Requirements** , **Schedule Board** , and **Schedule Assistant** filters.</span></span>

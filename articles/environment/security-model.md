@@ -8,71 +8,74 @@ ms.topic: article
 ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: ffcfa8a9c8e31c5665acd3c3919fa90d36a3f3ca
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.openlocfilehash: e875d1765b5038e60830d626abb5bcd61749ece1
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3896749"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4083857"
 ---
-# <a name="security-model"></a>Модел безбедности
+# <a name="security-model"></a><span data-ttu-id="e9486-103">Модел безбедности</span><span class="sxs-lookup"><span data-stu-id="e9486-103">Security Model</span></span>
 
-_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_
+<span data-ttu-id="e9486-104">_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_</span><span class="sxs-lookup"><span data-stu-id="e9486-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-Microsoft Dynamics 365 Project Operations садржи јединствени модел безбедности који омогућава пословни модел безбедности заснован на улогама који сарађује са Microsoft Office групама. 
+<span data-ttu-id="e9486-105">Microsoft Dynamics 365 Project Operations садржи јединствени модел безбедности који омогућава пословни модел безбедности заснован на улогама који сарађује са Microsoft Office групама.</span><span class="sxs-lookup"><span data-stu-id="e9486-105">Microsoft Dynamics 365 Project Operations contains a unique security model that allows for a role-based business security model that collaborates with Microsoft Office Groups.</span></span> 
 
 
-## <a name="security-roles"></a>Безбедноснe улогe
-Изложене могућности услуге Project Operations укључују следеће улоге:
+## <a name="security-roles"></a><span data-ttu-id="e9486-106">Безбедноснe улогe</span><span class="sxs-lookup"><span data-stu-id="e9486-106">Security roles</span></span>
+<span data-ttu-id="e9486-107">Изложене могућности услуге Project Operations укључују следеће улоге:</span><span class="sxs-lookup"><span data-stu-id="e9486-107">Project Operations front-end capabilities include the following roles:</span></span>
 
-| Улога                          | Опис                                                                                                                                                                 | Scope |
+| <span data-ttu-id="e9486-108">Улога</span><span class="sxs-lookup"><span data-stu-id="e9486-108">Role</span></span>                          | <span data-ttu-id="e9486-109">Опис</span><span class="sxs-lookup"><span data-stu-id="e9486-109">Description</span></span>                                                                                                                                                                 | <span data-ttu-id="e9486-110">Scope</span><span class="sxs-lookup"><span data-stu-id="e9486-110">Scope</span></span> |
 |-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
-| Менаџер обуке              | Подржава извештавање између пројеката.                                                                                                            | Пословна јединица              |
-| Давалац одобрења за пројекат              | Одобрава време и трошкове у односу на пројекат.                                                                                                                              | Пословна јединица |
-| Администратор наплате пројекта | Израђује предлог фактуре.                                                                                                                                                 | Пословна јединица |
-| Менаџер пројекта               | Израђује план пројекта и захтева ресурсе.                                                                                                                              | Пословна јединица |
-| Ресурс за пројекат              | Чланови тима који могу да резервишу и пријаве време.                                                                                                          | Пословна јединица|
-| Менаџер ресурса              | Све функције управљања ресурсима, попут испуњавања захтева за ресурсима и резервација, раздвојене су да би подржале хибридну конфигурацију менаџера пројеката + менаџера ресурса и јединствену и централизовану улогу менаџера ресурса. | Пословна јединица |
+| <span data-ttu-id="e9486-111">Менаџер обуке</span><span class="sxs-lookup"><span data-stu-id="e9486-111">Practice manager</span></span>              | <span data-ttu-id="e9486-112">Подржава извештавање између пројеката.</span><span class="sxs-lookup"><span data-stu-id="e9486-112">Supports cross-project reporting.</span></span>                                                                                                            | <span data-ttu-id="e9486-113">Пословна јединица</span><span class="sxs-lookup"><span data-stu-id="e9486-113">Business unit</span></span>              |
+| <span data-ttu-id="e9486-114">Давалац одобрења за пројекат</span><span class="sxs-lookup"><span data-stu-id="e9486-114">Project approver</span></span>              | <span data-ttu-id="e9486-115">Одобрава време и трошкове у односу на пројекат.</span><span class="sxs-lookup"><span data-stu-id="e9486-115">Approves time and expenses against a project.</span></span>                                                                                                                              | <span data-ttu-id="e9486-116">Пословна јединица</span><span class="sxs-lookup"><span data-stu-id="e9486-116">Business unit</span></span> |
+| <span data-ttu-id="e9486-117">Администратор наплате пројекта</span><span class="sxs-lookup"><span data-stu-id="e9486-117">Project billing administrator</span></span> | <span data-ttu-id="e9486-118">Израђује предлог фактуре.</span><span class="sxs-lookup"><span data-stu-id="e9486-118">Creates the invoice proposal.</span></span>                                                                                                                                                 | <span data-ttu-id="e9486-119">Пословна јединица</span><span class="sxs-lookup"><span data-stu-id="e9486-119">Business unit</span></span> |
+| <span data-ttu-id="e9486-120">Менаџер пројекта</span><span class="sxs-lookup"><span data-stu-id="e9486-120">Project manager</span></span>               | <span data-ttu-id="e9486-121">Израђује план пројекта и захтева ресурсе.</span><span class="sxs-lookup"><span data-stu-id="e9486-121">Creates the project plan and requests resources.</span></span>                                                                                                                              | <span data-ttu-id="e9486-122">Пословна јединица</span><span class="sxs-lookup"><span data-stu-id="e9486-122">Business unit</span></span> |
+| <span data-ttu-id="e9486-123">Ресурс за пројекат</span><span class="sxs-lookup"><span data-stu-id="e9486-123">Project resource</span></span>              | <span data-ttu-id="e9486-124">Чланови тима који могу да резервишу и пријаве време.</span><span class="sxs-lookup"><span data-stu-id="e9486-124">Team members who can be booked and report time.</span></span>                                                                                                          | <span data-ttu-id="e9486-125">Пословна јединица</span><span class="sxs-lookup"><span data-stu-id="e9486-125">Business unit</span></span>|
+| <span data-ttu-id="e9486-126">Менаџер ресурса</span><span class="sxs-lookup"><span data-stu-id="e9486-126">Resource manager</span></span>              | <span data-ttu-id="e9486-127">Све функције управљања ресурсима, попут испуњавања захтева за ресурсима и резервација, раздвојене су да би подржале хибридну конфигурацију менаџера пројеката + менаџера ресурса и јединствену и централизовану улогу менаџера ресурса.</span><span class="sxs-lookup"><span data-stu-id="e9486-127">All resource management functions, such as fulfill resource requests and bookings, separated to support a hybrid Project manager + Resource manager configuration and a single and centralized Resource manager role.</span></span> | <span data-ttu-id="e9486-128">Пословна јединица</span><span class="sxs-lookup"><span data-stu-id="e9486-128">Business unit</span></span> |
 
 
-Microsoft Project за Веб укључује следеће улоге:
-| Улога                          | Опис                                                                                                          | Scope |                                                       
-|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| Корисник пројекта | Корисник који сарађује у програму Project који може да креира сопствене пројекте и прегледа све пројекте који се деле са њим.| Корисник|
-| Пројектни систем | Улога која се користи за контекст апликације. Клијенти не би требало да користе ову системску улогу. | Глобално|
+<span data-ttu-id="e9486-129">Microsoft Project за Веб укључује следеће улоге:</span><span class="sxs-lookup"><span data-stu-id="e9486-129">Microsoft Project for the Web includes the following roles:</span></span>
 
-## <a name="security-enforcement"></a>Провођење безбедности
-Радње које се изводе на нивоу пројекта изводе се у контексту пријављеног корисника. То значи да је за креирање, отварање или брисање пројекта од корисника потребно да има приступ доступан у CDS-у. Приступ CDS-у се може одобрити путем било ког од могућих механизама укључених у платформу. На пример, корисник са већим опсегом може приступити пројекту или ако је извршена експлицитна акција дељења пројекта која кориснику одобрава приступ.
+| <span data-ttu-id="e9486-130">Улога</span><span class="sxs-lookup"><span data-stu-id="e9486-130">Role</span></span>           | <span data-ttu-id="e9486-131">Опис</span><span class="sxs-lookup"><span data-stu-id="e9486-131">Description</span></span>                                                                                                        | <span data-ttu-id="e9486-132">Scope</span><span class="sxs-lookup"><span data-stu-id="e9486-132">Scope</span></span>  |
+|----------------|--------------------------------------------------------------------------------------------------------------------|--------|
+| <span data-ttu-id="e9486-133">Корисник пројекта</span><span class="sxs-lookup"><span data-stu-id="e9486-133">Project user</span></span>   | <span data-ttu-id="e9486-134">Корисник који сарађује у програму Project   који може да креира сопствене пројекте и прегледа све пројекте који се деле са   њим.</span><span class="sxs-lookup"><span data-stu-id="e9486-134">Collaborative user of Project   who is able to create their own projects and view any projects shared with   them.</span></span> | <span data-ttu-id="e9486-135">Корисник</span><span class="sxs-lookup"><span data-stu-id="e9486-135">User</span></span>   |
+| <span data-ttu-id="e9486-136">Пројектни систем</span><span class="sxs-lookup"><span data-stu-id="e9486-136">Project system</span></span> | <span data-ttu-id="e9486-137">Улога која се користи за контекст   апликације.</span><span class="sxs-lookup"><span data-stu-id="e9486-137">Role used for application   context.</span></span> <span data-ttu-id="e9486-138">Клијенти не би требало да користе ову системску улогу.</span><span class="sxs-lookup"><span data-stu-id="e9486-138">Customers should not use this system role.</span></span>                                    | <span data-ttu-id="e9486-139">Глобално</span><span class="sxs-lookup"><span data-stu-id="e9486-139">Global</span></span> |
 
-Важно је то узети у обзир приликом креирања пројеката у услузи Project Operations.
+## <a name="security-enforcement"></a><span data-ttu-id="e9486-140">Провођење безбедности</span><span class="sxs-lookup"><span data-stu-id="e9486-140">Security enforcement</span></span>
+<span data-ttu-id="e9486-141">Радње које се изводе на нивоу пројекта изводе се у контексту пријављеног корисника.</span><span class="sxs-lookup"><span data-stu-id="e9486-141">Actions that are performed at the project level are performed in the context of the logged in user.</span></span> <span data-ttu-id="e9486-142">То значи да је за креирање, отварање или брисање пројекта од корисника потребно да има приступ доступан у CDS-у.</span><span class="sxs-lookup"><span data-stu-id="e9486-142">This means that in order to create, open, or delete a project, the user is required to have access available in CDS.</span></span> <span data-ttu-id="e9486-143">Приступ CDS-у се може одобрити путем било ког од могућих механизама укључених у платформу.</span><span class="sxs-lookup"><span data-stu-id="e9486-143">Access in CDS may be granted through any of the possible mechanisms included in the platform.</span></span> <span data-ttu-id="e9486-144">На пример, корисник са већим опсегом може приступити пројекту или ако је извршена експлицитна акција дељења пројекта која кориснику одобрава приступ.</span><span class="sxs-lookup"><span data-stu-id="e9486-144">For example, a user with a larger scope may access the project or if an explicit project share action has been performed which grants the user access.</span></span>
 
-## <a name="modern-group-collaboration-with-project-operations"></a>Савремена групна сарадња са услугом Project Operations
-Project за Веб и Project Operations подржавају савремене групе за сарадњу. Корисници додати у пројекат путем групе могу да уређују план пројекта.
+<span data-ttu-id="e9486-145">Важно је то узети у обзир приликом креирања пројеката у услузи Project Operations.</span><span class="sxs-lookup"><span data-stu-id="e9486-145">It's important to consider this when creating projects in Project Operations.</span></span>
 
-Project за Веб аутоматски додаје кориснике у групу по додељивању.
+## <a name="modern-group-collaboration-with-project-operations"></a><span data-ttu-id="e9486-146">Савремена групна сарадња са услугом Project Operations</span><span class="sxs-lookup"><span data-stu-id="e9486-146">Modern group collaboration with Project Operations</span></span>
+<span data-ttu-id="e9486-147">Project за Веб и Project Operations подржавају савремене групе за сарадњу.</span><span class="sxs-lookup"><span data-stu-id="e9486-147">Project for the Web and Project Operations support modern groups for collaboration.</span></span> <span data-ttu-id="e9486-148">Корисници додати у пројекат путем групе могу да уређују план пројекта.</span><span class="sxs-lookup"><span data-stu-id="e9486-148">Users added to the project through a group are able to edit the project plan.</span></span>
 
-Групе омогућавају заједнички рад на дозволама пројекта и пратећим артефактима за сарадњу. Следећи дијаграм приказује догађаје и промене стања који се дешавају током процеса групног додељивања.
+<span data-ttu-id="e9486-149">Project за Веб аутоматски додаје кориснике у групу по додељивању.</span><span class="sxs-lookup"><span data-stu-id="e9486-149">Project for the Web adds users to the group automatically upon assignment.</span></span>
 
-Услуга Project Operations не креира групу имплицитном акцијом, већ само експлицитном акцијом притиска група.
+<span data-ttu-id="e9486-150">Групе омогућавају заједнички рад на дозволама пројекта и пратећим артефактима за сарадњу.</span><span class="sxs-lookup"><span data-stu-id="e9486-150">Groups allow the permissions of the project and supporting collaboration artifacts to be worked on collaboratively.</span></span> <span data-ttu-id="e9486-151">Следећи дијаграм приказује догађаје и промене стања који се дешавају током процеса групног додељивања.</span><span class="sxs-lookup"><span data-stu-id="e9486-151">The following diagram depicts the events and state changes that happen during the group assignment process.</span></span>
 
-Претрага чланова групе у дијалогу **Управљање групама** ограничена је на оне који су постављени као део безбедносне групе окружења. Више информација потражите у чланку [Контрола корисничког приступа окружењима: безбедносне групе и лиценце](https://docs.microsoft.com/power-platform/admin/control-user-access).
+<span data-ttu-id="e9486-152">Услуга Project Operations не креира групу имплицитном акцијом, већ само експлицитном акцијом притиска група.</span><span class="sxs-lookup"><span data-stu-id="e9486-152">Project Operations does not create a group through implicit action and only does so through the explicit action of pressing groups.</span></span>
 
-1. Пројекат се креира и његов власник је корисник који га је креирао.
-2. Власник пројекта је обавештен о тиму.
-3. Тим-власник се мапира у наведену или креирану Office групу.
-4. Првобитни власник пројекта се додаје у Office групу.
+<span data-ttu-id="e9486-153">Претрага чланова групе у дијалогу **Управљање групама** ограничена је на оне који су постављени као део безбедносне групе окружења.</span><span class="sxs-lookup"><span data-stu-id="e9486-153">Group member search in the **Group management** dialog, is limited to those who are set as part of the environment's security group.</span></span> <span data-ttu-id="e9486-154">Више информација потражите у чланку [Контрола корисничког приступа окружењима: безбедносне групе и лиценце](https://docs.microsoft.com/power-platform/admin/control-user-access).</span><span class="sxs-lookup"><span data-stu-id="e9486-154">For more information, see [Control user access to environments: security groups and licenses](https://docs.microsoft.com/power-platform/admin/control-user-access).</span></span>
 
-## <a name="deployment-recommendation"></a>Препорука за примену
-Како се модел сарадње Office групе развија, функционалност ће бити додавана како би се пружала детаљнија контрола током времена. Клијенти који данас примењују Project Operations подстичу се да се усредсреде на традиционални Microsoft Dynamics 365 модел безбедности.
+![Групни режим](./media/groupsmode.png)
 
-За више информација, погледајте [Безбедност у услузи Common Data Service](https://docs.microsoft.com/power-platform/admin/wp-security).
+1. <span data-ttu-id="e9486-156">Пројекат се креира и његов власник је корисник који га је креирао.</span><span class="sxs-lookup"><span data-stu-id="e9486-156">The Project is created and owned by the creating User.</span></span>
+2. <span data-ttu-id="e9486-157">Власник пројекта је обавештен о тиму.</span><span class="sxs-lookup"><span data-stu-id="e9486-157">The Project owner is updated to the team.</span></span>
+3. <span data-ttu-id="e9486-158">Тим-власник се мапира у наведену или креирану Office групу.</span><span class="sxs-lookup"><span data-stu-id="e9486-158">The Owner team is mapped to the specified or created Office Group.</span></span>
+4. <span data-ttu-id="e9486-159">Првобитни власник пројекта се додаје у Office групу.</span><span class="sxs-lookup"><span data-stu-id="e9486-159">The original owner of the Project is added to the Office Group.</span></span>
 
-## <a name="project-operations-and-microsoft-dynamics-365-finance-security"></a>Project Operations и Microsoft Dynamics 365 Finance безбедност
-Услуга Project Operations укључује следеће улоге:
+## <a name="deployment-recommendation"></a><span data-ttu-id="e9486-160">Препорука за примену</span><span class="sxs-lookup"><span data-stu-id="e9486-160">Deployment recommendation</span></span>
+<span data-ttu-id="e9486-161">Како се модел сарадње Office групе развија, функционалност ће бити додавана како би се пружала детаљнија контрола током времена.</span><span class="sxs-lookup"><span data-stu-id="e9486-161">As the Office group collaboration model evolves, functionality will be added to provide more detailed control over time.</span></span> <span data-ttu-id="e9486-162">Клијенти који данас примењују Project Operations подстичу се да се усредсреде на традиционални Microsoft Dynamics 365 модел безбедности.</span><span class="sxs-lookup"><span data-stu-id="e9486-162">Customers that deploy Project Operations today are encouraged to focus on a traditional Microsoft Dynamics 365 security model.</span></span>
 
-- Менаџер пројекта
-- Рачуновођа пројекта
+<span data-ttu-id="e9486-163">За више информација, погледајте [Безбедност у услузи Common Data Service](https://docs.microsoft.com/power-platform/admin/wp-security).</span><span class="sxs-lookup"><span data-stu-id="e9486-163">For more information, see [Security in Common Data Service](https://docs.microsoft.com/power-platform/admin/wp-security).</span></span>
 
-Више информација о безбедности у услузи Finance потражите у одељку [Безбедност заснована на улогама](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/role-based-security).
+## <a name="project-operations-and-microsoft-dynamics-365-finance-security"></a><span data-ttu-id="e9486-164">Project Operations и Microsoft Dynamics 365 Finance безбедност</span><span class="sxs-lookup"><span data-stu-id="e9486-164">Project Operations and Microsoft Dynamics 365 Finance security</span></span>
+<span data-ttu-id="e9486-165">Услуга Project Operations укључује следеће улоге:</span><span class="sxs-lookup"><span data-stu-id="e9486-165">Project Operations includes the following roles:</span></span>
+
+- <span data-ttu-id="e9486-166">Менаџер пројекта</span><span class="sxs-lookup"><span data-stu-id="e9486-166">Project manager</span></span>
+- <span data-ttu-id="e9486-167">Рачуновођа пројекта</span><span class="sxs-lookup"><span data-stu-id="e9486-167">Project accountant</span></span>
+
+<span data-ttu-id="e9486-168">Више информација о безбедности у услузи Finance потражите у одељку [Безбедност заснована на улогама](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/role-based-security).</span><span class="sxs-lookup"><span data-stu-id="e9486-168">For more information about security in Finance, see [Role-based security](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/role-based-security).</span></span>
 
 

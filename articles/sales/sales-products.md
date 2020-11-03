@@ -7,7 +7,6 @@ ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
 ms.service: dynamics-365-customerservice
-ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -18,110 +17,110 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 28397fd49ad4cdb2c820ef4b6f198f410995ba0f
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.openlocfilehash: 7116659c646b323667e3c92cb3f6de99184f5ae6
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3898729"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4084069"
 ---
-# <a name="products"></a>Производи
+# <a name="products"></a><span data-ttu-id="95988-103">Производи</span><span class="sxs-lookup"><span data-stu-id="95988-103">Products</span></span>
 
-_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_
+<span data-ttu-id="95988-104">_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_</span><span class="sxs-lookup"><span data-stu-id="95988-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-Производи су основа вашег посла. Каталог производа у услузи Dynamics 365 Sales Professional је колекција производа и информација о ценама. Олакшајте представницима продаје да повећају своју продају брзим креирањем каталога производа.
+<span data-ttu-id="95988-105">Производи су основа вашег посла.</span><span class="sxs-lookup"><span data-stu-id="95988-105">Products are the backbone of your business.</span></span> <span data-ttu-id="95988-106">Каталог производа у услузи Dynamics 365 Sales Professional је колекција производа и информација о ценама.</span><span class="sxs-lookup"><span data-stu-id="95988-106">The product catalog in Dynamics 365 Sales Professional is a collection of products and pricing information.</span></span> <span data-ttu-id="95988-107">Олакшајте представницима продаје да повећају своју продају брзим креирањем каталога производа.</span><span class="sxs-lookup"><span data-stu-id="95988-107">Make it easier for your sales reps to increase their sales by creating a product catalog quickly.</span></span>
 
-## <a name="add-a-product"></a>Додавање производа
+## <a name="add-a-product"></a><span data-ttu-id="95988-108">Додавање производа</span><span class="sxs-lookup"><span data-stu-id="95988-108">Add a product</span></span>
 
-1.  Уверите се да имате улогу менаџера за Sales Professional или администратор система да бисте могли да додајете производе у услузи Dynamics 365 Sales Professional.
-2.  На мапи локације, у оквиру ставке **Инсталација**, изаберите **Производи**.
-3.  Изаберите **Додај производ** и попуните следеће податке:
+1.  <span data-ttu-id="95988-109">Уверите се да имате улогу менаџера за Sales Professional или администратор система да бисте могли да додајете производе у услузи Dynamics 365 Sales Professional.</span><span class="sxs-lookup"><span data-stu-id="95988-109">Make sure you have the Sales Manager Professional or a System Administrator role so you can add products in Dynamics 365 Sales Professional.</span></span>
+2.  <span data-ttu-id="95988-110">На мапи локације, у оквиру ставке **Инсталација** , изаберите **Производи**.</span><span class="sxs-lookup"><span data-stu-id="95988-110">In the site map, under **Setup** , select **Products**.</span></span>
+3.  <span data-ttu-id="95988-111">Изаберите **Додај производ** и попуните следеће податке:</span><span class="sxs-lookup"><span data-stu-id="95988-111">Select **Add Product** and fill in the following information:</span></span>
 
-    -  **Име**
-    -  **ID производа**
-    -  **Надређено**: Изаберите надређену породицу производа за производ. Ако креирате подређени производ у породици производа, име надређене породице производа се попуњава овде. Након што запис буде сачуван, то није могуће променити.
-    -  **Важи од**/**Важи до**: Дефинишите период током ког је производ важећи тако што ћете изабрати датуме **Важи од** и **Важи до**.
-    -  **Група јединица**: Изаберите групу јединица. Група јединица је колекција различитих јединица којима је производ продат и дефинише како су појединачне ставке груписане у веће количине. На пример, ако додајете семена као производ, можда сте креирали групу јединица која се зове „Семена“ и дефинисали његову примарну јединицу као „пакет“.
-    -  **Подразумевана јединица**: Изаберите најчешћу јединицу у којој ће се производ продавати. Јединице су количине или мере у којима продајете производе. На пример, ако додајете семена као производ, можете да их продајете у пакетима, кутијама или палетама. Сваки од ових постаје јединица производа. Ако се семена углавном продају у пакетима, изаберите га као јединицу.
-    -  **Подразумевани ценовник**: Ако је ово нови производ, ово поље је само за читање. Пре него што можете да изаберете подразумевани ценовник, морате да довршите сва захтевана поља и затим да сачувате запис. Иако подразумевани ценовник није потребан, након што сачувате запис производа, добра је идеја да подесите подразумевани ценовник за сваки производ. Затим, ако запис клијента не садржи ценовник, Sales може да користи подразумевани ценовник за генерисање понуда, поруџбина и фактура.
-    -  **Подржани децимални бројеви:** Унесите цео број између 0 и 5. Ако производ не може бити подељен у делимичне количине, унесите 0. Прецизност поља **Количина** у запису производа у понуди, поруџбини или фактури се проверава у односу на вредност у овом пољу ако производ нема повезан ценовник.
-    -  **Тема**: Повежите овај производ са темом. Можете да користите теме за категоризовање производа и филтрирање извештаја.
+    -  <span data-ttu-id="95988-112">**Име**</span><span class="sxs-lookup"><span data-stu-id="95988-112">**Name**</span></span>
+    -  <span data-ttu-id="95988-113">**ID производа**</span><span class="sxs-lookup"><span data-stu-id="95988-113">**Product ID**</span></span>
+    -  <span data-ttu-id="95988-114">**Надређено** : Изаберите надређену породицу производа за производ.</span><span class="sxs-lookup"><span data-stu-id="95988-114">**Parent** : Select a parent product family for the product.</span></span> <span data-ttu-id="95988-115">Ако креирате подређени производ у породици производа, име надређене породице производа се попуњава овде.</span><span class="sxs-lookup"><span data-stu-id="95988-115">If you're creating a child product in a product family, the name of the parent product family is populated here.</span></span> <span data-ttu-id="95988-116">Након што запис буде сачуван, то није могуће променити.</span><span class="sxs-lookup"><span data-stu-id="95988-116">This can't be changed after the record is saved.</span></span>
+    -  <span data-ttu-id="95988-117">**Важи од**/**Важи до** : Дефинишите период током ког је производ важећи тако што ћете изабрати датуме **Важи од** и **Важи до**.</span><span class="sxs-lookup"><span data-stu-id="95988-117">**Valid From**/**Valid To** : Define the period the product is valid for by selecting a **Valid From** and **Valid To** date.</span></span>
+    -  <span data-ttu-id="95988-118">**Група јединица** : Изаберите групу јединица.</span><span class="sxs-lookup"><span data-stu-id="95988-118">**Unit Group** : Select a unit group.</span></span> <span data-ttu-id="95988-119">Група јединица је колекција различитих јединица којима је производ продат и дефинише како су појединачне ставке груписане у веће количине.</span><span class="sxs-lookup"><span data-stu-id="95988-119">A unit group is a collection of various units a product is sold in and defines how individual items are grouped into larger quantities.</span></span> <span data-ttu-id="95988-120">На пример, ако додајете семена као производ, можда сте креирали групу јединица која се зове „Семена“ и дефинисали његову примарну јединицу као „пакет“.</span><span class="sxs-lookup"><span data-stu-id="95988-120">For example, if you're adding seeds as a product, you might have created a unit group called "Seeds" and defined its primary unit as "packet."</span></span>
+    -  <span data-ttu-id="95988-121">**Подразумевана јединица** : Изаберите најчешћу јединицу у којој ће се производ продавати.</span><span class="sxs-lookup"><span data-stu-id="95988-121">**Default Unit** : Select the most common unit in which the product will be sold.</span></span> <span data-ttu-id="95988-122">Јединице су количине или мере у којима продајете производе.</span><span class="sxs-lookup"><span data-stu-id="95988-122">Units are the quantities or measurements that you sell your products in.</span></span> <span data-ttu-id="95988-123">На пример, ако додајете семена као производ, можете да их продајете у пакетима, кутијама или палетама.</span><span class="sxs-lookup"><span data-stu-id="95988-123">For example, if you're adding seeds as a product, you can sell it in packets, boxes, or pallets.</span></span> <span data-ttu-id="95988-124">Сваки од ових постаје јединица производа.</span><span class="sxs-lookup"><span data-stu-id="95988-124">Each of these becomes a unit of the product.</span></span> <span data-ttu-id="95988-125">Ако се семена углавном продају у пакетима, изаберите га као јединицу.</span><span class="sxs-lookup"><span data-stu-id="95988-125">If seeds are mostly sold in packets, select that as the unit.</span></span>
+    -  <span data-ttu-id="95988-126">**Подразумевани ценовник** : Ако је ово нови производ, ово поље је само за читање.</span><span class="sxs-lookup"><span data-stu-id="95988-126">**Default Price List** : If this is a new product, this field is read-only.</span></span> <span data-ttu-id="95988-127">Пре него што можете да изаберете подразумевани ценовник, морате да довршите сва захтевана поља и затим да сачувате запис.</span><span class="sxs-lookup"><span data-stu-id="95988-127">Before you can select a default price list, you must complete all the required fields and then save the record.</span></span> <span data-ttu-id="95988-128">Иако подразумевани ценовник није потребан, након што сачувате запис производа, добра је идеја да подесите подразумевани ценовник за сваки производ.</span><span class="sxs-lookup"><span data-stu-id="95988-128">Although the default price list is not required, after you save the product record, it is a good idea to set a default price list for each product.</span></span> <span data-ttu-id="95988-129">Затим, ако запис клијента не садржи ценовник, Sales може да користи подразумевани ценовник за генерисање понуда, поруџбина и фактура.</span><span class="sxs-lookup"><span data-stu-id="95988-129">Then, if a customer record does not contain a price list, Sales can use the default price list for generating quotes, orders, and invoices.</span></span>
+    -  <span data-ttu-id="95988-130">**Подржани децимални бројеви:** Унесите цео број између 0 и 5.</span><span class="sxs-lookup"><span data-stu-id="95988-130">**Decimals Supported** : Enter a whole number between 0 and 5.</span></span> <span data-ttu-id="95988-131">Ако производ не може бити подељен у делимичне количине, унесите 0.</span><span class="sxs-lookup"><span data-stu-id="95988-131">If the product can't be divided into fractional quantities, enter 0.</span></span> <span data-ttu-id="95988-132">Прецизност поља **Количина** у запису производа у понуди, поруџбини или фактури се проверава у односу на вредност у овом пољу ако производ нема повезан ценовник.</span><span class="sxs-lookup"><span data-stu-id="95988-132">The precision of the **Quantity** field in the quote, order, or invoice product record is validated against the value in this field if the product does not have an associated price list.</span></span>
+    -  <span data-ttu-id="95988-133">**Тема** : Повежите овај производ са темом.</span><span class="sxs-lookup"><span data-stu-id="95988-133">**Subject** : Associate this product with a subject.</span></span> <span data-ttu-id="95988-134">Можете да користите теме за категоризовање производа и филтрирање извештаја.</span><span class="sxs-lookup"><span data-stu-id="95988-134">You can use subjects to categorize your products and to filter reports.</span></span>
 
-4.  Изаберите ставку **Сачувај**.
-5.  На картици **Додатни детаљи**, у одељку **Ставке ценовника** изаберите икону **Још команди**, а затим изаберите **Додај нову ставку ценовника**.
-7.  На картици **Додатни детаљи** у одељку **Релација производа** изаберите икону **Још команди**, а затим изаберите **Додај нову релацију производа.**
-8.  На обрасцу **Нова релација производа**, унесите следеће детаље и на командној траци изаберите **Сачувај и затвори**:
+4.  <span data-ttu-id="95988-135">Изаберите ставку **Сачувај**.</span><span class="sxs-lookup"><span data-stu-id="95988-135">Select **Save**.</span></span>
+5.  <span data-ttu-id="95988-136">На картици **Додатни детаљи** , у одељку **Ставке ценовника** изаберите икону **Још команди** , а затим изаберите **Додај нову ставку ценовника**.</span><span class="sxs-lookup"><span data-stu-id="95988-136">On the **Additional Details** tab, in the **Price List Items** section, select **More commands** , and then select **Add New Price List Item**.</span></span>
+7.  <span data-ttu-id="95988-137">На картици **Додатни детаљи** у одељку **Релација производа** изаберите икону **Још команди** , а затим изаберите **Додај нову релацију производа.**</span><span class="sxs-lookup"><span data-stu-id="95988-137">On the **Additional Details** tab, in the **Product Relationship** section, select the **More commands** icon, and then select **Add New Product Relationship.**</span></span>
+8.  <span data-ttu-id="95988-138">На обрасцу **Нова релација производа** , унесите следеће детаље и на командној траци изаберите **Сачувај и затвори** :</span><span class="sxs-lookup"><span data-stu-id="95988-138">In the **New Product Relationship** form, enter the following details, and on the command bar, select **Save and Close** :</span></span>
 
-    -   **Повезани производ**: Изаберите производ који желите да додате као повезани производ постојећем запису о производу на коме радите.
-    -   **Тип релације продаје**: Изаберите да ли желите да додате производ као производ напредније верзије, сродни производ, прибор или производ за замену.
-    -   **Смер**: Изаберите да ли ће однос између производа бити једносмеран или двосмеран. Када изаберете једносмеран, производ који изаберете у оквиру **Повезани производ** биће приказан као препорука за постојећи производ, али не и обрнуто.
+    -   <span data-ttu-id="95988-139">**Повезани производ** : Изаберите производ који желите да додате као повезани производ постојећем запису о производу на коме радите.</span><span class="sxs-lookup"><span data-stu-id="95988-139">**Related Product** : Select a product that you want to add as a related product to the existing product record you're working on.</span></span>
+    -   <span data-ttu-id="95988-140">**Тип релације продаје** : Изаберите да ли желите да додате производ као производ напредније верзије, сродни производ, прибор или производ за замену.</span><span class="sxs-lookup"><span data-stu-id="95988-140">**Sales Relation Type** : Select whether you want to add the product as an up-sell, cross-sell, accessory, or substitute product.</span></span>
+    -   <span data-ttu-id="95988-141">**Смер** : Изаберите да ли ће однос између производа бити једносмеран или двосмеран.</span><span class="sxs-lookup"><span data-stu-id="95988-141">**Direction** :Select whether the relationship between the products will be unidirectional or bidirectional.</span></span> <span data-ttu-id="95988-142">Када изаберете једносмеран, производ који изаберете у оквиру **Повезани производ** биће приказан као препорука за постојећи производ, али не и обрнуто.</span><span class="sxs-lookup"><span data-stu-id="95988-142">When you select unidirectional, the product that you select in **Related Product** will be shown as a recommendation for the existing product but not vice versa.</span></span>
 
-9.  На обрасцу „Производ“ изаберите **Сачувај**.
+9.  <span data-ttu-id="95988-143">На обрасцу „Производ“ изаберите **Сачувај**.</span><span class="sxs-lookup"><span data-stu-id="95988-143">On the Product form, select **Save**.</span></span>
 
-## <a name="import-products"></a>Увоз производа
+## <a name="import-products"></a><span data-ttu-id="95988-144">Увоз производа</span><span class="sxs-lookup"><span data-stu-id="95988-144">Import products</span></span>
 
-Можете да користите предлошке за увоз да бисте унели масовне податке о производима у Dynamics 365 Sales.
+<span data-ttu-id="95988-145">Можете да користите предлошке за увоз да бисте унели масовне податке о производима у Dynamics 365 Sales.</span><span class="sxs-lookup"><span data-stu-id="95988-145">You can use import templates to bring bulk product data into Dynamics 365 Sales.</span></span>
 
-## <a name="revise-a-product"></a>Кориговање производа
+## <a name="revise-a-product"></a><span data-ttu-id="95988-146">Кориговање производа</span><span class="sxs-lookup"><span data-stu-id="95988-146">Revise a product</span></span>
 
-Одржавајте залиху производа ажурном брзим кориговањем својстава за производе по потреби и поновним објављивањем информација како би ваши агенти продаје могли да виде најновије промене залиха.
+<span data-ttu-id="95988-147">Одржавајте залиху производа ажурном брзим кориговањем својстава за производе по потреби и поновним објављивањем информација како би ваши агенти продаје могли да виде најновије промене залиха.</span><span class="sxs-lookup"><span data-stu-id="95988-147">Keep the product inventory updated by quickly revising properties for the products, as required, and republishing the information so that your sales agents can see the latest changes to the inventory.</span></span>
 
-1.  Уверите се да имате једну од следећих безбедносних улога или еквивалентних дозвола: администратор система, стручњак за прилагођавање система, менаџер продаје, потпредседник службе продаје, потпредседник службе маркетинга или извршни директор.
-2.  На мапи локације, изаберите **Производи**.
-3.  Отворите активни производ који желите да промените и на командној траци изаберите **Коригуј**.
-4.  У дијалогу **Потврди корекцију**, изаберите **Потврди**. Ово ће променити статус производа на **У Ревизији**
-5.  Када завршите са уносом измена, на командној траци изаберите **Објави**.
+1.  <span data-ttu-id="95988-148">Уверите се да имате једну од следећих безбедносних улога или еквивалентних дозвола: администратор система, стручњак за прилагођавање система, менаџер продаје, потпредседник службе продаје, потпредседник службе маркетинга или извршни директор.</span><span class="sxs-lookup"><span data-stu-id="95988-148">Make sure that you have one of the following security roles or equivalent permissions: System Administrator, System Customizer, Sales Manager, Vice President of Sales, Vice President of Marketing, or CEO-Business Manager.</span></span>
+2.  <span data-ttu-id="95988-149">На мапи локације, изаберите **Производи**.</span><span class="sxs-lookup"><span data-stu-id="95988-149">In the site map, select **Products**.</span></span>
+3.  <span data-ttu-id="95988-150">Отворите активни производ који желите да промените и на командној траци изаберите **Коригуј**.</span><span class="sxs-lookup"><span data-stu-id="95988-150">Open an active product that you want to change, and on the command bar, select **Revise**.</span></span>
+4.  <span data-ttu-id="95988-151">У дијалогу **Потврди корекцију** , изаберите **Потврди**.</span><span class="sxs-lookup"><span data-stu-id="95988-151">In the **Confirm Revise** dialog box, select **Confirm**.</span></span> <span data-ttu-id="95988-152">Ово ће променити статус производа на **У Ревизији**</span><span class="sxs-lookup"><span data-stu-id="95988-152">This will change the product status to **Under Revision**.</span></span>
+5.  <span data-ttu-id="95988-153">Када завршите са уносом измена, на командној траци изаберите **Објави**.</span><span class="sxs-lookup"><span data-stu-id="95988-153">After you're done making changes, on the command bar, select **Publish**.</span></span>
 
     > [!TIP]
-    > Да бисте вратили измене и наставили са последњом активном верзијом производа, изаберите **Врати**. Ово мења статус производа назад у **Активно**
+    > <span data-ttu-id="95988-154">Да бисте вратили измене и наставили са последњом активном верзијом производа, изаберите **Врати**.</span><span class="sxs-lookup"><span data-stu-id="95988-154">To revert the changes and continue with the last active version of the product, select **Revert**.</span></span> <span data-ttu-id="95988-155">Ово мења статус производа назад у **Активно**</span><span class="sxs-lookup"><span data-stu-id="95988-155">This changes the status of the product back to **Active**.</span></span>
 
-## <a name="clone-a-product"></a>Клонирање производа 
+## <a name="clone-a-product"></a><span data-ttu-id="95988-156">Клонирање производа</span><span class="sxs-lookup"><span data-stu-id="95988-156">Clone a product</span></span> 
 
-Када креирате нов производ, уштедите време тако што ћете клонирати постојећи. Тиме се креира копија оригиналног записа са свим детаљима осим имена и ID ознаке.
+<span data-ttu-id="95988-157">Када креирате нов производ, уштедите време тако што ћете клонирати постојећи.</span><span class="sxs-lookup"><span data-stu-id="95988-157">When you're creating a new product, save time by cloning an existing one.</span></span> <span data-ttu-id="95988-158">Тиме се креира копија оригиналног записа са свим детаљима осим имена и ID ознаке.</span><span class="sxs-lookup"><span data-stu-id="95988-158">This creates a copy of the original record with all the details except for the name and ID.</span></span>
 
-1.  Уверите се да имате једну од следећих безбедносних улога или еквивалентних дозвола: администратор система, стручњак за прилагођавање система, менаџер продаје, потпредседник службе продаје, потпредседник службе маркетинга или извршни директор.
-2.  На мапи локације, изаберите **Производи**.
-3.  Изаберите запис производа који желите да клонирате, а затим на командној траци изаберите **Клонирај**. Појављује се дијалог за потврду.
-4.  Изаберите **Потврди**.
+1.  <span data-ttu-id="95988-159">Уверите се да имате једну од следећих безбедносних улога или еквивалентних дозвола: администратор система, стручњак за прилагођавање система, менаџер продаје, потпредседник службе продаје, потпредседник службе маркетинга или извршни директор.</span><span class="sxs-lookup"><span data-stu-id="95988-159">Make sure that you have one of the following security roles or equivalent permissions: System Administrator, System Customizer, Sales Manager, Vice President of Sales, Vice President of Marketing, or CEO-Business Manager.</span></span>
+2.  <span data-ttu-id="95988-160">На мапи локације, изаберите **Производи**.</span><span class="sxs-lookup"><span data-stu-id="95988-160">In the site map, select **Products**.</span></span>
+3.  <span data-ttu-id="95988-161">Изаберите запис производа који желите да клонирате, а затим на командној траци изаберите **Клонирај**.</span><span class="sxs-lookup"><span data-stu-id="95988-161">Select a product record that you want to clone, and on the command bar, select **Clone**.</span></span> <span data-ttu-id="95988-162">Појављује се дијалог за потврду.</span><span class="sxs-lookup"><span data-stu-id="95988-162">A confirmation dialog box appears.</span></span>
+4.  <span data-ttu-id="95988-163">Изаберите **Потврди**.</span><span class="sxs-lookup"><span data-stu-id="95988-163">Select **Confirm**.</span></span>
 
-Отвара се нов запис производа са истим детаљима као оригинални запис, осим имена и ID ознаке.
+<span data-ttu-id="95988-164">Отвара се нов запис производа са истим детаљима као оригинални запис, осим имена и ID ознаке.</span><span class="sxs-lookup"><span data-stu-id="95988-164">A new product record opens with the same details as the original one except for the name and ID.</span></span>
 
-## <a name="retire-a-product"></a>Обустављање производа 
+## <a name="retire-a-product"></a><span data-ttu-id="95988-165">Обустављање производа</span><span class="sxs-lookup"><span data-stu-id="95988-165">Retire a product</span></span> 
 
-Ако ваша организација више не продаје производе, повуците их тако да више не буду доступни агентима продаје.
+<span data-ttu-id="95988-166">Ако ваша организација више не продаје производе, повуците их тако да више не буду доступни агентима продаје.</span><span class="sxs-lookup"><span data-stu-id="95988-166">If your organization doesn't sell a product anymore, retire it so that the product is no longer available to your sales agents.</span></span>
 
-1.  Водите рачуна да имате безбедносну улогу администратора система или менаџера за Sales Professional или еквивалентне дозволе.
-2.  На мапи локације, изаберите **Производи**.
-3.  Отворите активни производ који желите да обуставите и на командној траци изаберите **Обустави**.
-4.  У дијалогу **Потврди обустављање**, изаберите **Потврди**.
+1.  <span data-ttu-id="95988-167">Водите рачуна да имате безбедносну улогу администратора система или менаџера за Sales Professional или еквивалентне дозволе.</span><span class="sxs-lookup"><span data-stu-id="95988-167">Make sure that you have the System Administrator or Sales Professional Manager role or equivalent permissions.</span></span>
+2.  <span data-ttu-id="95988-168">На мапи локације, изаберите **Производи**.</span><span class="sxs-lookup"><span data-stu-id="95988-168">In the site map, select **Products**.</span></span>
+3.  <span data-ttu-id="95988-169">Отворите активни производ који желите да обуставите и на командној траци изаберите **Обустави**.</span><span class="sxs-lookup"><span data-stu-id="95988-169">Open an active product that you want to retire, and on the command bar, select **Retire**.</span></span>
+4.  <span data-ttu-id="95988-170">У дијалогу **Потврди обустављање** , изаберите **Потврди**.</span><span class="sxs-lookup"><span data-stu-id="95988-170">In the **Confirm Retire** dialog box, select **Confirm**.</span></span>
 
 
-## <a name="delete-a-product"></a>Брисање производа
+## <a name="delete-a-product"></a><span data-ttu-id="95988-171">Брисање производа</span><span class="sxs-lookup"><span data-stu-id="95988-171">Delete a product</span></span>
 
-Да бисте прекинули продају производа, избришите га.
+<span data-ttu-id="95988-172">Да бисте прекинули продају производа, избришите га.</span><span class="sxs-lookup"><span data-stu-id="95988-172">To stop selling a product, delete it.</span></span>
 
 > [!IMPORTANT]
-> Не можете да повратите избрисани запис.
+> <span data-ttu-id="95988-173">Не можете да повратите избрисани запис.</span><span class="sxs-lookup"><span data-stu-id="95988-173">You can't recover a deleted record.</span></span>
 
-1.  Водите рачуна да имате безбедносну улогу администратора система или менаџера за Sales Professional или еквивалентне дозволе.
-2.  На мапи локације, изаберите **Производи**.
-3.  Изаберите запис производа који желите да избришете, а затим на командној траци изаберите **Избриши**.
-4.  У оквиру дијалога **Потврда брисања**, изаберите **Настави**.
+1.  <span data-ttu-id="95988-174">Водите рачуна да имате безбедносну улогу администратора система или менаџера за Sales Professional или еквивалентне дозволе.</span><span class="sxs-lookup"><span data-stu-id="95988-174">Make sure that you have the System Administrator or Sales Professional Manager role or equivalent permissions.</span></span>
+2.  <span data-ttu-id="95988-175">На мапи локације, изаберите **Производи**.</span><span class="sxs-lookup"><span data-stu-id="95988-175">In the site map, select **Products**.</span></span>
+3.  <span data-ttu-id="95988-176">Изаберите запис производа који желите да избришете, а затим на командној траци изаберите **Избриши**.</span><span class="sxs-lookup"><span data-stu-id="95988-176">Select a product record you want to delete, and on the command bar, select **Delete**.</span></span>
+4.  <span data-ttu-id="95988-177">У оквиру дијалога **Потврда брисања** , изаберите **Настави**.</span><span class="sxs-lookup"><span data-stu-id="95988-177">In the **Confirm Deletion** dialog box, select **Continue**.</span></span>
  
- ## <a name="quantity-factors-for-products"></a>Количински фактори производа
+ ## <a name="quantity-factors-for-products"></a><span data-ttu-id="95988-178">Количински фактори производа</span><span class="sxs-lookup"><span data-stu-id="95988-178">Quantity factors for products</span></span>
 
-Количински фактори подржавају продају производа заснованих на претплати. За производе засноване на претплати, количина ставци понуде или предмету уговора о пројекту изражена је као број корисничких месеци.
+<span data-ttu-id="95988-179">Количински фактори подржавају продају производа заснованих на претплати.</span><span class="sxs-lookup"><span data-stu-id="95988-179">Quantity factors support the sale of subscription-based products.</span></span> <span data-ttu-id="95988-180">За производе засноване на претплати, количина ставци понуде или предмету уговора о пројекту изражена је као број корисничких месеци.</span><span class="sxs-lookup"><span data-stu-id="95988-180">For subscription-based products, the quantity on the quote or project contract line is expressed as the number of user months.</span></span>
 
-Обично се цена софтвера за претплату чува у каталогу као цена по кориснику месечно. Међутим, уместо тога можете користити описе других периода. Током процеса продаје, цена у ставци понуде је обично цена по кориснику, месечно, до које се дошло преговорима и попустима од стране ИТ агента продаје. Свака погодба има различит број корисника и различит број месеци претплате. Количина која се користи за израчунавање количине ставке понуде је производ броја корисника и броја месеци претплате.
+<span data-ttu-id="95988-181">Обично се цена софтвера за претплату чува у каталогу као цена по кориснику месечно.</span><span class="sxs-lookup"><span data-stu-id="95988-181">Usually, the price of subscription software is stored in the catalog as the price per user per month.</span></span> <span data-ttu-id="95988-182">Међутим, уместо тога можете користити описе других периода.</span><span class="sxs-lookup"><span data-stu-id="95988-182">However, you can use other time descriptions instead.</span></span> <span data-ttu-id="95988-183">Током процеса продаје, цена у ставци понуде је обично цена по кориснику, месечно, до које се дошло преговорима и попустима од стране ИТ агента продаје.</span><span class="sxs-lookup"><span data-stu-id="95988-183">During the sales process, the price on the quote line is usually the per-user, per-month price that was negotiated and discounted by the IT sales agent.</span></span> <span data-ttu-id="95988-184">Свака погодба има различит број корисника и различит број месеци претплате.</span><span class="sxs-lookup"><span data-stu-id="95988-184">Each deal has a different number of users and a different number of subscription months.</span></span> <span data-ttu-id="95988-185">Количина која се користи за израчунавање количине ставке понуде је производ броја корисника и броја месеци претплате.</span><span class="sxs-lookup"><span data-stu-id="95988-185">The quantity that is used to compute the amount of the quote line is a product of the number of users and the number of subscription months.</span></span>
 
-Количински фактори се ослањају на атрибуте производа. Када конфигуришете одређене особине производа, можете да означите подскуп тих својстава или сва својства као факторе количине.
+<span data-ttu-id="95988-186">Количински фактори се ослањају на атрибуте производа.</span><span class="sxs-lookup"><span data-stu-id="95988-186">Quantity factors rely on product attributes.</span></span> <span data-ttu-id="95988-187">Када конфигуришете одређене особине производа, можете да означите подскуп тих својстава или сва својства као факторе количине.</span><span class="sxs-lookup"><span data-stu-id="95988-187">When you configure specific properties for a product, you can flag a subset of those properties, or all the properties, as quantity factors.</span></span>
 
-Систем потврђује да се као фактори количине означавају само нумеричка својства или својства производа која имају нумерички тип података. Када се производ за који су конфигурисани фактори количине дода у ставку понуде, поље **Количина** у ставци понуде постаје поље само за читање. Након што унесете вредности за својства производа која су количински фактори, израчунава се количина ставке понуде.
+<span data-ttu-id="95988-188">Систем потврђује да се као фактори количине означавају само нумеричка својства или својства производа која имају нумерички тип података.</span><span class="sxs-lookup"><span data-stu-id="95988-188">The system validates that only numeric properties or product properties that have a numeric data type are flagged as quantity factors.</span></span> <span data-ttu-id="95988-189">Када се производ за који су конфигурисани фактори количине дода у ставку понуде, поље **Количина** у ставци понуде постаје поље само за читање.</span><span class="sxs-lookup"><span data-stu-id="95988-189">When a product that quantity factors are configured for is added to a quote line, the **Quantity** field on the quote line becomes a read-only field.</span></span> <span data-ttu-id="95988-190">Након што унесете вредности за својства производа која су количински фактори, израчунава се количина ставке понуде.</span><span class="sxs-lookup"><span data-stu-id="95988-190">After you enter values for product properties that are quantity factors, the quantity of the quote line is calculated.</span></span>
 
-На пример, ако постоје следећа својства: 
+<span data-ttu-id="95988-191">На пример, ако постоје следећа својства:</span><span class="sxs-lookup"><span data-stu-id="95988-191">For example, if there are the following properties:</span></span> 
 
-- **Бр. корисника**: број корисника 
-- **Бр. месеца**: број месеци претплате
-- **Product SKU** 
+- <span data-ttu-id="95988-192">**Бр. корисника** : број корисника</span><span class="sxs-lookup"><span data-stu-id="95988-192">**No of users** : The number of users</span></span> 
+- <span data-ttu-id="95988-193">**Бр. месеца** : број месеци претплате</span><span class="sxs-lookup"><span data-stu-id="95988-193">**No of Months** : The number of subscription months</span></span>
+- <span data-ttu-id="95988-194">**Product SKU**</span><span class="sxs-lookup"><span data-stu-id="95988-194">**Product SKU**</span></span> 
 
-Својства **Бр. корисника** и **Бр. месеци** се могу означити као фактори количине, уређивањем својстава у ставци производа. 
+<span data-ttu-id="95988-195">Својства **Бр. корисника** и **Бр. месеци** се могу означити као фактори количине, уређивањем својстава у ставци производа.</span><span class="sxs-lookup"><span data-stu-id="95988-195">The **No of Users** and **No of Months** properties can be flagged as quantity factors by editing the properties of the product line.</span></span> 

@@ -9,24 +9,24 @@ ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: suvaidya
 ms.openlocfilehash: a1fa7383e7715fe57380de0a006ccc4e020bb5a5
-ms.sourcegitcommit: 56c42d7f5995a674426a1c2a81bae897dceb391c
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3908550"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4083853"
 ---
-# <a name="distributions-on-an-expense-report"></a>Расподеле у извештају о трошковима
+# <a name="distributions-on-an-expense-report"></a><span data-ttu-id="47859-103">Расподеле у извештају о трошковима</span><span class="sxs-lookup"><span data-stu-id="47859-103">Distributions on an expense report</span></span>
 
-_**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_
+<span data-ttu-id="47859-104">_**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_</span><span class="sxs-lookup"><span data-stu-id="47859-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios_</span></span>
 
-Када унесете трошкове у извештај о трошковима, можете их распоредити на више пројеката, финансијских аспеката или налога у вашој организацији.
+<span data-ttu-id="47859-105">Када унесете трошкове у извештај о трошковима, можете их распоредити на више пројеката, финансијских аспеката или налога у вашој организацији.</span><span class="sxs-lookup"><span data-stu-id="47859-105">When you enter expenses on an expense report, you can distribute them across multiple projects, financial dimensions, or accounts in your organization.</span></span>
 
-На пример, Радмила, продајни заступник компаније Fabrikam, путовала је из Копенхагена у Франкфурт. Радмила се у Франкфурту састала са две организације како би разговарала о одвојеним пројектима за сваку организацију. Радмила је провела седам радних дана радећи са организацијом А на пројекту А и три радна дана радећи са организацијом Б на пројекту Б.
+<span data-ttu-id="47859-106">На пример, Радмила, продајни заступник компаније Fabrikam, путовала је из Копенхагена у Франкфурт.</span><span class="sxs-lookup"><span data-stu-id="47859-106">For example, Nancy, a Fabrikam sales representative, traveled from Copenhagen to Frankfurt.</span></span> <span data-ttu-id="47859-107">Радмила се у Франкфурту састала са две организације како би разговарала о одвојеним пројектима за сваку организацију.</span><span class="sxs-lookup"><span data-stu-id="47859-107">In Frankfurt, Nancy met with two organizations to discuss separate projects for each organization.</span></span> <span data-ttu-id="47859-108">Радмила је провела седам радних дана радећи са организацијом А на пројекту А и три радна дана радећи са организацијом Б на пројекту Б.</span><span class="sxs-lookup"><span data-stu-id="47859-108">Nancy spent seven business days working with organization A on project A, and three business days working with organization B on project B.</span></span>
 
-Будући да је Радмила радила на два одвојена пројекта док је била у Франкфурту, када уноси извештај о трошковима, она распоређује трошкове по потреби за сваки пројекат. Следећа табела показује како је Радмила распоредила трошкове.
+<span data-ttu-id="47859-109">Будући да је Радмила радила на два одвојена пројекта док је била у Франкфурту, када уноси извештај о трошковима, она распоређује трошкове по потреби за сваки пројекат.</span><span class="sxs-lookup"><span data-stu-id="47859-109">Because Nancy worked on two separate projects while was in Frankfurt, when she enters the expense report, Nancy distributes the expenses as appropriate for each project.</span></span> <span data-ttu-id="47859-110">Следећа табела показује како је Радмила распоредила трошкове.</span><span class="sxs-lookup"><span data-stu-id="47859-110">The following table shows how Nancy distributed the expenses.</span></span>
 
-| Тип трошка | Укупан износ трошкова | Износ распоређен на пројекат А | Износ распоређен на пројекат Б |
+| <span data-ttu-id="47859-111">Тип трошка</span><span class="sxs-lookup"><span data-stu-id="47859-111">Expense type</span></span> | <span data-ttu-id="47859-112">Укупан износ трошкова</span><span class="sxs-lookup"><span data-stu-id="47859-112">Total expense amount</span></span> | <span data-ttu-id="47859-113">Износ распоређен на пројекат А</span><span class="sxs-lookup"><span data-stu-id="47859-113">Amount distributed to project A</span></span> | <span data-ttu-id="47859-114">Износ распоређен на пројекат Б</span><span class="sxs-lookup"><span data-stu-id="47859-114">Amount distributed to project B</span></span> |
 |--------------|----------------------|---------------------------------|---------------------------------|
-| Возна карта   | 578 DKK              | 405 DKK                         | 173 DKK                         |
-| Хотел        | 725 EUR              | 557 EUR                         | 168 EUR                         |
-| Оброци        | 346 EUR              | 284 EUR                         | 62 EUR                          |
+| <span data-ttu-id="47859-115">Возна карта</span><span class="sxs-lookup"><span data-stu-id="47859-115">Train fare</span></span>   | <span data-ttu-id="47859-116">578 DKK</span><span class="sxs-lookup"><span data-stu-id="47859-116">DKK 578</span></span>              | <span data-ttu-id="47859-117">405 DKK</span><span class="sxs-lookup"><span data-stu-id="47859-117">DKK 405</span></span>                         | <span data-ttu-id="47859-118">173 DKK</span><span class="sxs-lookup"><span data-stu-id="47859-118">DKK 173</span></span>                         |
+| <span data-ttu-id="47859-119">Хотел</span><span class="sxs-lookup"><span data-stu-id="47859-119">Hotel</span></span>        | <span data-ttu-id="47859-120">725 EUR</span><span class="sxs-lookup"><span data-stu-id="47859-120">EUR 725</span></span>              | <span data-ttu-id="47859-121">557 EUR</span><span class="sxs-lookup"><span data-stu-id="47859-121">EUR 557</span></span>                         | <span data-ttu-id="47859-122">168 EUR</span><span class="sxs-lookup"><span data-stu-id="47859-122">EUR 168</span></span>                         |
+| <span data-ttu-id="47859-123">Оброци</span><span class="sxs-lookup"><span data-stu-id="47859-123">Meals</span></span>        | <span data-ttu-id="47859-124">346 EUR</span><span class="sxs-lookup"><span data-stu-id="47859-124">EUR 346</span></span>              | <span data-ttu-id="47859-125">284 EUR</span><span class="sxs-lookup"><span data-stu-id="47859-125">EUR 284</span></span>                         | <span data-ttu-id="47859-126">62 EUR</span><span class="sxs-lookup"><span data-stu-id="47859-126">EUR 62</span></span>                          |
