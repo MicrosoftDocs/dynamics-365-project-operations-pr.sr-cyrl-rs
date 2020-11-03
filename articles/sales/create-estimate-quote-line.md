@@ -7,7 +7,6 @@ ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
 ms.service: dynamics-365-customerservice
-ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -18,12 +17,12 @@ ms.search.industry: Service industries
 ms.author: rumant
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: e841ab7c37e0b348a4d1570123a5aea00ede0047
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.openlocfilehash: f949c639530aecf9f7368925208ab12b68d2062e
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3898505"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4084000"
 ---
 # <a name="create-estimates-on-a-quote-line"></a>Креирање процена на ставци понуде
 
@@ -84,7 +83,7 @@ _**Односи се на:** Project Operations за ресурс/сценари
 2. Изаберите **Претрага** и потражите додатну компоненту за ажурирање.
 3. Изаберите додатну компоненту, а затим на главној страници ставку **Изабери**.
 4. Изаберите корак додатне компоненте за ажурирање, кликните десним тастером миша, а затим изаберите **Ажурирај**.
-5. У дијалогу **Ажурирање постојећег корака**, у пољу **Атрибути филтрирања**, изаберите дугме са три тачке (**...**):
+5. У дијалогу **Ажурирање постојећег корака** , у пољу **Атрибути филтрирања** , изаберите дугме са три тачке ( **...** ):
 6. У дијалогу **Избор атрибута** потврдите избор у пољима за прилагођене атрибуте.
 7. Изаберите **У реду** да затворите дијалог, а затим изаберите **Ажурирај корак**.
 8. Поновите кораке од 1 до 7 за другу додатну компоненту.

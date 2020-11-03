@@ -7,7 +7,6 @@ ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
 ms.service: dynamics-365-customerservice
-ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -18,12 +17,12 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: ea5399368214a293ca7c10fabf21d82407b5c76f
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.openlocfilehash: 345a4f38ad0bc5acddb90cfd8cb3e92154e46513
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3898774"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4084095"
 ---
 # <a name="units-and-unit-groups"></a>Јединице и групе јединица
 
@@ -43,7 +42,7 @@ _**Односи се на:** Project Operations за ресурс/сценари
 ## <a name="add-units-to-a-unit-group"></a>Додавање јединица у групу јединица
 
 1. Отворите групу јединица и на картици **Повезано** изаберите **Јединице**. Видећете да је примарна јединица већ додата.
-2. Изаберите **Додај нову јединицу** и на страници **Брзо креирање: јединица**, у пољу **Назив**, унесите назив јединице.
+2. Изаберите **Додај нову јединицу** и на страници **Брзо креирање: јединица** , у пољу **Назив** , унесите назив јединице.
 3. У пољу **Количина** унесите количину коју желите да јединица садржи. На пример, ако кутија садржи два комада, унесите „2“. 
 4. У пољу **Основна јединица** изаберите основну јединицу да бисте успоставили најнижу мерну јединицу за јединицу. На пример, можете одабрати „Комад“.
-5. Изаберите **Сачувај**:
+5. Изаберите **Сачувај** :

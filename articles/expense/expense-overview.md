@@ -9,11 +9,11 @@ ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: stsporen
 ms.openlocfilehash: 6da831fef5dba060b8019d7689645405c7ebdbed
-ms.sourcegitcommit: 0874b3d89e1dc0e65a51cedb82bf8f80831ca0bb
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "3967384"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4083852"
 ---
 # <a name="expense-home-page"></a>Почетна страница трошкова
 
@@ -24,8 +24,8 @@ Dynamics 365 Project Operations подржава могућност обраде
 
 У услузи Project Operations постоје два подржана модела примене за трошкове: 
 
-- **Потпуно**: Потпуна примена је доступна за **Project Operations за сценарије засноване на ресурсима / без залиха** или **Project Operations за сценарије засноване на налогу за производњу**.
-- **Основно**: Основна примена је доступна за **Project Operations за сценарије засноване на ресурсима / без залиха** и **Једноставна примена – од погодбе до профактуре**.
+- **Потпуно** : Потпуна примена је доступна за **Project Operations за сценарије засноване на ресурсима / без залиха** или **Project Operations за сценарије засноване на налогу за производњу**.
+- **Основно** : Основна примена је доступна за **Project Operations за сценарије засноване на ресурсима / без залиха** и **Једноставна примена – од погодбе до профактуре**.
 
 ## <a name="full"></a>Пуно 
 Потпуна примена трошкова обезбеђује потпуно спровођење смерница, што обухвата могућност креирања смерница, као што су:

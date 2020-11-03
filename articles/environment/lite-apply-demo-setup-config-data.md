@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 42e02f393e89d20b2a462645f519a3792bee8f2f
-ms.sourcegitcommit: b9d8bf00239815f31686e9b28998ac684fd2fca4
+ms.openlocfilehash: 33b85115963f3561718b8951e5b518fd34de7723
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "3949057"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4083837"
 ---
 # <a name="apply-demo-setup-and-configuration-data-for-project-operations-lite-deployment---deal-to-proforma-invoicing"></a>Примените демо подешавања и податке о конфигурацији за једноставну примену услуге Project Operations – од погодбе до профактуре
 
@@ -21,11 +21,11 @@ _**Једноставна примена – од погодбе до профа
 
 1. Преузмите [Пакет главних података](https://download.microsoft.com/download/3/4/1/341bf279-a64f-4baa-af31-ce624859b518/ProjOpsSampleSetupData%20-%20CE%20only%20CMT.zip). 
 2. Идите у фасциклу *ProjOpsDemoDataSetupAndMaster - Integrated CMT* и покрените извршну датотеку *DataMigrationUtility*.
-3. На 1. страници Common Data Service чаробњака за конфигурисање миграције (CMT) изаберите **Увези податке**, а затим изаберите **Настави**.
+3. На 1. страници Common Data Service чаробњака за конфигурисање миграције (CMT) изаберите **Увези податке** , а затим изаберите **Настави**.
 
 ![Миграција конфигурације](./media/1ConfigurationMigration.png)
 
-4. На 2. страници CMT чаробњака изаберите **Office 365** као **Тип примене**.
+4. На 2. страници CMT чаробњака изаберите **Microsoft 365** као **Тип примене**.
 5. Изаберите поља за потврду **Прикажи листу доступних организација** и **Прикажи напредно**.
 6. Изаберите регион вашег закупца, унесите своје акредитиве, а затим изаберите **Пријављивање**.
 

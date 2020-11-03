@@ -7,7 +7,6 @@ ms.date: 10/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: dynamics-365-customerservice
-ms.technology: ''
 ms.search.form: ''
 audience: Application User
 ms.reviewer: kfend
@@ -16,12 +15,12 @@ ms.search.region: ''
 ms.author: suvaidya
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: c6a721849bfe556fb637f21898c0fa00083760dd
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.openlocfilehash: bfc141c6f1072314bdfaef835d730c6ca82bae1a
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3896884"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4083973"
 ---
 # <a name="manage-delegation"></a>Управљање делегирањем
 Делегат трошкова може да креира извештаје о трошковима за другог запосленог и њима управља.
@@ -30,7 +29,7 @@ ms.locfileid: "3896884"
 
 Да бисте поставили корисника као делегата трошкова, извршите следеће кораке. 
 1. Идите на **Управљање трошковима** > **Подешавање** > **Општи подаци** > **Делегати**. 
-2. На страници **Делегати** изаберите**Ново**, а затим изаберите запосленог коме ће бити дефинисан делегат. 
+2. На страници **Делегати** изаберите **Ново** , а затим изаберите запосленог коме ће бити дефинисан делегат. 
 3. Унесите псеудоним корисника-делегата и датум почетка и завршетка за период делегирања.
 
 ## <a name="manage-expenses-on-behalf-of-another-employee"></a>Управљајте трошковима у име другог запосленог
