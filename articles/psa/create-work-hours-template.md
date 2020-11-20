@@ -3,7 +3,7 @@ title: Креирајте предложак за радне сате
 description: Како да креирате предлошке за радне сате у апликацији Project Service
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: c34634817fc8e4c993261024a8b19d45052bf5e5
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: a0fce327587940e557e0214c8c0897116ac91901
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083982"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4133071"
 ---
 # <a name="create-a-work-hours-template-project-service"></a>Креирање предлошка радних сати (Project Service)
 
@@ -45,7 +45,7 @@ ms.locfileid: "4083982"
   
 2.  Изаберите ресурс на коме желите да заснујете радно време.  
   
-3.  Кликните на дугме **Сачувај календар као** , унесите име за предложак за радне сате и кликните на **Сачувај**.  
+3.  Кликните на дугме **Сачувај календар као**, унесите име за предложак за радне сате и кликните на **Сачувај**.  
   
 4.  Када завршите са променом опција, кликните на **Сачувај и затвори**.  
   

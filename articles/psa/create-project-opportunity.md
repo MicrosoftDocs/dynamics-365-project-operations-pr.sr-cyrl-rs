@@ -3,7 +3,7 @@ title: Креирајте могућност за пословање проје�
 description: Како да креирате могућност за пословање за пројекат у апликацији Project Service
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: d822f37b5bb13f9f55355e65be591e7861a64a1f
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: c51ff895780085ed9f2723da8f505e666af90c42
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4084164"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4133251"
 ---
 # <a name="create-a-project-opportunity-project-service"></a>Креирање могућности за пословање за пројекат (Project Service)
 

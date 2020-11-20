@@ -1,21 +1,21 @@
 ---
-title: Примена Project Operations демо података на Finance окружење које се хостује у облаку
+title: Примена демо података на Finance окружење које се хостује у облаку
 description: Ова тема објашњава како да примените демо податке из услуге Project Operations на Dynamics 365 Finance окружење хостовано у облаку.
 author: sigitac
 manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: b9af6c71b61840f4ffdf2892d8e7e5bbf0f8df67
-ms.sourcegitcommit: 91ad491e94a421f256a378b0f4b26ed48c67bc93
+ms.openlocfilehash: a7cdbd2847ce45972aadd0d1a2d4f26270727ad9
+ms.sourcegitcommit: d33ef0ae39f90fe3b0f6b4524f483e8052057361
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "4096640"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "4365256"
 ---
-# <a name="apply-project-operations-demo-data-to-a-finance-cloud-hosted-environment"></a>Примена Project Operations демо података на Finance окружење које се хостује у облаку
+# <a name="apply-demo-data-to-a-finance-cloud-hosted-environment"></a>Примена демо података на Finance окружење које се хостује у облаку
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_
 
@@ -46,7 +46,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 6. У прегледачу објеката, изаберите **Базе података** и пронађите **AXDB**. Базу података ћете заменити новом базом података која се налази у [центру за преузимање](https://download.microsoft.com/download/1/a/3/1a314bd2-b082-4a87-abdc-1ba26c92b63d/ProjOpsDemoDataFOGARelease.zip). 
 7. Копирајте zip датотеку у VM у који сте удаљено повезани и распакујте zip садржај.
-8. У програму SQL Server Management Studio кликните десним тастером миша на **AxDB** , а затим изаберите **Задаци** > **Враћање** > **База података**.
+8. У програму SQL Server Management Studio кликните десним тастером миша на **AxDB**, а затим изаберите **Задаци** > **Враћање** > **База података**.
 
 ![Враћање базе података](./media/5RestoreDatabase.png)
 
@@ -54,7 +54,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ![Изворни уређаји](./media/6SourceDevice.png)
 
-10. Изаберите **Опције** , а затим изаберите **Препиши постојећу базу података** и **Затворите постојеће везе са одредишном базом података**. 
+10. Изаберите **Опције**, а затим изаберите **Препиши постојећу базу података** и **Затворите постојеће везе са одредишном базом података**. 
 11. Изаберите **У реду**.
 
 ![Враћање подешавања](./media/7RestoreSetting.png)

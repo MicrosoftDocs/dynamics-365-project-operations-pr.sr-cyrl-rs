@@ -3,7 +3,7 @@ title: Креирајте пројекат
 description: Како да креирате пројекат у апликацији Project Service
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/13/2020
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: a1a229641d0694311ecb7019e3915d0e8e6783c3
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: de26bb4c3fa0ee8abf6edf5494968d1d0403266a
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083984"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4133116"
 ---
 # <a name="create-a-project-project-service"></a>Креирање пројекта (Project Service)
 
@@ -35,7 +35,7 @@ ms.locfileid: "4083984"
   
 2.  Кликните на **Нови пројекат**.  
   
-3.  У оквиру области **Резиме** , унесите име пројекта, а затим попуните онолико детаља као можете. Обавезна поља означена су црвеном звездицом (*).  
+3.  У оквиру области **Резиме**, унесите име пројекта, а затим попуните онолико детаља као можете. Обавезна поља означена су црвеном звездицом (*).  
   
 4.  Кликните на дугме **Сачувај** да бисте креирали пројекат како бисте могли и даље да га уређујете.  
   

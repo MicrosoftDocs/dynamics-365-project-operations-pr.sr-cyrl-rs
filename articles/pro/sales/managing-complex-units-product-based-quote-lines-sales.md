@@ -1,21 +1,21 @@
 ---
-title: Управљање сложеним јединицама, као што су по кориснику месечно за ставке понуде засноване на производима
+title: Управљање сложеним јединицама, као што су ставке понуде засноване на производу по кориснику месечно – једноставно
 description: Ова тема пружа информације о управљању сложеним јединицама за ставке понуде засноване на производу.
 author: rumant
 manager: Annbe
 ms.date: 10/06/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 741230e69302138cce8f7379f520f7178e1c80af
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 2ee46da2f663ef4f5f8fc7f9f89b6fcfd09a1798
+ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083904"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "4175594"
 ---
-# <a name="managing-complex-units-such-as-per-user-per-month-for-product-based-quote-lines"></a>Управљање сложеним јединицама, као што су по кориснику месечно за ставке понуде засноване на производима
+# <a name="managing-complex-units-such-as-per-user-per-month-for-product-based-quote-lines---lite"></a>Управљање сложеним јединицама, као што су ставке понуде засноване на производу по кориснику месечно – једноставно
 
 _**Односи се на:** Једноставна примена – од погодбе до профактуре_
 
@@ -29,8 +29,8 @@ Project Operations потврђује да се као фактори колич
 
 На пример, Dynamics 365 Sales може имати следећа својства:
 
-- **Бр. корисника** : број корисника
-- **Бр. месеца** : број месеци претплате
+- **Бр. корисника**: број корисника
+- **Бр. месеци**: број месеци претплате
 - **Product SKU**
 
 Можете означити **Број корисника** и **Број месеци** као факторе количине, уређивањем својстава у ставци производа.

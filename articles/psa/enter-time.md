@@ -3,7 +3,7 @@ title: Унесите време
 description: Како да уносите време у апликацији Project Service
 author: revathimuthiah
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 4db1e62e062aa5024c8b8807e155fbd543af1059
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: b06062cf21cacedda759cc7bf7f940fc33f16bd0
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4084175"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4132891"
 ---
 # <a name="enter-time-project-service"></a>Унос времена (Project Service)
 
@@ -51,7 +51,7 @@ ms.locfileid: "4084175"
   
    Ако користите апликацију за мобилне уређаје:  
   
-9. Идите на **Унос Време** у менију.     Можете се пребацити на приказ **Дана** , **Седмице** , или **Месеца** или да одете на претходни или следећи временски период.  
+9. Идите на **Унос Време** у менију.     Можете се пребацити на приказ **Дана**, **Седмице**, или **Месеца** или да одете на претходни или следећи временски период.  
   
 10. Додирните **…** и додирните **Ново**.  
   
