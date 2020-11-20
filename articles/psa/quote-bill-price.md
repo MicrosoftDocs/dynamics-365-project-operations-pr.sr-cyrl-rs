@@ -4,7 +4,7 @@ description: Ова тема пружа информације о давању �
 author: rumant
 ms.author: rumant
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: d6dfb2838275095e84eda03869ba9b644e99f091
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 4d59cc8421d4d8a158340d76d144b610b5f65f63
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4084020"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4120516"
 ---
 # <a name="quoting-pricing-and-billing-home-page"></a>Матична страница за давање понуда, формирање цена и наплату
 

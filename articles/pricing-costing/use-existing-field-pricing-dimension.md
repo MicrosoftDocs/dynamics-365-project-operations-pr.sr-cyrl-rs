@@ -6,7 +6,7 @@ manager: AnnBe
 ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -17,16 +17,16 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 56ff45169058d96d7ef81a710de309eec698a75f
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 59367b35f15f806b109f606e912edc487d9e7685
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4084035"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4119256"
 ---
 # <a name="project-operations-fields-as-pricing-dimensions"></a>Project Operations поља као димензија за одређивање цена
 
-_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_
+_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 Ентитет **Стварне вредности** има много поља која се могу користити као димензије за одређивања цена за цене засноване на ресурсима. На пример, једно уобичајено поље је **Ресурс који се може резервисати**. Мања предузећа са мање од 20-30 наплативих ресурса могу да открију да је једноставнији приступ ако имају стопе наплате и трошкова специфичне за сваки ресурс. Међутим, како расте наплатива радна снага, одржавање стопа сецифичних ресурса може постати нереално. Цена ресурса и стопе наплате почињу да се разликују како се ресурси унапређују, стичу више искуства или како усвајају другачији скуп вештина. 
 

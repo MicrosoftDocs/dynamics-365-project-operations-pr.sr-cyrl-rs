@@ -3,7 +3,7 @@ title: Приказ наплативе укупне искоришћености
 description: Ова тема пружа информације о приказу укупне искоришћености ресурса.
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 9/26/2019
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 6daa6cfa1c6a237d8a1685123f7c1a6926418bfe
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: a1d1db532c65b2a13f3cf4e1281a5987490b96df
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083994"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4122181"
 ---
 # <a name="view-chargeable-utilization-for-resources"></a>Приказ наплативе укупне искоришћености ресурса
  
@@ -68,7 +68,7 @@ ms.locfileid: "4083994"
 
 1. Да бисте то подесили, идите на ставку **Ресурси** \> **Ресурси**. 
 2. Изаберите ресурс, отворите запис, а затим изаберите картицу **Project Service**. 
-3. У мрежи **Улога ресурса** , уверите се да постоји једна улога за ресурс и да је **Is Default** подешен на **Да**.
+3. У мрежи **Улога ресурса**, уверите се да постоји једна улога за ресурс и да је **Is Default** подешен на **Да**.
  
 ### <a name="change-billing-type-for-resource-role"></a>Промена типа наплате за улогу ресурса
 

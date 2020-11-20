@@ -5,19 +5,19 @@ author: rumant
 manager: Annbe
 ms.date: 10/21/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 39ce52d5da4c7027ee2f2fa44579c0d4bf74925e
-ms.sourcegitcommit: f8edff6422b82fdf2cea897faa6abb51e2c0c3c8
+ms.openlocfilehash: c5a8bfea5540432a62d7075443cf237571bfa4de
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "4088091"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4118491"
 ---
 # <a name="manage-project-based-opportunities"></a>Управљање могућностима за пословање заснованим на пројектима
 
-_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_
+_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 Пројектне компаније обично имају своје операције испоруке раширене у више земаља и географских подручја. Трошкови извршења и испоруке пројекта могу се разликовати у зависности од тога која локација или одељење управља испоруком. Заузврат, ово може утицати на марже погодбе. Пружање пројектних услуга обично укључује велике количине људских ресурса, знатне трошкове путовања, материјалне трошкове и друге трошкове.
 

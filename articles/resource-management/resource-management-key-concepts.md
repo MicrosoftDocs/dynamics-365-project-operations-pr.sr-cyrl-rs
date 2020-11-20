@@ -5,19 +5,19 @@ author: ruhercul
 manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 124d9bad5cc0c16955417a8213db047a2d8bae1d
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: a14f0ec328049d1b199201955c384df9fac61e39
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083819"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4123891"
 ---
 # <a name="resource-management-key-concepts"></a>Кључни концепти управљања ресурсима
 
-_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_
+_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 Ресурси су најважнији адут организације засноване на услугама. Способност проналажења правих ресурса у право време, резервисање тих ресурса за пројекте и њихово редовно коришћење помаже организацији да испуни циљеве у погледу прихода и задовољства клијената. Функционалност обезбеђивања ресурса за пројекат можете користити у услузи Dynamics 365 Project Operations да бисте урадили следеће:
 

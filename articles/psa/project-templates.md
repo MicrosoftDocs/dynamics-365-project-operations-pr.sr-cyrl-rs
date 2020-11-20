@@ -3,7 +3,7 @@ title: Предлошци пројеката
 description: Ова тема пружа информације о томе како користити предлошке пројекта за брзо подешавање пројекта.
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1bb82a312114e9814f5ce65a1698455582fd252e
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 4fd618e15524c5cef5b6da9b282f449e3dfb7973
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4084134"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4123050"
 ---
 # <a name="project-templates"></a>Предлошци пројеката 
 
@@ -49,7 +49,7 @@ ms.locfileid: "4084134"
 
 > ![Дијалог за брзо креирање пројекта](media/project-11.png)
 
-- Када креирате пројекат одабиром опције **Нови пројекат** , страница **Пројекат** се појављује пре него што се запис сачува. У пољу **Избор предлошка** изаберите један од унапред дефинисаних предложака пројеката у организацији.
+- Када креирате пројекат одабиром опције **Нови пројекат**, страница **Пројекат** се појављује пре него што се запис сачува. У пољу **Избор предлошка** изаберите један од унапред дефинисаних предложака пројеката у организацији.
 - Употребите **Креирање пројекта из предлошка** на страници **Ентитет предлошка**.
 
 ## <a name="copying-components-of-template-to-project"></a>Копирање компоненти предлошка у пројекат

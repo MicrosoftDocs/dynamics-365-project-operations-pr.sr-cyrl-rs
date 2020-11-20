@@ -5,19 +5,19 @@ author: stsporen
 manager: AnnBe
 ms.date: 10/02/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: e2ac26910c55eefd059e3136b7e8821aad411539
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 291ca3cc6d995a9722fe3cd29ded95fb606888c6
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083887"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4124566"
 ---
 # <a name="time-overview"></a>Преглед времена
 
-_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_
+_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 Ставка времена је поступак евидентирања стварног времена које ресурс троши. Ставке времена у услузи Dynamics 365 Project Operations омогућавају израчунавање трошкова и продајних цена како напредују задаци. Ове ставке помажу менаџеру пројекта да буде у току са пројектима и задацима. Ставке времена такође обавештавају менаџере ресурса о свим потенцијалним одморима или одсуствима који се на табели распореда приказују као **Одсутан**. Ова обавештења омогућавају менаџерима ресурса да планирају око тих догађаја.
 

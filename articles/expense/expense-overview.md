@@ -5,27 +5,27 @@ author: stsporen
 manager: AnnBe
 ms.date: 10/06/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 6da831fef5dba060b8019d7689645405c7ebdbed
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 6c5ef2a45e8141bda38baf3eaf0a403d6db95e48
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083852"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4122855"
 ---
 # <a name="expense-home-page"></a>Почетна страница трошкова
 
-_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_
+_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 
 Dynamics 365 Project Operations подржава могућност обраде трошкова. Обрада трошкова се одвија са пројектима или без њих коришћењем прилагодљивог тока посла смерница, категорија трансакција и одобрења.
 
 У услузи Project Operations постоје два подржана модела примене за трошкове: 
 
-- **Потпуно** : Потпуна примена је доступна за **Project Operations за сценарије засноване на ресурсима / без залиха** или **Project Operations за сценарије засноване на налогу за производњу**.
-- **Основно** : Основна примена је доступна за **Project Operations за сценарије засноване на ресурсима / без залиха** и **Једноставна примена – од погодбе до профактуре**.
+- **Потпуно**: Потпуна примена је доступна за **Project Operations за сценарије засноване на ресурсима / без залиха** или **Project Operations за сценарије засноване на налогу за производњу**.
+- **Основно**: Основна примена је доступна за **Project Operations за сценарије засноване на ресурсима / без залиха** и **Једноставна примена – од погодбе до профактуре**.
 
 ## <a name="full"></a>Пуно 
 Потпуна примена трошкова обезбеђује потпуно спровођење смерница, што обухвата могућност креирања смерница, као што су:
