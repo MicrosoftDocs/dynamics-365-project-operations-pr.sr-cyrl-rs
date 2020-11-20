@@ -3,7 +3,7 @@ title: Календар ставке времена
 description: Ова тема пружа информације о томе како да користите календар ставке времена.
 author: rumant
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 05/20/2019
@@ -18,25 +18,25 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: afc31609c51f48db61ce359c18707b5a92211082
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 413aba735a5011a9b40c1d5b0bf43c6771db0f7b
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4084062"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4131225"
 ---
-# <a name="time-entry-calendar"></a><span data-ttu-id="f9e2e-103">Календар ставке времена</span><span class="sxs-lookup"><span data-stu-id="f9e2e-103">Time entry calendar</span></span>
+# <a name="time-entry-calendar"></a><span data-ttu-id="fb932-103">Календар ставке времена</span><span class="sxs-lookup"><span data-stu-id="fb932-103">Time entry calendar</span></span>
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
-<span data-ttu-id="f9e2e-104">На страници **Ставке времена** можете прегледати ставке времена у календару ако изаберете **Прикажи као** \> **Контрола календара**.</span><span class="sxs-lookup"><span data-stu-id="f9e2e-104">On the **Time Entries** page, you can view the time entries on the calendar by selecting **Show as** \> **Calendar Control**.</span></span>
+<span data-ttu-id="fb932-104">На страници **Ставке времена** можете прегледати ставке времена у календару ако изаберете **Прикажи као** \> **Контрола календара**.</span><span class="sxs-lookup"><span data-stu-id="fb932-104">On the **Time Entries** page, you can view the time entries on the calendar by selecting **Show as** \> **Calendar Control**.</span></span>
 
-## <a name="updated-calendar-control"></a><span data-ttu-id="f9e2e-105">Ажурирана контрола календара</span><span class="sxs-lookup"><span data-stu-id="f9e2e-105">Updated calendar control</span></span>
+## <a name="updated-calendar-control"></a><span data-ttu-id="fb932-105">Ажурирана контрола календара</span><span class="sxs-lookup"><span data-stu-id="fb932-105">Updated calendar control</span></span>
 
-<span data-ttu-id="f9e2e-106">Dynamics 365 Project Service Automation нуди ново и прошириво искуство ставке времена.</span><span class="sxs-lookup"><span data-stu-id="f9e2e-106">Dynamics 365 Project Service Automation offers a new and extensible time entry experience.</span></span> <span data-ttu-id="f9e2e-107">Ово ново искуство замењује прилагођену контролу календара која се користила у старијим верзијама.</span><span class="sxs-lookup"><span data-stu-id="f9e2e-107">This new experience replaces the Custom Calendar Control that was used in earlier versions.</span></span> <span data-ttu-id="f9e2e-108">Међутим, ставке времена можете и даље прегледавати помоћу контроле календара само за читање коју радни оквир обједињеног интерфејса пружа за дневне, недељне или месечне приказе.</span><span class="sxs-lookup"><span data-stu-id="f9e2e-108">However, you can still view time entries through a read-only calendar control that the Unified Interface Framework provides for daily, weekly, or monthly views.</span></span>
+<span data-ttu-id="fb932-106">Dynamics 365 Project Service Automation нуди ново и прошириво искуство ставке времена.</span><span class="sxs-lookup"><span data-stu-id="fb932-106">Dynamics 365 Project Service Automation offers a new and extensible time entry experience.</span></span> <span data-ttu-id="fb932-107">Ово ново искуство замењује прилагођену контролу календара која се користила у старијим верзијама.</span><span class="sxs-lookup"><span data-stu-id="fb932-107">This new experience replaces the Custom Calendar Control that was used in earlier versions.</span></span> <span data-ttu-id="fb932-108">Међутим, ставке времена можете и даље прегледавати помоћу контроле календара само за читање коју радни оквир обједињеног интерфејса пружа за дневне, недељне или месечне приказе.</span><span class="sxs-lookup"><span data-stu-id="fb932-108">However, you can still view time entries through a read-only calendar control that the Unified Interface Framework provides for daily, weekly, or monthly views.</span></span>
 
-<span data-ttu-id="f9e2e-109">Календар не подржава радње за појединачне ставке календара и не можете одабрати једну или више ставки календара за подношење или брисање.</span><span class="sxs-lookup"><span data-stu-id="f9e2e-109">The calendar doesn't support actions on individual calendar items, and you can't select one or more calendar items for submission or deletion.</span></span> <span data-ttu-id="f9e2e-110">Уместо тога, изаберите ставку календара да бисте отворили страницу ентитета **Ставка времена** , на којој можете обавити потребне радње.</span><span class="sxs-lookup"><span data-stu-id="f9e2e-110">Instead, select a calendar item to open the **Time Entry** entity page, where you can complete the required actions.</span></span>
+<span data-ttu-id="fb932-109">Календар не подржава радње за појединачне ставке календара и не можете одабрати једну или више ставки календара за подношење или брисање.</span><span class="sxs-lookup"><span data-stu-id="fb932-109">The calendar doesn't support actions on individual calendar items, and you can't select one or more calendar items for submission or deletion.</span></span> <span data-ttu-id="fb932-110">Уместо тога, изаберите ставку календара да бисте отворили страницу ентитета **Ставка времена**, на којој можете обавити потребне радње.</span><span class="sxs-lookup"><span data-stu-id="fb932-110">Instead, select a calendar item to open the **Time Entry** entity page, where you can complete the required actions.</span></span>
 
-## <a name="extensibility"></a><span data-ttu-id="f9e2e-111">Проширивост</span><span class="sxs-lookup"><span data-stu-id="f9e2e-111">Extensibility</span></span>
+## <a name="extensibility"></a><span data-ttu-id="fb932-111">Проширивост</span><span class="sxs-lookup"><span data-stu-id="fb932-111">Extensibility</span></span>
 
-<span data-ttu-id="f9e2e-112">На страници **Ставке времена** која има мрежу за ставке времена, можете додати прилагођена поља, подесити поља за проналажење и креирати прилагођене приказе.</span><span class="sxs-lookup"><span data-stu-id="f9e2e-112">On the **Time Entries** page that has the time entry grid, you can add custom fields, set up lookup fields, and create custom views.</span></span> <span data-ttu-id="f9e2e-113">Такође можете подесити прилагођену пословну логику која се заснива на вредностима које су одабране или унете у прилагођена поља.</span><span class="sxs-lookup"><span data-stu-id="f9e2e-113">You can also set up custom business logic that is based on the values that are selected or entered in custom fields.</span></span>
+<span data-ttu-id="fb932-112">На страници **Ставке времена** која има мрежу за ставке времена, можете додати прилагођена поља, подесити поља за проналажење и креирати прилагођене приказе.</span><span class="sxs-lookup"><span data-stu-id="fb932-112">On the **Time Entries** page that has the time entry grid, you can add custom fields, set up lookup fields, and create custom views.</span></span> <span data-ttu-id="fb932-113">Такође можете подесити прилагођену пословну логику која се заснива на вредностима које су одабране или унете у прилагођена поља.</span><span class="sxs-lookup"><span data-stu-id="fb932-113">You can also set up custom business logic that is based on the values that are selected or entered in custom fields.</span></span>

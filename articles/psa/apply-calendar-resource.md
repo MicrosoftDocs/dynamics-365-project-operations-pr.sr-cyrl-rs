@@ -3,7 +3,7 @@ title: Примените у календар на ресурс
 description: Како да примените календар на ресурс у услузи Project Service
 author: rumant
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 7/31/2018
@@ -18,28 +18,28 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 69427581f606783ed2b159dd6627481a2229a707
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 4878d806dc2633bd2585b943133128bc8485587e
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4084172"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4130146"
 ---
-# <a name="apply-a-calendar-to-a-resource-project-service"></a><span data-ttu-id="aaccd-103">Примена календара на ресурс (Project Service)</span><span class="sxs-lookup"><span data-stu-id="aaccd-103">Apply a calendar to a resource (Project Service)</span></span>
+# <a name="apply-a-calendar-to-a-resource-project-service"></a><span data-ttu-id="0bdb3-103">Примена календара на ресурс (Project Service)</span><span class="sxs-lookup"><span data-stu-id="0bdb3-103">Apply a calendar to a resource (Project Service)</span></span>
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
-<span data-ttu-id="aaccd-104">Након што сте креирали предложак радних часова, потребно је да га доделите ресурсима тако да се календар одрази на радне часове наведене у предлошку.</span><span class="sxs-lookup"><span data-stu-id="aaccd-104">Once you’ve created a work hours template, you need to assign it to resources so their calendars reflect the working hours specified in the template.</span></span>  
+<span data-ttu-id="0bdb3-104">Након што сте креирали предложак радних часова, потребно је да га доделите ресурсима тако да се календар одрази на радне часове наведене у предлошку.</span><span class="sxs-lookup"><span data-stu-id="0bdb3-104">Once you’ve created a work hours template, you need to assign it to resources so their calendars reflect the working hours specified in the template.</span></span>  
   
-1.  <span data-ttu-id="aaccd-105">Идите на **Project Service > Ресурси**.</span><span class="sxs-lookup"><span data-stu-id="aaccd-105">Go to **Project Service > Resources**.</span></span>  
+1.  <span data-ttu-id="0bdb3-105">Идите на **Project Service > Ресурси**.</span><span class="sxs-lookup"><span data-stu-id="0bdb3-105">Go to **Project Service > Resources**.</span></span>  
   
-2.  <span data-ttu-id="aaccd-106">Изаберите ресурс за који желите да поставите календар.</span><span class="sxs-lookup"><span data-stu-id="aaccd-106">Select the resource you want to set the calendar for.</span></span> <span data-ttu-id="aaccd-107">Можете изабрати више ресурса.</span><span class="sxs-lookup"><span data-stu-id="aaccd-107">You can select more than one resource.</span></span>  
+2.  <span data-ttu-id="0bdb3-106">Изаберите ресурс за који желите да поставите календар.</span><span class="sxs-lookup"><span data-stu-id="0bdb3-106">Select the resource you want to set the calendar for.</span></span> <span data-ttu-id="0bdb3-107">Можете изабрати више ресурса.</span><span class="sxs-lookup"><span data-stu-id="0bdb3-107">You can select more than one resource.</span></span>  
   
-3.  <span data-ttu-id="aaccd-108">Кликните на **Подеси календар**.</span><span class="sxs-lookup"><span data-stu-id="aaccd-108">Click **Set Calendar**.</span></span>  
+3.  <span data-ttu-id="0bdb3-108">Кликните на **Подеси календар**.</span><span class="sxs-lookup"><span data-stu-id="0bdb3-108">Click **Set Calendar**.</span></span>  
   
-4.  <span data-ttu-id="aaccd-109">Одаберите предложак радних сати који желите да примените.</span><span class="sxs-lookup"><span data-stu-id="aaccd-109">Choose the work hours template you want to apply.</span></span>  
+4.  <span data-ttu-id="0bdb3-109">Одаберите предложак радних сати који желите да примените.</span><span class="sxs-lookup"><span data-stu-id="0bdb3-109">Choose the work hours template you want to apply.</span></span>  
   
-5.  <span data-ttu-id="aaccd-110">Кликните на дугме **Примени**.</span><span class="sxs-lookup"><span data-stu-id="aaccd-110">Click **Apply**.</span></span>  
+5.  <span data-ttu-id="0bdb3-110">Кликните на дугме **Примени**.</span><span class="sxs-lookup"><span data-stu-id="0bdb3-110">Click **Apply**.</span></span>  
   
-### <a name="see-also"></a><span data-ttu-id="aaccd-111">Такође погледајте</span><span class="sxs-lookup"><span data-stu-id="aaccd-111">See Also</span></span>  
- [<span data-ttu-id="aaccd-112">Подешавање ресурса</span><span class="sxs-lookup"><span data-stu-id="aaccd-112">Set up resources</span></span>](../psa/set-up-resources.md)
+### <a name="see-also"></a><span data-ttu-id="0bdb3-111">Такође погледајте</span><span class="sxs-lookup"><span data-stu-id="0bdb3-111">See Also</span></span>  
+ [<span data-ttu-id="0bdb3-112">Подешавање ресурса</span><span class="sxs-lookup"><span data-stu-id="0bdb3-112">Set up resources</span></span>](../psa/set-up-resources.md)
