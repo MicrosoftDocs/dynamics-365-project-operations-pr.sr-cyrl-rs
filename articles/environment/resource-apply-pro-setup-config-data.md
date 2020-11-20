@@ -1,29 +1,39 @@
 ---
-title: Подешавање и примена података о конфигурацији у услузи Common Data Service за Project Operations
+title: Подешавање и примена података о конфигурацији у услузи Common Data Service
 description: Ова тема пружа информације о томе како да подесите и примените податке о конфигурацији у услузи Project Operations.
 author: sigitac
 manager: Annbe
-ms.date: 10/01/2020
+ms.date: 11/04/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 5e72b88a4dae1eb89859fdfd55f6d5e6ee5befcd
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 7de8db5e91265c77c79f34a513bf27d9a55b789a
+ms.sourcegitcommit: 14aa380759214713d9bf560f5a7f619b7f4bd5b8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083845"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "4401146"
 ---
-# <a name="set-up-and-apply-configuration-data-in-the-common-data-service-for-project-operations"></a>Подешавање и примена података о конфигурацији у услузи Common Data Service за Project Operations
+# <a name="set-up-and-apply-configuration-data-in-the-common-data-service"></a>Подешавање и примена података о конфигурацији у услузи Common Data Service 
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_
+
+## <a name="prerequisites"></a>Предуслови
+
+Пре него што започнете конфигурисање података у услузи Common Data Service (CDS), морају бити испуњени следећи предуслови:
+
+1.  Обезбедите CDS окружење и Dynamics 365 Finance окружење за Project Operations.
+2.  Информације о правном лицу из услуге Dynamics 365 Finance се деле са CDS окружењем. То значи да ентитет **Компанија** у CDS-у има следеће евиденције предузећа:
+  - THPM
+  - USPM
+  - GBPM
 
 ## <a name="install-setup-and-configuration-data"></a>Подаци о подешавању и конфигурацији инсталирања
 
 1. Преузмите, деблокирајте и распакујте [Пакет података за подешавање и конфигурацију](https://download.microsoft.com/download/1/3/4/1349369c-6209-42b7-b3b4-5be0e67cacd8/ProjOpsSampleSetupData-%20Integrated%20UR1.zip).
 2. Идите у фасциклу са распакованим садржајем и покрените извршну датотеку *DataMigrationUtility*.
-3. На 1. страници Common Data Service чаробњака за конфигурисање миграције (CMT) изаберите **Увези податке** , а затим изаберите **Настави**.
+3. На 1. страници Common Data Service чаробњака за конфигурисање миграције (CMT) изаберите **Увези податке**, а затим изаберите **Настави**.
 
 ![Миграција конфигурације](./media/1ConfigurationMigration.png)
 
@@ -75,7 +85,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ![Отворено окружење](./media/7OpenEnvironment.png)
 
-2. Идите на **Пројекти** > **Ресурси** , а затим изаберите **Ново** да бисте креирали ресурс који може да се резервише за вашег корисника.
+2. Идите на **Пројекти** > **Ресурси**, а затим изаберите **Ново** да бисте креирали ресурс који може да се резервише за вашег корисника.
 
 ![Ресурси који могу да се резервишу](./media/8BookableResources.png)
 
@@ -83,7 +93,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ![Нови ресурс који може да се резервише](./media/9NewBookableResource.png)
 
-4. На картици **Заказивање** , у пољу **Компанија** одаберите компанију **USPM** , а затим изаберите **Сачувај**. 
+4. На картици **Заказивање**, у пољу **Компанија** одаберите компанију **USPM**, а затим изаберите **Сачувај**. 
 
 ![Картица „Заказивање“](./media/10SchedulingTab.png)
 
@@ -114,10 +124,10 @@ _**Односи се на:** Project Operations за сценарије засн
  
 12. Ажурирајте следећа поља:
 
- - **Подразумевана компанија** : USPM
- - **Подразумевана организациона јединица** : Contoso Robotics Global
- - **Учесталост фактурисања** : Седми и последњи дан
- - **Предложак радног времена** : Промените на предложак који сте креирали.
+ - **Подразумевана компанија**: USPM
+ - **Подразумевана организациона јединица**: Contoso Robotics Global
+ - **Учесталост фактурисања**: Седми и последњи дан
+ - **Предложак радног времена**: Промените на предложак који сте креирали.
 
 13. Изаберите ставку **Сачувај**. 
 

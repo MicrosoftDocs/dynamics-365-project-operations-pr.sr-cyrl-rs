@@ -3,21 +3,21 @@ title: Одредите врсту примене
 description: Ова тема пружа информације које вам помажу да утврдите правилан тип примене услуге Project Operations за ваше предузеће.
 author: stsporen
 manager: Annbe
-ms.date: 10/07/2020
+ms.date: 11/05/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 564f2878553fe3904a7c47c7e80a3b57c763a3b2
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: e9d3a5d8e6e1daafac72a3b4c0380b679d1869bd
+ms.sourcegitcommit: 14aa380759214713d9bf560f5a7f619b7f4bd5b8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083976"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "4401236"
 ---
 # <a name="determine-your-deployment-type"></a>Одредите врсту примене
 
-_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_
+_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 > [!IMPORTANT]
 > Након куповине лиценце, почните овде да бисте утврдили најбољи модел примене услуге Dynamics 365 Project Operations помоћу [вођеног тока инсталације](https://aka.ms/provisionprojectoperations).
@@ -25,11 +25,11 @@ _**Односи се на:** Project Operations за ресурс/сценари
 
 
 ## <a name="existing-customers-of-dynamics-using-dynamics-365-project-service-automation"></a>Постојећи клијенти система Dynamics који користе Dynamics 365 Project Service Automation
-Project Operations укључује могућности које су испоручене са услугом Project Service Automation. Путања надоградње биће издата за ове клијенте у будућности.
+Project Operations укључује могућности које су испоручене са услугом Project Service Automation. Путања надоградње ће бити објављена за ове клијенте у 1. таласу издања за 2021. годину.
 
 ## <a name="existing-customers-of-dynamics-365-finance-using-project-management-and-accounting"></a>Постојећи клијенти услуге Dynamics 365 Finance који користе управљање пројектима и рачуноводство 
 
-Постојећи клијенти услуге Finance који користе функционалност управљања пројектима и рачуноводства могу да наставе да користе ово како јесте. Погледајте [Project Operations за сценарије засноване на залихама/производњи](#pma).
+Постојећи клијенти услуге Finance који користе функционалност управљања пројектима и рачуноводства могу да наставе да је користе онакву каква јесте. Погледајте [Project Operations за сценарије засноване на залихама/производњи](#pma).
 
 
 ## <a name="deployment-types"></a>Типови примене
@@ -47,12 +47,13 @@ Project Operations подржавају сценарије залиха / про
 
 Једноставна примена укључује следеће могућности:
 
+- Процес продаје за пројекте који проширују искуства апликације Dynamics 365 Sales
 - Планирање пројеката користећи Microsoft Project за веб
 - Вишедимензионално одређивање цена
 - Обједињено управљање ресурсима
 - Праћење времена
 - Основни трошак
-- Предлог фактуре
+- Издавање предрачуна и фактура у окружењу клијента 
 
 #### <a name="deployment-steps"></a>Кораци примене
 Одредите најбољи модел примене услуге Project Operations помоћу [упитника за примену](https://aka.ms/provisionprojectoperations).
@@ -62,7 +63,8 @@ Project Operations подржавају сценарије залиха / про
 
 ### <a name="project-operations-for-resourcenon-stocked-scenarios"></a><a name="integrated"></a>Project Operations за сценарије са ресурсима/материјалима који нису на залихама
 Project Operations за сценарије ресурса / без залиха укључују следеће могућности:
-  
+ 
+- Процес продаје за пројекте који проширују апликацију Dynamics 365 Sales
 - Планирање пројеката користећи Microsoft Project за веб
 - Вишедимензионално одређивање цена
 - Обједињено управљање ресурсима
@@ -70,8 +72,8 @@ Project Operations за сценарије ресурса / без залиха 
 - Основни трошак
 - Пуни трошак
 - OCR признанице
-- Потпуно фактурисање
-- Препознавање прихода
+- Издавање предрачуна и фактура у окружењу клијента 
+- Признавање прихода за пројекте
 
 #### <a name="deployment-steps"></a>Кораци примене
 Одредите најбољи модел примене услуге Project Operations помоћу [упитника за примену](https://aka.ms/provisionprojectoperations).
