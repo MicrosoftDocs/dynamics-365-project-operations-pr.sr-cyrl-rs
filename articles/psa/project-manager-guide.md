@@ -3,7 +3,7 @@ title: Водич за менаџера пројекта
 description: Водич за управљање пројектом са апликацијом Project Service
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,78 +18,78 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 89e33ae67f5d4134bf8c6f6c517fd4460c6879dd
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 6bed91df141d19bf93703f6cad51432d6a1ffefa
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083942"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4132075"
 ---
-# <a name="project-manager-guide-project-service"></a><span data-ttu-id="91441-103">Водич за менаџера пројекта (Project Service)</span><span class="sxs-lookup"><span data-stu-id="91441-103">Project manager guide (Project Service)</span></span>
+# <a name="project-manager-guide-project-service"></a><span data-ttu-id="b0952-103">Водич за менаџера пројекта (Project Service)</span><span class="sxs-lookup"><span data-stu-id="b0952-103">Project manager guide (Project Service)</span></span>
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
-<span data-ttu-id="91441-104">Могућности [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] у систему [!INCLUDE[pn_dynamics_crm](../includes/pn-dynamics-crm.md)] вам помажу да креирате понуде и уговоре за пројекте и креирате и управљате пројектима за клијенте након што остварите уговор.</span><span class="sxs-lookup"><span data-stu-id="91441-104">[!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] capabilities in [!INCLUDE[pn_dynamics_crm](../includes/pn-dynamics-crm.md)] help you create project quotes and contracts, and create and manage projects for your clients after you’ve won the contract.</span></span> <span data-ttu-id="91441-105">Она такође обезбеђује аналитику која ће вам помоћи да се уверите да су пројекти изводљиви и профитабилни.</span><span class="sxs-lookup"><span data-stu-id="91441-105">They also provides analytics to help you ensure projects are feasible and profitable.</span></span> <span data-ttu-id="91441-106">Можете подесити пројекте на време и материјал или на основу фиксне цене.</span><span class="sxs-lookup"><span data-stu-id="91441-106">You can set up projects on a time and materials or fixed-price basis.</span></span>  
+<span data-ttu-id="b0952-104">Могућности [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] у систему [!INCLUDE[pn_dynamics_crm](../includes/pn-dynamics-crm.md)] вам помажу да креирате понуде и уговоре за пројекте и креирате и управљате пројектима за клијенте након што остварите уговор.</span><span class="sxs-lookup"><span data-stu-id="b0952-104">[!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] capabilities in [!INCLUDE[pn_dynamics_crm](../includes/pn-dynamics-crm.md)] help you create project quotes and contracts, and create and manage projects for your clients after you’ve won the contract.</span></span> <span data-ttu-id="b0952-105">Она такође обезбеђује аналитику која ће вам помоћи да се уверите да су пројекти изводљиви и профитабилни.</span><span class="sxs-lookup"><span data-stu-id="b0952-105">They also provides analytics to help you ensure projects are feasible and profitable.</span></span> <span data-ttu-id="b0952-106">Можете подесити пројекте на време и материјал или на основу фиксне цене.</span><span class="sxs-lookup"><span data-stu-id="b0952-106">You can set up projects on a time and materials or fixed-price basis.</span></span>  
   
- <span data-ttu-id="91441-107">Алатке за управљање пројектом вам помажу да:</span><span class="sxs-lookup"><span data-stu-id="91441-107">Project management tools help you to:</span></span>  
+ <span data-ttu-id="b0952-107">Алатке за управљање пројектом вам помажу да:</span><span class="sxs-lookup"><span data-stu-id="b0952-107">Project management tools help you to:</span></span>  
   
--   <span data-ttu-id="91441-108">Ефикасно процените рад</span><span class="sxs-lookup"><span data-stu-id="91441-108">Effectively estimate work</span></span>  
+-   <span data-ttu-id="b0952-108">Ефикасно процените рад</span><span class="sxs-lookup"><span data-stu-id="b0952-108">Effectively estimate work</span></span>  
   
--   <span data-ttu-id="91441-109">Предвидите захтеве ресурса када су пројекти у каналу</span><span class="sxs-lookup"><span data-stu-id="91441-109">Forecast resource requirements when projects are in the pipeline</span></span>  
+-   <span data-ttu-id="b0952-109">Предвидите захтеве ресурса када су пројекти у каналу</span><span class="sxs-lookup"><span data-stu-id="b0952-109">Forecast resource requirements when projects are in the pipeline</span></span>  
   
--   <span data-ttu-id="91441-110">Омогућите члановима тима да сарађују на пројектима и одржавају актуелан и прецизан статус пројекта у било које време</span><span class="sxs-lookup"><span data-stu-id="91441-110">Enable team members to collaborate on projects and maintain current and accurate project status at all times</span></span>  
+-   <span data-ttu-id="b0952-110">Омогућите члановима тима да сарађују на пројектима и одржавају актуелан и прецизан статус пројекта у било које време</span><span class="sxs-lookup"><span data-stu-id="b0952-110">Enable team members to collaborate on projects and maintain current and accurate project status at all times</span></span>  
   
--   <span data-ttu-id="91441-111">Проактивно идентификујете и решавате потенцијалне претње успешности сваког ангажовања.</span><span class="sxs-lookup"><span data-stu-id="91441-111">Proactively identify and resolve potential threats to the success of each and every engagement.</span></span>  
+-   <span data-ttu-id="b0952-111">Проактивно идентификујете и решавате потенцијалне претње успешности сваког ангажовања.</span><span class="sxs-lookup"><span data-stu-id="b0952-111">Proactively identify and resolve potential threats to the success of each and every engagement.</span></span>  
   
-<span data-ttu-id="91441-112">Овај водич обезбеђује информације које су вам потребне да бисте креирали и управљали пројектима:</span><span class="sxs-lookup"><span data-stu-id="91441-112">This guide provides information you need to create and manage projects:</span></span>  
+<span data-ttu-id="b0952-112">Овај водич обезбеђује информације које су вам потребне да бисте креирали и управљали пројектима:</span><span class="sxs-lookup"><span data-stu-id="b0952-112">This guide provides information you need to create and manage projects:</span></span>  
   
--   [<span data-ttu-id="91441-113">Обезбедите радне процене за пројекат током продајног процеса</span><span class="sxs-lookup"><span data-stu-id="91441-113">Provide work estimates for a project during the sales process</span></span>](../psa/provide-estimates-project-during-sales-process.md)  
+-   [<span data-ttu-id="b0952-113">Обезбедите радне процене за пројекат током продајног процеса</span><span class="sxs-lookup"><span data-stu-id="b0952-113">Provide work estimates for a project during the sales process</span></span>](../psa/provide-estimates-project-during-sales-process.md)  
   
--   [<span data-ttu-id="91441-114">Креирајте пројекат</span><span class="sxs-lookup"><span data-stu-id="91441-114">Create a project</span></span>](../psa/create-project.md)  
+-   [<span data-ttu-id="b0952-114">Креирајте пројекат</span><span class="sxs-lookup"><span data-stu-id="b0952-114">Create a project</span></span>](../psa/create-project.md)  
   
--   [<span data-ttu-id="91441-115">Користите програмски додатак Project Service Automation за планирање вашег рада у програму Microsoft Project</span><span class="sxs-lookup"><span data-stu-id="91441-115">Use the Project Service Automation add-in to plan your work in Microsoft Project</span></span>](../psa/add-plan-work-microsoft-project.md)  
+-   [<span data-ttu-id="b0952-115">Користите програмски додатак Project Service Automation за планирање вашег рада у програму Microsoft Project</span><span class="sxs-lookup"><span data-stu-id="b0952-115">Use the Project Service Automation add-in to plan your work in Microsoft Project</span></span>](../psa/add-plan-work-microsoft-project.md)  
   
--   [<span data-ttu-id="91441-116">Закажите пројекат са структурном анализом посла</span><span class="sxs-lookup"><span data-stu-id="91441-116">Schedule a project with a work breakdown structure</span></span>](../psa/schedule-project-work-breakdown-structure.md)  
+-   [<span data-ttu-id="b0952-116">Закажите пројекат са структурном анализом посла</span><span class="sxs-lookup"><span data-stu-id="b0952-116">Schedule a project with a work breakdown structure</span></span>](../psa/schedule-project-work-breakdown-structure.md)  
   
--   [<span data-ttu-id="91441-117">Одредите трошкове за пројекат и процењене приходе</span><span class="sxs-lookup"><span data-stu-id="91441-117">Determine project cost and revenue estimates</span></span>](../psa/determine-project-cost-revenue-estimates.md)  
+-   [<span data-ttu-id="b0952-117">Одредите трошкове за пројекат и процењене приходе</span><span class="sxs-lookup"><span data-stu-id="b0952-117">Determine project cost and revenue estimates</span></span>](../psa/determine-project-cost-revenue-estimates.md)  
   
--   [<span data-ttu-id="91441-118">Праћење тока и трошкова пројекта</span><span class="sxs-lookup"><span data-stu-id="91441-118">Track project progress and cost</span></span>](../psa/track-project-progress-cost.md)  
+-   [<span data-ttu-id="b0952-118">Праћење тока и трошкова пројекта</span><span class="sxs-lookup"><span data-stu-id="b0952-118">Track project progress and cost</span></span>](../psa/track-project-progress-cost.md)  
   
--   [<span data-ttu-id="91441-119">Креирање предлошка пројекта</span><span class="sxs-lookup"><span data-stu-id="91441-119">Create a project template</span></span>](../psa/create-project-template.md)  
+-   [<span data-ttu-id="b0952-119">Креирање предлошка пројекта</span><span class="sxs-lookup"><span data-stu-id="b0952-119">Create a project template</span></span>](../psa/create-project-template.md)  
   
--   [<span data-ttu-id="91441-120">Прослеђивање захтева за ресурсом</span><span class="sxs-lookup"><span data-stu-id="91441-120">Submit resource requests</span></span>](../psa/submit-resource-requests.md)  
+-   [<span data-ttu-id="b0952-120">Прослеђивање захтева за ресурсом</span><span class="sxs-lookup"><span data-stu-id="b0952-120">Submit resource requests</span></span>](../psa/submit-resource-requests.md)  
   
--   [<span data-ttu-id="91441-121">Креирање Office 365 групе за пројекат</span><span class="sxs-lookup"><span data-stu-id="91441-121">Create an Office 365 Group for a project</span></span>](../psa/create-office-365-group-project.md)  
+-   [<span data-ttu-id="b0952-121">Креирање Office 365 групе за пројекат</span><span class="sxs-lookup"><span data-stu-id="b0952-121">Create an Office 365 Group for a project</span></span>](../psa/create-office-365-group-project.md)  
   
--   [<span data-ttu-id="91441-122">Додавање докумената у пројекат</span><span class="sxs-lookup"><span data-stu-id="91441-122">Add documents to a project</span></span>](../psa/add-documents-project.md)  
+-   [<span data-ttu-id="b0952-122">Додавање докумената у пројекат</span><span class="sxs-lookup"><span data-stu-id="b0952-122">Add documents to a project</span></span>](../psa/add-documents-project.md)  
   
--   [<span data-ttu-id="91441-123">Праћење статуса пројекта</span><span class="sxs-lookup"><span data-stu-id="91441-123">Track a project’s status</span></span>](../psa/track-project-status.md)  
+-   [<span data-ttu-id="b0952-123">Праћење статуса пројекта</span><span class="sxs-lookup"><span data-stu-id="b0952-123">Track a project’s status</span></span>](../psa/track-project-status.md)  
   
--   [<span data-ttu-id="91441-124">Приказ чланова пројектног тима и управљање резервацијама</span><span class="sxs-lookup"><span data-stu-id="91441-124">View project team members and manage bookings</span></span>](../psa/view-project-team-members-manage-bookings.md)  
+-   [<span data-ttu-id="b0952-124">Приказ чланова пројектног тима и управљање резервацијама</span><span class="sxs-lookup"><span data-stu-id="b0952-124">View project team members and manage bookings</span></span>](../psa/view-project-team-members-manage-bookings.md)  
   
--   [<span data-ttu-id="91441-125">Приказ и уређивање процена пројекта</span><span class="sxs-lookup"><span data-stu-id="91441-125">View and edit project estimates</span></span>](../psa/view-edit-project-estimates.md)  
+-   [<span data-ttu-id="b0952-125">Приказ и уређивање процена пројекта</span><span class="sxs-lookup"><span data-stu-id="b0952-125">View and edit project estimates</span></span>](../psa/view-edit-project-estimates.md)  
   
--   [<span data-ttu-id="91441-126">Одобравање времена и трошкова</span><span class="sxs-lookup"><span data-stu-id="91441-126">Approve time and expenses</span></span>](../psa/approve-time-expenses.md)  
+-   [<span data-ttu-id="b0952-126">Одобравање времена и трошкова</span><span class="sxs-lookup"><span data-stu-id="b0952-126">Approve time and expenses</span></span>](../psa/approve-time-expenses.md)  
   
--   [<span data-ttu-id="91441-127">Прегледајте стварне податке о пројекту</span><span class="sxs-lookup"><span data-stu-id="91441-127">Review project actuals</span></span>](../psa/review-project-actuals.md)  
+-   [<span data-ttu-id="b0952-127">Прегледајте стварне податке о пројекту</span><span class="sxs-lookup"><span data-stu-id="b0952-127">Review project actuals</span></span>](../psa/review-project-actuals.md)  
   
--   [<span data-ttu-id="91441-128">Прикажите и шаљите фактуре</span><span class="sxs-lookup"><span data-stu-id="91441-128">View and send invoices</span></span>](../psa/view-send-invoices.md)  
+-   [<span data-ttu-id="b0952-128">Прикажите и шаљите фактуре</span><span class="sxs-lookup"><span data-stu-id="b0952-128">View and send invoices</span></span>](../psa/view-send-invoices.md)  
   
--   [<span data-ttu-id="91441-129">Прегледајте контролне табле и извештаје</span><span class="sxs-lookup"><span data-stu-id="91441-129">View dashboards and reports</span></span>](../psa/view-dashboards-reports.md)  
+-   [<span data-ttu-id="b0952-129">Прегледајте контролне табле и извештаје</span><span class="sxs-lookup"><span data-stu-id="b0952-129">View dashboards and reports</span></span>](../psa/view-dashboards-reports.md)  
   
-## <a name="prerequisites"></a><span data-ttu-id="91441-130">Предуслови</span><span class="sxs-lookup"><span data-stu-id="91441-130">Prerequisites</span></span>  
- <span data-ttu-id="91441-131">Ако сте нисте већ, мораћете да довршите следеће ставке пре него што можете да покренете креирање пројеката:</span><span class="sxs-lookup"><span data-stu-id="91441-131">If you haven't already, you’ll need to complete the following items before you can start creating projects:</span></span>  
+## <a name="prerequisites"></a><span data-ttu-id="b0952-130">Предуслови</span><span class="sxs-lookup"><span data-stu-id="b0952-130">Prerequisites</span></span>  
+ <span data-ttu-id="b0952-131">Ако сте нисте већ, мораћете да довршите следеће ставке пре него што можете да покренете креирање пројеката:</span><span class="sxs-lookup"><span data-stu-id="b0952-131">If you haven't already, you’ll need to complete the following items before you can start creating projects:</span></span>  
   
--   <span data-ttu-id="91441-132">[Креирајте предложак за радне сате](../psa/create-work-hours-template.md).</span><span class="sxs-lookup"><span data-stu-id="91441-132">[Create a work hours template](../psa/create-work-hours-template.md).</span></span> <span data-ttu-id="91441-133">Подесите календар пројекта који дефинише број радних сати које би требало да обавите по дану у распореду и све прекиде пословних активности.</span><span class="sxs-lookup"><span data-stu-id="91441-133">Set up a project calendar that defines the number of working hours to accommodate per day in the schedule and any business closures.</span></span>  
+-   <span data-ttu-id="b0952-132">[Креирајте предложак за радне сате](../psa/create-work-hours-template.md).</span><span class="sxs-lookup"><span data-stu-id="b0952-132">[Create a work hours template](../psa/create-work-hours-template.md).</span></span> <span data-ttu-id="b0952-133">Подесите календар пројекта који дефинише број радних сати које би требало да обавите по дану у распореду и све прекиде пословних активности.</span><span class="sxs-lookup"><span data-stu-id="b0952-133">Set up a project calendar that defines the number of working hours to accommodate per day in the schedule and any business closures.</span></span>  
   
--   <span data-ttu-id="91441-134">[Креирајте ценовник](../psa/create-price-list.md).</span><span class="sxs-lookup"><span data-stu-id="91441-134">[Create a price list](../psa/create-price-list.md).</span></span> <span data-ttu-id="91441-135">Поставите трошкове и продајне цене за улоге ресурса у вашој организацији, као и за друге категорије као што су трошкови и производи.</span><span class="sxs-lookup"><span data-stu-id="91441-135">Set cost and sales prices for resource roles in your organization, as well as for other categories like expenses and products.</span></span>  
+-   <span data-ttu-id="b0952-134">[Креирајте ценовник](../psa/create-price-list.md).</span><span class="sxs-lookup"><span data-stu-id="b0952-134">[Create a price list](../psa/create-price-list.md).</span></span> <span data-ttu-id="b0952-135">Поставите трошкове и продајне цене за улоге ресурса у вашој организацији, као и за друге категорије као што су трошкови и производи.</span><span class="sxs-lookup"><span data-stu-id="b0952-135">Set cost and sales prices for resource roles in your organization, as well as for other categories like expenses and products.</span></span>  
   
--   <span data-ttu-id="91441-136">[Додајте улоге ресурса](../psa/add-resource-roles.md).</span><span class="sxs-lookup"><span data-stu-id="91441-136">[Add resource roles](../psa/add-resource-roles.md).</span></span> <span data-ttu-id="91441-137">Дефинишите улоге да бисте лакше одредили захтеве за ресурсе и трошкове пројекта.</span><span class="sxs-lookup"><span data-stu-id="91441-137">Define roles to help determine resource requirements and project costs.</span></span>  
+-   <span data-ttu-id="b0952-136">[Додајте улоге ресурса](../psa/add-resource-roles.md).</span><span class="sxs-lookup"><span data-stu-id="b0952-136">[Add resource roles](../psa/add-resource-roles.md).</span></span> <span data-ttu-id="b0952-137">Дефинишите улоге да бисте лакше одредили захтеве за ресурсе и трошкове пројекта.</span><span class="sxs-lookup"><span data-stu-id="b0952-137">Define roles to help determine resource requirements and project costs.</span></span>  
   
-### <a name="see-also"></a><span data-ttu-id="91441-138">Такође погледајте</span><span class="sxs-lookup"><span data-stu-id="91441-138">See Also</span></span>  
- <span data-ttu-id="91441-139">[Преглед услуге Project Service](../psa/overview.md) </span><span class="sxs-lookup"><span data-stu-id="91441-139">[Overview of Project Service](../psa/overview.md) </span></span>  
- <span data-ttu-id="91441-140">[Водич за администраторе](../psa/admin-guide.md) </span><span class="sxs-lookup"><span data-stu-id="91441-140">[Administrator Guide](../psa/admin-guide.md) </span></span>  
- <span data-ttu-id="91441-141">[Водич за менаџера за пословне контакте](../psa/account-manager-guide.md) </span><span class="sxs-lookup"><span data-stu-id="91441-141">[Account Manager Guiden](../psa/account-manager-guide.md) </span></span>  
- <span data-ttu-id="91441-142">[Водич за менаџера ресурса](../psa/resource-manager-guide.md) </span><span class="sxs-lookup"><span data-stu-id="91441-142">[Resource Manager Guide](../psa/resource-manager-guide.md) </span></span>  
- [<span data-ttu-id="91441-143">Водич за време, трошак и сарадњу</span><span class="sxs-lookup"><span data-stu-id="91441-143">Time, Expense, and Collaboration Guide</span></span>](../psa/time-expense-collaboration-guide.md)
+### <a name="see-also"></a><span data-ttu-id="b0952-138">Такође погледајте</span><span class="sxs-lookup"><span data-stu-id="b0952-138">See Also</span></span>  
+ <span data-ttu-id="b0952-139">[Преглед услуге Project Service](../psa/overview.md) </span><span class="sxs-lookup"><span data-stu-id="b0952-139">[Overview of Project Service](../psa/overview.md) </span></span>  
+ <span data-ttu-id="b0952-140">[Водич за администраторе](../psa/admin-guide.md) </span><span class="sxs-lookup"><span data-stu-id="b0952-140">[Administrator Guide](../psa/admin-guide.md) </span></span>  
+ <span data-ttu-id="b0952-141">[Водич за менаџера за пословне контакте](../psa/account-manager-guide.md) </span><span class="sxs-lookup"><span data-stu-id="b0952-141">[Account Manager Guiden](../psa/account-manager-guide.md) </span></span>  
+ <span data-ttu-id="b0952-142">[Водич за менаџера ресурса](../psa/resource-manager-guide.md) </span><span class="sxs-lookup"><span data-stu-id="b0952-142">[Resource Manager Guide](../psa/resource-manager-guide.md) </span></span>  
+ [<span data-ttu-id="b0952-143">Водич за време, трошак и сарадњу</span><span class="sxs-lookup"><span data-stu-id="b0952-143">Time, Expense, and Collaboration Guide</span></span>](../psa/time-expense-collaboration-guide.md)
 
