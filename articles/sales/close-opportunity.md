@@ -5,19 +5,19 @@ author: rumant
 manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 06c6f06754714af3260ddb1c86aacc2f937ba77d
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 59a4cd96a4fd24987179f0ab17f1379efc22bbbe
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083816"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4128750"
 ---
 # <a name="close-an-opportunity"></a>Затварање могућности за пословање
 
-_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_
+_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 Могућности за пословање пројекта се могу затворити као остварене или неостварене. Дијалог **Затварање могућности за пословање** вам омогућава да унесете разлог статуса, датум и друге детаље о остваривању или неостваривању могућности за пословање.
 

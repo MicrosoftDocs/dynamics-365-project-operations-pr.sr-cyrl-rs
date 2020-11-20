@@ -5,19 +5,19 @@ author: ruhercul
 manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: db3446c360c2d9278774d49ca3d5950cf2ce85ad
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: c707a664230cc56e2ac8114279f091936f446153
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083867"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4126456"
 ---
 # <a name="define-resource-requirements"></a>Дефинисање захтева за ресурсима
 
-_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_
+_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 Захтеве за ресурсима дефинише менаџер пројекта како би утврдио ресурсе потребне за извршење посла на пројекту. Обавите следеће кораке да бисте дефинисали захтев за ресурсима.
 

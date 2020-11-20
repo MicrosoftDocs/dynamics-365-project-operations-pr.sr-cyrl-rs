@@ -5,23 +5,23 @@ author: stsporen
 manager: Annbe
 ms.date: 10/07/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: cb49109e8c199bc4569702ae844a19985534294d
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 0100c29873be6346614e958ef6ea0c77da2c9590
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083912"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4131631"
 ---
 # <a name="develop-project-templates-with-copy-project"></a>Развијте предлошке пројеката помоћу опције за копирање пројеката
 
-_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_
+_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 Dynamics 365 Project Operations подржава могућност копирања пројекта и враћања свих задатака у генеричке ресурсе који представљају улогу. Клијенти могу да користе ову функционалност за израду основних предложака пројеката.
 
-Када одаберете **Копирај пројекат** , статус циљног пројекта се ажурира. Користите **Разлог статуса** да би се утврдило када је акција копирања завршена. Избор **Копирај пројекат** такође ажурира датум почетка пројекта на тренутни датум почетка ако није откривен циљни датум у циљном ентитету пројекта.
+Када одаберете **Копирај пројекат**, статус циљног пројекта се ажурира. Користите **Разлог статуса** да би се утврдило када је акција копирања завршена. Избор **Копирај пројекат** такође ажурира датум почетка пројекта на тренутни датум почетка ако није откривен циљни датум у циљном ентитету пројекта.
 
 ## <a name="copy-project-custom-action"></a>Прилагођена радња копирања пројекта 
 
@@ -39,7 +39,7 @@ Dynamics 365 Project Operations подржава могућност копира
 | Циљ             | Референтни ентитет | Циљни пројекат |
 
 
-- **{"clearTeamsAndAssignments":true}** : Подразумевано понашање за Project за веб и уклониће све задатке и чланове тима.
+- **{"clearTeamsAndAssignments":true}**: Подразумевано понашање за Project за веб и уклониће све задатке и чланове тима.
 - **{"removeNamedResources":true}** Подразумевано понашање за Project Operations и вратиће задатке на генеричке ресурсе.
 
 За више подразумеваних вредности радњи погледајте [Користите веб API радње](https://docs.microsoft.com/powerapps/developer/common-data-service/webapi/use-web-api-actions)

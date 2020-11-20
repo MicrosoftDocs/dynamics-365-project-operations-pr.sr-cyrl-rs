@@ -5,23 +5,23 @@ author: ruhercul
 manager: AnnBe
 ms.date: 09/23/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 6bb7c185656ff87bb3ca24209594c07d25862d70
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 3c4d02fd589d4a5d39380688852377f57fceb05b
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083917"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4130326"
 ---
 # <a name="generic-resource-requirement-fulfillment"></a>Испуњавање генеричких захтева за ресурсима
 
-_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_
+_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 Можете резервисати именовани ресурс да бисте заменили генерички ресурс за којим постоји потреба.
 
-1. На страници **Пројекти** , изаберите картицу **Тим**.
+1. На страници **Пројекти**, изаберите картицу **Тим**.
 2. Са листе изаберите генерички ресурс за којим постоји потреба, а затим изаберите **Резервиши**. Или отворите потребу за ресурсом, а затим изаберите **Резервиши**.
 3. На страници **Помоћник за заказивање** изаберите именовани ресурс који ћете резервисати за пројектни тим, а затим изаберите **Резервиши**.
 

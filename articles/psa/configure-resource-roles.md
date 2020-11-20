@@ -3,7 +3,7 @@ title: Конфигурисање улога ресурса
 description: Како да конфигуришете улоге ресурса у апликацији Project Service
 author: JohnPBurrows
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5f899d17980df16602c964bab4bbab1e976b3ebf
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 0b573bec395217e105cc8d9c669343e37ff6662e
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083970"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4129156"
 ---
 # <a name="configure-resource-roles-project-service"></a>Конфигурисање улога ресурса (Project Service)
 
@@ -41,13 +41,13 @@ ms.locfileid: "4083970"
   
 2.  Кликните на дугме **Ново**.  
   
-3.  У оквиру области **Општи подаци** , унесите име за улогу у пољу **Име** , а затим попуните друга поља како је потребно.  
+3.  У оквиру области **Општи подаци**, унесите име за улогу у пољу **Име**, а затим попуните друга поља како је потребно.  
   
 4.  Кликните на дугме **Сачувај** за креирање записа тако да можете да наставите га уређујете.  
   
 5.  У области **Вештине** кликните на **+** да бисте додали вештину.  
   
-6.  У окну **Услов компетенције за улогу** кликните на поље **Вештине** , кликните на дугме **Претрага** , а затим изаберите вештину.  
+6.  У окну **Услов компетенције за улогу** кликните на поље **Вештине**, кликните на дугме **Претрага**, а затим изаберите вештину.  
   
 7.  Изаберите стручност за ту вештину, а затим кликните на дугме **Сачувај**.  
   

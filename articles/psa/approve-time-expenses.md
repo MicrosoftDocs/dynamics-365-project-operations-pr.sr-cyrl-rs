@@ -3,7 +3,7 @@ title: Одобравање времена и трошкова
 description: Како да одобрите време и трошкове у услузи Project Service
 author: revathiMuthiah
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 6b5fca4ab1eb4c907c3fd6cca5e2adf79fad9590
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: ce126815dce37055fb364512a9a14c828d9b0c32
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4084150"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4127131"
 ---
 # <a name="approve-time-and-expenses-project-service"></a>Одобрење времена и трошкова (Project Service)
 
@@ -35,7 +35,7 @@ ms.locfileid: "4084150"
   
 2.  Кликните на ставку за одобрење.  
   
-3.  На картицама **Уноси времена** , **Уноси трошкова** и **Одсуство/Одмор** , прегледајте сваку ставку и унесите промене ако је потребно.  
+3.  На картицама **Уноси времена**, **Уноси трошкова** и **Одсуство/Одмор**, прегледајте сваку ставку и унесите промене ако је потребно.  
   
 4.  Да бисте одобрили ставку, изаберите је и кликните на **Одобри**. Можете да изаберете и одобрите више ставки одједном.  
   

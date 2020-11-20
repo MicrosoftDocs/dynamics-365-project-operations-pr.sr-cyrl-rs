@@ -3,7 +3,7 @@ title: Управљање пројектима и резервацијама у 
 description: Како да управљате пројектима и резервацијама у Office 365 календару
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -17,12 +17,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: fd4119693875fb851c7bd3f34287db7d81237140
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 31ff541f5b817c29b162c38c282df8cfd866e375
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4084006"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4129066"
 ---
 # <a name="manage-projects-and-bookings-in-your-calendar-project-service"></a>Управљање пројектима и резервацијама у календару (Project Service)
 
@@ -70,14 +70,14 @@ ms.locfileid: "4084006"
   
 3.  Кликните на картицу **Синхронизација**.  
   
-4.  У оквиру **Синхронизација резервације ресурса са програмом Outlook** , означите **Синхронизација резервације ресурса са програмом Outlook**.  
+4.  У оквиру **Синхронизација резервације ресурса са програмом Outlook**, означите **Синхронизација резервације ресурса са програмом Outlook**.  
   
 ## <a name="import-your-personal-appointments-user-task"></a>Увезите ваше личне заказане обавезе (задатак корисника)  
  Можете да увезете личне заказане обавезе из календара у приказ уноса времена у апликацији Project Service Automation.  
   
 1. Отворите [!INCLUDE[pn_office_365](../includes/pn-office-365.md)] календар и кликните на **Увоз података**.  
   
-2. На екрану Филтери изаберите **Заказане обавезе из услуге Exchange** , а затим кликните на **Примени**.  
+2. На екрану Филтери изаберите **Заказане обавезе из услуге Exchange**, а затим кликните на **Примени**.  
   
 3. Систем ће извући заказане обавезе у приказу уноса времена као предложеним уносима за тренутну недељу. Да бисте додали ставке за другу недељу, кликните на дугме **Претходно** или **Следеће**.  
   

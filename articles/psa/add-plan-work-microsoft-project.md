@@ -3,7 +3,7 @@ title: Користите програмски додатак Project Service з
 description: Ова тема пружа информације о додавању, конфигурисању и коришћењу програмског додатка Microsoft Project у програму Microsoft Project Service.
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 04/06/2019
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1d988419ae5a9d57532902d2553cd7de147e27c1
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 6bc74442866caccc02e53afc913a55aab81f9629
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4084102"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4129696"
 ---
 # <a name="use-the-project-service-automation-add-in-to-plan-your-work-in-microsoft-project"></a>Користите програмски додатак Project Service Automation за планирање вашег рада у програму Microsoft Project
 
@@ -70,7 +70,7 @@ ms.locfileid: "4084102"
 
 1.  Отворите пројекат и кликните на траку **Задатак**.  
 
-2.  Кликните на мени **Гантов графикон** , а затим изаберите **Листа ресурса**.  
+2.  Кликните на мени **Гантов графикон**, а затим изаберите **Листа ресурса**.  
 
 3.  На листу ресурса кликните на дугме у падајућем менију **Улога ресурса за Project Service** и одаберите улогу за Project Service Automation.  
 
@@ -80,7 +80,7 @@ ms.locfileid: "4084102"
 
 2.  На екрану **Резервација ресурса** изаберите ресурс који желите да користите за пројекат.  
 
-3.  Кликните на дугме **Резервиши** , а затим на **У реду**.  
+3.  Кликните на дугме **Резервиши**, а затим на **У реду**.  
 
 ## <a name="publish-your-project"></a>Објавите ваш пројекат  
 Када се планирање пројекта заврши, следећи корак је увоз и објављивање пројекта у функцији [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)].  
@@ -141,9 +141,9 @@ ms.locfileid: "4084102"
 
 3. У дијалогу **Омогући отварање у програму [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** изаберите **Да** или **Не**.  
 
-   - Ако кликнете на **Да** , моћи ћете да изаберете дугме **Отвори у програму [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** у решењу Project Service Automation, да покренете [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] и учитате датотеку пројекта из SharePoint библиотеке докумената.  
+   - Ако кликнете на **Да**, моћи ћете да изаберете дугме **Отвори у програму [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** у решењу Project Service Automation, да покренете [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] и учитате датотеку пројекта из SharePoint библиотеке докумената.  
 
-   - Ако кликнете на **Не** , веза за дугме **Отвори у програму [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** неће радити.  
+   - Ако кликнете на **Не**, веза за дугме **Отвори у програму [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** неће радити.  
 
 4. [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] датотеку можете да пронађете у функцији [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] у оквиру опције **Документи** за одређени [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] пројекат.  
 
@@ -155,9 +155,9 @@ ms.locfileid: "4084102"
 
 3. У дијалогу **Омогући отварање у програму [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** изаберите **Да** или **Не**.  
 
-   - Ако кликнете на **Да** , моћи ћете да изаберете дугме **Отвори у програму [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** у решењу Project Service Automation, да покренете [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] и учитате датотеку пројекта из SharePoint библиотеке докумената.  
+   - Ако кликнете на **Да**, моћи ћете да изаберете дугме **Отвори у програму [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** у решењу Project Service Automation, да покренете [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] и учитате датотеку пројекта из SharePoint библиотеке докумената.  
 
-   - Ако кликнете на **Не** , веза за дугме **Отвори у програму [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** неће радити.  
+   - Ако кликнете на **Не**, веза за дугме **Отвори у програму [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)]** неће радити.  
 
 4. [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] датотеку можете да пронађете у функцији [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] у оквиру опције **Документи** за одређени [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] пројекат.  
 

@@ -5,19 +5,19 @@ author: ruhercul
 manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 19128264ed3db7efeeba948155f0ddbdc806c2a0
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: c87b0c32ef081f601ed79c11687f008bb454dd45
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083824"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4131091"
 ---
 # <a name="book-to-a-project"></a>Резервисање за пројекат
 
-_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_
+_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 Постоје случајеви у којима ће менаџер пројекта или менаџер ресурса морати да додели ресурс пројекту, ада од генеричког члана тима није дефинисан посебан захтев. То се може постићи на један од три начина.
 

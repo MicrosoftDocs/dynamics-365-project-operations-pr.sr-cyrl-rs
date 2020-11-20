@@ -3,7 +3,7 @@ title: Додајте документа у пројекат
 description: Кораци за додавање документа у пројекат у услузи Project Service
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 7/30/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 8702222207301c530476bf2aafc6ce78d3475550
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 07453337fa0493d6be5dc10fe92984685a0a38da
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083965"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4129741"
 ---
 # <a name="add-documents-to-a-project-project-service"></a>Додавање докумената у пројекат (Project Service)
 
@@ -37,7 +37,7 @@ ms.locfileid: "4083965"
   
 3. На траци у врху екрана изаберите стрелицу надоле поред назива пројекта, а затим кликните на **Документи**.  
   
-4. Унесите име за документ у опцији **Име** , а затим копирајте URL адресу из [!INCLUDE[pn_SharePoint_short](../includes/pn-sharepoint-short.md)] локације документа у **Локацију документа**.  
+4. Унесите име за документ у опцији **Име**, а затим копирајте URL адресу из [!INCLUDE[pn_SharePoint_short](../includes/pn-sharepoint-short.md)] локације документа у **Локацију документа**.  
   
 5. Кликните на **Сачувај**.  
   

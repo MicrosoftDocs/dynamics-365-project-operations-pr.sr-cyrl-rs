@@ -3,7 +3,7 @@ title: Водич за администраторе
 description: Постепена упутства за администрацију за услугу Project Service
 author: JohnPBurrows
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 7/31/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 7462a57ad750f255cfb48dbbeda7f899f51ecfa7
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 7bce13430f56b4c72453c90a259e3ffb3a63d8a3
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4084009"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4129560"
 ---
 # <a name="administrator-guide-project-service"></a>Водич за администратора (Project Service)
 
@@ -36,7 +36,7 @@ ms.locfileid: "4084009"
 - [Конфигуришите програм Project Service Automation](configure.md)
 - [Подесите јединице времена](set-up-time-units.md)
 - [Подесите валуте и девизне курсеве](set-up-currencies-exchange-rates.md)
-- [Креирајте организационе јединице](create-organizational-units.md)
+- [Креирање организационих јединица](create-organizational-units.md)
 - [Подешавање учесталости фактурисања](set-up-invoice-frequencies.md)
 - [Конфигурисање категорија трансакција](configure-transaction-categories.md)
 - [Конфигурисање категорија трошкова](configure-expense-categories.md)
