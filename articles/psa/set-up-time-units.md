@@ -3,7 +3,7 @@ title: Подесите јединице времена
 description: Како да подесите јединице времена у апликацији Project Service
 author: revathimuthiah
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,30 +18,30 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: d071549e6493258aeea187d70ee35054d2e8ea60
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: c007f59f542618860af21125313abd066e17cf45
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4084067"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4120111"
 ---
-# <a name="set-up-time-units-project-service"></a><span data-ttu-id="08f3a-103">Подешавање јединица времена (Project Service)</span><span class="sxs-lookup"><span data-stu-id="08f3a-103">Set up time units (Project Service)</span></span>
+# <a name="set-up-time-units-project-service"></a><span data-ttu-id="34f10-103">Подешавање јединица времена (Project Service)</span><span class="sxs-lookup"><span data-stu-id="34f10-103">Set up time units (Project Service)</span></span>
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
-<span data-ttu-id="08f3a-104">Конфигуришите јединице времена у каталогу производа које ћете користити као основу за планирање и наплату пројеката.</span><span class="sxs-lookup"><span data-stu-id="08f3a-104">Configure the time units in the product catalog that you’ll use as a base for scheduling and billing your projects.</span></span>  
+<span data-ttu-id="34f10-104">Конфигуришите јединице времена у каталогу производа које ћете користити као основу за планирање и наплату пројеката.</span><span class="sxs-lookup"><span data-stu-id="34f10-104">Configure the time units in the product catalog that you’ll use as a base for scheduling and billing your projects.</span></span>  
   
-1. <span data-ttu-id="08f3a-105">Идите на **Поставке > Каталог производа**</span><span class="sxs-lookup"><span data-stu-id="08f3a-105">Go to **Settings > Product Catalog**.</span></span>  
+1. <span data-ttu-id="34f10-105">Идите на **Поставке > Каталог производа**</span><span class="sxs-lookup"><span data-stu-id="34f10-105">Go to **Settings > Product Catalog**.</span></span>  
   
-2. <span data-ttu-id="08f3a-106">Кликните на **Групе јединица**.</span><span class="sxs-lookup"><span data-stu-id="08f3a-106">Click **Unit Groups**.</span></span>  
+2. <span data-ttu-id="34f10-106">Кликните на **Групе јединица**.</span><span class="sxs-lookup"><span data-stu-id="34f10-106">Click **Unit Groups**.</span></span>  
   
-3. <span data-ttu-id="08f3a-107">Кликните на групу јединица **Време** (креирану током инсталације [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)]).</span><span class="sxs-lookup"><span data-stu-id="08f3a-107">Click the **Time** unit group (created during [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] installation).</span></span>  
+3. <span data-ttu-id="34f10-107">Кликните на групу јединица **Време** (креирану током инсталације [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)]).</span><span class="sxs-lookup"><span data-stu-id="34f10-107">Click the **Time** unit group (created during [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] installation).</span></span>  
   
-4. <span data-ttu-id="08f3a-108">На картици **Јединице** кликните на **Додај нову јединицу** , а затим промените вредности како је потребно.</span><span class="sxs-lookup"><span data-stu-id="08f3a-108">On the **Units** tab, click **Add New Unit** , and then change the values as necessary.</span></span> <span data-ttu-id="08f3a-109">Додајте онолико јединица колико вам је потребно.</span><span class="sxs-lookup"><span data-stu-id="08f3a-109">Add as many units as you need.</span></span> <span data-ttu-id="08f3a-110">На пример, можда ћете желети да креирате следеће јединице:</span><span class="sxs-lookup"><span data-stu-id="08f3a-110">For example, you might want to create the following units:</span></span>  
+4. <span data-ttu-id="34f10-108">На картици **Јединице** кликните на **Додај нову јединицу**, а затим промените вредности како је потребно.</span><span class="sxs-lookup"><span data-stu-id="34f10-108">On the **Units** tab, click **Add New Unit**, and then change the values as necessary.</span></span> <span data-ttu-id="34f10-109">Додајте онолико јединица колико вам је потребно.</span><span class="sxs-lookup"><span data-stu-id="34f10-109">Add as many units as you need.</span></span> <span data-ttu-id="34f10-110">На пример, можда ћете желети да креирате следеће јединице:</span><span class="sxs-lookup"><span data-stu-id="34f10-110">For example, you might want to create the following units:</span></span>  
   
-   - <span data-ttu-id="08f3a-111">**Дан** са **Основном јединицом** = **Час** и **Количина** = 8</span><span class="sxs-lookup"><span data-stu-id="08f3a-111">**Day** with **Base unit** = **Hour** and **Quantity** = 8</span></span>  
+   - <span data-ttu-id="34f10-111">**Дан** са **Основном јединицом** = **Час** и **Количина** = 8</span><span class="sxs-lookup"><span data-stu-id="34f10-111">**Day** with **Base unit** = **Hour** and **Quantity** = 8</span></span>  
   
-   - <span data-ttu-id="08f3a-112">**Седмица** са **Основном јединицом** = **Дан** и **Количина** = 5</span><span class="sxs-lookup"><span data-stu-id="08f3a-112">**Week** with **Base unit** = **Day** and **Quantity** = 5</span></span>  
+   - <span data-ttu-id="34f10-112">**Седмица** са **Основном јединицом** = **Дан** и **Количина** = 5</span><span class="sxs-lookup"><span data-stu-id="34f10-112">**Week** with **Base unit** = **Day** and **Quantity** = 5</span></span>  
   
-### <a name="see-also"></a><span data-ttu-id="08f3a-113">Такође погледајте</span><span class="sxs-lookup"><span data-stu-id="08f3a-113">See Also</span></span>  
- [<span data-ttu-id="08f3a-114">Конфигурисање апликације Project Service</span><span class="sxs-lookup"><span data-stu-id="08f3a-114">Configure Project Service</span></span>](../psa/configure.md)
+### <a name="see-also"></a><span data-ttu-id="34f10-113">Такође погледајте</span><span class="sxs-lookup"><span data-stu-id="34f10-113">See Also</span></span>  
+ [<span data-ttu-id="34f10-114">Конфигурисање апликације Project Service</span><span class="sxs-lookup"><span data-stu-id="34f10-114">Configure Project Service</span></span>](../psa/configure.md)
