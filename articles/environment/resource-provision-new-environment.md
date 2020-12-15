@@ -8,18 +8,20 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 044a942a068b33318b98041cc94944d90c1d63c3
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 9ed502a1312b702e029d8910d62f72b8e0e4df06
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4121191"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4643007"
 ---
 # <a name="provision-a-new-environment"></a>Обезбеђење новог окружења
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_
 
-Ова тема пружа информације о начину обезбеђења новог Dynamics 365 Project Operations окружења за сценарије засноване на ресурсима / без залиха.
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
+Ова тема пружа информације о начину да обезбедите ново Dynamics 365 Project Operations окружење за сценарије засноване на ресурсима/без залиха.
 
 ## <a name="enable-project-operations-automated-provisioning-in-an-lcs-project"></a>Омогућавање Project Operations аутоматског обезбеђивања у LCS пројекту
 
@@ -120,7 +122,7 @@ Project Operations захтева Finance окружење са верзијом
 
 ![Примена решења](./media/13ApplySolutions.png)
 
-5. Изаберите оба решења, **Dynamics 365 Finance and Operations мапа ентитета за двоструко уписивање** и **Dynamics 365 Project Operations мапе ентитета двоструког уписивања**, а затим изаберите **Примени**.
+5. Изаберите оба решења, **Dynamics 365 Finance and Operations мапа ентитета за двоструко писање** и **Dynamics 365 Project Operations мапе ентитета за двоструко писање**, а затим изаберите **Примени**.
 
 ![Потврда решења](./media/14ConfirmSolutions.png)
 
@@ -158,9 +160,10 @@ Project Operations захтева Finance окружење са верзијом
 
 | **Мапа ентитета** | **Освежавање ентитета** | **Почетна синхронизација** | **Мастер за почетну синхронизацију** | **Предуслови за покретање** | **Почетна синхронизација предуслова** |
 | --- | --- | --- | --- | --- | --- |
-| **Улоге пројектних ресурса за сва предузећа (bookableresourcecategories)** | Не | Да | Common Data Service | Не | Није примењиво |
-| **Правна лица (cdm\_предузећа)** | Не | Да | Finance and Operations апликације | Не | Није примењиво |
-| **Project Operations стварне вредности интеграције (msdyn\_стварне вредности)** | Не | Не | Није примењиво | Да | Не |
+| **Улоге пројектних ресурса за сва предузећа (bookableresourcecategories)** | No | Да | Common Data Service | No | Није примењиво |
+| **Правна лица (cdm\_предузећа)** | No | Да | Finance and Operations апликације | No | Није примењиво |
+| **Књига (msdyn_ledgers)** | No | Да | Finance and Operations апликације | Да | Да, Finance and Operations апликације |
+| **Project Operations стварне вредности интеграције (msdyn\_стварне вредности)** | No | Не | Није примењиво | Да | Не |
 | **Предмети уговора пројекта (salesorderdetails)** | Не | Не | Није примењиво | Не | Не |
 | **Ентитет интеграције за односе трансакција пројекта (msdyn\_transactionconnections)** | Не | Не | Није примењиво | Не | Није примењиво |
 | **Project Operations контролне тачке предмета уговора о интеграцији (msdyn\_contractlinesscheduleofvalues)** | Не | Не | Није примењиво | Не | Није примењиво |

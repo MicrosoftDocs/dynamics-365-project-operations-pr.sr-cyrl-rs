@@ -17,16 +17,17 @@ ms.search.region: Global
 ms.author: ruhercul
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 1e1a963bccefd1552aab6e42d3b2d1dc63a82e8f
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: d9ccbb29d5035ea061d232011af87cef2c81e76c
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4084113"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642471"
 ---
 # <a name="project-service-automation-overview"></a>Преглед услуге Project Service Automation
 
 [!include[banner](../includes/banner.md)]
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
 Решење за интеграцију из Project Service Automation у Finance користи функцију интеграције података за синхронизацију података у свим инстанцама услуга Dynamics 365 Finance и Dynamics 365 Project Service Automation преко услуге Common Data Service. Предлошци интеграције који су доступни са функцијом Интеграција података омогућавају ток пројеката, уговоре о пројекту, предмете уговора о пројекту, контролне тачке предмета уговора о пројекту, пројектне задатке, категорије трансакција трошкова, процене сати и процене трошкова из услуге Project Service Automation у Finance.
 

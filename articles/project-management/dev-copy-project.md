@@ -8,18 +8,20 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 0100c29873be6346614e958ef6ea0c77da2c9590
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 22976730ef3c8c22ea028b27a6eb5f14fb88993e
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4131631"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642426"
 ---
 # <a name="develop-project-templates-with-copy-project"></a>Развијте предлошке пројеката помоћу опције за копирање пројеката
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
-Dynamics 365 Project Operations подржава могућност копирања пројекта и враћања свих задатака у генеричке ресурсе који представљају улогу. Клијенти могу да користе ову функционалност за израду основних предложака пројеката.
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
+Dynamics 365 Project Operations подржава могућност копирања пројекта и враћања било којих задатака генеричким ресурсима који представљају улогу. Клијенти могу да користе ову функционалност за израду основних предложака пројеката.
 
 Када одаберете **Копирај пројекат**, статус циљног пројекта се ажурира. Користите **Разлог статуса** да би се утврдило када је акција копирања завршена. Избор **Копирај пројекат** такође ажурира датум почетка пројекта на тренутни датум почетка ако није откривен циљни датум у циљном ентитету пројекта.
 

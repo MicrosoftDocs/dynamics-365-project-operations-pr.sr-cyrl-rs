@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 6bc74442866caccc02e53afc913a55aab81f9629
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 86b676a0cf74e0257fd76cf32271497eebc06e75
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4129696"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642786"
 ---
 # <a name="use-the-project-service-automation-add-in-to-plan-your-work-in-microsoft-project"></a>Користите програмски додатак Project Service Automation за планирање вашег рада у програму Microsoft Project
 
@@ -173,6 +173,59 @@ ms.locfileid: "4129696"
 4. Изаберите дугме **Објави**  
 
 Повезивање датотеке пројекта са функцијом [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] од датотеке пројекта прави главну датотеку и подешава структурну анализу посла у предлошку за [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] на само за читање.  Да бисте унели измене у план пројекта, потребно је да их направите у програму [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] и да их објавите као исправке за функцију [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)].
+
+## <a name="read-a-resource-loaded-schedule"></a>Прочитајте распоред ког је учитао ресурс
+
+Када читате пројекат из услуге Project Service Automation, календар ресурса није синхронизован са клијентом за рачунаре. Ако постоје разлике у трајању задатка, напору или завршетку, то је вероватно зато што ресурси и клијент рачунара немају исти календар предлошка радних сати примењен на пројекат.
+
+
+## <a name="data-synchronization"></a>Синхронизација података
+
+Следећа табела описује како се подаци синхронизују између услуге Project Service Automation и програмског додатка за рачунаре услуге Microsoft Project.
+
+| **Ентитет** | **Поље** | **Microsoft Project са услугом Project Service Automation** | **Project Service Automation са услугом Microsoft Project** |
+| --- | --- | --- | --- |
+| Пројектни задатак | Крајњи рок | ● | - |
+| Пројектни задатак | Процењено ангажовање | ● | - |
+| Пројектни задатак | ID MS Project клијента | ● | - |
+| Пројектни задатак | Надређени задатак | ● | - |
+| Пројектни задатак | Project | ● | - |
+| Пројектни задатак | Пројектни задатак | ● | - |
+| Пројектни задатак | Име пројектног задатка | ● | - |
+| Пројектни задатак | Јединица за одређивање ресурса (неодобрено у верзији 3.0) | ● | - |
+| Пројектни задатак | Заказано трајање | ● | - |
+| Пројектни задатак | Датум почетка | ● | - |
+| Пројектни задатак | ID за САП | ● | - |
+
+| **Ентитет** | **Поље** | **Microsoft Project са услугом Project Service Automation** | **Project Service Automation са услугом Microsoft Project** |
+| --- | --- | --- | --- |
+| Члан тима | ID MS Project клијента | ● | - |
+| Члан тима | Име положаја | ● | - |
+| Члан тима | пројекат | ● | ● |
+| Члан тима | Пројектни тим | ● | ● |
+| Члан тима | Јединица за одређивање ресурса | - | ● |
+| Члан тима | Улога | - | ● |
+| Члан тима | Часови радног времена | Није синхронизовано | Није синхронизовано |
+
+| **Ентитет** | **Поље** | **Microsoft Project са услугом Project Service Automation** | **Project Service Automation са услугом Microsoft Project** |
+| --- | --- | --- | --- |
+| Додела ресурса | Датум „Од“ | ● | - |
+| Додела ресурса | Час(ов)а | ● | - |
+| Додела ресурса | ID MS Project клијента | ● | - |
+| Додела ресурса | Планирани рад | ● | - |
+| Додела ресурса | Project | ● | - |
+| Додела ресурса | Пројектни тим | ● | - |
+| Додела ресурса | Додела ресурса | ● | - |
+| Додела ресурса | Задатак | ● | - |
+| Додела ресурса | Датум „До“ | ● | - |
+
+| **Ентитет** | **Поље** | **Microsoft Project са услугом Project Service Automation** | **Project Service Automation са услугом Microsoft Project** |
+| --- | --- | --- | --- |
+| Зависности пројектних задатака | Зависност пројектног задатка | ● | - |
+| Зависности пројектних задатака | Тип везе | ● | - |
+| Зависности пројектних задатака | Претходни задатак | ● | - |
+| Зависности пројектних задатака | Project | ● | - |
+| Зависности пројектних задатака | Следећи задатак | ● | - |
 
 ### <a name="see-also"></a>Такође погледајте  
  [Водич за менаџера пројекта](../psa/project-manager-guide.md)

@@ -8,18 +8,20 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: ce37c9dd18fd01e599e8766389e42c066e182547
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: 3381707457ef35ff604c716592afd8382b98ad5d
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4177079"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4643056"
 ---
 # <a name="project-contracts---key-concepts---lite"></a>Уговори за пројекат – Кључни концепти – једноставно
 
 _**Односи се на:** Једноставна примена – од погодбе до профактуре_
 
-Ова тема пружа кључне концепте којих морате бити свесни пре него што почнете да користите пројектне уговоре у услузи Dynamics 365 Project Operations:
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
+У овој теми дати су кључни концепти којих морате бити свесни пре него што почнете да користите пројектне уговоре у Dynamics 365 Project Operations:
 
 ## <a name="contracting-unit"></a>Јединица уговарања
 

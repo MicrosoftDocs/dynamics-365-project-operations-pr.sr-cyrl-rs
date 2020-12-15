@@ -3,17 +3,17 @@ title: Ставка трошка (лагана верзија)
 description: Ова тема пружа информације о томе како радити са ставком трошка у једноставној примени.
 author: stsporen
 manager: AnnBe
-ms.date: 10/06/2020
+ms.date: 11/19/2020
 ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 536c961593599df8e7e2986f92259b0e690eae8b
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: d87094882751f0751a8d9d539fa4cdcfc6b7b0d7
+ms.sourcegitcommit: 16c442258ba24c79076cf5877a0f3c1f51a85f61
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4121101"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "4590964"
 ---
 # <a name="expense-entry-lite"></a>Ставка трошка (лагана верзија)
 
@@ -36,6 +36,10 @@ _**Односи се на:** Једноставна примена – од по
 
 1. Идите на **Трошкови** и изаберите трошак. Или изаберите све трошкове помоћу поља за потврду у заглављу.
 2. Изаберите **Проследи**. Систем обрађује одабране ставке, а затим креира захтеве за одобрење трошкова.
+
+## <a name="add-an-attachment"></a>Додајте прилог
+
+Можда ћете одобраваоцу морати да доставите додатну документацију о свом трошку. У временску осу уноса трошкова можете приложити признаницу. Изаберите **Уреди** и у одељку **Временска оса**, а затим изаберите икону спајалице да бисте приложили признаницу.
 
 ## <a name="recall-a-basic-expense"></a>Опозив основног трошка
 

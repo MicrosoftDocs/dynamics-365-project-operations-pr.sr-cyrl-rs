@@ -8,16 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 0633585fcef91d9218d6140764addb7cf96ab31d
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: d4ef905f875ac8af7b2d70c3e64506558bdea1ed
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4175684"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642201"
 ---
 # <a name="deploy-project-operations---lite"></a>Примена услуге Project Operations – једноставно
 
 _**Односи се на:** Једноставна примена – од погодбе до профактуре_
+
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
 Project Operations подржава више модела примене. Да бисте утврдили најбољи модел примене, погледајте чланак [Врсте примена](determine-deployment-type.md).
 
