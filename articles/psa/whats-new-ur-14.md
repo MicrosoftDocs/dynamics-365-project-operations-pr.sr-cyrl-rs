@@ -17,14 +17,17 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: b811bf7ccfb626e6944801dffa943d2afab0c5e8
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: f9347741d8dae2c9a810bb5b3a32d4d6c0a628ed
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4124836"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5147176"
 ---
 # <a name="project-service-automation-update-release-14-v3"></a>Project Service Automation издање исправке 14, у верзији 3
+
+[!include [banner](../includes/psa-now-project-operations.md)]
+
 Са задовољство најављујемо најновију исправку за апликацију Dynamics 365 Project Service Automation (PSA). Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите центар за администрацију за Dynamics 365 online и идите до странице са решењима како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
 
 У овој теми дате су функције које су нове или су промењене у решењу PSA у верзији 3, издање исправке 14. Ова верзија има број верзије V3.10.4.21 и доступна је према следећем плану:
