@@ -34,3 +34,6 @@ _**Односи се на:** Project Operations за сценарије засн
 1. Организација
 2. Клијент
 3. Понуда/уговор
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

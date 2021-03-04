@@ -64,3 +64,6 @@ ms.locfileid: "4084031"
 32. У поље **Цена** унесите број.
 33. Изаберите ставку **Сачувај**.
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

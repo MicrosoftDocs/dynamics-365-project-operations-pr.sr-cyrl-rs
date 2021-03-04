@@ -73,3 +73,6 @@ ms.locfileid: "5144881"
 > ![Пробни подаци за ентитет Стандардна позиција ](media/ST-data.png)
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

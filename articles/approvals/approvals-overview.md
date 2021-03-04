@@ -59,3 +59,6 @@ _**Односи се на:** Project Operations за сценарије засн
 3. Изаберите ставку **Сачувај**.
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

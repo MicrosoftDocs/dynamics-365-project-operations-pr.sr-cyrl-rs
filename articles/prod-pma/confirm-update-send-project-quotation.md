@@ -57,3 +57,6 @@ ms.locfileid: "4084110"
 
 > [!NOTE]
 > Не можете да измените понуду за пројекат након што се статус промени у **Послато**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

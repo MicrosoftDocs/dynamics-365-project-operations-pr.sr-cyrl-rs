@@ -96,3 +96,6 @@ Dynamics 365 Project Service Automation се ослања на поље **Тип
     ```
 
 6. Сачувајте, а затим објавите прилагођавања.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

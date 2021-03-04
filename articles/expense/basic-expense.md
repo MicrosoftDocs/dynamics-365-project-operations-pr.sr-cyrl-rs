@@ -55,3 +55,6 @@ _**Односи се на:** Једноставна примена – од по
 ## <a name="see-also"></a>Такође погледајте
 
 - [Преглед одобрења](../approvals/approvals-overview.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

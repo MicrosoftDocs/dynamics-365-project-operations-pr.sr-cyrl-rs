@@ -112,3 +112,6 @@ Dynamics 365 Project Operations подржава могућност копира
     }
 }
 ```
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

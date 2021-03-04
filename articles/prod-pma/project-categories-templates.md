@@ -124,3 +124,6 @@ ms.locfileid: "4084111"
 > Мапирање приказује информације о терену које ће се синхронизовати из услуге Project Service Automation у Finance.
 
 [![Мапирање услуге Project Service Automation са Finance предлошком](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

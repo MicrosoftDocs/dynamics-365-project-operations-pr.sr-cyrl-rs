@@ -297,3 +297,6 @@ ms.locfileid: "5144521"
 
 > [!div class="mx-imgBorder"]
 > ![Снимак екрана активних ресурса који могу да се резервишу](media/sample-data-6.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

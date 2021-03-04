@@ -20,3 +20,6 @@ ms.locfileid: "4514581"
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 Можете користити услугу Dynamics 365 Field Service да бисте креирали ресурсе који могу да се резервишу за употребу у вашем Dynamics 365 Project Operations окружењу. Да бисте креирали ове ресурсе, погледајте [Подешавање ресурса који могу да се резервишу](https://docs.microsoft.com/dynamics365/field-service/set-up-bookable-resources).
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

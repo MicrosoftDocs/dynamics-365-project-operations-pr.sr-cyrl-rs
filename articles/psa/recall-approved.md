@@ -107,3 +107,6 @@ ms.locfileid: "5147869"
 Следећа илустрација приказује промене које се дешавају за одобрене ставке трошкова када су опозване.
 
 ![Промене статуса ставке трошкова](media/ExpenseEntryStateTransitions.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

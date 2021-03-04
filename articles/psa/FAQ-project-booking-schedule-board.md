@@ -91,3 +91,6 @@ ms.locfileid: "5146546"
 
 4. Сада када је ресурс резервисан, морате да му ручно доделите задатке.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

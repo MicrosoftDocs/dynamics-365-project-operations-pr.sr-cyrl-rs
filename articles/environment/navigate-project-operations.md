@@ -38,3 +38,6 @@ Dynamics 365 Project Operations за сценарије са ресурсима/
 
 > [!NOTE]
 > Услузи Project Operations можете приступити у услузи Common Data Service и модулу **Управљање пројектима и рачуноводство** директно користећи њихове одговарајуће URL адресе. 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

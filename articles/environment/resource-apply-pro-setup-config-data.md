@@ -134,3 +134,6 @@ _**Односи се на:** Project Operations за сценарије засн
 13. Изаберите ставку **Сачувај**. 
 
 ![Ажурирани параметри пројекта](./media/17UpdatedProjectParameters.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

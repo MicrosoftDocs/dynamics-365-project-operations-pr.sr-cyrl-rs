@@ -68,3 +68,6 @@ ms.locfileid: "5147086"
 
 9. Затворите алатку за регистровање додатне компоненте.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

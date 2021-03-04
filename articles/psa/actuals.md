@@ -330,3 +330,6 @@ PSA бележи финансијске трансакције које се д�
 </tr>
 </tbody>
 </table>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

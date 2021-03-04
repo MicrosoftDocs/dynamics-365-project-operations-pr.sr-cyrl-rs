@@ -53,3 +53,6 @@ ms.locfileid: "5147446"
 - [Резервисање именованих ресурса из потребе за ресурсима](book-named-resource.md)
 - [Прослеђивање захтева за ресурс](submit-resource-request.md)
 - [Прихватање или одбацивање предложеног ресурса пројекта у захтеву за ресурс](accept-reject-proposed-resource.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

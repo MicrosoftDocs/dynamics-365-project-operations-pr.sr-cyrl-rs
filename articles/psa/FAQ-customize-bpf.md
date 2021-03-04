@@ -107,3 +107,6 @@ ms.locfileid: "5149021"
 
    ![Снимак екрана измене приказа у ентитету Пројекат](media/FAQ-Customize-BPF-8-720.png)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

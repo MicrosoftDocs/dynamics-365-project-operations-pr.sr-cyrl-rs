@@ -342,3 +342,6 @@ Project Operations бележи финансијске трансакције к
 </tr>
 </tbody>
 </table>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

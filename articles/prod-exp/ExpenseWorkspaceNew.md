@@ -78,3 +78,6 @@ ms.locfileid: "4960265"
 - Ток посла на нивоу ставке
 - Прелазна подршка даваоцу одобрења
 - Напредно разврставање
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

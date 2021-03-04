@@ -42,3 +42,6 @@ ms.locfileid: "5146636"
 
 - Погоршање перформанси претраге помоћи за заказивање
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

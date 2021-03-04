@@ -82,3 +82,6 @@ PSA потврђује да се као фактори количине озна
 
 > ![Означавање броја корисника и броја месеци као фактора квалитета](media/basic-guide-11.png)
  
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

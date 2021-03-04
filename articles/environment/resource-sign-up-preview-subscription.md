@@ -98,3 +98,6 @@ _**Односи се на:** Project Operations за сценарије засн
 
 Инсталирајте податке о подешавању и конфигурацији CDS како је описано у теми [Подесите и примените податке о конфигурацији у услузи Common Data Service](resource-apply-pro-setup-config-data.md).
 Довршите овај корак тек након што се примени демо окружење услуге Finance и демо подаци у FO буду спремни.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

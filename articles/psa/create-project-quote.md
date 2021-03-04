@@ -55,3 +55,6 @@ ms.locfileid: "5149426"
   
 ### <a name="see-also"></a>Такође погледајте  
  [Водич за менаџера за пословне контакте](../psa/account-manager-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

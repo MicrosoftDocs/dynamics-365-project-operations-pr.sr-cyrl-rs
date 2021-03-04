@@ -273,3 +273,6 @@ _**Односи се на:** Једноставна примена – од по
         </tr>
     </tbody>
 </table>
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

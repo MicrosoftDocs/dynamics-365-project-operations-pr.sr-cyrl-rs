@@ -49,3 +49,6 @@ ms.locfileid: "4083950"
     | Датум завршетка    | Унесите датум завршетка процеса синхронизације за збирне вредности капацитета ресурса. |
 
 [![Процес синхронизације](./media/projectresourcing09.jpg)](./media/projectresourcing09.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

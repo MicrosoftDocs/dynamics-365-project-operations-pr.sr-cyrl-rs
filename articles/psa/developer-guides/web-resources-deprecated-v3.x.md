@@ -538,3 +538,6 @@ ms.locfileid: "5148571"
 - msdyn\_\\Време\\Апликација\\Скрипте\\Прикази\\SubmitDialog.js
 - msdyn\_\\Време\\Апликација\\Скрипте\\Прикази\\TimeEntryView.js
 - msdyn\_\\Време\\Moca\\Скрипте\\TimeEntryRibbon.js
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

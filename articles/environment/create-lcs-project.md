@@ -36,3 +36,6 @@ _**Односи се на:** Project Operations за сценарије засн
 
 Користите овај LCS пројекат за примену Project Operations окружења.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

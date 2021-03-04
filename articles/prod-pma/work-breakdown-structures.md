@@ -316,3 +316,6 @@ Finance користи правило зараде 0:100 када постављ
 
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

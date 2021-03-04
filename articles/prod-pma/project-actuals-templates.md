@@ -140,3 +140,6 @@ ms.locfileid: "4084104"
 [![Мапирање предложака - ажурирање стварних трошкова](./media/ActualsUpdateMapping.jpg)](./media/ActualsUpdateMapping.jpg)
 
 [![Мапирање предложака - ажурирање трансакција](./media/TransactionConnectionsUpdate.jpg)](./media/TransactionConnectionsUpdate.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

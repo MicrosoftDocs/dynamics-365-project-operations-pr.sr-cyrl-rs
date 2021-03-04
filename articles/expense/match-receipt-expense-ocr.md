@@ -94,3 +94,6 @@ _**Односи се на:** Project Operations за сценарије засн
 Финансије ће контактирати Cognitive Services да би извукли податке са терена. Cognitive Services ће задржати копију ваше признанице и до 24 сата док траје обрада. По завршетку обраде, Cognitive Services ће уклонити признаницу. Признанице се и даље чувају у Финансијама.
 
 За више информација погледајте [Омогућите разумевање признанице са новом способношћу препознавања образаца](https://azure.microsoft.com/blog/enable-receipt-understanding-with-form-recognizer-s-new-capability/).
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

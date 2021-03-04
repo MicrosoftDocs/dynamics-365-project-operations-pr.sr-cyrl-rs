@@ -95,3 +95,6 @@ ms.locfileid: "5148301"
  [Водич за менаџера ресурса](../psa/resource-manager-guide.md)   
  [Водич за време, трошак и сарадњу](../psa/time-expense-collaboration-guide.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

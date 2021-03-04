@@ -74,3 +74,6 @@ _**Једноставна примена – од погодбе до профа
     -   Карактеристика ресурса који може да се резервише
 
     ![Комплетан увоз](./media/6CompleteImport.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

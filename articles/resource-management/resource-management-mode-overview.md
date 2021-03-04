@@ -48,3 +48,6 @@ Dynamics 365 Project Operations подржава два режима како б
 Резервисање ресурса из захтева за ресурсима:
 - [Додељивање генеричких ресурса који се могу резервисати задатку и генерисање потреба за ресурсима](https://docs.microsoft.com/dynamics365/project-service/assign-generic-bookable-resource)
 - [Резервисање именованих ресурса из потребе за ресурсима](https://docs.microsoft.com/dynamics365/project-service/book-named-resource)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

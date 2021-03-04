@@ -49,3 +49,6 @@ ms.locfileid: "4083961"
 - [Ставка времена пројекта]( project-time-entry-mobile-workspace.md)
 - [Временски распореди пројекта на мобилном уређају](Mobile-timesheets.md)
 - [Примените прилагођена поља за Microsoft Dynamics 365 Project Timesheet апликацију за мобилне уређаје на платформама iOS и Android](custom-fields-mobile.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

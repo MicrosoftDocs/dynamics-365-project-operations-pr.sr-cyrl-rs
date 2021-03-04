@@ -82,3 +82,6 @@ ms.locfileid: "5150011"
 
 3. Изаберите ресурс који желите да доделите задатку.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

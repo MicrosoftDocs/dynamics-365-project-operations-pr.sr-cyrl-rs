@@ -52,3 +52,6 @@ ms.locfileid: "4643236"
 7. Изаберите **У реду** да затворите страницу, а затим изаберите **Ажурирај корак**.
 8. Поновите кораке од 2-7 за другу додатну компоненту, **PreOperationQuoteLineDetail**. За ову додатну компоненту, морате да ажурирате корак **Update of msdyn_quotelinetransaction**.
 9. Затворите **PluginRegistrationTool**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

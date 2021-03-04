@@ -54,3 +54,6 @@ ms.locfileid: "5147986"
   
 ### <a name="see-also"></a>Такође погледајте  
  [Водич за менаџера пројекта](../psa/project-manager-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -49,3 +49,6 @@ ms.locfileid: "5149291"
   
 ### <a name="see-also"></a>Такође погледајте  
  [Водич за време, трошак и сарадњу](../psa/time-expense-collaboration-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

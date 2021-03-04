@@ -57,3 +57,6 @@ _**Односи се на:** Project Operations за сценарије засн
 -   Предузеће које обезбеђује ресурсе
 -   Типови ресурса
 -   Жељени ресурси
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

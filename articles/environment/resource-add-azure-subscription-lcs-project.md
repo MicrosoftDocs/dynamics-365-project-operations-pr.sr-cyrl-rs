@@ -70,3 +70,6 @@ _**Односи се на:** Project Operations за сценарије засн
 Успешно сте повезали своју Azure претплату. Сада можете да примените Dynamics 365 Finance окружења хостована у облаку.
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

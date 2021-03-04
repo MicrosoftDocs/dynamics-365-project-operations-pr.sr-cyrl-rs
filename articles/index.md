@@ -42,3 +42,6 @@ Microsoft Dynamics 365 Project Operations повезује тимове за п�
 - [Преглед услуге Project Operations](https://dynamics.microsoft.com/en-us/project-operations/overview/)
 - [Преглед 1. таласа издања услуге Dynamics 365 Project Operations за 2020. годину](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/dynamics365-project-operations/)
 
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

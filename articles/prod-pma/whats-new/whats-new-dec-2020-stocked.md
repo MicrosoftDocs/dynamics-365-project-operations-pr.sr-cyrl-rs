@@ -142,3 +142,6 @@ _Односи се на: Project Operations за сценарије заснов
 ## <a name="regulatory-updates"></a>Регулаторне исправке
 
 Информације о регулаторним исправкама за Dynamics 365 Finance потражите у чланку [Регулаторне исправке](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates). Други начин да сазнате више о регулаторним исправкама је да се пријавите на Lifecycle Services (LCS) и прегледате планиране регулаторне исправке помоћу алатке за претрагу проблема. Претрага проблема вам омогућава претрагу по земљи, типу функције и издању.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

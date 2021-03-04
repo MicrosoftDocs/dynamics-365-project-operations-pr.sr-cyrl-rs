@@ -52,3 +52,6 @@ Microsoft Power BI и Dynamics 365 заједно пружају моћан на
 - [Рад са Project Service моделом података](reports-working-project-service-data-model.md)
 - [Контролне табле](reports-dashboards.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

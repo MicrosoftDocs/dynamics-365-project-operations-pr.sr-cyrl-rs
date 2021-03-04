@@ -160,3 +160,6 @@ ms.locfileid: "4960355"
 - Када смернице истичу?
 - Какво је правило смерница?
 - Какав је исход правила смерница?
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

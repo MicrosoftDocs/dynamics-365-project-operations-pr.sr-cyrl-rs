@@ -58,3 +58,6 @@ ms.locfileid: "4084132"
 ### <a name="videos"></a>Видео записи
 
 Погледајте видео записе са упутствима који су сада доступни на [Microsoft Dynamics 365 YouTube каналу](https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ).
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

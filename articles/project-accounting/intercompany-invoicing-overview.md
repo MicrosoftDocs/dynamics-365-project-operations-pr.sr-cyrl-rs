@@ -43,3 +43,6 @@ Dynamics 365 Project Operations користи следећи ток за обр
 - [Конфигурисање интерног фактурисања у оквиру предузећа](configure-intercompany-invoicing.md)
 - [Евидентирање трансакција у оквиру предузећа](create-intercompany-transactions.md)
 - [Креирање интерних фактура клијента и добављача у оквиру предузећа](create-intercompany-customer-vendor-invoices.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

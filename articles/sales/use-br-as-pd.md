@@ -78,3 +78,6 @@ ms.locfileid: "4643101"
 5. Додајте **msdyn_bookableresourceid** у **Назив поља**.
 
  ![Образац за ново име поља димензије за одређивање цена](media/PD-fieldname-Added.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -101,3 +101,6 @@ _**Односи се на:** Project Operations за сценарије засн
           - **Предузеће које одређује ресурсе** = **Contoso Robotics UK**
           - **Стопа наплате** = **200 USD**
       9. Идите на **Продаја** > **Пројектни уговори** и приложите ценовник за **Adventure Works стопе наплате** ценовнику уговора о пројекту за Adventure Works пројекат.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

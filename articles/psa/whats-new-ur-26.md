@@ -74,3 +74,6 @@ ms.locfileid: "5143576"
 - Приликом избора ставке засноване на пројекту у понуду или уговору, дугме **Предлог** би требало да буде видљиво само при одабиру линије засноване на производу повезане са постојећим производом.
 - Поделите привилегију **Create_Product** из привилегије **Create_ProjectContract**.
 - Брисање ставке у фактору доводи до неуспеле празне референце на **MarkReadyToInvoiceForProductContractLineAfterDeletingInvoice**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

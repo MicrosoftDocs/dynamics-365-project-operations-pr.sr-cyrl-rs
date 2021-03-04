@@ -64,3 +64,6 @@ ms.locfileid: "5143651"
 
     -   Фиксно: када корисници надограде са 2.X на 3.X, дозвољавају се пројекти чија је вредност за назив пројекта NULL.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

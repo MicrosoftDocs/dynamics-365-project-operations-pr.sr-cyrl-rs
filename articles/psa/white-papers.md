@@ -45,3 +45,6 @@ ms.locfileid: "5146996"
 
 ### <a name="see-also"></a>Такође погледајте
  [Преглед апликације Project Service](../psa/overview.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

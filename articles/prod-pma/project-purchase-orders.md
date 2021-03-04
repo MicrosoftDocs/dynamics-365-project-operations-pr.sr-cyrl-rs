@@ -76,3 +76,6 @@ ms.locfileid: "4083960"
 
 За више информација погледајте [Пријем ставки по поруџбеници из захтева за ставку](tasks/receive-items-purchase-order-item-requirement.md).
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

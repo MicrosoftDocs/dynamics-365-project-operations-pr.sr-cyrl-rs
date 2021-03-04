@@ -52,3 +52,6 @@ ms.locfileid: "5145781"
  [Водич за менаџера пословног контакта](../psa/account-manager-guide.md) [Водич за менаџера пројекта](../psa/project-manager-guide.md)   
  [Водич за менаџера ресурса](../psa/resource-manager-guide.md)   
  [Водич за време, трошак и сарадњу](../psa/time-expense-collaboration-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

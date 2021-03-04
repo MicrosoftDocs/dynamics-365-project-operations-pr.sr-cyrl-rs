@@ -76,3 +76,6 @@ ms.locfileid: "5145016"
 5. Додајте **msdyn_projectteam** у поље **Логичко име ентитета** и **msdyn_bookableresourceid** у поље **Име поља**. Сачувајте запис.
 
  ![Образац за ново име поља димензије за одређивање цена](media/PD-fieldname-Added.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

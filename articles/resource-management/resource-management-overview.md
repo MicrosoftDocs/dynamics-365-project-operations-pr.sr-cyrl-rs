@@ -25,3 +25,6 @@ ms.lasthandoff: 10/28/2020
 ms.locfileid: "4119796"
 ---
 # <a name="resource-management-overview"></a>Преглед управљања ресурсима
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

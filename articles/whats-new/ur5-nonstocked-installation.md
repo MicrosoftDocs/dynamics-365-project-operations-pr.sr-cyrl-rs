@@ -125,3 +125,6 @@ _**Односи се на:** Project Operations за сценарије засн
  
  ![Синхронизација мапе главне књиге](media/DW6.png)
  
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -33,3 +33,6 @@ Dynamics 365 Project Service Automation 3.x нуди нове функције, 
 - [Промене времена и трошкова (Project Service Automation 3.x)](../developer-guides/time-expense-changes-v3.x.md)
 - [Промене у управљању ресурсима (Project Service Automation 3.x)](../developer-guides/resource-management-changes-v3.x.md)
 - [Застарели веб-ресурси у апликацији Project Service Automation 3.x](../developer-guides/web-resources-deprecated-v3.x.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

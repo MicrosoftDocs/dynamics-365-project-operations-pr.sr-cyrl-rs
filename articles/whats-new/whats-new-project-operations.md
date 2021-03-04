@@ -25,3 +25,6 @@ ms.lasthandoff: 10/28/2020
 ms.locfileid: "4132149"
 ---
 # <a name="whats-new-in-project-operations"></a>Шта је ново у услузи Project operations
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

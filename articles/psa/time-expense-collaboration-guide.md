@@ -73,3 +73,6 @@ ms.locfileid: "5150146"
  [Водич за менаџера за пословне контакте](../psa/account-manager-guide.md)   
  [Водич за менаџера пројекта](../psa/project-manager-guide.md)   
  [Водич за менаџера ресурса](../psa/resource-manager-guide.md)   
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

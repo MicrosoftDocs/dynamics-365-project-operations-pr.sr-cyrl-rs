@@ -60,3 +60,6 @@ _**Односи се на:** Project Operations за сценарије засн
 [Управљање проценама прихода](rev-rec-completed-contract-method.md)
 
 [Методи од трошка до довршетка](cost-complete-methods.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

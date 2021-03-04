@@ -41,3 +41,6 @@ ms.locfileid: "5147581"
 - [Потребе за условним резервисањем](resource-management-softbook-requirements.md)
 - [Вештине и модели стручности](resource-management-skills-proficiency.md)
 - [Најчешћа питања о управљању ресурсима](resource-management-faq.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

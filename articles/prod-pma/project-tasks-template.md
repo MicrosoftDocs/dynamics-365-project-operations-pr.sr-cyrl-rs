@@ -83,3 +83,6 @@ ms.locfileid: "4083954"
 Следећа илустрација приказује пример мапирања задатака предлошка у интеграцији података. Мапирање приказује информације о терену које ће се синхронизовати из услуге Project Service Automation у Finance.
 
 [![Мапирање предложака](./media/ProjectTasksMapping.png)](./media/ProjectTasksMapping.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

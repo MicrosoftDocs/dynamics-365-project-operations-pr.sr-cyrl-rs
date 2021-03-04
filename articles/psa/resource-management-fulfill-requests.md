@@ -46,3 +46,6 @@ ms.locfileid: "5147626"
 > ![Ресурс је изабран](media/Resource-Management-image61.png)
 
 Генерички члан тима замењује се фиксно резервисаним именованим ресурсом пројектног тима и доделама задатака у распореду пројекта.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

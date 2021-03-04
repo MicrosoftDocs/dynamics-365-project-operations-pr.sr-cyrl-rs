@@ -59,3 +59,6 @@ ms.locfileid: "5145421"
 
 ![Захтев за ресурсима](media/RM-how-to-13.png)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

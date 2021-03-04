@@ -44,3 +44,6 @@ Dynamics 365 Project Operations подржава могућност обраде
 
 ## <a name="determine-your-expense-deployment"></a>Одредите своју примену трошкова
 Да бисте утврдили да ли покрећете примену управљања основним трошковима, проверите да ли се URL адреса завршава са **.crm.dynamics.com**. 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

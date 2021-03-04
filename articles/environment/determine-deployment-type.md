@@ -98,3 +98,6 @@ Project Operations за сценарије ресурса / без залиха 
 
 За ово распоређивање, погледајте чланак [Пријава за претплате на преглед](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/dev-tools/sign-up-preview-subscription?toc=/dynamics365/finance/toc.json) и [Обезбеђивање новог окружења](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment?toc=/dynamics365/finance/toc.json). 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

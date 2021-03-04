@@ -55,3 +55,6 @@ ms.locfileid: "4083958"
 - [Перформансе планирања ресурса за пројекат](project-scheduling-performance.md)
 - [Подесите улоге на предлошцима структурне анализа посла](set-up-roles-wbs-template.md)
 - [Испуњавање ресурса за планиране ресурсе](resource-fulfillment-planned-resources.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

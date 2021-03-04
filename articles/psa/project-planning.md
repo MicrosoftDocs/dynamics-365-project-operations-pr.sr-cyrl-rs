@@ -52,3 +52,6 @@ Dynamics 365 Project Service Automation нуди потпуну подршку �
 - [Предлошци пројеката](project-templates.md)
 - [Фазе пројекта](project-stages.md)
 - [Подешавања пројекта](project-settings.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

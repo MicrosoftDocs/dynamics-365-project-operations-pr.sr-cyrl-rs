@@ -113,3 +113,6 @@ ms.locfileid: "5147536"
 Да бисте видели више детаља о појединачном ресору, кликните десним тастером миша на ресурс да бисте отворили картицу ресурса.
 
 ![Картица ресурса](media/Resource-Management-image71.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -42,3 +42,6 @@ ms.locfileid: "5151091"
 Поправљени су следећи проблеми:
 
 - Погоршање перформанси претраге помоћи за заказивање
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

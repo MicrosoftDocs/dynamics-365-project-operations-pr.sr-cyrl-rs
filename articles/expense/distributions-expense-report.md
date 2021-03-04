@@ -30,3 +30,6 @@ _**Односи се на:** Project Operations за сценарије засн
 | Возна карта   | 578 DKK              | 405 DKK                         | 173 DKK                         |
 | Хотел        | 725 EUR              | 557 EUR                         | 168 EUR                         |
 | Оброци        | 346 EUR              | 284 EUR                         | 62 EUR                          |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

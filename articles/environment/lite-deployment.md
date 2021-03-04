@@ -44,3 +44,6 @@ Project Operations подржава више модела примене. Да �
 2. Инсталирајте **Microsoft Dynamics 365 Project Operations** са листе за примену Dynamics 365 апликација. Више информација потражите у чланку [Управљање Dynamics 365 апликацијама](https://docs.microsoft.com/power-platform/admin/manage-apps).
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

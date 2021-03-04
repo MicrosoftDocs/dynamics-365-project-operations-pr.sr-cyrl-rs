@@ -20,3 +20,6 @@ ms.locfileid: "4514583"
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 Можете да користите функционалност обезбеђену у услузи Dynamics 365 Field Service да бисте дефинисали улоге у вашем Dynamics 365 Project Operations окружењу. Да бисте довршили ово подешавање, погледајте [Подешавање категорија ресурса који могу да се резервишу](https://docs.microsoft.com/dynamics365/field-service/set-up-bookable-resource-categories).
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

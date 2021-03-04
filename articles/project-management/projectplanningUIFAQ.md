@@ -106,3 +106,6 @@ Project Operations се ослања на екстерну услугу зака
   - Project Operations систем
   - Пројектни систем
   - Project Operations систем двоструког уписивања (ова улога је потребна ако примењујете ресурс/сценарио који није заснован на залихама услуге Project Operations.)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

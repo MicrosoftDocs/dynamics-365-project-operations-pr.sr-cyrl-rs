@@ -56,3 +56,6 @@ ms.locfileid: "4084139"
 21. У пољу **Пријем производа** , откуцајте вредност.
 22. Изаберите **У реду**.
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -57,3 +57,6 @@ ms.locfileid: "5143772"
 - Исправљено: када је класа трансакције **Време**, **UnitGroup** не може да се уређује ни за један ентитет, укључујући **QuoteLineDetails**, **JournalLine**, **InvoiceLineDetail** и **ContractLineDetails**. Међутим, **Јединица** не може да се уређује само за **JournalLine** и **InvoiceLineDetails**.
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

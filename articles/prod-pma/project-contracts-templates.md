@@ -153,3 +153,6 @@ ms.locfileid: "4764837"
 #### <a name="project-contract-line-milestone-mapping-in-the-projects-and-contracts-psa-3x-to-dynamics---v2-template"></a>Мапирање контролних тачака предмета уговора о пројекту у пројектима и уговорима (из PSA 3.x у Dynamics) – предложак верзије 2:
 
 [![Мапирање контролне тачке предмета уговора са предлошком верзије два](./media/ProjectContractLineMilestoneMapping_v2.jpg)](./media/ProjectContractLineMilestoneMapping_v2.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -44,3 +44,6 @@ ms.locfileid: "5147895"
 - [Групе јединица и јединице](advanced-units.md)
 - [Валута са више јединица](advanced-currency.md)
 - [Евидентирање стварних вредности](advanced-actuals.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

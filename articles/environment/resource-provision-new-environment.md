@@ -209,3 +209,6 @@ Project Operations захтева Finance окружење са верзијом
 
 
 Ваше Project Operations окружење је сада обезбеђено и конфигурисано. 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

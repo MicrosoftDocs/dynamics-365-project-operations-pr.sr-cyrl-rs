@@ -198,3 +198,6 @@ _**Односи се на:** Project Operations за сценарије засн
         </tr>
     </tbody>
 </table>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

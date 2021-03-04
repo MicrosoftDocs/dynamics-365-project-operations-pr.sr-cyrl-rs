@@ -55,3 +55,6 @@ ms.locfileid: "4180729"
     | Пројектант | Fabrikam US | Fabrikam US - Robotics | 150 USD |
 
 3. Приложите продајни ценовник, **Fabrikam US стопе наплате** пројектном ценовнику пројектног уговора или на одређени налог.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

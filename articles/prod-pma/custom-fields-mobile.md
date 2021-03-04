@@ -429,3 +429,6 @@ final class TSTimesheetDetails_Extension
 1. Апликација покушава да постави подразумевану категорију из ресурса пројекта. Ова подразумевана категорија је подешена у методама **getCurrentUserResource** и **getDelegatedResourcesForCurrentUser** у класи **TSTimesheetSettingsService**.
 2. Ако подразумевана категорија није наведена на нивоу ресурса пројекта, апликација покушава да је повуче из активности пројекта. Ова подразумевана категорија је постављена у методи **getActivitiesForProject** у класи **TSTimesheetProjectService**.
 3. Ако подразумевана категорија није наведена на нивоу активности пројекта, подразумевана категорија се преузима из параметара пројекта. Ова подразумевана категорија се поставља у методи **getProjectDetailsbyRule** у класи **TSTimesheetProjectService**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
