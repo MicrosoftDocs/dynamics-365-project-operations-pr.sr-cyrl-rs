@@ -18,56 +18,58 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 4f975a248c6224bdea72ca1ecdb8a299f0f9254c
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 06f5e6c64a15a79a3ed6501cad8653adbbbd5be9
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4120066"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5150146"
 ---
-# <a name="time-expense-and-collaboration-guide-project-service"></a><span data-ttu-id="86a12-103">Водич за време, трошкове и сарадњу (Project Service)</span><span class="sxs-lookup"><span data-stu-id="86a12-103">Time, expense, and collaboration guide (Project Service)</span></span>
+# <a name="time-expense-and-collaboration-guide-project-service"></a><span data-ttu-id="cce98-103">Водич за време, трошкове и сарадњу (Project Service)</span><span class="sxs-lookup"><span data-stu-id="cce98-103">Time, expense, and collaboration guide (Project Service)</span></span>
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
-<span data-ttu-id="86a12-104">Добро дошли у апликацију [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)], која помаже предузећима да управљају продајом на основу пројекта.</span><span class="sxs-lookup"><span data-stu-id="86a12-104">Welcome to the [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] app, which helps companies manage their project-based sales.</span></span> 
+<span data-ttu-id="cce98-104">Добро дошли у апликацију [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)], која помаже предузећима да управљају продајом на основу пројекта.</span><span class="sxs-lookup"><span data-stu-id="cce98-104">Welcome to the [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] app, which helps companies manage their project-based sales.</span></span> 
   
- <span data-ttu-id="86a12-105">Ово вас води кроз уношење времена и трошкова за пројекте на којима радите.</span><span class="sxs-lookup"><span data-stu-id="86a12-105">This guides you through entering your time and expenses for the projects you’re working on.</span></span> <span data-ttu-id="86a12-106">Пратите ставке времена и трошкова да бисте били сигурни:</span><span class="sxs-lookup"><span data-stu-id="86a12-106">Stay on top of your time and expense entry to make sure:</span></span>  
+ <span data-ttu-id="cce98-105">Ово вас води кроз уношење времена и трошкова за пројекте на којима радите.</span><span class="sxs-lookup"><span data-stu-id="cce98-105">This guides you through entering your time and expenses for the projects you’re working on.</span></span> <span data-ttu-id="cce98-106">Пратите ставке времена и трошкова да бисте били сигурни:</span><span class="sxs-lookup"><span data-stu-id="cce98-106">Stay on top of your time and expense entry to make sure:</span></span>  
   
-- <span data-ttu-id="86a12-107">Да правилно наплаћујете клијентима</span><span class="sxs-lookup"><span data-stu-id="86a12-107">Your clients are billed properly</span></span>  
+- <span data-ttu-id="cce98-107">Да правилно наплаћујете клијентима</span><span class="sxs-lookup"><span data-stu-id="cce98-107">Your clients are billed properly</span></span>  
   
-- <span data-ttu-id="86a12-108">Да добијате заслуге за посао који сте обавили</span><span class="sxs-lookup"><span data-stu-id="86a12-108">You get credit for the work you’ve done</span></span>  
+- <span data-ttu-id="cce98-108">Да добијате заслуге за посао који сте обавили</span><span class="sxs-lookup"><span data-stu-id="cce98-108">You get credit for the work you’ve done</span></span>  
   
-- <span data-ttu-id="86a12-109">Да ваши менаџери знају статусе пројеката</span><span class="sxs-lookup"><span data-stu-id="86a12-109">Your managers know the status of your projects</span></span>  
+- <span data-ttu-id="cce98-109">Да ваши менаџери знају статусе пројеката</span><span class="sxs-lookup"><span data-stu-id="cce98-109">Your managers know the status of your projects</span></span>  
   
-  <span data-ttu-id="86a12-110">Можете такође сарађивати са члановима тима дељењем докумената и покретањем разговора путем [!INCLUDE[pn_office_365_groups](../includes/pn-office-365-groups.md)] повезаним за пројектима.</span><span class="sxs-lookup"><span data-stu-id="86a12-110">You can also collaborate with your fellow team members by sharing documents and starting conversations through [!INCLUDE[pn_office_365_groups](../includes/pn-office-365-groups.md)] associated with your projects.</span></span>  
+  <span data-ttu-id="cce98-110">Можете такође сарађивати са члановима тима дељењем докумената и покретањем разговора путем [!INCLUDE[pn_office_365_groups](../includes/pn-office-365-groups.md)] повезаним за пројектима.</span><span class="sxs-lookup"><span data-stu-id="cce98-110">You can also collaborate with your fellow team members by sharing documents and starting conversations through [!INCLUDE[pn_office_365_groups](../includes/pn-office-365-groups.md)] associated with your projects.</span></span>  
   
-  <span data-ttu-id="86a12-111">Можете унети време и трошкове путем веб-апликације (апликације засноване на прегледачу) или помоћу [!INCLUDE[pn_crm_shortest](../includes/pn-crm-shortest.md)] апликације за телефоне и таблете на мобилном уређају.</span><span class="sxs-lookup"><span data-stu-id="86a12-111">You can enter time and expenses through the web app (browser-based app), or with the [!INCLUDE[pn_crm_shortest](../includes/pn-crm-shortest.md)] for phones and tablets app on your mobile device.</span></span> <span data-ttu-id="86a12-112">Када будете спремни за ваш следећи пројекат, можете да користите апликацију Project Finder Mobile.</span><span class="sxs-lookup"><span data-stu-id="86a12-112">When you’re ready for your next project, you can use the Project Finder Mobile app.</span></span>  
+  <span data-ttu-id="cce98-111">Можете унети време и трошкове путем веб-апликације (апликације засноване на прегледачу) или помоћу [!INCLUDE[pn_crm_shortest](../includes/pn-crm-shortest.md)] апликације за телефоне и таблете на мобилном уређају.</span><span class="sxs-lookup"><span data-stu-id="cce98-111">You can enter time and expenses through the web app (browser-based app), or with the [!INCLUDE[pn_crm_shortest](../includes/pn-crm-shortest.md)] for phones and tablets app on your mobile device.</span></span> <span data-ttu-id="cce98-112">Када будете спремни за ваш следећи пројекат, можете да користите апликацију Project Finder Mobile.</span><span class="sxs-lookup"><span data-stu-id="cce98-112">When you’re ready for your next project, you can use the Project Finder Mobile app.</span></span>  
   
-<span data-ttu-id="86a12-113">Кликните на везу у наставку да бисте сазнали више о томе шта можете урадити помоћу [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)]:</span><span class="sxs-lookup"><span data-stu-id="86a12-113">Click on a link below to learn more about what you can do with [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)]:</span></span>  
+<span data-ttu-id="cce98-113">Кликните на везу у наставку да бисте сазнали више о томе шта можете урадити помоћу [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)]:</span><span class="sxs-lookup"><span data-stu-id="cce98-113">Click on a link below to learn more about what you can do with [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)]:</span></span>  
   
--   [<span data-ttu-id="86a12-114">Набавите апликације</span><span class="sxs-lookup"><span data-stu-id="86a12-114">Get the apps</span></span>](../psa/get-apps.md)  
+-   [<span data-ttu-id="cce98-114">Набавите апликације</span><span class="sxs-lookup"><span data-stu-id="cce98-114">Get the apps</span></span>](../psa/get-apps.md)  
   
--   [<span data-ttu-id="86a12-115">Пријављивање</span><span class="sxs-lookup"><span data-stu-id="86a12-115">Sign in</span></span>](../psa/sign-in.md)  
+-   [<span data-ttu-id="cce98-115">Пријављивање</span><span class="sxs-lookup"><span data-stu-id="cce98-115">Sign in</span></span>](../psa/sign-in.md)  
   
--   [<span data-ttu-id="86a12-116">Прикажите распоред</span><span class="sxs-lookup"><span data-stu-id="86a12-116">View your schedule</span></span>](../psa/view-schedule.md)  
+-   [<span data-ttu-id="cce98-116">Прикажите распоред</span><span class="sxs-lookup"><span data-stu-id="cce98-116">View your schedule</span></span>](../psa/view-schedule.md)  
   
--   [<span data-ttu-id="86a12-117">Управљање пројектима и резервацијама у Office 365 календару</span><span class="sxs-lookup"><span data-stu-id="86a12-117">Manage projects and bookings in your Office 365 calendar</span></span>](../psa/manage-project-bookings-office-365-calendar.md)  
+-   [<span data-ttu-id="cce98-117">Управљање пројектима и резервацијама у Office 365 календару</span><span class="sxs-lookup"><span data-stu-id="cce98-117">Manage projects and bookings in your Office 365 calendar</span></span>](../psa/manage-project-bookings-office-365-calendar.md)  
   
--   [<span data-ttu-id="86a12-118">Унесите време</span><span class="sxs-lookup"><span data-stu-id="86a12-118">Enter time</span></span>](../psa/enter-time.md)  
+-   [<span data-ttu-id="cce98-118">Унесите време</span><span class="sxs-lookup"><span data-stu-id="cce98-118">Enter time</span></span>](../psa/enter-time.md)  
   
--   [<span data-ttu-id="86a12-119">Унесите трошкове</span><span class="sxs-lookup"><span data-stu-id="86a12-119">Enter expenses</span></span>](../psa/enter-expenses.md)  
+-   [<span data-ttu-id="cce98-119">Унесите трошкове</span><span class="sxs-lookup"><span data-stu-id="cce98-119">Enter expenses</span></span>](../psa/enter-expenses.md)  
   
--   [<span data-ttu-id="86a12-120">Дозволите некоме другом да уноси ваше уносе времена или трошкова</span><span class="sxs-lookup"><span data-stu-id="86a12-120">Allow someone else to enter your time entry or expense</span></span>](../psa/allow-someone-else-enter-time-entry-expense.md)  
+-   [<span data-ttu-id="cce98-120">Дозволите некоме другом да уноси ваше уносе времена или трошкова</span><span class="sxs-lookup"><span data-stu-id="cce98-120">Allow someone else to enter your time entry or expense</span></span>](../psa/allow-someone-else-enter-time-entry-expense.md)  
   
--   [<span data-ttu-id="86a12-121">Планирање одступања у времену</span><span class="sxs-lookup"><span data-stu-id="86a12-121">Schedule time off</span></span>](../psa/schedule-time-off.md)  
+-   [<span data-ttu-id="cce98-121">Планирање одступања у времену</span><span class="sxs-lookup"><span data-stu-id="cce98-121">Schedule time off</span></span>](../psa/schedule-time-off.md)  
   
--   [<span data-ttu-id="86a12-122">Сарађујте са члановима тима пројекта помоћу Office 365 група</span><span class="sxs-lookup"><span data-stu-id="86a12-122">Collaborate with your project team members with Office 365 Groups</span></span>](../psa/collaborate-project-team-members-office-365-groups.md)  
+-   [<span data-ttu-id="cce98-122">Сарађујте са члановима тима пројекта помоћу Office 365 група</span><span class="sxs-lookup"><span data-stu-id="cce98-122">Collaborate with your project team members with Office 365 Groups</span></span>](../psa/collaborate-project-team-members-office-365-groups.md)  
   
--   [<span data-ttu-id="86a12-123">Пронађите следећи пројекат помоћу апликације Project Finder Mobile</span><span class="sxs-lookup"><span data-stu-id="86a12-123">Find your next project with the Project Finder Mobile app</span></span>](../psa/find-next-project-finder-mobile-app.md)  
+-   [<span data-ttu-id="cce98-123">Пронађите следећи пројекат помоћу апликације Project Finder Mobile</span><span class="sxs-lookup"><span data-stu-id="cce98-123">Find your next project with the Project Finder Mobile app</span></span>](../psa/find-next-project-finder-mobile-app.md)  
   
-### <a name="see-also"></a><span data-ttu-id="86a12-124">Такође погледајте</span><span class="sxs-lookup"><span data-stu-id="86a12-124">See Also</span></span>  
- <span data-ttu-id="86a12-125">[Преглед услуге Project Service](../psa/overview.md) </span><span class="sxs-lookup"><span data-stu-id="86a12-125">[Overview of Project Service](../psa/overview.md) </span></span>  
- <span data-ttu-id="86a12-126">[Водич за администраторе](../psa/admin-guide.md) </span><span class="sxs-lookup"><span data-stu-id="86a12-126">[Administrator Guide](../psa/admin-guide.md) </span></span>  
- <span data-ttu-id="86a12-127">[Водич за менаџера за пословне контакте](../psa/account-manager-guide.md) </span><span class="sxs-lookup"><span data-stu-id="86a12-127">[Account Manager Guide](../psa/account-manager-guide.md) </span></span>  
- <span data-ttu-id="86a12-128">[Водич за менаџера пројекта](../psa/project-manager-guide.md) </span><span class="sxs-lookup"><span data-stu-id="86a12-128">[Project Manager Guide](../psa/project-manager-guide.md) </span></span>  
- [<span data-ttu-id="86a12-129">Водич за менаџера ресурса</span><span class="sxs-lookup"><span data-stu-id="86a12-129">Resource Manager Guide</span></span>](../psa/resource-manager-guide.md)   
+### <a name="see-also"></a><span data-ttu-id="cce98-124">Такође погледајте</span><span class="sxs-lookup"><span data-stu-id="cce98-124">See Also</span></span>  
+ <span data-ttu-id="cce98-125">[Преглед услуге Project Service](../psa/overview.md) </span><span class="sxs-lookup"><span data-stu-id="cce98-125">[Overview of Project Service](../psa/overview.md) </span></span>  
+ <span data-ttu-id="cce98-126">[Водич за администраторе](../psa/admin-guide.md) </span><span class="sxs-lookup"><span data-stu-id="cce98-126">[Administrator Guide](../psa/admin-guide.md) </span></span>  
+ <span data-ttu-id="cce98-127">[Водич за менаџера за пословне контакте](../psa/account-manager-guide.md) </span><span class="sxs-lookup"><span data-stu-id="cce98-127">[Account Manager Guide](../psa/account-manager-guide.md) </span></span>  
+ <span data-ttu-id="cce98-128">[Водич за менаџера пројекта](../psa/project-manager-guide.md) </span><span class="sxs-lookup"><span data-stu-id="cce98-128">[Project Manager Guide](../psa/project-manager-guide.md) </span></span>  
+ [<span data-ttu-id="cce98-129">Водич за менаџера ресурса</span><span class="sxs-lookup"><span data-stu-id="cce98-129">Resource Manager Guide</span></span>](../psa/resource-manager-guide.md)   
