@@ -16,16 +16,14 @@ ms.search.region: Global
 ms.author: saraschi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: ce24b156a268f9f5aada35f9314d2d9c6607200b
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 9b6d07f00fd6c1ba2d860787665d95f95f7b1a89
+ms.sourcegitcommit: 9f31b33ed6e7f1b49200a407913201a1337f3401
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4084128"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "4960625"
 ---
 # <a name="multiple-approvers-on-an-expense-report"></a>Више давалаца одобрења на извештају о трошковима
-
-[!include [banner](../includes/banner.md)]
 
 У зависности од смерница одобравања трошкова у вашој организацији, извештај о трошковима који је поднео неки запослени можда ће морати да одобри више особа. Када успостављате процес тока посла за одобравање извештаја о трошковима, можете да додате елементе тока посла који укључују задатке или кораке за једног даваоца одобрења за извештај о трошковима или више њих. На пример, можда ћете захтевати да све извештаје о трошковима прво одобри менаџер запосленог који је поднео извештај, а затим координатор за дуговања.
 

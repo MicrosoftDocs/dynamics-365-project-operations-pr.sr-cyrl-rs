@@ -1,9 +1,9 @@
 ---
-title: Синхронизовање уговора о пројекту и пројеката директно из услуге Project Service Automation са услугом Finance and Operations
+title: Синхронизовање пројектних уговора и пројеката директно из услуге Project Service Automation са услугом Finance
 description: Ова тема описује предложак и основне задатке који се користе за синхронизацију уговора о пројекту и пројекта директно из услуге Microsoft Dynamics 365 Project Service Automation у Dynamics 365 Finance.
 author: Yowelle
 manager: AnnBe
-ms.date: 09/09/2019
+ms.date: 12/17/2020
 ms.topic: article
 ms.prod: ''
 ms.service: dynamics-ax-applications
@@ -17,14 +17,14 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2017-12-13
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 0b3bc159fff25c4f6e5b1ed1b2eabbba675fb0f5
-ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
+ms.openlocfilehash: 1a470fd86ceccd7b6058da6972399a6d6be2a991
+ms.sourcegitcommit: 2b74edd31f38410024a01124c9202a4d94464d04
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "4642651"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4764837"
 ---
-# <a name="synchronize-project-contracts-and-projects-directly-from-project-service-automation-to-finance-and-operations"></a>Синхронизовање уговора о пројекту и пројеката директно из услуге Project Service Automation са услугом Finance and Operations
+# <a name="synchronize-project-contracts-and-projects-directly-from-project-service-automation-to-finance"></a>Синхронизовање пројектних уговора и пројеката директно из услуге Project Service Automation са услугом Finance 
 
 [!include[banner](../includes/banner.md)]
 
@@ -53,24 +53,24 @@ ms.locfileid: "4642651"
 Следећи предлошци и основни задаци који се користе за синхронизацију уговора о пројекту и пројеката из услуге Project Service Automation у Finance:
 
 ### <a name="integrating-with-dynamics-365-project-service-automation-v2x"></a>Интегрисање са услугом Dynamics 365 Project Service Automation верзије 2.x
-- **Назив предлошка у Интеграцији података:** Пројекти и уговори (из PSA у Fin and Ops)
+- **Назив предлошка у интеграцији података:** Пројекти и уговори (Project Service Automation у Finance)
 - **Назив задатака у пројекту:**
 
-    - Уговори о пројекту из PSA у Fin and Ops
-    - Пројекти из PSA у Fin and Ops
-    - Предмети уговора о пројекту из PSA у Fin and Ops
-    - Контролне тачке предмета уговора о пројекту из PSA у Fin and Ops
+    - Уговори за пројекат: Project Service Automation у Finance
+    - Пројекти: Project Service Automation у Finance
+    - Предмети уговора за пројекат: Project Service Automation у Finance
+    - Контролне тачке предмета уговора за пројекат: Project Service Automation у Finance
   
 ### <a name="integrating-with-dynamics-365-project-service-automation-v3x"></a>Интегрисање са услугом Dynamics 365 Project Service Automation верзије 3.x
 Дошло је до промене шеме у услузи Project Service Automation која утиче на предложак контролне тачке предмета уговора о пројекту, а за интеграцију услуге Project Service Automation верзије 3.x са системом Dynamics 365 потребно је да користите предложак верзије 2.
 
-- **Назив предлошка у Интеграцији података:** Пројекти и уговори (из PSA 3.x у Fin and Ops) – верзија 2
+- **Назив предлошка у интеграцији података:** Пројекти и уговори (Project Service Automation 3.x у Finance), v2
 - **Назив задатака у пројекту:**
 
-    - Уговори о пројекту из PSA у Fin and Ops
-    - Пројекти из PSA у Fin and Ops
-    - Предмети уговора о пројекту из PSA у Fin and Ops
-    - Контролне тачке предмета уговора о пројекту из PSA у Fin and Ops
+    - Уговори за пројекат: Project Service Automation у Finance
+    - Пројекти: Project Service Automation у Finance
+    - Предмети уговора за пројекат: Project Service Automation у Finance
+    - Контролне тачке предмета уговора за пројекат: Project Service Automation у Finance
 
 Да би могло да дође до синхронизације уговора о пројекту и пројеката, морате синхронизовати налоге.
 
@@ -87,7 +87,8 @@ ms.locfileid: "4642651"
 
 Уговорима о пројекту се управља у услузи Project Service Automation и они се синхронизују са услугом Finance као уговори о пројекту. Као део предлошка за интеграцију, можете да поставите извор интеграције у услузи Finance за уговор о пројекту.
 
-Пројектима времена и материјала и пројектима по фиксној цени се управља у услузи Project Service Automation и оне се синхронизују са услугом Finance као пројекти. Као део интеграције предлошка, можете да поставите извор интеграције у услузи Finance за пројекат.
+Временом и материјалом и пројектима са фиксном ценом управља се у услузи Project Service Automation и синхронизују са услугом Finance као пројекти. Као део интеграције предлошка, можете да подесите извор интеграције за пројекат у услузи Finance. Тренутно су подржани само време, материјал и пројекти са фиксном ценом.
+
 
 Предметима уговора о пројекту се управља у услузи Project Service Automation и они се синхронизују са услугом Finance као правилима наплате по уговору о пројекту. Ако се начин наплате разликује од подразумеваног типа пројекта, синхронизација ажурира тип пројекта за пројекат предмета уговора и групу пројеката.
 
@@ -122,7 +123,7 @@ ms.locfileid: "4642651"
 
 ## <a name="power-query"></a>Power Query
 
-Морате користити Microsoft Power Query за Excel за филтрирање података ако су испуњени следећи услови:
+Користите Microsoft Power Query for Excel за филтрирање података ако су испуњени следећи услови:
 
 - Имате улазне поруџбине у услузи Dynamics 365 Sales.
 - Имате више организационих јединица у услузи Project Service Automation и те организационе јединице биће мапиране у више правних лица у услузи Finance.
@@ -130,7 +131,7 @@ ms.locfileid: "4642651"
 Ако морате да користите Power Query, следите ове смернице:
 
 - Предложак Пројекти и уговори (из PSA у Fin and Ops) има подразумевани филтер који укључује само улазне поруџбине типа **Радни предмет (msdyn\_ordertype = 192350001)**. Овај филтер вам гарантује да се уговори о пројекту неће креирати за улазне поруџбине у услузи Finance. Ако креирате сопствени образац, морате додати овај филтер.
-- Морате да креирате Power Query филтер који укључује само уговорне организације које треба синхронизовати са правним лицем скупа веза за интеграцију. На пример, уговори о пројекту које имате са уговорном организационом јединицом Contoso US треба да се синхронизују са правним лицем USSI, али уговори о пројекту које имате са уговорном организационом јединицом Contoso Global треба да се синхронизују са правним лицем USMF. Ако не додате овај филтер у мапирање задатака, сви уговори о пројекту биће синхронизовани са правним лицем које је дефинисано за скуп веза, без обзира на организациону јединицу уговора.
+- Направите Power Query филтер који укључује само уговорне организације које треба синхронизовати са правним лицем скупа интеграционих веза. На пример, уговори о пројекту које имате са уговорном организационом јединицом Contoso US треба да се синхронизују са правним лицем USSI, али уговори о пројекту које имате са уговорном организационом јединицом Contoso Global треба да се синхронизују са правним лицем USMF. Ако не додате овај филтер у мапирање задатака, сви уговори о пројекту биће синхронизовани са правним лицем које је дефинисано за скуп веза, без обзира на организациону јединицу уговора.
 
 ## <a name="template-mapping-in-data-integration"></a>Мапирање предложака у услузи Data Integration
 

@@ -5,15 +5,16 @@ author: stsporen
 manager: AnnBe
 ms.date: 10/06/2020
 ms.topic: article
+ms.prod: ''
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 6c5ef2a45e8141bda38baf3eaf0a403d6db95e48
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: d946a8dcbf3b2369631d83e80788eed4904be95d
+ms.sourcegitcommit: 2b74edd31f38410024a01124c9202a4d94464d04
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4122855"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4764927"
 ---
 # <a name="expense-home-page"></a>Почетна страница трошкова
 
@@ -24,11 +25,11 @@ Dynamics 365 Project Operations подржава могућност обраде
 
 У услузи Project Operations постоје два подржана модела примене за трошкове: 
 
-- **Потпуно**: Потпуна примена је доступна за **Project Operations за сценарије засноване на ресурсима / без залиха** или **Project Operations за сценарије засноване на налогу за производњу**.
+- **Комплетно**: Комплетна примена је доступна за **Project Operations за сценарије засноване на ресурсима/без залиха** или **Project Operations за производне сценарије засноване на поруџбини**.
 - **Основно**: Основна примена је доступна за **Project Operations за сценарије засноване на ресурсима / без залиха** и **Једноставна примена – од погодбе до профактуре**.
 
 ## <a name="full"></a>Пуно 
-Потпуна примена трошкова обезбеђује потпуно спровођење смерница, што обухвата могућност креирања смерница, као што су:
+Комплетна примена трошкова пружа потпуно спровођење смерница које укључују могућност креирања смерница, као што су:
 
   - Ограничења категорија трошкова
   - Путовање
