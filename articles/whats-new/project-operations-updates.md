@@ -9,12 +9,12 @@ ms.prod: ''
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: acafb97b2bb20deaf12db12cd9238cf5ad0817a9
-ms.sourcegitcommit: 87dd3b9bb23384e4d0c3208f0341a3de295eefc8
+ms.openlocfilehash: b90de169bd9ed2c408f1fded20a6fe95f55ce230
+ms.sourcegitcommit: 625b5244aaadff5a24a79d9addff91f87c6b015a
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "4689428"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "5141225"
 ---
 # <a name="project-operations-updates"></a>Исправке услуге Project Operations
 
@@ -26,36 +26,40 @@ _**Односи се на:** Project Operations за сценарије засн
 
 Dynamics 365 Project Operations састоји се од две компоненте:
 
-- Project Operations у Common Data Service (CDS) окружењу покрива могућности од могућности за пословање до предрачуна. CDS се користи у једноставној примени и примени услуге Project Operations са ресурсима/без залиха.
+- Project Operations у Dataverse окружењу покрива могућности од могућности за пословање до профактуре. Dataverse се користи у једноставној примени и примени сценарија услуге Project Operations са ресурсима/без залиха.
 - Управљање пројектима и рачуноводство у Dynamics 365 Finance окружењу покрива могућности управљања трошковима, рачуноводство пројеката и признавање прихода. Окружење Finance and Operations апликације се користи у услузи Project Operations за сценарије засноване на ресурсима/без залиха и услузи Project Operations за сценарије засноване на залихама/производњи.
 
 ## <a name="project-operations-latest-version"></a>Најновија верзија услуге Project Operations
 
-| Project Operations у CDS окружењу | Управљање пројектима и рачуноводство у окружењима Finance and Operations апликација |
+| Project Operations у Dataverse окружењу | Управљање пројектима и рачуноводство у окружењима Finance and Operations апликација |
 | --- | --- |
-| 4.5.0.134 | 10.0.15 |
+| 4.7.0.95 | 10.0.16 |
 
-Издање за децембар 2020. услуге Project Operations за [ресурс/који нису на залихама](whats-new-dec-2020-resource-based.md).
+Project Operations, напомене уз издање за јануар 2021. за сценарије [засноване на ресурсу/без залиха](whats-new-feb-2021-resource-based.md), [Једноставна примена](../pro/whats-new/whats-new-feb-2021-lite.md) и [засноване на залихама/производњи](../prod-pma/whats-new/whats-new-jan-2021-stocked.md).
 
-## <a name="release-schedule-for-project-operations-on-cds-environment"></a>Распоред издавања за Project Operations у CDS окружењу
+## <a name="release-schedule-for-project-operations-on-dataverse-environment"></a>Распоред издавања за Project Operations у Dataverse окружењу
 
-Исправке за Project Operations у CDS окружењу доступна су месечно. 
+Исправке за Project Operations у Dataverse окружењу доступне су месечно. 
 
 | Станица   | Регион        | Тренутна верзија | Следећа верзија | Опште доступно |
 |-----------|---------------|-----------------|--------------|---------------------|
+| Станица 1 |   &nbsp;      |    &nbsp;       | &nbsp;       |      &nbsp;         |
+|   &nbsp;  | Прво издање |  4.7.0.95       | TBD     | 19. феб ´21.           |
 | Станица 2 |   &nbsp;      |    &nbsp;       | &nbsp;       |      &nbsp;         |
-|   &nbsp;  | Јужна Америка |  4.5.0.134       | TBD     | 08. јан. 21.           |
-|    &nbsp; | Канада        |  4.5.0.134       | TBD     | 08. јан. 21.          |
-|   &nbsp;  | Индија         |  4.5.0.134       | TBD     | 08. јан. 21.           |
+|   &nbsp;  | Јужна Америка |  4.7.0.95       | TBD     | 19. феб ´21.           |
+|    &nbsp; | Канада        |  4.7.0.95       | TBD     | 19. феб ´21.           |
+|   &nbsp;  | Индија         |  4.7.0.95       | TBD     | 19. феб ´21.           |
+|   &nbsp;  | Француска         |  4.7.0.95       | TBD     | 19. феб ´21.           |
+|   &nbsp;  | Уједињени Арапски Емирати         |  4.7.0.95       | TBD     | 19. феб ´21.           |
 | Станица 3  |      &nbsp;   |     &nbsp;      |     &nbsp;   |      &nbsp;         |
-|   &nbsp;  | Јапан         |  4.5.0.134       | TBD     | 15. јан. 21.           |
-|   &nbsp;  | Азија – Пацифик  |  4.5.0.134       | TBD     | 15. јан. 21.           |
-|   &nbsp;  | Велика Британија |  4.5.0.134       | TBD     | 15. јан. 21.           |
-|   &nbsp;  | Океанија       |  4.5.0.134       | TBD     | 15. јан. 21.           |
+|   &nbsp;  | Јапан         |  4.7.0.95       | TBD     | 26. феб ´21.           |
+|   &nbsp;  | Азија – Пацифик  |  4.7.0.95       | TBD     | 26. феб ´21.           |
+|   &nbsp;  | Велика Британија |  4.7.0.95       | TBD     | 26. феб ´21.           |
+|   &nbsp;  | Океанија       |  4.7.0.95       | TBD     | 26. феб ´21.           |
 | Станица 4 |     &nbsp;    |     &nbsp;      |     &nbsp;   |      &nbsp;         |
-|   &nbsp;  | Европа        |  4.4.0.70       | 4.5.0.134     | 11. дец. 20.           |
+|   &nbsp;  | Европа        |  4.6.0.161       | 4.7.0.95     | 12. феб ´21.           |
 | Станица 5 |     &nbsp;    |     &nbsp;      |     &nbsp;   |      &nbsp;         |
-|   &nbsp;  | Северна Америка |  4.4.0.70       | 4.5.0.134     | 18. дец. 20.           |
+|   &nbsp;  | Северна Америка |  4.6.0.161       | 4.7.0.95     | 19. феб ´21.           |
 
 ## <a name="release-schedule-for-project-management-and-accounting-in-the-finance-and-operations-apps-environment"></a>Распоред издавања за управљање пројектима и рачуноводство у окружењу Finance and Operations апликација
 
@@ -63,13 +67,13 @@ Dynamics 365 Project Operations састоји се од две компонен
 
 | Подржано издање | Опште доступно (само-ажурирање) |
 | --- | --- |
+| 10.0.16 | 22. јануар 2021. |
 | 10.0.15 | 4. децембар 2020. |
-| 10.0.14 | 23. октобар 2020. |
+
 
 Циљани датуми издавања се могу променити. Више информација потражите у чланку [Доступност исправке услуге](https://docs.microsoft.com/dynamics365/fin-ops-core/fin-ops/get-started/public-preview-releases?toc=/dynamics365/finance/toc.json).
 
 | Циљани датум издавања | Опште доступно (само-ажурирано) |
 | --- | --- |
-| 10.0.16 | 22. јануар 2021. |
-| 10.0.17 | 1. фебруар 2021. |
-
+| 10.0.17 | 19. март 2021. |
+| 10.0.18 | 16. април 2021. |
