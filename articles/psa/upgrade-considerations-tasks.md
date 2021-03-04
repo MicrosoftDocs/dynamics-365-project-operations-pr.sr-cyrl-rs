@@ -18,14 +18,17 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0b75fd372732f42a3557aaa5eccec1f24a644941
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: cea8ce7f61fbc0f0c8c8deb522bc332be102238d
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4121821"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5149561"
 ---
 # <a name="upgrade-considerations-for-the-work-breakdown-structure"></a>Разматрања надоградње структурне анализе посла
+
+[!include [banner](../includes/psa-now-project-operations.md)]
+
 Ова тема пружа информације о надоградњи структурне анализе посла из апликације Project Service Automation верзије 2.x у верзију 3.x. Ова тема дефинише исправно стање пројекта у апликацији Project Service Automation (PSA), потребно за успешну надоградњу. Постоје и информације о уобичајеним условима блокирања који ће довести до неуспешне надоградње. Више информација о дефинисању пројектних задатака и њиховим функцијама у оквиру распореда пројекта потражите у чланку [Распореди пројеката](project-creating.md).
 
 ## <a name="key-entities"></a>Кључни ентитети
