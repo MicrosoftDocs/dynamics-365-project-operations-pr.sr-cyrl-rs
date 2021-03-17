@@ -3,25 +3,25 @@ title: Копирање пројекта
 description: Ова тема пружа информације о копирању пројеката у услузи Dynamics 365 Project Operations.
 author: ruhercul
 manager: AnnBe
-ms.date: 10/07/2020
+ms.date: 02/22/2021
 ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 53c72e5fd680eb28128644788752368705440445
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: af1942e81691d9e13fdcbbf68599c1a8a4004582
+ms.sourcegitcommit: 24528bb9c0ef8898077cb3bc672daa211c0e73aa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4131811"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "5479537"
 ---
 # <a name="copy-a-project"></a>Копирање пројекта
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
-У услузи Dynamics 365 Project Operations можете брзо да градите нове пројекте ако изаберете **Копирај пројекат** на обрасцу **Пројекти**. Да бисте копирали пројекат, отворите пројекат који желите да копирате, а затим изаберите **Копирај пројекат**. Радња ће копирати:
+Уз Dynamics 365 Project Operations, можете брзо да правите нове пројекте избором опције **Копирај пројекат** у обрасцу **Пројекти**. Да бисте копирали пројекат, отворите пројекат који желите да копирате, а затим изаберите **Копирај пројекат**. Радња ће копирати:
 
-- Својства пројекта
+- Својства пројекта (процењени датум почетка се копира из изворног пројекта)
 - Структурну анализу посла
 - Чланови пројектног тима
 - Процене за пројекат

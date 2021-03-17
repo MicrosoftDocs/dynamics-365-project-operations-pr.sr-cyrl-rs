@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: b66b3656d1ef5266ede1f62657dbe9b8a63c863a
-ms.sourcegitcommit: d33ef0ae39f90fe3b0f6b4524f483e8052057361
+ms.openlocfilehash: c1df809ea3df3f53d5fb42d632c56c47615fec3d
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "4365614"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5273981"
 ---
 # <a name="lite-deployment-overview"></a>Преглед једноставне примене
 
 _**Односи се на:** Једноставна примена – од погодбе до профактуре_
 
-Тип једноставне примене услуге Dynamics 365 Project Operations има следеће могућности за предузећа заснована на пројектима:
+Једноставан тип примене услуге Dynamics 365 Project Operations има следеће могућности за предузећа заснована на пројектима:
 
 - Планирање пројеката користећи Microsoft Project за веб
 - Вишедимензионално одређивање цена и трошкова за радне ресурсе

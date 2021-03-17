@@ -17,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ee3be43da401af405ab329b9b5a724a2e95c0219
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: db416343ac9ac2591007e83be80493a48f9ae904
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5147131"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5280686"
 ---
 # <a name="project-service-automation-update-release-20-v3"></a>Project Service Automation издање исправке 20, у верзији 3
 
@@ -42,7 +42,7 @@ ms.locfileid: "5147131"
 
 - Увоз чланова пројектног тима методом расподеле која захтева сате резултира нејасном поруком о грешци када су наведени сати нула.
 - Корисници добијају погрешну грешку када је у поље **Опис** унет максималан број знакова за пројектни задатак.
-- Страница **Преузимање Microsoft Dynamics 365 Project Service Automation програмског додатка** се преусмерава на енглеску страницу за преузимање када су подешавања језика корисника подешене на јапански.
+- Страница **преузимања Microsoft Dynamics 365 Project Service Automation програмског додатка** преусмерава се на страницу за преузимање на енглеском када су подешавања језика корисника постављена на јапански.
 - Када дође до грешке на серверу, ознака синхронизације на картици **Распоред** обрасца **Пројекти** понекад остаје.
 - Сувишна ажурирања задатака се шаљу серверу када је задатак измењен.
 

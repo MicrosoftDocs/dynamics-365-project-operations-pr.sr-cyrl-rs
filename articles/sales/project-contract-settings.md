@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 2f29e396f8d30a5c5648b5c9937f1f20fbf72e89
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
+ms.openlocfilehash: 4c04ff004febf3a07b329bf375e38acb43d19887
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4181157"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5277626"
 ---
 # <a name="project-contract-settings"></a>Подешавања уговора за пројекат
 
@@ -21,7 +21,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 Ова тема пружа информације о пољима која се примењују на целокупан уговор о пројекту, укључујући подешавања која утичу на све предмете уговора. Такође су укључене информације о уговору које су сажете у свим ставкама за покретање KPI-јева пројектног уговора.
 
-Следећа табела наводи поља у пројектном уговору која су јединствена за Dynamics 365 Project Operations или имају неке важне промене у понашању из улазних поруџбина у услузи Dynamics 365 Sales.
+Следећа табела наводи поља на уговору о пројекту која су јединствена за Dynamics 365 Project Operations или имају неке важне промене у понашању из налога за продају у услузи Dynamics 365 Sales.
 
 | Поље | Локација | Опис | Последични утицај |
 | --- | --- | --- | --- |

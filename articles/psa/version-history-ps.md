@@ -24,12 +24,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5e8ec1b5f7760b21ca3f0a85952820bdf6d0a5da
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: a8e1c7233de5705c928308431738060cca454e89
+ms.sourcegitcommit: 7e39fc1d50681850175428c909755204b08f0a77
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5144296"
+ms.lasthandoff: 03/08/2021
+ms.locfileid: "5556641"
 ---
 # <a name="update-release-schedule-for-project-service-3x"></a>План издања исправке за Project Service 3.x
 
@@ -39,7 +39,7 @@ ms.locfileid: "5144296"
 
 | Решење  | Најновија верзија |
 |-------|----|
-| Project Service Automation    | 3.10.46.87 |
+| Project Service Automation    | 3.10.47.7 |
 | Програмски додатак за Project Service Automation за стоне рачунаре                | 3.15          |
 
 За информације о другим исправкама услуге Project Service, погледајте чланак [Dynamics 365 планови издања](https://docs.microsoft.com/dynamics365/release-plans/). 
@@ -47,28 +47,28 @@ ms.locfileid: "5144296"
 | Станица  | Регион | Тренутна верзија | Следећа верзија |  Планирани датум
 | :---   | :---   | :---   | :---   |:---   |         
 |<strong>Станица 1</strong> | |  |  | |
-| | <i>Прво издање</i> | [3.10.46.87](whats-new-ur-28-5.md) | TBD | 19. фебруар 2021.
+| | <i>Прво издање</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 2. април 2021.
 |<strong>Станица 2</strong> | |  |  | |
-| | <i>Јужна Америка</i> | [3.10.46.87](whats-new-ur-28-5.md) | TBD | 26. фебруар 2021.
-| | <i>Канада</i> | [3.10.46.87](whats-new-ur-28-5.md) | TBD | 26. фебруар 2021.
-| | <i>Индија</i> | [3.10.46.87](whats-new-ur-28-5.md) | TBD | 26. фебруар 2021.
-| | <i>Француска</i> | [3.10.46.87](whats-new-ur-28-5.md) | TBD | 26. фебруар 2021.
-| | <i>Уједињени Арапски Емирати</i> | [3.10.46.87](whats-new-ur-28-5.md) | TBD | 26. фебруар 2021.
-| | <i>Јужноафричка Република</i> | [3.10.46.87](whats-new-ur-28-5.md) | TBD | 26. фебруар 2021.
-| | <i>Немачка</i> | [3.10.46.87](whats-new-ur-28-5.md) | TBD | 26. фебруар 2021.
-| | <i>Швајцарска</i> | [3.10.46.87](whats-new-ur-28-5.md) | TBD | 26. фебруар 2021.
+| | <i>Јужна Америка</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 2. април 2021.
+| | <i>Канада</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 2. април 2021.
+| | <i>Индија</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 2. април 2021.
+| | <i>Француска</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 2. април 2021.
+| | <i>Уједињени Арапски Емирати</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 2. април 2021.
+| | <i>Јужноафричка Република</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 2. април 2021.
+| | <i>Немачка</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 2. април 2021.
+| | <i>Швајцарска</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 2. април 2021.
 |<strong>Станица 3</strong> | |  |  | |
-| | <i>Јапан</i> | [3.10.46.87](whats-new-ur-28-5.md) | TBD | 05. март 2021.
-| | <i>Пацифичка Азија</i> | [3.10.46.87](whats-new-ur-28-5.md) | TBD | 05. март 2021.
-| | <i>Велика Британија</i> | [3.10.46.87](whats-new-ur-28-5.md) | TBD | 05. март 2021.
-| | <i>Океанија</i> | [3.10.46.87](whats-new-ur-28-5.md) | TBD | 05. март 2021.
+| | <i>Јапан</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 9. април 2021.
+| | <i>Пацифичка Азија</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 9. април 2021.
+| | <i>Велика Британија</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 9. април 2021.
+| | <i>Океанија</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 9. април 2021.
 |<strong>Станица 4</strong> | |  |  | |
-| | <i>Европа</i> | [3.10.45.119](whats-new-ur-27-5.md) | [3.10.46.87](whats-new-ur-28-5.md) | 19. фебруар 2021.
+| | <i>Европа</i> | [3.10.46.147](whats-new-ur-28-6.md) | [3.10.47.7](whats-new-ur-29.md) | 12. март 2021.
 |<strong>Станица 5</strong> | |  |  | |
-| | <i>Северна Америка</i> | [3.10.44.59](whats-new-ur-26.md) | [3.10.45.119](whats-new-ur-27-5.md) | 12. фебруар 2021.
+| | <i>Северна Америка</i> | [3.10.46.147](whats-new-ur-28-6.md) | [3.10.47.7](whats-new-ur-29.md) | 19. март 2021.
 |<strong>Станица 6</strong> | |  |  | |
-| | <i>Government Community Cloud</i> | [3.10.44.59](whats-new-ur-26.md) | [3.10.45.119](whats-new-ur-27-5.md) | 12. фебруар 2021.
-| | <i>Групе наменских скала</i> | [3.10.44.59](whats-new-ur-26.md) | [3.10.45.119](whats-new-ur-27-5.md) | 19. фебруар 2021.
+| | <i>Government Community Cloud</i> | [3.10.46.147](whats-new-ur-28-6.md) | [3.10.47.7](whats-new-ur-29.md) | 19. март 2021.
+| | <i>Групе наменских скала</i> | [3.10.45.120](whats-new-ur-27-6.md) | [3.10.46.147](whats-new-ur-28-6.md) | 05. март 2021.
 
 >[!Note]
 > - Датуми у свим регионима, осим за Government Community Cloud (GCC), показују време следећег аутоматског ажурирања. Датуми у GCC показују расположивост верзије; у овом тренутку не постоји аутоматско ажурирање за ове регионе.

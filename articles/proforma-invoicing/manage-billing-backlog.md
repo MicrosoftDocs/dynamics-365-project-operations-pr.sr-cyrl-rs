@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: bec6afe04a705d4f55ac3a7de93a64b47021fbb4
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: c3752abd26e760d27320d2b86079d84a967d53cf
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4122361"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5287751"
 ---
 # <a name="manage-the-billing-backlog"></a>Управљање заосталим наплатама
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
-Dynamics 365 Project Operations има два наменска приказа који ће вам помоћи да радите са заосталим наплатама и управљате њима. То су **Контролне тачке са фиксном ценом** и **Заостале наплате времена и материјала**. Да бисте изабрали приказ, у области **Продаја** у услузи Project Operations, на левој навигационој страници изаберите **Наплата**. Везе заосталих наплата се чувају тамо.
+Dynamics 365 Project Operations има два наменска приказа који вам помажу при раду и управљању заосталим наплатама. То су **Контролне тачке са фиксном ценом** и **Заостале наплате времена и материјала**. Да бисте изабрали приказ, у области **Продаја** у услузи Project Operations, на левој навигационој страници изаберите **Наплата**. Везе заосталих наплата се чувају тамо.
 
 ## <a name="fixed-price-milestones"></a>Контролне тачке фиксне цене
 

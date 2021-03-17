@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 8d5a49febf02310f1e6c26798fc0ba1aa3b8d1f1
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
+ms.openlocfilehash: 7be5f0824bfc4a58f3caabdde70a0b5b11c6f14c
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4180255"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5277581"
 ---
 # <a name="project-quote-settings"></a>Подешавања понуде за пројекат
 
@@ -22,7 +22,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 Овај чланак објашњава информације које се односе на понуду за пројекат. То укључује подешавања која утичу на све ставке понуде и информације о понуди које су сажете у свим ставкама за покретање KPI-ова понуде за пројекат.
 
-Следећа табела наводи поља информација резимеа о понуди за пројект која су јединствена за Dynamics 365 Project Operations или имају неке важне промене у понашању из Dynamics 365 Sales понуда.
+Следећа табела наводи поља са резимираним информацијама у понуди пројекта која су јединствена за Dynamics 365 Project Operations или имају неке важне промене у понашању у односу на понуде у услузи Dynamics 365 Sales.
 
 | **Поље** | **Локација** | **Опис** | **Последични утицај** |
 | --- | --- | --- | --- |

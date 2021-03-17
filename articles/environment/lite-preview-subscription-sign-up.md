@@ -8,16 +8,16 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 6f4360b7febab57b97df0776ef9148d2a38f16a7
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: 44edf2613ea4b26dadbd9edc47c784c488c577de
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4175909"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5290062"
 ---
 # <a name="sign-up-for-a-preview-subscription---lite"></a>Пријављивање за претплату на преглед – једноставно 
 
-Ова тема објашњава како да се претплатите на партнерску понуду за верзију за преглед и примените услугу Dynamics 365 Project Operations Lite у једноставној примени – од погодбе до профактуре.
+Ова тема објашњава како да се претплатите на понуду партнера за преглед и примените посао везан за Dynamics 365 Project Operations једноставну примену на профактуру.
 
 > [!NOTE]
 > Овај поступак ће се променити у предстојећим издањима услуге Project Operations.
@@ -32,17 +32,17 @@ ms.locfileid: "4175909"
 
 Када добијете [захтев за преглед](https://forms.office.com/FormsPro/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR56j8lZs0FdAvwT75_WNFyxUMkRDV1NYQU5TNjE2VjhKOVBUNVg2R0s1NC4u) одобрење, добићете две понуде од компаније Microsoft е-поштом. Ове понуде вам омогућавају да примените верзију за преглед услуге Project Operations:
 
-- Dynamics 365 Project Operations (CRM) – Пробна верзија за преглед
+- Dynamics 365 Project Operations (CRM) – пробна верзија за преглед
 - Office 365 Project Operations – Пробна верзија за преглед
 
 > [!IMPORTANT]
 > Само једна особа, администратор закупца, у организацији треба да извршава овај задатак. Ако нисте претплатник на ово издање, сачекајте док се ваша организација не региструје и не примите своје корисничке акредитиве.
 
-### <a name="dynamics-365-project-operations-crm---preview-trial"></a>Dynamics 365 Project Operations (CRM) – Пробна верзија за преглед 
+### <a name="dynamics-365-project-operations-crm---preview-trial"></a>Dynamics 365 Project Operations (CRM) – пробна верзија за преглед 
 
 Пре него што започнете, уверите се да сте пријављени у прегледач са корисничким пословним налогом у закупцу где желите преглед услуге Project Operations.
 
-1. Искористите прву шифру понуде, **Dynamics 365 Project Operations (CRM) – Пробна верзија за преглед** њеним лепљењем у URL прегледача.
+1. Искористите први кôд понуде, **Dynamics 365 Project Operations (CRM) – преглед пробне верзије** тако што ћете га налепити у URL прегледача.
 
 ![Искористите понуду](./media/16RedeemFirstOfferNew.png)
 
@@ -84,7 +84,7 @@ ms.locfileid: "4175909"
 
 ![Додај базу података](./media/20CreateEnvironment1.png)
 
-4. Након креирања окружења, инсталирајте решење **Microsoft Dynamics 365 Project Operations**. 
+4. Када креирате окружење, инсталирајте **Microsoft Dynamics 365 Project Operations** решење. 
 
 ![Инсталирање решења](./media/21InstallSolution.png)
 

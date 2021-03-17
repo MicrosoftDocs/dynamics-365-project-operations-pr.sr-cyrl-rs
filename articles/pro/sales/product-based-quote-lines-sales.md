@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: f6aa428c486f149308ad078f9d7a80a0be0f0f04
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: 29d82637c6c8bb5b5cde7707d181d5b3d3b235c4
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4178206"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5272586"
 ---
 # <a name="product-based-quote-lines-overview---lite"></a>Преглед ставки понуде засноване на производу – једноставно
 
 _**Односи се на:** Једноставна примена – од погодбе до профактуре_
 
-Можете креирати ставке понуде засноване на производу у услузи Dynamics 365 Project Operations. Ставке понуде засноване на производу можете додати ручно или то могу да буду ставке из каталога производа.
+Можете креирати ставке понуде засноване на производу у апликацији Dynamics 365 Project Operations. Ставке понуде засноване на производу можете додати ручно или то могу да буду ставке из каталога производа.
 
 ## <a name="product-catalog"></a>Каталог производа
 

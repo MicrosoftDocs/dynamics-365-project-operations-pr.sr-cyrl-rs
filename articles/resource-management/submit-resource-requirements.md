@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 18f43acc64ed72b1543a2d7d91a2648e7e185fc4
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: bc97af1ec90e60417c502eb329a85004e769e05b
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4128841"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5279156"
 ---
 # <a name="submit-a-resource-request"></a>Прослеђивање захтева за ресурсом
 
@@ -21,7 +21,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 Генерисану потребу за ресурсом можете проследити као захтев за ресурс. Захтев се затим шаље менаџеру ресурса ради испуњавања.
 
-1. У услузи Dynamics 365 Project Operations, на страници **Пројекти** изаберите картицу **Тим** да бисте видели листу ресурса који се могу резервисати. 
+1. У апликацији Dynamics 365 Project Operations, на страници **Пројекти** изаберите картицу **Тим** да бисте видели листу ресурса који се могу резервисати. 
 2. Са листе изаберите генерички ресурс који има потребу за ресурсом, а затим кликните на **Проследи захтев**.
 
 Статус захтева генеричког члана тима ће се променити у **Прослеђен**.

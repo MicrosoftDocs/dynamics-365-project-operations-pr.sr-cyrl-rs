@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 6dde924c24dcffe2a8fb690e6eb429e4c3d9fb28
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: d51eb890a4744051ddd7268e1f1f11b15a23b609
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4126411"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5278391"
 ---
 # <a name="import-an-estimate-to-a-project-based-contract-line"></a>Увезите процену у предмет уговора заснован на пројекту
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_
 
-У услузи Dynamics 365 Project Operations можете да увезете процене из пројекта у предмет уговора заснован на пројекту.
+У услузи Dynamics 365 Project Operations можете да увозите процене из пројекта у предмет уговора заснован на пројекту.
 
 1. Проверите да ли је попуњено поље **Пројекат** на предмету уговора заснованом на пројекту.
 2. На картици **Детаљи предмета уговора**, на подформи изаберите **Увоз из процене пројекта**. Отвориће се страница дијалога са опцијама резимирања. Доступне опције резимирања су **Класа трансакције**, **Категорија**, **Улога** и **Пројектни задатак**. На основу вашег избора резимирања, копира се процена из пројекта за све класе трансакција укључене у овај предмет уговора. 

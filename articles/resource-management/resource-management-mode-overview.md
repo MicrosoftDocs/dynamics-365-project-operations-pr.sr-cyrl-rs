@@ -1,6 +1,6 @@
 ---
 title: Преглед режима управљања ресурсима
-description: Ова тема пружа информације о функционалности управљања ресурсима у услузи Dynamics 365 Project Operations.
+description: У овој теми дате су информације о функцији управљања ресурсима у услузи Dynamics 365 Project Operations.
 author: ruhercul
 manager: Annbe
 ms.date: 10/01/2020
@@ -8,19 +8,19 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 73ba6190e2e366f22372102d14d26f6d71ba0bc1
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 872f4f2878f474e16674932f23fe192c6a8de6eb
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4118536"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5279471"
 ---
 # <a name="resource-management-modes-overview"></a>Преглед режима управљања ресурсима
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 
-Dynamics 365 Project Operations подржава два режима како бисте извршили укупан ток резервације. Режим управљања дефинисан је као параметар пројекта и може се изменити ако ваше пословање треба променити.    
+Dynamics 365 Project Operations подржава два режима како бисте извршавали укупан ток резервације. Режим управљања дефинисан је као параметар пројекта и може се изменити ако ваше пословање треба променити.    
 
 ## <a name="central-mode"></a>Централни режим
 За организације које централизују додељивање ресурса пројектима, централни режим пружа начин да менаџери пројеката могу да дефинишу захтеве за ресурсима на нивоу пројекта. Испуњавање захтева за ресурсима делегира се менаџеру ресурса. Менаџери пројеката могу прихватити или одбити ресурсе које предложи менаџер ресурса.
