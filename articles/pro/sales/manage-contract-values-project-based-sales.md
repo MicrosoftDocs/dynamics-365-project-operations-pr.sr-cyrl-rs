@@ -1,5 +1,5 @@
 ---
-title: Рад са предметима уговора заснованим на пројекту – једноставно
+title: Преглед предмета уговора заснованих на пројекту
 description: Ова тема пружа информације о раду са предметима уговора заснованим на пројекту.
 author: rumant
 manager: Annbe
@@ -8,64 +8,628 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 3b0ff564c2cf9bc5681e14efbfa7983d6959c155
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 824fdd54d7b513b49afd1a6d76d3387df81418e2
+ms.sourcegitcommit: 5fd529f2308edfe9322082313e6d50146df56aca
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5273306"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "5858176"
 ---
-# <a name="work-with-projectbased-contract-lines---lite"></a><span data-ttu-id="25653-103">Рад са предметима уговора заснованим на пројекту – једноставно</span><span class="sxs-lookup"><span data-stu-id="25653-103">Work with project–based contract lines - lite</span></span>
+# <a name="project-based-contract-lines-overview"></a><span data-ttu-id="febca-103">Преглед предмета уговора заснованих на пројекту</span><span class="sxs-lookup"><span data-stu-id="febca-103">Project-based contract lines overview</span></span>
 
-<span data-ttu-id="25653-104">_**Односи се на:** Једноставна примена – од погодбе до профактуре_</span><span class="sxs-lookup"><span data-stu-id="25653-104">_**Applies To:** Lite deployment - deal to proforma invoicing_</span></span>
+<span data-ttu-id="febca-104">_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_</span><span class="sxs-lookup"><span data-stu-id="febca-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-<span data-ttu-id="25653-105">Предмети уговора засновани на пројекту у услузи Dynamics 365 Project Operations дизајнирани су тако да држе уговоре о процени и обрачуну за одређене компоненте пројектног рада на ангажману.</span><span class="sxs-lookup"><span data-stu-id="25653-105">Project-based contract lines in Dynamics 365 Project Operations are designed to hold the estimate and billing agreements for specific components of project work on an engagement.</span></span> <span data-ttu-id="25653-106">Структура ставке уговора засноване на пројекту проширена је за процене пројеката и сценарије наплате са следећим концептима:</span><span class="sxs-lookup"><span data-stu-id="25653-106">The structure of a project–based contract line is extended for project estimates and billing scenarios with the following concepts:</span></span>
+<span data-ttu-id="febca-105">Предмети уговора засновани на пројекту у услузи Dynamics 365 Project Operations дизајнирани су тако да држе уговоре о процени и обрачуну за одређене компоненте пројектног рада на ангажману.</span><span class="sxs-lookup"><span data-stu-id="febca-105">Project-based contract lines in Dynamics 365 Project Operations are designed to hold the estimate and billing agreements for specific components of project work on an engagement.</span></span> <span data-ttu-id="febca-106">Структура ставке уговора засноване на пројекту проширена је за процене пројеката и сценарије наплате са следећим концептима:</span><span class="sxs-lookup"><span data-stu-id="febca-106">The structure of a project–based contract line is extended for project estimates and billing scenarios with the following concepts:</span></span>
 
-- <span data-ttu-id="25653-107">Начин наплате</span><span class="sxs-lookup"><span data-stu-id="25653-107">Billing method</span></span>
-- <span data-ttu-id="25653-108">Мапирање пројеката и задатака</span><span class="sxs-lookup"><span data-stu-id="25653-108">Project and task mapping</span></span>
-- <span data-ttu-id="25653-109">Укључене класе трансакција</span><span class="sxs-lookup"><span data-stu-id="25653-109">Included transaction classes</span></span>
-- <span data-ttu-id="25653-110">Ограничење које не сме да се прекорачи</span><span class="sxs-lookup"><span data-stu-id="25653-110">Not-to-exceed limit</span></span>
-- <span data-ttu-id="25653-111">Подешавање наплативости</span><span class="sxs-lookup"><span data-stu-id="25653-111">Chargeability setup</span></span>
-- <span data-ttu-id="25653-112">Процене коришћењем детаља о предмета уговора</span><span class="sxs-lookup"><span data-stu-id="25653-112">Estimates using contract line details</span></span>
-- <span data-ttu-id="25653-113">Клијенти предмета уговора</span><span class="sxs-lookup"><span data-stu-id="25653-113">Contract line customers</span></span>
+- <span data-ttu-id="febca-107">Начин наплате</span><span class="sxs-lookup"><span data-stu-id="febca-107">Billing method</span></span>
+- <span data-ttu-id="febca-108">Мапирање пројеката и задатака</span><span class="sxs-lookup"><span data-stu-id="febca-108">Project and task mapping</span></span>
+- <span data-ttu-id="febca-109">Укључене класе трансакција</span><span class="sxs-lookup"><span data-stu-id="febca-109">Included transaction classes</span></span>
+- <span data-ttu-id="febca-110">Ограничење које не сме да се прекорачи</span><span class="sxs-lookup"><span data-stu-id="febca-110">Not-to-exceed limit</span></span>
+- <span data-ttu-id="febca-111">Подешавање наплативости</span><span class="sxs-lookup"><span data-stu-id="febca-111">Chargeability setup</span></span>
+- <span data-ttu-id="febca-112">Процене коришћењем детаља о предмета уговора</span><span class="sxs-lookup"><span data-stu-id="febca-112">Estimates using contract line details</span></span>
+- <span data-ttu-id="febca-113">Клијенти предмета уговора</span><span class="sxs-lookup"><span data-stu-id="febca-113">Contract line customers</span></span>
 
-<span data-ttu-id="25653-114">Следећа табела укључује поља на картици **Општи подаци** предмета уговора заснованих на пројекту који помажу у постављању основе за детаљну, основну процену и аранжмане за обрачун за пројектни рад.</span><span class="sxs-lookup"><span data-stu-id="25653-114">The following table includes the fields on the **General** tab of project–based contract lines that help set up the basis for a detailed, ground–up estimate and billing arrangements for project–based work.</span></span>
+<span data-ttu-id="febca-114">Следећа табела укључује поља на картици **Општи подаци** предмета уговора заснованих на пројекту који помажу у постављању основе за детаљну, основну процену и аранжмане за обрачун за пројектни рад.</span><span class="sxs-lookup"><span data-stu-id="febca-114">The following table includes the fields on the **General** tab of project–based contract lines that help set up the basis for a detailed, ground–up estimate and billing arrangements for project–based work.</span></span>
 
-| <span data-ttu-id="25653-115">Поље</span><span class="sxs-lookup"><span data-stu-id="25653-115">Field</span></span> | <span data-ttu-id="25653-116">Опис</span><span class="sxs-lookup"><span data-stu-id="25653-116">Description</span></span> | <span data-ttu-id="25653-117">Последични утицај</span><span class="sxs-lookup"><span data-stu-id="25653-117">Downstream impact</span></span> |
+| <span data-ttu-id="febca-115">Поље</span><span class="sxs-lookup"><span data-stu-id="febca-115">Field</span></span> | <span data-ttu-id="febca-116">Опис</span><span class="sxs-lookup"><span data-stu-id="febca-116">Description</span></span> | <span data-ttu-id="febca-117">Последични утицај</span><span class="sxs-lookup"><span data-stu-id="febca-117">Downstream impact</span></span> |
 | --- | --- | --- |
-| <span data-ttu-id="25653-118">**Именуј**</span><span class="sxs-lookup"><span data-stu-id="25653-118">**Name**</span></span> | <span data-ttu-id="25653-119">Назив предмета уговора.</span><span class="sxs-lookup"><span data-stu-id="25653-119">Name of the contract line.</span></span> <span data-ttu-id="25653-120">Ово идентификује дискретну компоненту уговора која се процењује.</span><span class="sxs-lookup"><span data-stu-id="25653-120">This identifies the discrete component of the contract that is being estimated.</span></span> <span data-ttu-id="25653-121">За пројектни уговор креиран из понуде, ова вредност се копира из одговарајуће вредности ставке понуде засноване на пројекту.</span><span class="sxs-lookup"><span data-stu-id="25653-121">For a project contract created from a quote, this value is copied from a corresponding value of the project-based quote line.</span></span> | <span data-ttu-id="25653-122">Име копирано у ставку фактуре за пројекат која се креира из овог предмета уговора када се креира фактура.</span><span class="sxs-lookup"><span data-stu-id="25653-122">The name copied over to the project invoice line that is created from this contract line when the invoice is created.</span></span> |
-| <span data-ttu-id="25653-123">**Начин наплате**</span><span class="sxs-lookup"><span data-stu-id="25653-123">**Billing Method**</span></span> | <span data-ttu-id="25653-124">За пројектни уговор креиран из понуде, ова вредност се копира из одговарајућег поља на ставки понуде.</span><span class="sxs-lookup"><span data-stu-id="25653-124">On a project contract created from a quote, this value is copied from the corresponding field on the quote line.</span></span> <span data-ttu-id="25653-125">Ово је скуп опција који представља два главна модела уговарања која подржава услуга Project Operations:</span><span class="sxs-lookup"><span data-stu-id="25653-125">This is an option set that represents the two main contracting models supported by Project Operations:</span></span></br><span data-ttu-id="25653-126">- **Фиксна цена**</span><span class="sxs-lookup"><span data-stu-id="25653-126">- **Fixed Price**</span></span></br><span data-ttu-id="25653-127">- **Време и материјал**</span><span class="sxs-lookup"><span data-stu-id="25653-127">- **Time and Material**</span></span> | <span data-ttu-id="25653-128">На основу начина наплате наведеног предмета уговора, стварна трансакција ће бити обрађена.</span><span class="sxs-lookup"><span data-stu-id="25653-128">Based on the billing method of the referenced contract line, the actual transaction will be processed.</span></span> <span data-ttu-id="25653-129">Ако предмет уговора на који се позива стварна вредност има начин наплате времена и материјала, креирају се записи стварних вредности трошкова и ненаплаћене продаје.</span><span class="sxs-lookup"><span data-stu-id="25653-129">If the contract line referenced by the actual has a time and material billing method, cost and unbilled sales actual records are created.</span></span> <span data-ttu-id="25653-130">Ако предмет уговора на који се позива стварна вредност има начин обрачуна са фиксном ценом, креираће се само стварни трошак.</span><span class="sxs-lookup"><span data-stu-id="25653-130">If the contract line referenced by the actual has a fixed price billing method, only a cost actual is created.</span></span> |
-| <span data-ttu-id="25653-131">**Project**</span><span class="sxs-lookup"><span data-stu-id="25653-131">**Project**</span></span> | <span data-ttu-id="25653-132">Користите ово поље за идентификовање пројекта који ће се користити за извођење радова на овом ангажману.</span><span class="sxs-lookup"><span data-stu-id="25653-132">Use this field to identify the project that will be used to deliver the work on this engagement.</span></span> | <span data-ttu-id="25653-133">Ова вредност ће се користити заједно са вредностима **Укључени задаци** и **Укључене класе трансакција** да се разреши референца на предмет уговора на стварној вредности или запису предмета процене.</span><span class="sxs-lookup"><span data-stu-id="25653-133">This value will be used in conjunction with **Included Tasks** and **Included Transaction Classes** to resolve the contract line reference on an actual or an estimate line record.</span></span> |
-| <span data-ttu-id="25653-134">**Обухваћени задаци**</span><span class="sxs-lookup"><span data-stu-id="25653-134">**Included Tasks**</span></span> | <span data-ttu-id="25653-135">Означава да ли ова линија уговора укључује све пројектне задатке за изабрани пројекат или само подскуп задатака.</span><span class="sxs-lookup"><span data-stu-id="25653-135">Indicates if this contract line includes all project tasks for the selected project or only a subset of the tasks.</span></span> <span data-ttu-id="25653-136">Ово је скуп опција који има следеће могуће вредности:</span><span class="sxs-lookup"><span data-stu-id="25653-136">This is an option set that has the following possible values:</span></span></br><span data-ttu-id="25653-137">- **Сви пројектни задаци**</span><span class="sxs-lookup"><span data-stu-id="25653-137">- **All Project Tasks**</span></span></br><span data-ttu-id="25653-138">- **Само изабрани пројектни задаци**.</span><span class="sxs-lookup"><span data-stu-id="25653-138">- **Selected Project Tasks Only**.</span></span> <span data-ttu-id="25653-139">Празна вредност у овом пољу једнака је одабиру **Сви пројектни задаци**.</span><span class="sxs-lookup"><span data-stu-id="25653-139">A blank value in this field is equal to selecting **All Project Tasks**.</span></span> | <span data-ttu-id="25653-140">Ако је изабрана опција **Само изабрани задаци**, можете изабрати одређене задатке и повезати их са овим предметом уговора на картици **Подешавање задатка за обрачун** на страници **Пројекат**.</span><span class="sxs-lookup"><span data-stu-id="25653-140">If **Selected Tasks Only** is selected, you can select specific tasks and associate them to this contract line on the **Task Billing Setup** tab on the **Project** page.</span></span> <span data-ttu-id="25653-141">Вредност ће се користити заједно са класама **Пројекат** и **Укључене класе трансакција** да се разреши референца на предмет уговора на стварној вредности или запису предмета процене.</span><span class="sxs-lookup"><span data-stu-id="25653-141">The value will be used in conjunction with **Project** and **Included Transaction** classes to resolve the contract line reference on an actual or an estimate line record.</span></span> |
-| <span data-ttu-id="25653-142">**Садржи време**</span><span class="sxs-lookup"><span data-stu-id="25653-142">**Include Time**</span></span> | <span data-ttu-id="25653-143">Ознака означава да ли ће временске трансакције или трошкови рада на изабраном пројекту бити укључени у овај предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="25653-143">A flag indicates if time transactions or labor costs on the selected project will be included on this contract line.</span></span> <span data-ttu-id="25653-144">Вредност **Не** означава да временске трансакције или трошкови рада неће бити укључени у овај предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="25653-144">A **No** value indicates that the time transactions or labor cost will not be included on this contract line.</span></span> <span data-ttu-id="25653-145">Вредност **Да** указује на то да хоће.</span><span class="sxs-lookup"><span data-stu-id="25653-145">A **Yes** value indicates that they will.</span></span> | <span data-ttu-id="25653-146">Ова вредност се користи заједно са пројектом да се разреши референца предмета уговора на стварну вредност или запис ставке процене.</span><span class="sxs-lookup"><span data-stu-id="25653-146">This value is used in conjunction with project to resolve the contract line reference on an actual or an estimate line record.</span></span> |
-| <span data-ttu-id="25653-147">**Садржи трошак**</span><span class="sxs-lookup"><span data-stu-id="25653-147">**Include Expense**</span></span> | <span data-ttu-id="25653-148">Ознака означава да ли ће цена трошкова на изабраном пројекту бити укључена у овај предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="25653-148">A flag indicates if expense costs on the selected project will be included on this contract line.</span></span> <span data-ttu-id="25653-149">Вредност **Не** означава да цена трошкова на изабраном пројекту неће бити укључена у овај предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="25653-149">A **No** value indicates that the expense cost will not be included on this contract line.</span></span> <span data-ttu-id="25653-150">Вредност **Да** указује на то да хоће.</span><span class="sxs-lookup"><span data-stu-id="25653-150">A **Yes** value indicates that it will.</span></span> | <span data-ttu-id="25653-151">Ова вредност се користи заједно са пројектом да се разреши референца предмета уговора на стварну вредност или запис ставке процене.</span><span class="sxs-lookup"><span data-stu-id="25653-151">This value is used in conjunction with project to resolve the contract line reference on an actual or an estimate line record.</span></span> |
-| <span data-ttu-id="25653-152">**Садржи накнаду**</span><span class="sxs-lookup"><span data-stu-id="25653-152">**Include Fee**</span></span> | <span data-ttu-id="25653-153">Ознака означава да ли ће накнаде на изабраном пројекту бити укључене у овај предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="25653-153">A flag indicates if fees on the selected project will be included on this contract line.</span></span> <span data-ttu-id="25653-154">Вредност **Не** означава да накнаде неће бити укључене у овај предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="25653-154">A **No** value indicates that the fees will not be included on this contract line.</span></span> <span data-ttu-id="25653-155">Вредност **Да** указује на то да хоће.</span><span class="sxs-lookup"><span data-stu-id="25653-155">A **Yes** value indicates that they will.</span></span> | <span data-ttu-id="25653-156">Ова вредност се користи заједно са пројектом да се разреши референца предмета уговора на стварну вредност или запис ставке процене.</span><span class="sxs-lookup"><span data-stu-id="25653-156">This value is used in conjunction with project to resolve the contract line reference on an actual or an estimate line record.</span></span> |
-| <span data-ttu-id="25653-157">**Уговорени износ**</span><span class="sxs-lookup"><span data-stu-id="25653-157">**Contracted Amount**</span></span> | <span data-ttu-id="25653-158">На предмету уговора са фиксном ценом, овај износ је уговорена вредност која ће се фактурисати клијенту за све радне компоненте повезане са овим предметом уговора.</span><span class="sxs-lookup"><span data-stu-id="25653-158">On a fixed price contract line, this amount is the agreed-on value that will be invoiced to the customer for all the work components associated to this contract line.</span></span> <span data-ttu-id="25653-159">На предмету уговора за време и материјал, овај износ је процењена вредност онога што ће се фактурисати клијенту за све радне компоненте повезане са овим предметом уговора.</span><span class="sxs-lookup"><span data-stu-id="25653-159">On a time and material contract line, this amount is an estimated value of what will be invoiced to the customer for all the work components associated to this contract line.</span></span> <span data-ttu-id="25653-160">За пројектни уговор који је креиран из понуде, ова вредност се копира из одговарајућег поља на ставки понуде.</span><span class="sxs-lookup"><span data-stu-id="25653-160">On a project contract that is created from a quote, this value is copied from the corresponding field on the quote line.</span></span> <span data-ttu-id="25653-161">Када предмет уговора заснован на пројекту садржи детаље ставки, ово поље се закључава за уређивање и сажима из износа у детаљима линије уговора.</span><span class="sxs-lookup"><span data-stu-id="25653-161">When a project–based contract line has line details, this field is locked for editing and is summarized from the amount on the contract line details.</span></span> | <span data-ttu-id="25653-162">Када предмет уговора садржи детаље ставки, ова вредност се може изменити променом износа на детаљима ставки.</span><span class="sxs-lookup"><span data-stu-id="25653-162">When the contract line has line details, this value can be modified by changing the amounts on the line details.</span></span> <span data-ttu-id="25653-163">У предмету уговора са фиксном ценом, ова вредност се користи за генерисање износа пре опорезивања на периодичним контролним тачкама обрачуна.</span><span class="sxs-lookup"><span data-stu-id="25653-163">On a fixed price contract line, this value is used to generate the amount before tax on periodic billing milestones.</span></span> |
-| <span data-ttu-id="25653-164">**Процењени порез**</span><span class="sxs-lookup"><span data-stu-id="25653-164">**Estimated Tax**</span></span> | <span data-ttu-id="25653-165">Корисник може да уређује ово поље како би унео процењени износ пореза у предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="25653-165">The user can edit this field to input the estimated tax amount on the contract line.</span></span> <span data-ttu-id="25653-166">Када предмет уговора заснован на пројекту садржи детаље ставки, ово поље се закључава за уређивање и сажима из износа пореза у детаљима предмета уговора.</span><span class="sxs-lookup"><span data-stu-id="25653-166">When a project–based contract line has line details, this field is locked for editing and is summarized from the tax amount on the contract line details.</span></span> | <span data-ttu-id="25653-167">Када предмет уговора садржи детаље ставки, ова вредност се може изменити променом износа пореза на детаљима ставки.</span><span class="sxs-lookup"><span data-stu-id="25653-167">When the contract line has line details, this value can be modified by changing the tax amounts on the line details.</span></span> <span data-ttu-id="25653-168">У предмету уговора са фиксном ценом, ова вредност се користи за генерисање пореза на периодичним контролним тачкама обрачуна.</span><span class="sxs-lookup"><span data-stu-id="25653-168">On a fixed price contract line, this value is used to generate the tax on periodic billing milestones.</span></span> |
-| <span data-ttu-id="25653-169">**Уговорени износ са порезом**</span><span class="sxs-lookup"><span data-stu-id="25653-169">**Contracted Amount after Tax**</span></span> | <span data-ttu-id="25653-170">Износ предмета уговора са порезом.</span><span class="sxs-lookup"><span data-stu-id="25653-170">The contract line amount after tax.</span></span> <span data-ttu-id="25653-171">Ово поље је само за читање и израчунава се као **Уговорени износ + порез**.</span><span class="sxs-lookup"><span data-stu-id="25653-171">This field is read-only and is calculated as **Contracted Amount + Tax**.</span></span> | <span data-ttu-id="25653-172">У предмету уговора са фиксном ценом, ова вредност се користи за генерисање периодичних контролних тачака обрачуна.</span><span class="sxs-lookup"><span data-stu-id="25653-172">On a fixed price contract line, this value is used to generate periodic billing milestones.</span></span> |
-| <span data-ttu-id="25653-173">**Ограничење које не сме да се прекорачи**</span><span class="sxs-lookup"><span data-stu-id="25653-173">**Not-to-Exceed Limit**</span></span> | <span data-ttu-id="25653-174">Корисник може да уређује ово поље и оно је доступно само на предметима уговора заснованим на пројекту чији начин обрачуна је постављен на време и материјал.</span><span class="sxs-lookup"><span data-stu-id="25653-174">The user can edit this field and it is only available on project-based contract lines that have the billing method set as time and material.</span></span> | <span data-ttu-id="25653-175">Корисник може да уређује ово поље.</span><span class="sxs-lookup"><span data-stu-id="25653-175">The user can edit this field.</span></span> <span data-ttu-id="25653-176">Када се стварна вредност за време и материјал односи на овај предмет уговора за време и материјал, износ на стварној вредности се процењује према ограничењу које не сме да се премаши на предмету уговора.</span><span class="sxs-lookup"><span data-stu-id="25653-176">When an actual for time and material references this contract line for time and material, the amount on the actual is evaluated against the not-to-exceed limit on the contract line.</span></span> <span data-ttu-id="25653-177">Ова процена се завршава након што се обрачунају већ потрошени и преузети износи.</span><span class="sxs-lookup"><span data-stu-id="25653-177">This evaluation is completed after  the already spent and committed amounts are accounted for.</span></span> |
-| <span data-ttu-id="25653-178">**Буџет клијента**</span><span class="sxs-lookup"><span data-stu-id="25653-178">**Customer Budget**</span></span> | <span data-ttu-id="25653-179">Ово поље може да се уређује и копира се из одговарајућег поља на ставки понуде ако је уговор креиран из понуде.</span><span class="sxs-lookup"><span data-stu-id="25653-179">This field is editable and is copied from the corresponding field on the quote line if the contract was created from a quote.</span></span> | <span data-ttu-id="25653-180">Ово поље се користи само за информације и нема никакав даљи значај.</span><span class="sxs-lookup"><span data-stu-id="25653-180">This field is only used for information and does not have any downstream significance.</span></span> |
+| <span data-ttu-id="febca-118">**Именуј**</span><span class="sxs-lookup"><span data-stu-id="febca-118">**Name**</span></span> | <span data-ttu-id="febca-119">Назив предмета уговора.</span><span class="sxs-lookup"><span data-stu-id="febca-119">Name of the contract line.</span></span> <span data-ttu-id="febca-120">Ово идентификује дискретну компоненту уговора која се процењује.</span><span class="sxs-lookup"><span data-stu-id="febca-120">This identifies the discrete component of the contract that is being estimated.</span></span> <span data-ttu-id="febca-121">За пројектни уговор креиран из понуде, ова вредност се копира из одговарајуће вредности ставке понуде засноване на пројекту.</span><span class="sxs-lookup"><span data-stu-id="febca-121">For a project contract created from a quote, this value is copied from a corresponding value of the project-based quote line.</span></span> | <span data-ttu-id="febca-122">Име копирано у ставку фактуре за пројекат која се креира из овог предмета уговора када се креира фактура.</span><span class="sxs-lookup"><span data-stu-id="febca-122">The name copied over to the project invoice line that is created from this contract line when the invoice is created.</span></span> |
+| <span data-ttu-id="febca-123">**Начин наплате**</span><span class="sxs-lookup"><span data-stu-id="febca-123">**Billing Method**</span></span> | <span data-ttu-id="febca-124">За пројектни уговор креиран из понуде, ова вредност се копира из одговарајућег поља на ставки понуде.</span><span class="sxs-lookup"><span data-stu-id="febca-124">On a project contract created from a quote, this value is copied from the corresponding field on the quote line.</span></span> <span data-ttu-id="febca-125">Ово је скуп опција који представља два главна модела уговарања која подржава услуга Project Operations:</span><span class="sxs-lookup"><span data-stu-id="febca-125">This is an option set that represents the two main contracting models supported by Project Operations:</span></span></br><span data-ttu-id="febca-126">- **Фиксна цена**</span><span class="sxs-lookup"><span data-stu-id="febca-126">- **Fixed Price**</span></span></br><span data-ttu-id="febca-127">- **Време и материјал**</span><span class="sxs-lookup"><span data-stu-id="febca-127">- **Time and Material**</span></span> | <span data-ttu-id="febca-128">На основу начина наплате наведеног предмета уговора, стварна трансакција ће бити обрађена.</span><span class="sxs-lookup"><span data-stu-id="febca-128">Based on the billing method of the referenced contract line, the actual transaction will be processed.</span></span> <span data-ttu-id="febca-129">Ако предмет уговора на који се позива стварна вредност има начин наплате времена и материјала, креирају се записи стварних вредности трошкова и ненаплаћене продаје.</span><span class="sxs-lookup"><span data-stu-id="febca-129">If the contract line referenced by the actual has a time and material billing method, cost and unbilled sales actual records are created.</span></span> <span data-ttu-id="febca-130">Ако предмет уговора на који се позива стварна вредност има начин обрачуна са фиксном ценом, креираће се само стварни трошак.</span><span class="sxs-lookup"><span data-stu-id="febca-130">If the contract line referenced by the actual has a fixed price billing method, only a cost actual is created.</span></span> |
+| <span data-ttu-id="febca-131">**Project**</span><span class="sxs-lookup"><span data-stu-id="febca-131">**Project**</span></span> | <span data-ttu-id="febca-132">Користите ово поље за идентификовање пројекта који ће се користити за извођење радова на овом ангажману.</span><span class="sxs-lookup"><span data-stu-id="febca-132">Use this field to identify the project that will be used to deliver the work on this engagement.</span></span> | <span data-ttu-id="febca-133">Ова вредност ће се користити заједно са **Обухваћени задаци** и **Обухваћене класе трансакција** да се реши референца на предмет уговора на стварном или процењеном запису ставке.</span><span class="sxs-lookup"><span data-stu-id="febca-133">This value will be used in conjunction with **Included Tasks** and **Included Transaction Classes** to resolve the contract line reference on an actual or estimate line record.</span></span> |
+| <span data-ttu-id="febca-134">**Обухваћени задаци**</span><span class="sxs-lookup"><span data-stu-id="febca-134">**Included Tasks**</span></span> | <span data-ttu-id="febca-135">Означава да ли ова линија уговора укључује све пројектне задатке за изабрани пројекат или само подскуп задатака.</span><span class="sxs-lookup"><span data-stu-id="febca-135">Indicates if this contract line includes all project tasks for the selected project or only a subset of the tasks.</span></span> <span data-ttu-id="febca-136">Ово је скуп опција који има следеће могуће вредности:</span><span class="sxs-lookup"><span data-stu-id="febca-136">This is an option set that has the following possible values:</span></span></br><span data-ttu-id="febca-137">- **Сви пројектни задаци**</span><span class="sxs-lookup"><span data-stu-id="febca-137">- **All Project Tasks**</span></span></br><span data-ttu-id="febca-138">- **Само изабрани пројектни задаци**.</span><span class="sxs-lookup"><span data-stu-id="febca-138">- **Selected Project Tasks Only**.</span></span> <span data-ttu-id="febca-139">Празна вредност у овом пољу једнака је одабиру **Сви пројектни задаци**.</span><span class="sxs-lookup"><span data-stu-id="febca-139">A blank value in this field is equal to selecting **All Project Tasks**.</span></span> | <span data-ttu-id="febca-140">Ако је изабрана опција **Само изабрани задаци**, можете изабрати одређене задатке и повезати их са овим предметом уговора на картици **Подешавање задатка за обрачун** на страници **Пројекат**.</span><span class="sxs-lookup"><span data-stu-id="febca-140">If **Selected Tasks Only** is selected, you can select specific tasks and associate them to this contract line on the **Task Billing Setup** tab on the **Project** page.</span></span> <span data-ttu-id="febca-141">Вредност ће се користити заједно са класама **Пројекат** и **Укључене класе трансакција** да се разреши референца на предмет уговора на стварној вредности или запису предмета процене.</span><span class="sxs-lookup"><span data-stu-id="febca-141">The value will be used in conjunction with **Project** and **Included Transaction** classes to resolve the contract line reference on an actual or an estimate line record.</span></span> |
+| <span data-ttu-id="febca-142">**Садржи време**</span><span class="sxs-lookup"><span data-stu-id="febca-142">**Include Time**</span></span> | <span data-ttu-id="febca-143">Вредност **Да**/**Не** показује да ли ће временске трансакције или трошкови рада на изабраном пројекту бити укључени у овај предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="febca-143">A **Yes**/**No** value indicates if time transactions or labor costs on the selected project will be included on this contract line.</span></span> <span data-ttu-id="febca-144">Вредност **Не** означава да временске трансакције или трошкови рада неће бити укључени у овај предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="febca-144">A **No** value indicates that the time transactions or labor cost will not be included on this contract line.</span></span> <span data-ttu-id="febca-145">Вредност **Да** указује на то да хоће.</span><span class="sxs-lookup"><span data-stu-id="febca-145">A **Yes** value indicates that they will.</span></span> | <span data-ttu-id="febca-146">Ова вредност се користи заједно са пројектом за решавање референце на предмет уговора на стварном или процењеном запису ставке.</span><span class="sxs-lookup"><span data-stu-id="febca-146">This value is used in conjunction with the project to resolve the contract line reference on an actual or an estimate line record.</span></span> |
+| <span data-ttu-id="febca-147">**Садржи трошак**</span><span class="sxs-lookup"><span data-stu-id="febca-147">**Include Expense**</span></span> | <span data-ttu-id="febca-148">Вредност **Да**/**Не** показује да ли ће цена трошкова на изабраном пројекту бити укључена у овај предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="febca-148">A **Yes**/**No** value indicates if expense costs on the selected project will be included on this contract line.</span></span> <span data-ttu-id="febca-149">Вредност **Не** означава да цена трошкова на изабраном пројекту неће бити укључена у овај предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="febca-149">A **No** value indicates that the expense cost will not be included on this contract line.</span></span> <span data-ttu-id="febca-150">Вредност **Да** указује на то да хоће.</span><span class="sxs-lookup"><span data-stu-id="febca-150">A **Yes** value indicates that it will.</span></span> | <span data-ttu-id="febca-151">Ова вредност се користи заједно са пројектом за решавање референце на предмет уговора на стварном или процењеном запису ставке.</span><span class="sxs-lookup"><span data-stu-id="febca-151">This value is used in conjunction with the project to resolve the contract line reference on an actual or an estimate line record.</span></span> |
+| <span data-ttu-id="febca-152">**Садржи материјале**</span><span class="sxs-lookup"><span data-stu-id="febca-152">**Include Materials**</span></span> | <span data-ttu-id="febca-153">Вредност **Да**/**Не** показује да ли ће цена материјала на изабраном пројекту бити укључена у овај предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="febca-153">A **Yes**/**No** value indicates if material costs on the selected project will be included on this contract line.</span></span> <span data-ttu-id="febca-154">Вредност **Не** показује да цена материјала неће бити укључена у овај предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="febca-154">A **No** value indicates that the material costs will not be included on this contract line.</span></span> <span data-ttu-id="febca-155">Вредност **Да** указује на то да хоће.</span><span class="sxs-lookup"><span data-stu-id="febca-155">A **Yes** value indicates that it will.</span></span> | <span data-ttu-id="febca-156">Ова вредност се користи заједно са пројектом за решавање референце на предмет уговора на стварном или процењеном запису ставке.</span><span class="sxs-lookup"><span data-stu-id="febca-156">This value is used in conjunction with the project to resolve the contract line reference on an actual or an estimate line record.</span></span> |
+| <span data-ttu-id="febca-157">**Садржи надокнаду**</span><span class="sxs-lookup"><span data-stu-id="febca-157">**Include Fee**</span></span> | <span data-ttu-id="febca-158">Вредност **Да**/**Не** показује да ли ће накнаде на изабраном пројекту бити укључене у овај предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="febca-158">A **Yes**/**No** value indicates if fees on the selected project will be included on this contract line.</span></span> <span data-ttu-id="febca-159">Вредност **Не** означава да накнаде неће бити укључене у овај предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="febca-159">A **No** value indicates that the fees will not be included on this contract line.</span></span> <span data-ttu-id="febca-160">Вредност **Да** указује на то да хоће.</span><span class="sxs-lookup"><span data-stu-id="febca-160">A **Yes** value indicates that they will.</span></span> | <span data-ttu-id="febca-161">Ова вредност се користи заједно са пројектом за решавање референце на предмет уговора на стварном или процењеном запису ставке.</span><span class="sxs-lookup"><span data-stu-id="febca-161">This value is used in conjunction with the project to resolve the contract line reference on an actual or an estimate line record.</span></span> |
+| <span data-ttu-id="febca-162">**Уговорени износ**</span><span class="sxs-lookup"><span data-stu-id="febca-162">**Contracted Amount**</span></span> | <span data-ttu-id="febca-163">На предмету уговора са фиксном ценом, овај износ је уговорена вредност која ће се фактурисати клијенту за све радне компоненте повезане са овим предметом уговора.</span><span class="sxs-lookup"><span data-stu-id="febca-163">On a fixed price contract line, this amount is the agreed-on value that will be invoiced to the customer for all the work components associated to this contract line.</span></span> <span data-ttu-id="febca-164">На предмету уговора за време и материјал, овај износ је процењена вредност онога што ће се фактурисати клијенту за све радне компоненте повезане са овим предметом уговора.</span><span class="sxs-lookup"><span data-stu-id="febca-164">On a time and material contract line, this amount is an estimated value of what will be invoiced to the customer for all the work components associated to this contract line.</span></span> <span data-ttu-id="febca-165">За пројектни уговор који је креиран из понуде, ова вредност се копира из одговарајућег поља на ставки понуде.</span><span class="sxs-lookup"><span data-stu-id="febca-165">On a project contract that is created from a quote, this value is copied from the corresponding field on the quote line.</span></span> <span data-ttu-id="febca-166">Када предмет уговора заснован на пројекту садржи детаље ставки, ово поље се закључава за уређивање и сажима из износа у детаљима линије уговора.</span><span class="sxs-lookup"><span data-stu-id="febca-166">When a project–based contract line has line details, this field is locked for editing and is summarized from the amount on the contract line details.</span></span> | <span data-ttu-id="febca-167">Када предмет уговора садржи детаље ставки, ова вредност се може изменити променом износа на детаљима ставки.</span><span class="sxs-lookup"><span data-stu-id="febca-167">When the contract line has line details, this value can be modified by changing the amounts on the line details.</span></span> <span data-ttu-id="febca-168">У предмету уговора са фиксном ценом, ова вредност се користи за генерисање износа пре опорезивања на периодичним контролним тачкама обрачуна.</span><span class="sxs-lookup"><span data-stu-id="febca-168">On a fixed price contract line, this value is used to generate the amount before tax on periodic billing milestones.</span></span> |
+| <span data-ttu-id="febca-169">**Процењени порез**</span><span class="sxs-lookup"><span data-stu-id="febca-169">**Estimated Tax**</span></span> | <span data-ttu-id="febca-170">Корисник може да уређује ово поље како би унео процењени износ пореза у предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="febca-170">The user can edit this field to input the estimated tax amount on the contract line.</span></span> <span data-ttu-id="febca-171">Када предмет уговора заснован на пројекту садржи детаље ставки, ово поље се закључава за уређивање и сажима из износа пореза у детаљима предмета уговора.</span><span class="sxs-lookup"><span data-stu-id="febca-171">When a project–based contract line has line details, this field is locked for editing and is summarized from the tax amount on the contract line details.</span></span> | <span data-ttu-id="febca-172">Када предмет уговора садржи детаље ставки, ова вредност се може изменити променом износа пореза на детаљима ставки.</span><span class="sxs-lookup"><span data-stu-id="febca-172">When the contract line has line details, this value can be modified by changing the tax amounts on the line details.</span></span> <span data-ttu-id="febca-173">У предмету уговора са фиксном ценом, ова вредност се користи за генерисање пореза на периодичним контролним тачкама обрачуна.</span><span class="sxs-lookup"><span data-stu-id="febca-173">On a fixed price contract line, this value is used to generate the tax on periodic billing milestones.</span></span> |
+| <span data-ttu-id="febca-174">**Уговорени износ са порезом**</span><span class="sxs-lookup"><span data-stu-id="febca-174">**Contracted Amount after Tax**</span></span> | <span data-ttu-id="febca-175">Износ предмета уговора са порезом.</span><span class="sxs-lookup"><span data-stu-id="febca-175">The contract line amount after tax.</span></span> <span data-ttu-id="febca-176">Ово поље је само за читање и израчунава се као **Уговорени износ + порез**.</span><span class="sxs-lookup"><span data-stu-id="febca-176">This field is read only and is calculated as **Contracted Amount + Tax**.</span></span> | <span data-ttu-id="febca-177">У предмету уговора са фиксном ценом, ова вредност се користи за генерисање периодичних контролних тачака обрачуна.</span><span class="sxs-lookup"><span data-stu-id="febca-177">On a fixed price contract line, this value is used to generate periodic billing milestones.</span></span> |
+| <span data-ttu-id="febca-178">**Ограничење које не сме да се прекорачи**</span><span class="sxs-lookup"><span data-stu-id="febca-178">**Not-to-Exceed Limit**</span></span> | <span data-ttu-id="febca-179">Корисник може да уређује ово поље и оно је доступно само на предметима уговора заснованим на пројекту чији начин обрачуна је постављен на време и материјал.</span><span class="sxs-lookup"><span data-stu-id="febca-179">The user can edit this field and it is only available on project-based contract lines that have the billing method set as time and material.</span></span> | <span data-ttu-id="febca-180">Корисник може да уређује ово поље.</span><span class="sxs-lookup"><span data-stu-id="febca-180">The user can edit this field.</span></span> <span data-ttu-id="febca-181">Када се стварна вредност за време и материјал односи на овај предмет уговора за време и материјал, износ на стварној вредности се процењује према ограничењу које не сме да се премаши на предмету уговора.</span><span class="sxs-lookup"><span data-stu-id="febca-181">When an actual for time and material references this contract line for time and material, the amount on the actual is evaluated against the not-to-exceed limit on the contract line.</span></span> <span data-ttu-id="febca-182">Ова процена се завршава након што се обрачунају већ потрошени и преузети износи.</span><span class="sxs-lookup"><span data-stu-id="febca-182">This evaluation is completed after  the already spent and committed amounts are accounted for.</span></span> |
+| <span data-ttu-id="febca-183">**Буџет клијента**</span><span class="sxs-lookup"><span data-stu-id="febca-183">**Customer Budget**</span></span> | <span data-ttu-id="febca-184">Ово поље може да се уређује и копира се из одговарајућег поља на ставки понуде ако је уговор креиран из понуде.</span><span class="sxs-lookup"><span data-stu-id="febca-184">This field is editable and is copied from the corresponding field on the quote line if the contract was created from a quote.</span></span> | <span data-ttu-id="febca-185">Ово поље се користи само за информације и нема никакав даљи значај.</span><span class="sxs-lookup"><span data-stu-id="febca-185">This field is only used for information and does not have any downstream significance.</span></span> |
 
-## <a name="validation-rules-for-the-options-on-the-general-tab-of-project-based-contract-lines"></a><span data-ttu-id="25653-181">Правила за валидацију за опције на картици Општи подаци за предмете уговора засноване на пројекту</span><span class="sxs-lookup"><span data-stu-id="25653-181">Validation rules for the options on the General tab of project-based contract lines</span></span>
+## <a name="validation-rules-for-the-options-on-the-general-tab-of-project-based-contract-lines"></a><span data-ttu-id="febca-186">Правила за валидацију за опције на картици Општи подаци за предмете уговора засноване на пројекту</span><span class="sxs-lookup"><span data-stu-id="febca-186">Validation rules for the options on the General tab of project-based contract lines</span></span>
 
-<span data-ttu-id="25653-182">Правило 1: Ако је поље **Укључени задаци** празно или подешено на **Сви пројектни задаци**, сви задаци пројекта су укључени у предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="25653-182">Rule 1: If the **Included Tasks** field is blank or set to **All Project Tasks**, all tasks of the project are included on the contract line.</span></span>
+<span data-ttu-id="febca-187">Правило 1: Ако је поље **Укључени задаци** празно или подешено на **Сви пројектни задаци**, сви задаци пројекта су укључени у предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="febca-187">Rule 1: If the **Included Tasks** field is blank or set to **All Project Tasks**, all tasks of the project are included on the contract line.</span></span>
 
-<span data-ttu-id="25653-183">Правило 2: Када је поље **Укључени задаци** празно или је изричито постављено на **Сви пројектни задаци**, пројекат и одређена класа трансакција могу бити укључени само у један предмет уговора заснован на пројекту.</span><span class="sxs-lookup"><span data-stu-id="25653-183">Rule 2: When the **Included Tasks** field is blank or explicitly set to **All Project Tasks**, a project and a certain transaction class can only be included on one project-based contract line of a contract.</span></span>
+<span data-ttu-id="febca-188">Правило 2: Када је поље **Укључени задаци** празно или је изричито постављено на **Сви пројектни задаци**, пројекат и одређена класа трансакција могу бити укључени само у један предмет уговора заснован на пројекту.</span><span class="sxs-lookup"><span data-stu-id="febca-188">Rule 2: When the **Included Tasks** field is blank or explicitly set to **All Project Tasks**, a project and a certain transaction class can only be included on one project-based contract line of a contract.</span></span>
 
-<span data-ttu-id="25653-184">Правило 3: Када је поље **Укључени задаци** постављено на **Само изабрани пројектни задаци**, пројекат и одређена класа трансакција могу да се укључе у више предмета уговора заснованих на пројекту.</span><span class="sxs-lookup"><span data-stu-id="25653-184">Rule 3: When the **Included Tasks** field is set to **Selected Project Tasks Only**, a project and a certain transaction class can be included on multiple project-based contract lines of a contract.</span></span>
+<span data-ttu-id="febca-189">Правило 3: Када је поље **Укључени задаци** постављено на **Само изабрани пројектни задаци**, пројекат и одређена класа трансакција могу да се укључе у више предмета уговора заснованих на пројекту.</span><span class="sxs-lookup"><span data-stu-id="febca-189">Rule 3: When the **Included Tasks** field is set to **Selected Project Tasks Only**, a project and a certain transaction class can be included on multiple project-based contract lines of a contract.</span></span>
 
-| <span data-ttu-id="25653-185">Уговор</span><span class="sxs-lookup"><span data-stu-id="25653-185">Contract</span></span> | <span data-ttu-id="25653-186">Предмет уговора</span><span class="sxs-lookup"><span data-stu-id="25653-186">Contract line</span></span> | <span data-ttu-id="25653-187">Project</span><span class="sxs-lookup"><span data-stu-id="25653-187">Project</span></span> | <span data-ttu-id="25653-188">Обухваћени задаци</span><span class="sxs-lookup"><span data-stu-id="25653-188">Included tasks</span></span>      | <span data-ttu-id="25653-189">Садржи време</span><span class="sxs-lookup"><span data-stu-id="25653-189">Include time</span></span> | <span data-ttu-id="25653-190">Садржи трошак</span><span class="sxs-lookup"><span data-stu-id="25653-190">Include expense</span></span> | <span data-ttu-id="25653-191">Садржи накнаду</span><span class="sxs-lookup"><span data-stu-id="25653-191">Include fee</span></span> | <span data-ttu-id="25653-192">Важи / Не важи</span><span class="sxs-lookup"><span data-stu-id="25653-192">Valid/not valid</span></span> | <span data-ttu-id="25653-193">Разлог</span><span class="sxs-lookup"><span data-stu-id="25653-193">Reason</span></span>                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|----------|---------------|---------|---------------------|--------------|-----------------|-------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <span data-ttu-id="25653-194">C1</span><span class="sxs-lookup"><span data-stu-id="25653-194">C1</span></span>       | <span data-ttu-id="25653-195">CL1</span><span class="sxs-lookup"><span data-stu-id="25653-195">CL1</span></span>           | <span data-ttu-id="25653-196">П1</span><span class="sxs-lookup"><span data-stu-id="25653-196">P1</span></span>      | <span data-ttu-id="25653-197">Празно</span><span class="sxs-lookup"><span data-stu-id="25653-197">Blank</span></span>               | <span data-ttu-id="25653-198">Да</span><span class="sxs-lookup"><span data-stu-id="25653-198">Yes</span></span>          | <span data-ttu-id="25653-199">Да</span><span class="sxs-lookup"><span data-stu-id="25653-199">Yes</span></span>             | <span data-ttu-id="25653-200">Да</span><span class="sxs-lookup"><span data-stu-id="25653-200">Yes</span></span>         | <span data-ttu-id="25653-201">Не важи</span><span class="sxs-lookup"><span data-stu-id="25653-201">Not valid</span></span>       | <span data-ttu-id="25653-202">Кршење правила бр. 2.</span><span class="sxs-lookup"><span data-stu-id="25653-202">Violation of Rule #2.</span></span> <span data-ttu-id="25653-203">Време, трошкови и накнаде за пројекат P1 укључени су у оба предмета уговора, CL1 и CL2.</span><span class="sxs-lookup"><span data-stu-id="25653-203">Time,   expense, and fees on project P1 are included on both contract lines, CL1 and   CL2.</span></span>                                                                                                                                                                                                                                                                                                              |
-| <span data-ttu-id="25653-204">C1</span><span class="sxs-lookup"><span data-stu-id="25653-204">C1</span></span>       | <span data-ttu-id="25653-205">CL2</span><span class="sxs-lookup"><span data-stu-id="25653-205">CL2</span></span>           | <span data-ttu-id="25653-206">П1</span><span class="sxs-lookup"><span data-stu-id="25653-206">P1</span></span>      | <span data-ttu-id="25653-207">Празно</span><span class="sxs-lookup"><span data-stu-id="25653-207">Blank</span></span>               | <span data-ttu-id="25653-208">Да</span><span class="sxs-lookup"><span data-stu-id="25653-208">Yes</span></span>          | <span data-ttu-id="25653-209">Да</span><span class="sxs-lookup"><span data-stu-id="25653-209">Yes</span></span>             | <span data-ttu-id="25653-210">Да</span><span class="sxs-lookup"><span data-stu-id="25653-210">Yes</span></span>         | <span data-ttu-id="25653-211">Не важи</span><span class="sxs-lookup"><span data-stu-id="25653-211">Not valid</span></span>       | <span data-ttu-id="25653-212">Кршење правила бр. 2.</span><span class="sxs-lookup"><span data-stu-id="25653-212">Violation of Rule #2.</span></span> <span data-ttu-id="25653-213">Време, трошкови и накнаде за пројекат P1 укључени су у оба предмета уговора, CL1 и CL2.</span><span class="sxs-lookup"><span data-stu-id="25653-213">Time,   expense, and fees on project P1 are included on both contract lines, CL1 and   CL2.</span></span>                                                                                                                                                                                                                                                                                                              |
-| <span data-ttu-id="25653-214">C1</span><span class="sxs-lookup"><span data-stu-id="25653-214">C1</span></span>       | <span data-ttu-id="25653-215">CL1</span><span class="sxs-lookup"><span data-stu-id="25653-215">CL1</span></span>           | <span data-ttu-id="25653-216">П1</span><span class="sxs-lookup"><span data-stu-id="25653-216">P1</span></span>      | <span data-ttu-id="25653-217">Празно</span><span class="sxs-lookup"><span data-stu-id="25653-217">Blank</span></span>               | <span data-ttu-id="25653-218">Да</span><span class="sxs-lookup"><span data-stu-id="25653-218">Yes</span></span>          | <span data-ttu-id="25653-219">Ne</span><span class="sxs-lookup"><span data-stu-id="25653-219">No</span></span>              | <span data-ttu-id="25653-220">Да</span><span class="sxs-lookup"><span data-stu-id="25653-220">Yes</span></span>         | <span data-ttu-id="25653-221">Не важи</span><span class="sxs-lookup"><span data-stu-id="25653-221">Not valid</span></span>       | <span data-ttu-id="25653-222">Кршење правила бр. 2.</span><span class="sxs-lookup"><span data-stu-id="25653-222">Violation of Rule #2.</span></span> <span data-ttu-id="25653-223">Време и накнаде за пројекат P1 укључени су у оба предмета уговора, CL1 и CL2.</span><span class="sxs-lookup"><span data-stu-id="25653-223">Time and   fees on project P1 are included on both contract lines, CL1 and CL2.</span></span>                                                                                                                                                                                                                                                                                                                          |
-| <span data-ttu-id="25653-224">C1</span><span class="sxs-lookup"><span data-stu-id="25653-224">C1</span></span>       | <span data-ttu-id="25653-225">CL2</span><span class="sxs-lookup"><span data-stu-id="25653-225">CL2</span></span>           | <span data-ttu-id="25653-226">П1</span><span class="sxs-lookup"><span data-stu-id="25653-226">P1</span></span>      | <span data-ttu-id="25653-227">Празно</span><span class="sxs-lookup"><span data-stu-id="25653-227">Blank</span></span>               | <span data-ttu-id="25653-228">Да</span><span class="sxs-lookup"><span data-stu-id="25653-228">Yes</span></span>          | <span data-ttu-id="25653-229">Да</span><span class="sxs-lookup"><span data-stu-id="25653-229">Yes</span></span>             | <span data-ttu-id="25653-230">Да</span><span class="sxs-lookup"><span data-stu-id="25653-230">Yes</span></span>         | <span data-ttu-id="25653-231">Не важи</span><span class="sxs-lookup"><span data-stu-id="25653-231">Not valid</span></span>       | <span data-ttu-id="25653-232">Кршење правила бр. 2.</span><span class="sxs-lookup"><span data-stu-id="25653-232">Violation of Rule #2.</span></span> <span data-ttu-id="25653-233">Време и накнаде за пројекат P1 укључени су у оба предмета уговора, CL1 и CL2.</span><span class="sxs-lookup"><span data-stu-id="25653-233">Time and   fees on project P1 are included on both contract lines, CL1 and CL2.</span></span>                                                                                                                                                                                                                                                                                                                          |
-| <span data-ttu-id="25653-234">C1</span><span class="sxs-lookup"><span data-stu-id="25653-234">C1</span></span>       | <span data-ttu-id="25653-235">CL1</span><span class="sxs-lookup"><span data-stu-id="25653-235">CL1</span></span>           | <span data-ttu-id="25653-236">П1</span><span class="sxs-lookup"><span data-stu-id="25653-236">P1</span></span>      | <span data-ttu-id="25653-237">Празно</span><span class="sxs-lookup"><span data-stu-id="25653-237">Blank</span></span>               | <span data-ttu-id="25653-238">Да</span><span class="sxs-lookup"><span data-stu-id="25653-238">Yes</span></span>          | <span data-ttu-id="25653-239">Ne</span><span class="sxs-lookup"><span data-stu-id="25653-239">No</span></span>              | <span data-ttu-id="25653-240">Да</span><span class="sxs-lookup"><span data-stu-id="25653-240">Yes</span></span>         | <span data-ttu-id="25653-241">Важећи</span><span class="sxs-lookup"><span data-stu-id="25653-241">Valid</span></span>           | <span data-ttu-id="25653-242">Време и накнаде за пројекат P1 су укључени у CL1.</span><span class="sxs-lookup"><span data-stu-id="25653-242">Time and fees on project P1 are   included on the CL1.</span></span> <span data-ttu-id="25653-243">Трошкови за пројекат P1 укључени су у CL2.</span><span class="sxs-lookup"><span data-stu-id="25653-243">Expense on project P1 is included on CL2.</span></span> </br>   <span data-ttu-id="25653-244">Нема преклапања онога што је укључено у сваки предмет уговора и стога је важеће.</span><span class="sxs-lookup"><span data-stu-id="25653-244">There is no overlap in what is being included on each contract line and is   therefore valid.</span></span>                                                                                                                                                                                                                         |
-| <span data-ttu-id="25653-245">C1</span><span class="sxs-lookup"><span data-stu-id="25653-245">C1</span></span>       | <span data-ttu-id="25653-246">CL2</span><span class="sxs-lookup"><span data-stu-id="25653-246">CL2</span></span>           | <span data-ttu-id="25653-247">П1</span><span class="sxs-lookup"><span data-stu-id="25653-247">P1</span></span>      | <span data-ttu-id="25653-248">Празно</span><span class="sxs-lookup"><span data-stu-id="25653-248">Blank</span></span>               | <span data-ttu-id="25653-249">Ne</span><span class="sxs-lookup"><span data-stu-id="25653-249">No</span></span>           | <span data-ttu-id="25653-250">Да</span><span class="sxs-lookup"><span data-stu-id="25653-250">Yes</span></span>             | <span data-ttu-id="25653-251">Ne</span><span class="sxs-lookup"><span data-stu-id="25653-251">No</span></span>          | <span data-ttu-id="25653-252">Важећи</span><span class="sxs-lookup"><span data-stu-id="25653-252">Valid</span></span>           | <span data-ttu-id="25653-253">Време и накнаде за пројекат P1 су укључени у CL1.</span><span class="sxs-lookup"><span data-stu-id="25653-253">Time and fees on project P1 are   included on the CL1.</span></span> <span data-ttu-id="25653-254">Трошкови за пројекат P1 укључени су у CL2.</span><span class="sxs-lookup"><span data-stu-id="25653-254">Expense on project P1 is included on CL2.</span></span> </br>   <span data-ttu-id="25653-255">Нема преклапања онога што је укључено у сваки предмет уговора и стога је важеће.</span><span class="sxs-lookup"><span data-stu-id="25653-255">There is no overlap in what is being included on each contract line and is   therefore valid.</span></span>                                                                                                                                                                                                                         |
-| <span data-ttu-id="25653-256">C1</span><span class="sxs-lookup"><span data-stu-id="25653-256">C1</span></span>       | <span data-ttu-id="25653-257">CL1</span><span class="sxs-lookup"><span data-stu-id="25653-257">CL1</span></span>           | <span data-ttu-id="25653-258">П1</span><span class="sxs-lookup"><span data-stu-id="25653-258">P1</span></span>      | <span data-ttu-id="25653-259">Само изабрани задаци</span><span class="sxs-lookup"><span data-stu-id="25653-259">Selected tasks only</span></span> | <span data-ttu-id="25653-260">Да</span><span class="sxs-lookup"><span data-stu-id="25653-260">Yes</span></span>          | <span data-ttu-id="25653-261">Да</span><span class="sxs-lookup"><span data-stu-id="25653-261">Yes</span></span>             | <span data-ttu-id="25653-262">Да</span><span class="sxs-lookup"><span data-stu-id="25653-262">Yes</span></span>         | <span data-ttu-id="25653-263">Не важи</span><span class="sxs-lookup"><span data-stu-id="25653-263">Not valid</span></span>       | <span data-ttu-id="25653-264">Кршење правила бр. 2.</span><span class="sxs-lookup"><span data-stu-id="25653-264">Violation of Rule #2.</span></span>   </br><span data-ttu-id="25653-265">- C1 укључује време, трошкове и накнаде за подскуп задатака на пројекту P1.</span><span class="sxs-lookup"><span data-stu-id="25653-265">- C1 includes time, expenses, and fees on a subset of tasks on   project P1.</span></span> </br><span data-ttu-id="25653-266">- CL2 укључује време, трошкове и накнаде за цео пројекат P1 и стога се преклапа са оним што је укључено у C1.</span><span class="sxs-lookup"><span data-stu-id="25653-266">- CL2 includes time, expenses, and fees for the whole   project P1 and therefore overlaps with what is included on C1.</span></span>                                                                                                                                                                                          |
-| <span data-ttu-id="25653-267">C1</span><span class="sxs-lookup"><span data-stu-id="25653-267">C1</span></span>       | <span data-ttu-id="25653-268">CL2</span><span class="sxs-lookup"><span data-stu-id="25653-268">CL2</span></span>           | <span data-ttu-id="25653-269">П1</span><span class="sxs-lookup"><span data-stu-id="25653-269">P1</span></span>      | <span data-ttu-id="25653-270">Празно</span><span class="sxs-lookup"><span data-stu-id="25653-270">Blank</span></span>               | <span data-ttu-id="25653-271">Да</span><span class="sxs-lookup"><span data-stu-id="25653-271">Yes</span></span>          | <span data-ttu-id="25653-272">Да</span><span class="sxs-lookup"><span data-stu-id="25653-272">Yes</span></span>             | <span data-ttu-id="25653-273">Да</span><span class="sxs-lookup"><span data-stu-id="25653-273">Yes</span></span>         | <span data-ttu-id="25653-274">Не важи</span><span class="sxs-lookup"><span data-stu-id="25653-274">Not valid</span></span>       | <span data-ttu-id="25653-275">Кршење правила бр. 2.</span><span class="sxs-lookup"><span data-stu-id="25653-275">Violation of Rule #2.</span></span>   </br><span data-ttu-id="25653-276">- C1 укључује време, трошкове и накнаде за подскуп задатака на пројекту P1.</span><span class="sxs-lookup"><span data-stu-id="25653-276">- C1 includes time, expenses, and fees on a subset of tasks on   project P1.</span></span> </br><span data-ttu-id="25653-277">- CL2 укључује време, трошкове и накнаде за цео пројекат P1 и стога се преклапа са оним што је укључено у C1.</span><span class="sxs-lookup"><span data-stu-id="25653-277">- CL2 includes time, expenses, and fees for the whole   project P1 and therefore overlaps with what is included on C1.</span></span>                                                                                                                                                                                          |
-| <span data-ttu-id="25653-278">C1</span><span class="sxs-lookup"><span data-stu-id="25653-278">C1</span></span>       | <span data-ttu-id="25653-279">CL1</span><span class="sxs-lookup"><span data-stu-id="25653-279">CL1</span></span>           | <span data-ttu-id="25653-280">П1</span><span class="sxs-lookup"><span data-stu-id="25653-280">P1</span></span>      | <span data-ttu-id="25653-281">Само изабрани задаци</span><span class="sxs-lookup"><span data-stu-id="25653-281">Selected tasks only</span></span> | <span data-ttu-id="25653-282">Да</span><span class="sxs-lookup"><span data-stu-id="25653-282">Yes</span></span>          | <span data-ttu-id="25653-283">Да</span><span class="sxs-lookup"><span data-stu-id="25653-283">Yes</span></span>             | <span data-ttu-id="25653-284">Да</span><span class="sxs-lookup"><span data-stu-id="25653-284">Yes</span></span>         | <span data-ttu-id="25653-285">Важећи</span><span class="sxs-lookup"><span data-stu-id="25653-285">Valid</span></span>           | <span data-ttu-id="25653-286">По правилу #3</span><span class="sxs-lookup"><span data-stu-id="25653-286">Per Rule #3</span></span></br><span data-ttu-id="25653-287">- C1 укључује време, трошкове и накнаде за подскуп задатака на пројекту P1.</span><span class="sxs-lookup"><span data-stu-id="25653-287">-  C1 includes time, expenses, and fees on a   subset of tasks on project P1.</span></span> </br> <span data-ttu-id="25653-288">- CL2 укључује време, трошкове и накнаде за подскуп задатака на пројекту P1.</span><span class="sxs-lookup"><span data-stu-id="25653-288">- CL2 includes time, expenses, and   fees for a subset of tasks on project P1.</span></span> </br> <span data-ttu-id="25653-289">Једина додатна валидација је на подскупу задатака на CL1, који се разликује од подскупа задатака на CL2, како би се осигурало да нема преклапања.</span><span class="sxs-lookup"><span data-stu-id="25653-289">The only additional   validation is on the subset of tasks on CL1, which is different from the subset of tasks on CL2 to ensure that there are no overlaps.</span></span> <span data-ttu-id="25653-290">Ову валидацију систем довршава када су задаци повезани.</span><span class="sxs-lookup"><span data-stu-id="25653-290">This validation   is completed by the system when tasks are associated.</span></span> |
-| <span data-ttu-id="25653-291">C1</span><span class="sxs-lookup"><span data-stu-id="25653-291">C1</span></span>       | <span data-ttu-id="25653-292">CL2</span><span class="sxs-lookup"><span data-stu-id="25653-292">CL2</span></span>           | <span data-ttu-id="25653-293">П1</span><span class="sxs-lookup"><span data-stu-id="25653-293">P1</span></span>      | <span data-ttu-id="25653-294">Само изабрани задаци</span><span class="sxs-lookup"><span data-stu-id="25653-294">Selected tasks only</span></span> | <span data-ttu-id="25653-295">Да</span><span class="sxs-lookup"><span data-stu-id="25653-295">Yes</span></span>          | <span data-ttu-id="25653-296">Да</span><span class="sxs-lookup"><span data-stu-id="25653-296">Yes</span></span>             | <span data-ttu-id="25653-297">Да</span><span class="sxs-lookup"><span data-stu-id="25653-297">Yes</span></span>         | <span data-ttu-id="25653-298">Важећи</span><span class="sxs-lookup"><span data-stu-id="25653-298">Valid</span></span>           | <span data-ttu-id="25653-299">По правилу #3</span><span class="sxs-lookup"><span data-stu-id="25653-299">Per Rule #3</span></span></br><span data-ttu-id="25653-300">- C1 укључује време, трошкове и накнаде за подскуп задатака на пројекту P1.</span><span class="sxs-lookup"><span data-stu-id="25653-300">-  C1 includes time, expenses, and fees on a   subset of tasks on project P1.</span></span> </br> <span data-ttu-id="25653-301">- CL2 укључује време, трошкове и накнаде за подскуп задатака на пројекту P1.</span><span class="sxs-lookup"><span data-stu-id="25653-301">- CL2 includes time, expenses, and   fees for a subset of tasks on project P1.</span></span> </br> <span data-ttu-id="25653-302">Једина додатна валидација је на подскупу задатака на CL1, који се разликује од подскупа задатака на CL2, како би се осигурало да нема преклапања.</span><span class="sxs-lookup"><span data-stu-id="25653-302">The only additional   validation is on the subset of tasks on CL1, which is different from the subset of tasks on CL2 to ensure that there are no overlaps.</span></span> <span data-ttu-id="25653-303">Ову валидацију систем довршава када су задаци повезани.</span><span class="sxs-lookup"><span data-stu-id="25653-303">This validation   is completed by the system when tasks are associated.</span></span> |
+<table border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td width="43" valign="top">
+                <p><span data-ttu-id="febca-190">
+                    <strong>Уговор</strong>
+                </span><span class="sxs-lookup"><span data-stu-id="febca-190">
+                    <strong>Contract</strong>
+                </span></span></p>
+            </td>
+            <td width="65" valign="top">
+                <p><span data-ttu-id="febca-191">
+                    <strong>Предмет уговора</strong>
+                </span><span class="sxs-lookup"><span data-stu-id="febca-191">
+                    <strong>Contract line</strong>
+                </span></span></p>
+            </td>
+            <td width="42" valign="top">
+                <p><span data-ttu-id="febca-192">
+                    <strong>Project</strong>
+                </span><span class="sxs-lookup"><span data-stu-id="febca-192">
+                    <strong>Project</strong>
+                </span></span></p>
+            </td>
+            <td width="67" valign="top">
+                <p><span data-ttu-id="febca-193">
+                    <strong>Обухваћени задаци</strong>
+                </span><span class="sxs-lookup"><span data-stu-id="febca-193">
+                    <strong>Included tasks</strong>
+                </span></span></p>
+            </td>
+            <td width="48" valign="top">
+                <p><span data-ttu-id="febca-194">
+                    <strong>Садржи време</strong>
+                </span><span class="sxs-lookup"><span data-stu-id="febca-194">
+                    <strong>Include Time</strong>
+                </span></span></p>
+            </td>
+            <td width="48" valign="top">
+                <p><span data-ttu-id="febca-195">
+                    <strong>Садржи трошак</strong>
+                </span><span class="sxs-lookup"><span data-stu-id="febca-195">
+                    <strong>Include Expense</strong>
+                </span></span></p>
+            </td>
+            <td width="42" valign="top">
+                <p><span data-ttu-id="febca-196">
+                    <strong>Садржи материјале</strong>
+                </span><span class="sxs-lookup"><span data-stu-id="febca-196">
+                    <strong>Include Materials</strong>
+                </span></span></p>
+            </td>
+            <td width="42" valign="top">
+                <p><span data-ttu-id="febca-197">
+                    <strong>Уврсти</strong>
+                </span><span class="sxs-lookup"><span data-stu-id="febca-197">
+                    <strong>Include</strong>
+                </span></span></p>
+                <p><span data-ttu-id="febca-198">
+                    <strong>Накнада</strong>
+                </span><span class="sxs-lookup"><span data-stu-id="febca-198">
+                    <strong>Fee</strong>
+                </span></span></p>
+            </td>
+            <td width="53" valign="top">
+                <p><span data-ttu-id="febca-199">
+                    <strong>Важи / Не важи</strong>
+                </span><span class="sxs-lookup"><span data-stu-id="febca-199">
+                    <strong>Valid/ Not valid</strong>
+                </span></span></p>
+            </td>
+            <td width="250" valign="top">
+                <p><span data-ttu-id="febca-200">
+                    <strong>Разлог</strong>
+                </span><span class="sxs-lookup"><span data-stu-id="febca-200">
+                    <strong>Reason</strong>
+                </span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="43" valign="top">
+                <p>
+<span data-ttu-id="febca-201">C1</span><span class="sxs-lookup"><span data-stu-id="febca-201">C1</span></span> </p>
+            </td>
+            <td width="65" valign="top">
+                <p>
+<span data-ttu-id="febca-202">CL1</span><span class="sxs-lookup"><span data-stu-id="febca-202">CL1</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-203">П1</span><span class="sxs-lookup"><span data-stu-id="febca-203">P1</span></span> </p>
+            </td>
+            <td width="67" valign="top">
+                <p>
+<span data-ttu-id="febca-204">Празно</span><span class="sxs-lookup"><span data-stu-id="febca-204">Blank</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-205">Да</span><span class="sxs-lookup"><span data-stu-id="febca-205">Yes</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-206">Да</span><span class="sxs-lookup"><span data-stu-id="febca-206">Yes</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-207">Да</span><span class="sxs-lookup"><span data-stu-id="febca-207">Yes</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-208">Да</span><span class="sxs-lookup"><span data-stu-id="febca-208">Yes</span></span> </p>
+            </td>
+            <td width="53" rowspan="2" valign="top">
+                <p>
+<span data-ttu-id="febca-209">Не важи</span><span class="sxs-lookup"><span data-stu-id="febca-209">Not valid</span></span> </p>
+            </td>
+            <td width="250" rowspan="2" valign="top">
+                <p>
+<span data-ttu-id="febca-210">Кршење правила бр. 2.</span><span class="sxs-lookup"><span data-stu-id="febca-210">Violation of Rule #2.</span></span> <span data-ttu-id="febca-211">Време, трошкови, материјали и накнаде на пројекту П1 укључени су у оба предмета уговора CL1 и CL2.</span><span class="sxs-lookup"><span data-stu-id="febca-211">Time, Expense, Materials, and Fees on P1 project are included on both Contract lines CL1 and CL2.</span></span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="43" valign="top">
+                <p>
+<span data-ttu-id="febca-212">C1</span><span class="sxs-lookup"><span data-stu-id="febca-212">C1</span></span> </p>
+            </td>
+            <td width="65" valign="top">
+                <p>
+<span data-ttu-id="febca-213">CL2</span><span class="sxs-lookup"><span data-stu-id="febca-213">CL2</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-214">П1</span><span class="sxs-lookup"><span data-stu-id="febca-214">P1</span></span> </p>
+            </td>
+            <td width="67" valign="top">
+                <p>
+<span data-ttu-id="febca-215">Празно</span><span class="sxs-lookup"><span data-stu-id="febca-215">Blank</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-216">Да</span><span class="sxs-lookup"><span data-stu-id="febca-216">Yes</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-217">Да</span><span class="sxs-lookup"><span data-stu-id="febca-217">Yes</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-218">Да</span><span class="sxs-lookup"><span data-stu-id="febca-218">Yes</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-219">Да</span><span class="sxs-lookup"><span data-stu-id="febca-219">Yes</span></span> </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="43" valign="top">
+            </td>
+            <td width="65" valign="top">
+            </td>
+            <td width="42" valign="top">
+            </td>
+            <td width="67" valign="top">
+            </td>
+            <td width="48" valign="top">
+            </td>
+            <td width="48" valign="top">
+            </td>
+            <td width="42" valign="top">
+            </td>
+            <td width="42" valign="top">
+            </td>
+            <td width="53" valign="top">
+            </td>
+            <td width="250" valign="top">
+            </td>
+        </tr>
+        <tr>
+            <td width="43" valign="top">
+                <p>
+<span data-ttu-id="febca-220">C1</span><span class="sxs-lookup"><span data-stu-id="febca-220">C1</span></span> </p>
+            </td>
+            <td width="65" valign="top">
+                <p>
+<span data-ttu-id="febca-221">CL1</span><span class="sxs-lookup"><span data-stu-id="febca-221">CL1</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-222">П1</span><span class="sxs-lookup"><span data-stu-id="febca-222">P1</span></span> </p>
+            </td>
+            <td width="67" valign="top">
+                <p>
+<span data-ttu-id="febca-223">Празно</span><span class="sxs-lookup"><span data-stu-id="febca-223">Blank</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-224">Да</span><span class="sxs-lookup"><span data-stu-id="febca-224">Yes</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-225">No</span><span class="sxs-lookup"><span data-stu-id="febca-225">No</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-226">Да</span><span class="sxs-lookup"><span data-stu-id="febca-226">Yes</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-227">Да</span><span class="sxs-lookup"><span data-stu-id="febca-227">Yes</span></span> </p>
+            </td>
+            <td width="53" rowspan="2" valign="top">
+                <p>
+<span data-ttu-id="febca-228">Не важи</span><span class="sxs-lookup"><span data-stu-id="febca-228">Not valid</span></span> </p>
+            </td>
+            <td width="250" rowspan="2" valign="top">
+                <p>
+<span data-ttu-id="febca-229">Кршење правила бр. 2.</span><span class="sxs-lookup"><span data-stu-id="febca-229">Violation of Rule #2.</span></span> <span data-ttu-id="febca-230">Време, трошкови, материјали и накнаде на пројекту P1 укључени су у оба предмета уговора CL1 и CL2.</span><span class="sxs-lookup"><span data-stu-id="febca-230">Time, Materials, and Fees on P1 project are included on both Contract lines CL1 and CL2.</span></span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="43" valign="top">
+                <p>
+<span data-ttu-id="febca-231">C1</span><span class="sxs-lookup"><span data-stu-id="febca-231">C1</span></span> </p>
+            </td>
+            <td width="65" valign="top">
+                <p>
+<span data-ttu-id="febca-232">CL2</span><span class="sxs-lookup"><span data-stu-id="febca-232">CL2</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-233">П1</span><span class="sxs-lookup"><span data-stu-id="febca-233">P1</span></span> </p>
+            </td>
+            <td width="67" valign="top">
+                <p>
+<span data-ttu-id="febca-234">Празно</span><span class="sxs-lookup"><span data-stu-id="febca-234">Blank</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-235">Да</span><span class="sxs-lookup"><span data-stu-id="febca-235">Yes</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-236">Да</span><span class="sxs-lookup"><span data-stu-id="febca-236">Yes</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-237">Да</span><span class="sxs-lookup"><span data-stu-id="febca-237">Yes</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-238">Да</span><span class="sxs-lookup"><span data-stu-id="febca-238">Yes</span></span> </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="43" valign="top">
+            </td>
+            <td width="65" valign="top">
+            </td>
+            <td width="42" valign="top">
+            </td>
+            <td width="67" valign="top">
+            </td>
+            <td width="48" valign="top">
+            </td>
+            <td width="48" valign="top">
+            </td>
+            <td width="42" valign="top">
+            </td>
+            <td width="42" valign="top">
+            </td>
+            <td width="53" valign="top">
+            </td>
+            <td width="250" valign="top">
+            </td>
+        </tr>
+        <tr>
+            <td width="43" valign="top">
+                <p>
+<span data-ttu-id="febca-239">C1</span><span class="sxs-lookup"><span data-stu-id="febca-239">C1</span></span> </p>
+            </td>
+            <td width="65" valign="top">
+                <p>
+<span data-ttu-id="febca-240">CL1</span><span class="sxs-lookup"><span data-stu-id="febca-240">CL1</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-241">П1</span><span class="sxs-lookup"><span data-stu-id="febca-241">P1</span></span> </p>
+            </td>
+            <td width="67" valign="top">
+                <p>
+<span data-ttu-id="febca-242">Празно</span><span class="sxs-lookup"><span data-stu-id="febca-242">Blank</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-243">Да</span><span class="sxs-lookup"><span data-stu-id="febca-243">Yes</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-244">No</span><span class="sxs-lookup"><span data-stu-id="febca-244">No</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-245">Да</span><span class="sxs-lookup"><span data-stu-id="febca-245">Yes</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-246">Да</span><span class="sxs-lookup"><span data-stu-id="febca-246">Yes</span></span> </p>
+            </td>
+            <td width="53" rowspan="2" valign="top">
+                <p>
+<span data-ttu-id="febca-247">Важеће</span><span class="sxs-lookup"><span data-stu-id="febca-247">Valid</span></span> </p>
+            </td>
+            <td width="250" rowspan="2" valign="top">
+                <p>
+<span data-ttu-id="febca-248">Време, материјали и накнаде за пројекат P1 укључени су у CL1.</span><span class="sxs-lookup"><span data-stu-id="febca-248">Time, Materials, and Fees on P1 project are included on CL1.</span></span>
+                </p>
+                <ul>
+                    <li>
+<span data-ttu-id="febca-249">Трошкови за пројекат P1 укључени су у CL2.</span><span class="sxs-lookup"><span data-stu-id="febca-249">Expense on P1 project is included on CL2.</span></span>
+                    </li>
+                </ul>
+                <p>
+<span data-ttu-id="febca-250">Нема преклапања у ономе што је укључено у сваки предмет уговора и стога је важеће.</span><span class="sxs-lookup"><span data-stu-id="febca-250">No overlap in what is being included on each Contract line and therefore valid.</span></span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="43" valign="top">
+                <p>
+<span data-ttu-id="febca-251">C1</span><span class="sxs-lookup"><span data-stu-id="febca-251">C1</span></span> </p>
+            </td>
+            <td width="65" valign="top">
+                <p>
+<span data-ttu-id="febca-252">CL2</span><span class="sxs-lookup"><span data-stu-id="febca-252">CL2</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-253">П1</span><span class="sxs-lookup"><span data-stu-id="febca-253">P1</span></span> </p>
+            </td>
+            <td width="67" valign="top">
+                <p>
+<span data-ttu-id="febca-254">Празно</span><span class="sxs-lookup"><span data-stu-id="febca-254">Blank</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-255">No</span><span class="sxs-lookup"><span data-stu-id="febca-255">No</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-256">Да</span><span class="sxs-lookup"><span data-stu-id="febca-256">Yes</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-257">No</span><span class="sxs-lookup"><span data-stu-id="febca-257">No</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-258">No</span><span class="sxs-lookup"><span data-stu-id="febca-258">No</span></span> </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="43" valign="top">
+            </td>
+            <td width="65" valign="top">
+            </td>
+            <td width="42" valign="top">
+            </td>
+            <td width="67" valign="top">
+            </td>
+            <td width="48" valign="top">
+            </td>
+            <td width="48" valign="top">
+            </td>
+            <td width="42" valign="top">
+            </td>
+            <td width="42" valign="top">
+            </td>
+            <td width="53" valign="top">
+            </td>
+            <td width="250" valign="top">
+            </td>
+        </tr>
+        <tr>
+            <td width="43" valign="top">
+                <p>
+<span data-ttu-id="febca-259">C1</span><span class="sxs-lookup"><span data-stu-id="febca-259">C1</span></span> </p>
+            </td>
+            <td width="65" valign="top">
+                <p>
+<span data-ttu-id="febca-260">CL1</span><span class="sxs-lookup"><span data-stu-id="febca-260">CL1</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-261">П1</span><span class="sxs-lookup"><span data-stu-id="febca-261">P1</span></span> </p>
+            </td>
+            <td width="67" valign="top">
+                <p>
+<span data-ttu-id="febca-262">Само изабрани задаци</span><span class="sxs-lookup"><span data-stu-id="febca-262">Selected tasks only</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-263">Да</span><span class="sxs-lookup"><span data-stu-id="febca-263">Yes</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-264">Да</span><span class="sxs-lookup"><span data-stu-id="febca-264">Yes</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-265">Да</span><span class="sxs-lookup"><span data-stu-id="febca-265">Yes</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-266">Да</span><span class="sxs-lookup"><span data-stu-id="febca-266">Yes</span></span> </p>
+            </td>
+            <td width="53" rowspan="2" valign="top">
+                <p>
+<span data-ttu-id="febca-267">Не важи</span><span class="sxs-lookup"><span data-stu-id="febca-267">Not valid</span></span> </p>
+            </td>
+            <td width="250" rowspan="2" valign="top">
+                <p>
+<span data-ttu-id="febca-268">Кршење правила бр. 2</span><span class="sxs-lookup"><span data-stu-id="febca-268">Violation of Rule #2</span></span> </p>
+                <p>
+<span data-ttu-id="febca-269">C1 укључује време, материјале, трошкове и накнаде за подскуп задатака на пројекту P1.</span><span class="sxs-lookup"><span data-stu-id="febca-269">C1 includes Time, Materials, Expenses and Fees on a subset of tasks on project P1.</span></span>
+                </p>
+                <p>
+<span data-ttu-id="febca-270">CL2 укључује време, материјале, трошкове и накнаде за цео пројекат P1 и стога се преклапа са оним што је укључено у C1.</span><span class="sxs-lookup"><span data-stu-id="febca-270">CL2 includes Time, Materials, Expenses and Fees for the whole project P1 and therefore overlaps with what is included on C1.</span></span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="43" valign="top">
+                <p>
+<span data-ttu-id="febca-271">C1</span><span class="sxs-lookup"><span data-stu-id="febca-271">C1</span></span> </p>
+            </td>
+            <td width="65" valign="top">
+                <p>
+<span data-ttu-id="febca-272">CL2</span><span class="sxs-lookup"><span data-stu-id="febca-272">CL2</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-273">П1</span><span class="sxs-lookup"><span data-stu-id="febca-273">P1</span></span> </p>
+            </td>
+            <td width="67" valign="top">
+                <p>
+<span data-ttu-id="febca-274">Празно</span><span class="sxs-lookup"><span data-stu-id="febca-274">Blank</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-275">Да</span><span class="sxs-lookup"><span data-stu-id="febca-275">Yes</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-276">Да</span><span class="sxs-lookup"><span data-stu-id="febca-276">Yes</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-277">Да</span><span class="sxs-lookup"><span data-stu-id="febca-277">Yes</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-278">Да</span><span class="sxs-lookup"><span data-stu-id="febca-278">Yes</span></span> </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="43" valign="top">
+            </td>
+            <td width="65" valign="top">
+            </td>
+            <td width="42" valign="top">
+            </td>
+            <td width="67" valign="top">
+            </td>
+            <td width="48" valign="top">
+            </td>
+            <td width="48" valign="top">
+            </td>
+            <td width="42" valign="top">
+            </td>
+            <td width="42" valign="top">
+            </td>
+            <td width="53" valign="top">
+            </td>
+            <td width="250" valign="top">
+            </td>
+        </tr>
+        <tr>
+            <td width="43" valign="top">
+                <p>
+<span data-ttu-id="febca-279">C1</span><span class="sxs-lookup"><span data-stu-id="febca-279">C1</span></span> </p>
+            </td>
+            <td width="65" valign="top">
+                <p>
+<span data-ttu-id="febca-280">CL1</span><span class="sxs-lookup"><span data-stu-id="febca-280">CL1</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-281">П1</span><span class="sxs-lookup"><span data-stu-id="febca-281">P1</span></span> </p>
+            </td>
+            <td width="67" valign="top">
+                <p>
+<span data-ttu-id="febca-282">Само изабрани задаци</span><span class="sxs-lookup"><span data-stu-id="febca-282">Selected tasks only</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-283">Да</span><span class="sxs-lookup"><span data-stu-id="febca-283">Yes</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-284">Да</span><span class="sxs-lookup"><span data-stu-id="febca-284">Yes</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-285">Да</span><span class="sxs-lookup"><span data-stu-id="febca-285">Yes</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-286">Да</span><span class="sxs-lookup"><span data-stu-id="febca-286">Yes</span></span> </p>
+            </td>
+            <td width="53" rowspan="2" valign="top">
+                <p>
+<span data-ttu-id="febca-287">Важеће</span><span class="sxs-lookup"><span data-stu-id="febca-287">Valid</span></span> </p>
+            </td>
+            <td width="250" rowspan="2" valign="top">
+                <p>
+<span data-ttu-id="febca-288">По правилу бр. 3</span><span class="sxs-lookup"><span data-stu-id="febca-288">Per Rule #3</span></span> </p>
+                <p>
+<span data-ttu-id="febca-289">C1 укључује време, трошкове, материјале и накнаде за подскуп задатака на пројекту P1.</span><span class="sxs-lookup"><span data-stu-id="febca-289">C1 includes Time, Expenses, Materials, and Fees on a subset of tasks on project P1.</span></span>
+                </p>
+                <p>
+<span data-ttu-id="febca-290">CL2 укључује време, трошкове, материјале и накнаде за подскуп задатака на пројекту P1.</span><span class="sxs-lookup"><span data-stu-id="febca-290">CL2 includes Time, Expenses, Materials, and Fees for a subset of tasks on project P1.</span></span>
+                </p>
+                <p>
+<span data-ttu-id="febca-291">Једина додатна провера ваљаности око подскупа задатака на CL1 разликује се од подскупа задатака на CL2 како би се осигурало да тамо нема преклапања.</span><span class="sxs-lookup"><span data-stu-id="febca-291">The only additional validation is around the subset of tasks on CL1 is different from the subset of tasks on CL2 to ensure that there are no overlaps there.</span></span> <span data-ttu-id="febca-292">То систем ради када су задаци повезани.</span><span class="sxs-lookup"><span data-stu-id="febca-292">This is done by the system when tasks are associated.</span></span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="43" valign="top">
+                <p>
+<span data-ttu-id="febca-293">C1</span><span class="sxs-lookup"><span data-stu-id="febca-293">C1</span></span> </p>
+            </td>
+            <td width="65" valign="top">
+                <p>
+<span data-ttu-id="febca-294">CL2</span><span class="sxs-lookup"><span data-stu-id="febca-294">CL2</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-295">П1</span><span class="sxs-lookup"><span data-stu-id="febca-295">P1</span></span> </p>
+            </td>
+            <td width="67" valign="top">
+                <p>
+<span data-ttu-id="febca-296">Само изабрани задаци</span><span class="sxs-lookup"><span data-stu-id="febca-296">Selected tasks only</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-297">Да</span><span class="sxs-lookup"><span data-stu-id="febca-297">Yes</span></span> </p>
+            </td>
+            <td width="48" valign="top">
+                <p>
+<span data-ttu-id="febca-298">Да</span><span class="sxs-lookup"><span data-stu-id="febca-298">Yes</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-299">Да</span><span class="sxs-lookup"><span data-stu-id="febca-299">Yes</span></span> </p>
+            </td>
+            <td width="42" valign="top">
+                <p>
+<span data-ttu-id="febca-300">Да</span><span class="sxs-lookup"><span data-stu-id="febca-300">Yes</span></span> </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
