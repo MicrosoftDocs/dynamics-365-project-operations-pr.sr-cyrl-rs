@@ -3,7 +3,7 @@ title: Поновно осмишљени извештаји о трошкови�
 description: Ова тема објашњава редизајнирано и прерађено искуство за унос извештаја о трошковима.
 author: suvaidya
 manager: AnnBe
-ms.date: 03/01/2021
+ms.date: 03/26/2021
 ms.topic: article
 ms.prod: ''
 ms.service: project-operations
@@ -15,12 +15,12 @@ ms.search.region: ''
 ms.author: suvaidya
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: aaa7dd24915982cf137b5959f2f4c244b9c1e012
-ms.sourcegitcommit: f78087174a8512199a1bcbd7e8610bbc80e64801
+ms.openlocfilehash: 79e6a407689813f8c87fdffba0cda84df10d3b83
+ms.sourcegitcommit: 46726e5c8c994735c1e570e08d6ed8f9c9341319
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "5499734"
+ms.lasthandoff: 03/26/2021
+ms.locfileid: "5717713"
 ---
 # <a name="expense-reports-reimagined"></a>Поновно осмишљени извештаји о трошковима
 
@@ -41,11 +41,7 @@ ms.locfileid: "5499734"
 - Не уклањају се постојеће ставке менија за извештаје о трошковима (постојећа страница) или поља извештаја о трошковима.
 - Токови посла и сва одобрења вас и даље воде на постојећу страницу са извештајима о трошковима.
 
-## <a name="getting-started-video-for-new-users"></a>Видео са првим корацима за нове кориснике
-
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2Y7gO]
-
-Видео [Искуство трошкова у услузи Dynamics 365 for Finance and Operations](https://youtu.be/Ocy-MsTvEE0) (приказан горе) укључен је у [Finance and Operations плејлисту](https://www.youtube.com/playlist?list=PLcakwueIHoT_SYfIaPGoOhloFoCXiUSyW) доступну на YouTube-у.
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4IQFM]
 
 ## <a name="new-features"></a>Нове функције
 

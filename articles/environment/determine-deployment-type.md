@@ -3,17 +3,17 @@ title: Одредите врсту примене
 description: Ова тема пружа информације које вам помажу да утврдите правилан тип примене услуге Project Operations за ваше предузеће.
 author: stsporen
 manager: Annbe
-ms.date: 11/05/2020
+ms.date: 03/15/2021
 ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 2da6af3240d8e561d01b1fcd8d32b657dbac1588
-ms.sourcegitcommit: 24528bb9c0ef8898077cb3bc672daa211c0e73aa
+ms.openlocfilehash: 715b117cae5418fc743ea870772278450fff5ae9
+ms.sourcegitcommit: df30839484ef278675c5c712af0f7ba66ed9cdd3
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "5479582"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "5663612"
 ---
 # <a name="determine-your-deployment-type"></a>Одредите врсту примене
 
@@ -44,7 +44,7 @@ Project Operations подржава више могућности примене
 - [Project Operations за сценарије са ресурсима/материјалима који нису на залихама](#integrated)
 - [Project Operations за сценарије са материјалима на залихама/поруџбинама за производњу](#pma)
 
-Project Operations подржавају сценарије залиха / производних налога и сценарије засноване на ресурсима / без залиха у истом окружењу путем конфигурација на нивоу правног лица. На пример, Contoso може да користи могућности складиштења/наручивања у свом производном погону у САД (правно лице = Contoso Manufacturing United States). Contoso може да користи могућности који нису засноване на залихама/засноване на ресурсима у објекту Contoso Robotics Arms у Великој Британији (правно лице = Contoso Robotics United Kingdom).
+Project Operations подржавају сценарије залиха / производних налога и сценарије засноване на ресурсима / без залиха у истом окружењу путем конфигурација на нивоу правног лица. На пример, Contoso може да користи могућности складиштења / наруџбине за производњу у свом производном погону у САД (правно лице = Contoso Manufacturing United States). Contoso може да користи могућности без залиха / засноване на ресурсима у свом Contoso објекту за сервисирање роботичког оружја у Уједињеном Краљевству (правно лице = Contoso Robotics United Kingdom).
 
 ### <a name="lite-deployment---deal-to-proforma-invoicing"></a><a  name="lite"></a>Једноставна примена – од погодбе до профактуре
 
@@ -56,7 +56,7 @@ Project Operations подржавају сценарије залиха / про
 - Обједињено управљање ресурсима
 - Праћење времена
 - Основни трошак
-- Издавање предрачуна и фактура у окружењу клијента 
+- Предрачун за преглед и измене од стране руководиоца пројекта 
 
 #### <a name="deployment-steps"></a>Кораци примене
 Одредите најбољи модел примене услуге Project Operations помоћу [упитника за примену](https://aka.ms/provisionprojectoperations).
@@ -94,7 +94,7 @@ Project Operations за сценарије ресурса / без залиха 
 - Потпуно фактурисање
 - Препознавање прихода
 - Налози за производњу
-- Подршка материјала
+- Подршка залиха материјала са инвентаром
 
 #### <a name="deployment-steps"></a>Кораци примене
 Одредите најбољи модел примене услуге Project Operations помоћу [упитника за примену](https://aka.ms/provisionprojectoperations).
