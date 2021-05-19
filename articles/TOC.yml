@@ -34,9 +34,25 @@
               href: environment/security-model.md
             - name: Конфигурисање интеграције за Project Operations по правном лицу
               href: environment/resource-configure-integration-per-legal-entity.md
+        - name: Конфигурисање интеграције двоструког уписивања
+          items:
+            - name: Преглед интеграције двоструког уписивања
+              href: environment/resource-dual-write-overview.md
+            - name: Верзије мапа двоструког уписивања за Project Operations
+              href: environment/resource-dual-write-maps.md
+            - name: Интеграција података о подешавању и конфигурацији за Project Operations
+              href: environment/resource-dual-write-setup-integration.md
+            - name: Процене пројеката и интеграција тренутног стања
+              href: environment/resource-dual-write-estimates-actuals.md
+            - name: Интеграција фактура за пројекат
+              href: environment/resource-dual-write-project-invoice.md
+            - name: Интеграција управљања трошковима
+              href: environment/resource-dual-write-expense.md
+            - name: Интеграција фактура продаваца
+              href: environment/resource-dual-write-vendor-invoice.md
     - name: Шта је ново
       items:
-        - name: Април 2021. – Project Operations за ресурс/сценарије који нису засновани на залихама
+        - name: Април 2021. – Project Operations за сценарије са ресурсима/материјалима који нису на залихама
           href: whats-new/whats-new-apr-2021-resource-based.md
         - name: Март 2021. – Project Operations за ресурс/сценарије који нису засновани на залихама
           href: whats-new/whats-new-mar-2021-resource-based.md
@@ -216,6 +232,8 @@
           href: project-management/understand-project-status.md
         - name: Дефинисање календара пројеката
           href: project-management/define-project-calendars.md
+        - name: Режими заказивања
+          href: project-management/scheduling-modes.md
         - name: Ажурирање пројекта
           href: project-management/update-project.md
         - name: Копирање пројекта
@@ -404,6 +422,12 @@
           items:
             - name: Креирање и потврда дневника са исправкама
               href: actuals/create-confirm-correction-journals.md
+    - name: Набавка
+      items:
+        - name: Конфигурисање материјала који нису на залихама и фактура добављача на чекању
+          href: procurement/configure-materials-nonstocked.md
+        - name: Набављање материјала који нису на залихама за пројекте помоћу фактура добављача на чекању
+          href: procurement/pending-vendor-invoices.md
     - name: Фактурисање
       items:
         - name: Преглед процеса фактурисања
@@ -428,6 +452,8 @@
               href: proforma-invoicing/corrective-invoices.md
             - name: Конфигурисање аутоматизације фактурисања заснованог на пројекту
               href: proforma-invoicing/configure-automated-invoice-creation.md
+        - name: Управљање предлозима фактура пројекта
+          href: invoicing/format-update-project-invoice-proposals.md
     - name: Пројектно рачуноводство
       items:
         - name: Подразумеване вредности финансијских аспеката
@@ -682,6 +708,8 @@
           href: project-management/understand-project-status.md
         - name: Дефинисање календара пројеката
           href: project-management/define-project-calendars.md
+        - name: Режими заказивања
+          hreF: project-management/scheduling-modes.md
         - name: Ажурирање пројекта
           href: project-management/update-project.md
         - name: Копирање пројекта
@@ -848,6 +876,8 @@
   items:
     - name: Шта је ново
       items:
+        - name: Шта је ново у априлу 2021. – Project Operations за сценарије засноване на залихама/производњи
+          href: prod-pma/whats-new/whats-new-apr-2021-stocked.md
         - name: Шта је ново у марту 2021. – Project Operations за сценарије засноване на залихама/производњи
           href: prod-pma/whats-new/whats-new-mar-2021-stocked.md
         - name: Шта је ново у јануару 2021. – Project Operations за сценарије засноване на залихама/производњи
@@ -871,9 +901,9 @@
     - name: Подесите и користите плаћања продавцима након извршене наплате
       href: prod-pma/setup-manage-vendor-payments.md
     - name: Повећање цене пројекта на потврдама куповине
-      href: 'https://docs.microsoft.com/dynamics365/finance/accounts-payable/project-cost-accrual-purchase-receipts'
+      href: /dynamics365/finance/accounts-payable/project-cost-accrual-purchase-receipts
     - name: Фактурисање за пројекат
-      href: 'https://docs.microsoft.com/dynamics365/finance/accounts-payable/project-invoicing'
+      href: /dynamics365/finance/accounts-payable/project-invoicing
     - name: Учинак предлога пројектних фактура
       href: prod-pma/project-invoice-proposal-performance.md
     - name: Уговори за пројекат
@@ -998,6 +1028,8 @@
       items:
         - name: Распоред издања исправки за Project Service 3.x
           href: psa/version-history-ps.md
+        - name: 'Шта је ново или промењено у издању исправке број 31, V3'
+          href: psa/whats-new-ur-31.md
         - name: 'Шта је ново или промењено у издању исправке број 30, V3'
           href: psa/whats-new-ur-30.md
         - name: 'Шта је ново или промењено у издању хитне исправке број 29.5, V3'
@@ -1327,7 +1359,7 @@
             - name: Приказ укупне искоришћености ресурса
               href: psa/view-resource-utilization.md
             - name: Universal Resource Scheduling (URS)
-              href: 'https://docs.microsoft.com/dynamics365/common-scheduler/schedule-anything-with-universal-resource-scheduling'
+              href: /dynamics365/common-scheduler/schedule-anything-with-universal-resource-scheduling
         - name: Водич за менаџера пројекта
           items:
             - name: Водич за менаџера пројекта (Project Service)
