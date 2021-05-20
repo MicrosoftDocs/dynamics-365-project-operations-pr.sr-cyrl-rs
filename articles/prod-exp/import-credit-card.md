@@ -18,18 +18,18 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: df5c6bce8a534f4f8b1872e2bd5cc8a58ef11189
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: c434356c08e8490931bd60ea5b10fe2706cb0f51
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5271596"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5951092"
 ---
 # <a name="import-and-maintain-credit-card-transactions"></a>Увоз и одржавање трансакција кредитним картицама
 
 Трансакције повезане са трошковима кредитне картице могу се подесити тако да се аутоматски увозе по редовном распореду. Осим тога, трансакције се могу ручно увести по потреби. Трансакције кредитном картицом се увозе преко ентитета података трансакција кредитном картицом.
 
-За више информација о ентитетима података погледајте [Ентитети података](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/data-entities).
+За више информација о ентитетима података погледајте [Ентитети података](/dynamics365/fin-ops-core/dev-itpro/data-entities/data-entities).
 
 ## <a name="import-credit-card-transactions"></a>Увоз трансакција кредитном картицом
 

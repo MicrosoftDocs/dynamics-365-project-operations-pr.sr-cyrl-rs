@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 2351d87d2953f0e661d8f5281a4fdd071edb9c05
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 6343ff4dcfeae5d53eaf8eaa860afaf42559857a
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5292042"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5950372"
 ---
 # <a name="create-product-catalog-items-project-service"></a>Креирање ставки каталога производа (Project Service)
 
@@ -33,7 +33,7 @@ ms.locfileid: "5292042"
 
 Ако желите да укључите производе, као што су софтверске лиценце, у понуде и процене пројекта, треба да додате сваки производ у каталог производа.  
   
- За више информација о додавању производа у каталог производа погледајте [Креирање производа (Sales)](https://docs.microsoft.com/dynamics365/sales-enterprise/create-product-sales).  
+ За више информација о додавању производа у каталог производа погледајте [Креирање производа (Sales)](/dynamics365/sales-enterprise/create-product-sales).  
   
 ### <a name="see-also"></a>Такође погледајте  
  [Конфигурисање апликације Project Service](../psa/configure.md)

@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 3f65d13809fef342be8bec682c11d95c4d9e9b19
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 8acaa86dec8ebca8f9850877d345e30be3e3a919
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5276816"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5951227"
 ---
 # <a name="security-model"></a>Модел безбедности
 
@@ -58,7 +58,7 @@ Project за Веб аутоматски додаје кориснике у гр
 
 Услуга Project Operations не креира групу имплицитном акцијом, већ само експлицитном акцијом притиска група.
 
-Претрага чланова групе у дијалогу **Управљање групама** ограничена је на оне који су постављени као део безбедносне групе окружења. Више информација потражите у чланку [Контрола корисничког приступа окружењима: безбедносне групе и лиценце](https://docs.microsoft.com/power-platform/admin/control-user-access).
+Претрага чланова групе у дијалогу **Управљање групама** ограничена је на оне који су постављени као део безбедносне групе окружења. Више информација потражите у чланку [Контрола корисничког приступа окружењима: безбедносне групе и лиценце](/power-platform/admin/control-user-access).
 
 ![Групни режим](./media/groupsmode.png)
 
@@ -70,7 +70,7 @@ Project за Веб аутоматски додаје кориснике у гр
 ## <a name="deployment-recommendation"></a>Препорука за примену
 Како се модел сарадње Office групе развија, функционалност ће бити додавана како би се пружала детаљнија контрола током времена. Клијенти који данас примењују Project Operations подстичу се да се усредсреде на традиционални Microsoft Dynamics 365 модел безбедности.
 
-За више информација, погледајте [Безбедност у услузи Common Data Service](https://docs.microsoft.com/power-platform/admin/wp-security).
+За више информација, погледајте [Безбедност у услузи Common Data Service](/power-platform/admin/wp-security).
 
 ## <a name="project-operations-and-microsoft-dynamics-365-finance-security"></a>Project Operations и Microsoft Dynamics 365 Finance безбедност
 Услуга Project Operations укључује следеће улоге:
@@ -78,7 +78,7 @@ Project за Веб аутоматски додаје кориснике у гр
 - Менаџер пројекта
 - Рачуновођа пројекта
 
-Више информација о безбедности у услузи Finance потражите у одељку [Безбедност заснована на улогама](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/role-based-security).
+Више информација о безбедности у услузи Finance потражите у одељку [Безбедност заснована на улогама](/dynamics365/fin-ops-core/dev-itpro/sysadmin/role-based-security).
 
 
 
