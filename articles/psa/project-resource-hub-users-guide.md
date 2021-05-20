@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: e27cc0919272784a030374f457d1ab1dccc1f9f1
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 2450c00bae9eeb31d3b4bb14e6255e0681997672
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5283791"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5948166"
 ---
 # <a name="user-guide-for-project-resource-hub"></a>Водич за кориснике за чвориште ресурса за пројекат
 
@@ -48,7 +48,7 @@ ms.locfileid: "5283791"
 ## <a name="install-the-mobile-app"></a>Инсталирање апликације за мобилне уређаје
 Пре него што можете да почнете са коришћењем апликације чворишта ресурса за пројекат, потребно је да инсталирате мобилну апликацију на уређају. 
 
-[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Инсталирање система Dynamics 365 for phones и tablets](https://docs.microsoft.com/dynamics365/mobile-app/install-dynamics-365-for-phones-and-tablets)
+[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Инсталирање система Dynamics 365 for phones и tablets](/dynamics365/mobile-app/install-dynamics-365-for-phones-and-tablets)
 
 ## <a name="basic-navigation"></a>Основна навигација
 1.  Када сте пријавите у апликацију за мобилне уређаје, видећете страницу MyApps са листом апликација којима можете да приступите. 
@@ -99,7 +99,7 @@ ms.locfileid: "5283791"
 5. Наставите да уносите трошкове за седмицу. Када завршите и све изгледа тачно, додирните **Пошаљи**. Менаџер ће прегледати и одобрити ваше уносе трошкова.
 
 ## <a name="general-information-on-how-to-use-the-mobile-app"></a>Опште информације о начину коришћења апликација за мобилне уређаје 
-[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Основни водич за мобилне уређаје](https://docs.microsoft.com/dynamics365/mobile-app/dynamics-365-phones-tablets-users-guide)
+[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Основни водич за мобилне уређаје](/dynamics365/mobile-app/dynamics-365-phones-tablets-users-guide)
 
 ### <a name="see-also"></a>Такође погледајте  
  [Преглед услуге Project Service](../psa/overview.md)   

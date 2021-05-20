@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 2d1f9b29e0e9516ff78517e47694a2385c083ec7
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 5ce9ad1458d338d63469c3d6fddb98b9cbbced31
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5277851"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5948438"
 ---
 # <a name="manage-project-based-opportunities"></a>Управљање могућностима за пословање заснованим на пројектима
 
@@ -64,7 +64,7 @@ _**Односи се на:** Project Operations за сценарије засн
 >
 > Ако је ваша погодба заснована на пројекту започела са могућношћу за пословање, пословни процес продаје могућности за пословање има предност.
 
-Можете да уредите ток пословног процеса производа или да креирате сопствене токове пословног процеса како бисте пратили свој продајни процес по потреби. За више информација о току пословног процеса погледајте [Преглед токова пословног процеса](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/business-process-flows-overview).
+Можете да уредите ток пословног процеса производа или да креирате сопствене токове пословног процеса како бисте пратили свој продајни процес по потреби. За више информација о току пословног процеса погледајте [Преглед токова пословног процеса](/dynamics365/customerengagement/on-premises/customize/business-process-flows-overview).
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

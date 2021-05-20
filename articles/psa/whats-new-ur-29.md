@@ -17,18 +17,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0e1ff0db42adb8b991b26dca1585bd603b2e2276
-ms.sourcegitcommit: f57408d6637f670b920d7ce95f8ace8eb1963093
+ms.openlocfilehash: 2ac47974b9cc8386c7446136faf48724de73efce
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "5664661"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5948675"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-29-v3"></a>Шта је ново или промењено у издању 29 исправке Project Service Automation верзије 3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
+Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
 У овој теми су наведене функције и исправке које су нове или промењене у издању исправке 29 за Project Service Automation верзије 3. Ова верзија има број верзије V3.10.47.7 и генерално је доступна путем самосталног ажурирања у фебруаре 2021.
 

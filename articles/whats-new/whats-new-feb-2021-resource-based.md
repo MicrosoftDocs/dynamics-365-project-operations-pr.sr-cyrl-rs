@@ -9,12 +9,12 @@ ms.prod: ''
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 12708a9b847f1f87ee0f5f45688adf48638d709f
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 8270214d47f712cdb0942991b0ffb5baff64cbfb
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5291907"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5948032"
 ---
 # <a name="whats-new-february-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>Шта је ново у фебруару 2021. – Project Operations за сценарије засноване на ресурсима/без залиха
 
@@ -53,7 +53,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ## <a name="regulatory-updates"></a>Регулаторне исправке
 
-За информације о регулаторним исправкама за Finance and Operations апликације, погледајте чланак [Регулаторне исправке](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates). Други начин да сазнате више о регулаторним исправкама је да се пријавите на Lifecycle Services (LCS) и прегледате планиране регулаторне исправке помоћу алатке за претрагу проблема. Претрага проблема вам омогућава претрагу по земљи, типу функције и издању.
+За информације о регулаторним исправкама за Finance and Operations апликације, погледајте чланак [Регулаторне исправке](/dynamics365/finance/localizations/regulatory-updates). Други начин да сазнате више о регулаторним исправкама је да се пријавите на Lifecycle Services (LCS) и прегледате планиране регулаторне исправке помоћу алатке за претрагу проблема. Претрага проблема вам омогућава претрагу по земљи, типу функције и издању.
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

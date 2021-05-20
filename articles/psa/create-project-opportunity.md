@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5eb9c2bdc9274edbc55e730fd844d46477cd19f4
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: dc4693981194b8e8c22bfd9bbfda3f77af3e8f99
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5285231"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5948212"
 ---
 # <a name="create-a-project-opportunity-project-service"></a>Креирање могућности за пословање за пројекат (Project Service)
 
@@ -39,7 +39,7 @@ ms.locfileid: "5285231"
   
 3.  У област **Резиме** унесите ваше предузеће за могућност за пословање и друге информације.  
   
-4.  Додавање белешки и активности (на пример, телефонских позива или е-поште) повезане са овим потенцијалним клијентом. Да бисте сазнали више о додавању белешки и активности, погледајте [Праћење белешки, задатака, позива или е-поште са активностима](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/basics/work-with-activities).  
+4.  Додавање белешки и активности (на пример, телефонских позива или е-поште) повезане са овим потенцијалним клијентом. Да бисте сазнали више о додавању белешки и активности, погледајте [Праћење белешки, задатака, позива или е-поште са активностима](/dynamics365/customerengagement/on-premises/basics/work-with-activities).  
   
 5.  Да бисте додали заинтересоване, у области **Заинтересоване стране** кликните на **+**.  
   

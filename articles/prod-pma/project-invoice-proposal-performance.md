@@ -3,7 +3,7 @@ title: Перформансе предлога пројектних фактур
 description: Ова тема пружа информације о побољшањима перформанси предлога пројектних фактура.
 author: Yowelle
 manager: AnnBe
-ms.date: 03/05/2021
+ms.date: 04/20/2021
 ms.topic: article
 ms.prod: ''
 ms.service: dynamics-ax-applications
@@ -18,18 +18,16 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 20121-03-05
 ms.dyn365.ops.version: 10.0.18
-ms.openlocfilehash: 78c924cba8107471a5f8e6d6a38265890d32d72b
-ms.sourcegitcommit: 2350c6f3728067a8298adde640e6fdd5984eb077
+ms.openlocfilehash: 1641d5f731029fdbdc16c4b652cc752a583058c6
+ms.sourcegitcommit: 68d52fc983861114e654ffc8d2472b4db9b48981
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "5573577"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "5920320"
 ---
 # <a name="project-invoice-proposal-performance"></a>Перформансе предлога пројектних фактура
 
 [!include [banner](../includes/banner.md)]
-
-[!include [banner](../includes/preview-banner.md)]
 
 Када креирате нови предлог фактуре, можда ћете наићи на проблеме са перформансама како се буде повећавао број пројеката и потпројеката. Да би се побољшале перформансе, доступна је функција која смањује време потребно за креирање новог предлога фактуре за књижене трансакције пројеката.
 
