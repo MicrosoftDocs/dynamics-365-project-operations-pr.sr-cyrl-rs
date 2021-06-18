@@ -2,8 +2,6 @@
 title: Шта је ново или промењено у издању 12 исправке Project Service Automation верзије 3
 description: У овој теми дате су информације о томе шта је ново у издању исправке 12 за Project Service Automation у верзији 3.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 02/04/2020
 ms.topic: article
@@ -17,12 +15,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 58a12ded135712d8194499ce4a9ba9e4e2aa99bd
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
+ms.openlocfilehash: f29eaf7c471104ad3e319d8f4e1cbc70e44fc1ca
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5949517"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6000364"
 ---
 # <a name="project-service-automation-update-release-12-v3"></a>Project Service Automation издање исправке 12, у верзији 3
 

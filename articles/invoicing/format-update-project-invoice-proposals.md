@@ -2,18 +2,16 @@
 title: Управљање предлозима пројектних фактура
 description: Ова тема пружа детаље о обради фактура за клијенте помоћу услуге Project Operations за ресурс/сценарије који нису засновани на залихама.
 author: sigitac
-manager: Annbe
 ms.date: 04/12/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 6b8eacf2b43219a9adad897637b78a9c94351554
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
+ms.openlocfilehash: 7e6d060c1cca08f86e2d04ca96c9315a17316d11
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5950732"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6001489"
 ---
 # <a name="manage-project-invoice-proposals"></a>Управљање предлозима пројектних фактура
 

@@ -2,18 +2,16 @@
 title: Подешавање и примена података о конфигурацији у услузи Common Data Service
 description: Ова тема пружа информације о томе како да подесите и примените податке о конфигурацији у услузи Project Operations.
 author: sigitac
-manager: Annbe
-ms.date: 11/04/2020
+ms.date: 05/10/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 1651d3b3b85d3dc581bf61976fada249bafd6b7b
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 2ea00df6112fb69b61f1889463424fdfee79aec9
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5289837"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6001309"
 ---
 # <a name="set-up-and-apply-configuration-data-in-the-common-data-service"></a>Подешавање и примена података о конфигурацији у услузи Common Data Service 
 
@@ -23,7 +21,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ## <a name="prerequisites"></a>Предуслови
 
-Пре него што започнете конфигурисање података у услузи Common Data Service (CDS), морају бити испуњени следећи предуслови:
+Пре него што почнете да конфигуришете податке у услузи Common Data Service (CDS), морају бити испуњени следећи предуслови:
 
 1.  Обезбедите CDS окружење и Dynamics 365 Finance окружење за Project Operations.
 2.  Информације о правном лицу из услуге Dynamics 365 Finance се деле са CDS окружењем. То значи да ентитет **Компанија** у CDS-у има следеће евиденције предузећа:
@@ -33,7 +31,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ## <a name="install-setup-and-configuration-data"></a>Подаци о подешавању и конфигурацији инсталирања
 
-1. Преузмите, деблокирајте и распакујте [Пакет података за подешавање и конфигурацију](https://download.microsoft.com/download/1/3/4/1349369c-6209-42b7-b3b4-5be0e67cacd8/ProjOpsSampleSetupData-%20Integrated%20UR1.zip).
+1. Преузмите, деблокирајте и распакујте [Пакет података за подешавање и конфигурацију](https://download.microsoft.com/download/e/2/d/e2da6c98-d5dd-450c-aabe-fd6bf2ba374b/ProjOpsSampleSetupData-%20Integrated%20Latest.zip).
 2. Идите у фасциклу са распакованим садржајем и покрените извршну датотеку *DataMigrationUtility*.
 3. На 1. страници Common Data Service чаробњака за конфигурисање миграције (CMT) изаберите **Увези податке**, а затим изаберите **Настави**.
 
@@ -57,13 +55,20 @@ _**Односи се на:** Project Operations за сценарије засн
 ![Увези податке](./media/5ImportData.png)
 
 10. Увоз ће трајати отприлике од два до десет минута, у зависности од брзине ваше мреже. По завршетку увоза, изађите из CMT чаробњака. 
-11. Потражите у својој организацији податке за следећих 19 ентитета:
+11. Потражите у својој организацији податке за следећих 26 ентитета:
 
   - Валута
+  - Графикон пословних контаката
+  - Фискални календар
+  - Врсте девизних курсева валута
+  - Дан за плаћање
+  - Распоред плаћања
+  - Услови плаћања
   - Организациона јединица
   - Контакт
   - Пореска група
   - Група клијената
+  - Група продаваца
   - Јединица
   - Група јединица
   - Ценовник
