@@ -2,8 +2,6 @@
 title: Приказ наплативе укупне искоришћености ресурса
 description: Ова тема пружа информације о приказу укупне искоришћености ресурса.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 9/26/2019
@@ -18,88 +16,88 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: b07af573bc8d312c45ee4aef50c95942401294fa
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: e1c123854209b3cb5c310e3bbcb242c9219279a8
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5285951"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5992852"
 ---
-# <a name="view-chargeable-utilization-for-resources"></a><span data-ttu-id="32888-103">Приказ наплативе укупне искоришћености ресурса</span><span class="sxs-lookup"><span data-stu-id="32888-103">View chargeable utilization for resources</span></span>
+# <a name="view-chargeable-utilization-for-resources"></a><span data-ttu-id="492d4-103">Приказ наплативе укупне искоришћености ресурса</span><span class="sxs-lookup"><span data-stu-id="492d4-103">View chargeable utilization for resources</span></span>
 
 [!include [banner](../includes/psa-now-project-operations.md)]
  
-<span data-ttu-id="32888-104">**Приказ укупне искоришћености** на страници **Укупна искоришћеност ресурса у апликацији Project Service** приказује наплативу укупну искоришћеност сваког ресурса који може да се резервише.</span><span class="sxs-lookup"><span data-stu-id="32888-104">The **Utilization View** on the **Project Service Resource Utilization** page shows the chargeable utilization for each bookable resource.</span></span> <span data-ttu-id="32888-105">Пошто је приказ заснован на табели распореда, пронаћићете доста истих функција.</span><span class="sxs-lookup"><span data-stu-id="32888-105">Because the view is based on the schedule board, you’ll find many of the same functions.</span></span>
+<span data-ttu-id="492d4-104">**Приказ укупне искоришћености** на страници **Укупна искоришћеност ресурса у апликацији Project Service** приказује наплативу укупну искоришћеност сваког ресурса који може да се резервише.</span><span class="sxs-lookup"><span data-stu-id="492d4-104">The **Utilization View** on the **Project Service Resource Utilization** page shows the chargeable utilization for each bookable resource.</span></span> <span data-ttu-id="492d4-105">Пошто је приказ заснован на табели распореда, пронаћићете доста истих функција.</span><span class="sxs-lookup"><span data-stu-id="492d4-105">Because the view is based on the schedule board, you’ll find many of the same functions.</span></span>
 
 > ![Снимак екрана приказа укупне искоришћености](media/FAQ-utilization-1.png)
  
 
-<span data-ttu-id="32888-107">Израчунавање наплативе укупне искоришћености функционише на следећи начин:</span><span class="sxs-lookup"><span data-stu-id="32888-107">The chargeable utilization calculation works as follows:</span></span>
+<span data-ttu-id="492d4-107">Израчунавање наплативе укупне искоришћености функционише на следећи начин:</span><span class="sxs-lookup"><span data-stu-id="492d4-107">The chargeable utilization calculation works as follows:</span></span>
 
-   <span data-ttu-id="32888-108">Наплатива укупна искоришћеност = (наплативи стварни сати) / (капацитет ресурса).</span><span class="sxs-lookup"><span data-stu-id="32888-108">Chargeable utilization = (Chargeable actual hours) / (resource capacity)</span></span>
+   <span data-ttu-id="492d4-108">Наплатива укупна искоришћеност = (наплативи стварни сати) / (капацитет ресурса).</span><span class="sxs-lookup"><span data-stu-id="492d4-108">Chargeable utilization = (Chargeable actual hours) / (resource capacity)</span></span>
 
-<span data-ttu-id="32888-109">Ћелије представљају израчунату наплативу укупну искоришћеност за изабрани период (дани, седмице или месеци).</span><span class="sxs-lookup"><span data-stu-id="32888-109">The cells represent the calculated chargeable utilization for the selected period (days, weeks, or months).</span></span>
+<span data-ttu-id="492d4-109">Ћелије представљају израчунату наплативу укупну искоришћеност за изабрани период (дани, седмице или месеци).</span><span class="sxs-lookup"><span data-stu-id="492d4-109">The cells represent the calculated chargeable utilization for the selected period (days, weeks, or months).</span></span>
 
-<span data-ttu-id="32888-110">Боје у свакој ћелији приказују наплативу укупну искоришћеност за ресурс у поређењу са његовом циљном наплативом укупном искоришћеношћу.</span><span class="sxs-lookup"><span data-stu-id="32888-110">The colors in each cell show the chargeable utilization for a resource as compared to their target chargeable utilization.</span></span> 
+<span data-ttu-id="492d4-110">Боје у свакој ћелији приказују наплативу укупну искоришћеност за ресурс у поређењу са његовом циљном наплативом укупном искоришћеношћу.</span><span class="sxs-lookup"><span data-stu-id="492d4-110">The colors in each cell show the chargeable utilization for a resource as compared to their target chargeable utilization.</span></span> 
 
-<span data-ttu-id="32888-111">Циљна укупна искоришћеност може бити подешена за подразумевану улогу ресурса или за самог појединачног ресурса.</span><span class="sxs-lookup"><span data-stu-id="32888-111">The target utilization can be set on the resource’s default role or on the individual resource itself.</span></span> <span data-ttu-id="32888-112">Израчунавање прво гледа појединца за циљ, а затим подразумевану улогу ресурса.</span><span class="sxs-lookup"><span data-stu-id="32888-112">The calculation looks at the individual for the target first, and then to the resource’s default role.</span></span>
+<span data-ttu-id="492d4-111">Циљна укупна искоришћеност може бити подешена за подразумевану улогу ресурса или за самог појединачног ресурса.</span><span class="sxs-lookup"><span data-stu-id="492d4-111">The target utilization can be set on the resource’s default role or on the individual resource itself.</span></span> <span data-ttu-id="492d4-112">Израчунавање прво гледа појединца за циљ, а затим подразумевану улогу ресурса.</span><span class="sxs-lookup"><span data-stu-id="492d4-112">The calculation looks at the individual for the target first, and then to the resource’s default role.</span></span>
 
-## <a name="set-target-on-a-resource"></a><span data-ttu-id="32888-113">Подешавање циља уа ресурс</span><span class="sxs-lookup"><span data-stu-id="32888-113">Set target on a resource</span></span>
+## <a name="set-target-on-a-resource"></a><span data-ttu-id="492d4-113">Подешавање циља уа ресурс</span><span class="sxs-lookup"><span data-stu-id="492d4-113">Set target on a resource</span></span>
 
-1. <span data-ttu-id="32888-114">Идите на **Ресурси** \> **Ресурси**.</span><span class="sxs-lookup"><span data-stu-id="32888-114">Go to **Resources** \> **Resources**.</span></span> 
-2. <span data-ttu-id="32888-115">Изаберите ресурс да бисте отворили запис.</span><span class="sxs-lookup"><span data-stu-id="32888-115">Select a resource to open the record.</span></span> 
-3. <span data-ttu-id="32888-116">На картици **Project Service** можете подесити циљну укупну искоришћеност ресурса.</span><span class="sxs-lookup"><span data-stu-id="32888-116">On the **Project Service** tab, you can set the resource’s target utilization.</span></span>
+1. <span data-ttu-id="492d4-114">Идите на **Ресурси** \> **Ресурси**.</span><span class="sxs-lookup"><span data-stu-id="492d4-114">Go to **Resources** \> **Resources**.</span></span> 
+2. <span data-ttu-id="492d4-115">Изаберите ресурс да бисте отворили запис.</span><span class="sxs-lookup"><span data-stu-id="492d4-115">Select a resource to open the record.</span></span> 
+3. <span data-ttu-id="492d4-116">На картици **Project Service** можете подесити циљну укупну искоришћеност ресурса.</span><span class="sxs-lookup"><span data-stu-id="492d4-116">On the **Project Service** tab, you can set the resource’s target utilization.</span></span>
 
 > ![Снимак екрана коришћења картице Project Service за подешавање циљне укупне искоришћености](media/FAQ-utilization-2.png)
  
-## <a name="set-target-utilization-on-a-role"></a><span data-ttu-id="32888-118">Подешавање циљне укупне искоришћености за улогу</span><span class="sxs-lookup"><span data-stu-id="32888-118">Set target utilization on a role</span></span>
+## <a name="set-target-utilization-on-a-role"></a><span data-ttu-id="492d4-118">Подешавање циљне укупне искоришћености за улогу</span><span class="sxs-lookup"><span data-stu-id="492d4-118">Set target utilization on a role</span></span>
 
-1. <span data-ttu-id="32888-119">Идите на **Ресурси** \> **Улоге ресурса**.</span><span class="sxs-lookup"><span data-stu-id="32888-119">Go to **Resources** \> **Resource Roles**.</span></span> 
-2. <span data-ttu-id="32888-120">Изаберите улогу и отворите запис.</span><span class="sxs-lookup"><span data-stu-id="32888-120">Select a role and open the record.</span></span> 
-3. <span data-ttu-id="32888-121">Подесите циљну укупну искоришћеност за улогу.</span><span class="sxs-lookup"><span data-stu-id="32888-121">Set the target utilization for the role.</span></span>
+1. <span data-ttu-id="492d4-119">Идите на **Ресурси** \> **Улоге ресурса**.</span><span class="sxs-lookup"><span data-stu-id="492d4-119">Go to **Resources** \> **Resource Roles**.</span></span> 
+2. <span data-ttu-id="492d4-120">Изаберите улогу и отворите запис.</span><span class="sxs-lookup"><span data-stu-id="492d4-120">Select a role and open the record.</span></span> 
+3. <span data-ttu-id="492d4-121">Подесите циљну укупну искоришћеност за улогу.</span><span class="sxs-lookup"><span data-stu-id="492d4-121">Set the target utilization for the role.</span></span>
 
 > ![Снимак екрана коришћења улога ресурса за подешавање циљне укупне искоришћености](media/FAQ-utilization-3.png)
  
-## <a name="calculate-chargeable-utilization-for-a-resource"></a><span data-ttu-id="32888-123">Израчунавање наплативе укупне искоришћености ресурса</span><span class="sxs-lookup"><span data-stu-id="32888-123">Calculate chargeable utilization for a resource</span></span>
+## <a name="calculate-chargeable-utilization-for-a-resource"></a><span data-ttu-id="492d4-123">Израчунавање наплативе укупне искоришћености ресурса</span><span class="sxs-lookup"><span data-stu-id="492d4-123">Calculate chargeable utilization for a resource</span></span>
 
-<span data-ttu-id="32888-124">Да бисте израчунали наплативу укупну искоришћеност за ресурс, потребно је да испуните неке предуслове.</span><span class="sxs-lookup"><span data-stu-id="32888-124">To calculate chargeable utilization for a resource, you will need to complete some pre-requisites.</span></span> 
+<span data-ttu-id="492d4-124">Да бисте израчунали наплативу укупну искоришћеност за ресурс, потребно је да испуните неке предуслове.</span><span class="sxs-lookup"><span data-stu-id="492d4-124">To calculate chargeable utilization for a resource, you will need to complete some pre-requisites.</span></span> 
 
-### <a name="set-default-role-for-individual-resource"></a><span data-ttu-id="32888-125">Подешавање подразумеване улоге за појединачни ресурс</span><span class="sxs-lookup"><span data-stu-id="32888-125">Set default role for individual resource</span></span>
+### <a name="set-default-role-for-individual-resource"></a><span data-ttu-id="492d4-125">Подешавање подразумеване улоге за појединачни ресурс</span><span class="sxs-lookup"><span data-stu-id="492d4-125">Set default role for individual resource</span></span>
 
-<span data-ttu-id="32888-126">Прво, циљна укупна искоришћеност мора бити подешена за улогу појединачног ресурса или за улогу ресурса.</span><span class="sxs-lookup"><span data-stu-id="32888-126">First, the target utilization must be set on either the individual resource or on resource roles.</span></span> <span data-ttu-id="32888-127">Ако користите улоге ресурса за циљеве, сваки појединачни ресурс мора да има подразумевану улогу.</span><span class="sxs-lookup"><span data-stu-id="32888-127">If you are using resource roles for targets, each individual resource must have a default role.</span></span> 
+<span data-ttu-id="492d4-126">Прво, циљна укупна искоришћеност мора бити подешена за улогу појединачног ресурса или за улогу ресурса.</span><span class="sxs-lookup"><span data-stu-id="492d4-126">First, the target utilization must be set on either the individual resource or on resource roles.</span></span> <span data-ttu-id="492d4-127">Ако користите улоге ресурса за циљеве, сваки појединачни ресурс мора да има подразумевану улогу.</span><span class="sxs-lookup"><span data-stu-id="492d4-127">If you are using resource roles for targets, each individual resource must have a default role.</span></span> 
 
-1. <span data-ttu-id="32888-128">Да бисте то подесили, идите на ставку **Ресурси** \> **Ресурси**.</span><span class="sxs-lookup"><span data-stu-id="32888-128">To set this, go to **Resources** \> **Resources**.</span></span> 
-2. <span data-ttu-id="32888-129">Изаберите ресурс, отворите запис, а затим изаберите картицу **Project Service**.</span><span class="sxs-lookup"><span data-stu-id="32888-129">Select a resource, open the record, and then select the **Project Service** tab.</span></span> 
-3. <span data-ttu-id="32888-130">У мрежи **Улога ресурса**, уверите се да постоји једна улога за ресурс и да је **Is Default** подешен на **Да**.</span><span class="sxs-lookup"><span data-stu-id="32888-130">In the **Resource Role** grid, make sure there’s one role for the resource and **Is Default** is set to **Yes**.</span></span>
+1. <span data-ttu-id="492d4-128">Да бисте то подесили, идите на ставку **Ресурси** \> **Ресурси**.</span><span class="sxs-lookup"><span data-stu-id="492d4-128">To set this, go to **Resources** \> **Resources**.</span></span> 
+2. <span data-ttu-id="492d4-129">Изаберите ресурс, отворите запис, а затим изаберите картицу **Project Service**.</span><span class="sxs-lookup"><span data-stu-id="492d4-129">Select a resource, open the record, and then select the **Project Service** tab.</span></span> 
+3. <span data-ttu-id="492d4-130">У мрежи **Улога ресурса**, уверите се да постоји једна улога за ресурс и да је **Is Default** подешен на **Да**.</span><span class="sxs-lookup"><span data-stu-id="492d4-130">In the **Resource Role** grid, make sure there’s one role for the resource and **Is Default** is set to **Yes**.</span></span>
  
-### <a name="change-billing-type-for-resource-role"></a><span data-ttu-id="32888-131">Промена типа наплате за улогу ресурса</span><span class="sxs-lookup"><span data-stu-id="32888-131">Change billing type for resource role</span></span>
+### <a name="change-billing-type-for-resource-role"></a><span data-ttu-id="492d4-131">Промена типа наплате за улогу ресурса</span><span class="sxs-lookup"><span data-stu-id="492d4-131">Change billing type for resource role</span></span>
 
-<span data-ttu-id="32888-132">Улоге ресурса морају бити подешене тако да имају тип наплате **Наплатив**.</span><span class="sxs-lookup"><span data-stu-id="32888-132">The resource roles must be set to have a billing type of **Chargeable**.</span></span> 
+<span data-ttu-id="492d4-132">Улоге ресурса морају бити подешене тако да имају тип наплате **Наплатив**.</span><span class="sxs-lookup"><span data-stu-id="492d4-132">The resource roles must be set to have a billing type of **Chargeable**.</span></span> 
 
-1. <span data-ttu-id="32888-133">Идите на **Ресурси** \> **Улоге ресурса**.</span><span class="sxs-lookup"><span data-stu-id="32888-133">Go to **Resources** \> **Resource Roles**.</span></span> 
-2. <span data-ttu-id="32888-134">Отворите запис који желите да ажурирате, а затим подесите подразумевани тип наплате на **Наплативо**.</span><span class="sxs-lookup"><span data-stu-id="32888-134">Open the record you want to update, and then set the billing type default to **Chargeable**.</span></span>
+1. <span data-ttu-id="492d4-133">Идите на **Ресурси** \> **Улоге ресурса**.</span><span class="sxs-lookup"><span data-stu-id="492d4-133">Go to **Resources** \> **Resource Roles**.</span></span> 
+2. <span data-ttu-id="492d4-134">Отворите запис који желите да ажурирате, а затим подесите подразумевани тип наплате на **Наплативо**.</span><span class="sxs-lookup"><span data-stu-id="492d4-134">Open the record you want to update, and then set the billing type default to **Chargeable**.</span></span>
 
-### <a name="set-working-hours-for-resource-role"></a><span data-ttu-id="32888-135">Подешавање радног времена за улогу ресурса</span><span class="sxs-lookup"><span data-stu-id="32888-135">Set working hours for resource role</span></span>
+### <a name="set-working-hours-for-resource-role"></a><span data-ttu-id="492d4-135">Подешавање радног времена за улогу ресурса</span><span class="sxs-lookup"><span data-stu-id="492d4-135">Set working hours for resource role</span></span>
  
-<span data-ttu-id="32888-136">Ресурс мора да има радно време за израчунавање капацитета.</span><span class="sxs-lookup"><span data-stu-id="32888-136">The resource must have working hours for the capacity calculation.</span></span> 
+<span data-ttu-id="492d4-136">Ресурс мора да има радно време за израчунавање капацитета.</span><span class="sxs-lookup"><span data-stu-id="492d4-136">The resource must have working hours for the capacity calculation.</span></span> 
 
-1. <span data-ttu-id="32888-137">Идите на **Ресурси** \> **Ресурси**.</span><span class="sxs-lookup"><span data-stu-id="32888-137">Go to **Resources** \> **Resources**.</span></span> 
-2. <span data-ttu-id="32888-138">Изаберите ресурс да бисте отворили запис, а затим изаберите **Прикажи радно време**.</span><span class="sxs-lookup"><span data-stu-id="32888-138">Select a resource to open the record, and then select **Show Work Hours**.</span></span> 
-3. <span data-ttu-id="32888-139">Можете масовно да исправите листу ресурса применом **предлошка за радно време** са приказа **листе ресурса**.</span><span class="sxs-lookup"><span data-stu-id="32888-139">You can bulk-update the list of resources by applying a **Work Hour Template** from the **Resource List** view.</span></span>
+1. <span data-ttu-id="492d4-137">Идите на **Ресурси** \> **Ресурси**.</span><span class="sxs-lookup"><span data-stu-id="492d4-137">Go to **Resources** \> **Resources**.</span></span> 
+2. <span data-ttu-id="492d4-138">Изаберите ресурс да бисте отворили запис, а затим изаберите **Прикажи радно време**.</span><span class="sxs-lookup"><span data-stu-id="492d4-138">Select a resource to open the record, and then select **Show Work Hours**.</span></span> 
+3. <span data-ttu-id="492d4-139">Можете масовно да исправите листу ресурса применом **предлошка за радно време** са приказа **листе ресурса**.</span><span class="sxs-lookup"><span data-stu-id="492d4-139">You can bulk-update the list of resources by applying a **Work Hour Template** from the **Resource List** view.</span></span>
 
-## <a name="troubleshooting-chargeable-actual-hours"></a><span data-ttu-id="32888-140">Решавање проблема са наплатним стварним сатима</span><span class="sxs-lookup"><span data-stu-id="32888-140">Troubleshooting chargeable actual hours</span></span>
+## <a name="troubleshooting-chargeable-actual-hours"></a><span data-ttu-id="492d4-140">Решавање проблема са наплатним стварним сатима</span><span class="sxs-lookup"><span data-stu-id="492d4-140">Troubleshooting chargeable actual hours</span></span>
 
-<span data-ttu-id="32888-141">Извор наплативих стварних сати је ентитет **Стварне вредности**.</span><span class="sxs-lookup"><span data-stu-id="32888-141">The chargeable actual hours are sourced from the **Actuals** entity.</span></span> <span data-ttu-id="32888-142">Стварне вредности чији је тип наплате **Наплативо** су обухваћени у израчунавање и зато морате да имате пројекте у којима су стварне вредности наплативе.</span><span class="sxs-lookup"><span data-stu-id="32888-142">Actuals with a billing type of **Chargeable** are included in the calculation and, for this reason, you must have projects where the actuals that are chargeable.</span></span>
+<span data-ttu-id="492d4-141">Извор наплативих стварних сати је ентитет **Стварне вредности**.</span><span class="sxs-lookup"><span data-stu-id="492d4-141">The chargeable actual hours are sourced from the **Actuals** entity.</span></span> <span data-ttu-id="492d4-142">Стварне вредности чији је тип наплате **Наплативо** су обухваћени у израчунавање и зато морате да имате пројекте у којима су стварне вредности наплативе.</span><span class="sxs-lookup"><span data-stu-id="492d4-142">Actuals with a billing type of **Chargeable** are included in the calculation and, for this reason, you must have projects where the actuals that are chargeable.</span></span>
 
-<span data-ttu-id="32888-143">Ако не видите наплативу укупну искоришћеност, ево неких ствари које можете да проверите:</span><span class="sxs-lookup"><span data-stu-id="32888-143">If you are not seeing chargeable utilization, here are some things you can check:</span></span>
+<span data-ttu-id="492d4-143">Ако не видите наплативу укупну искоришћеност, ево неких ствари које можете да проверите:</span><span class="sxs-lookup"><span data-stu-id="492d4-143">If you are not seeing chargeable utilization, here are some things you can check:</span></span>
 
-- <span data-ttu-id="32888-144">Ресурс има радне часове који су дефинисани за капацитет.</span><span class="sxs-lookup"><span data-stu-id="32888-144">The resource has working hours defined for capacity.</span></span>
-- <span data-ttu-id="32888-145">Ресурс има појединачно дефинисани циљ укупне искоришћености или му је додељена подразумевана улога.</span><span class="sxs-lookup"><span data-stu-id="32888-145">The resource has either an individually defined utilization target or has a default role assigned to it.</span></span> <span data-ttu-id="32888-146">За улогу је дефинисан циљ укупне искоришћености.</span><span class="sxs-lookup"><span data-stu-id="32888-146">The role has a utilization target defined for it.</span></span>
-- <span data-ttu-id="32888-147">Стварне вредности имају тип наплате **Наплативо** за период за који очекујете израчунавање укупне искоришћености.</span><span class="sxs-lookup"><span data-stu-id="32888-147">Actuals have a billing type of **Chargeable** for the period you are expecting a utilization calculation for.</span></span> <span data-ttu-id="32888-148">Проверите следеће ствари ако видите стварне вредности чији типови наплате нису наплативи:</span><span class="sxs-lookup"><span data-stu-id="32888-148">Check the following if you are seeing actuals with billing types other than chargeable:</span></span>
+- <span data-ttu-id="492d4-144">Ресурс има радне часове који су дефинисани за капацитет.</span><span class="sxs-lookup"><span data-stu-id="492d4-144">The resource has working hours defined for capacity.</span></span>
+- <span data-ttu-id="492d4-145">Ресурс има појединачно дефинисани циљ укупне искоришћености или му је додељена подразумевана улога.</span><span class="sxs-lookup"><span data-stu-id="492d4-145">The resource has either an individually defined utilization target or has a default role assigned to it.</span></span> <span data-ttu-id="492d4-146">За улогу је дефинисан циљ укупне искоришћености.</span><span class="sxs-lookup"><span data-stu-id="492d4-146">The role has a utilization target defined for it.</span></span>
+- <span data-ttu-id="492d4-147">Стварне вредности имају тип наплате **Наплативо** за период за који очекујете израчунавање укупне искоришћености.</span><span class="sxs-lookup"><span data-stu-id="492d4-147">Actuals have a billing type of **Chargeable** for the period you are expecting a utilization calculation for.</span></span> <span data-ttu-id="492d4-148">Проверите следеће ствари ако видите стварне вредности чији типови наплате нису наплативи:</span><span class="sxs-lookup"><span data-stu-id="492d4-148">Check the following if you are seeing actuals with billing types other than chargeable:</span></span>
 
-  - <span data-ttu-id="32888-149">Улога коришћена за стварне трошкове има подразумевани тип наплате који се разликује од типа „Наплативо“.</span><span class="sxs-lookup"><span data-stu-id="32888-149">The role used on the actual has a default billing type of something other than chargeable.</span></span>
-  - <span data-ttu-id="32888-150">Улоге за предмет уговора за пројекат који подржава пројекат је подешена на ненаплативо.</span><span class="sxs-lookup"><span data-stu-id="32888-150">The role on the project contract line backing the project has been set to non-chargeable.</span></span>
-  - <span data-ttu-id="32888-151">Пројекат нема повезани предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="32888-151">The project does not have an associated contract line.</span></span>
+  - <span data-ttu-id="492d4-149">Улога коришћена за стварне трошкове има подразумевани тип наплате који се разликује од типа „Наплативо“.</span><span class="sxs-lookup"><span data-stu-id="492d4-149">The role used on the actual has a default billing type of something other than chargeable.</span></span>
+  - <span data-ttu-id="492d4-150">Улоге за предмет уговора за пројекат који подржава пројекат је подешена на ненаплативо.</span><span class="sxs-lookup"><span data-stu-id="492d4-150">The role on the project contract line backing the project has been set to non-chargeable.</span></span>
+  - <span data-ttu-id="492d4-151">Пројекат нема повезани предмет уговора.</span><span class="sxs-lookup"><span data-stu-id="492d4-151">The project does not have an associated contract line.</span></span>
 
 
 
