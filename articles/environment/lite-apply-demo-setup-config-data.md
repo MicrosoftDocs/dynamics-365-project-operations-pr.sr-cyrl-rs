@@ -2,18 +2,16 @@
 title: Примена демо подешавања и података о конфигурацији – једноставно
 description: Ова тема пружа информације о томе како да примените демо подешавања и податке о конфигурацији за Project Operations.
 author: sigitac
-manager: Annbe
 ms.date: 01/27/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 694dbc74591de74895095a9da6e590069711fc83
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 7729b4a9ef5f498b78af298f7233d7dd45434bb3
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5290152"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5997169"
 ---
 # <a name="apply-demo-setup-and-configuration-data-for-project-operations---lite"></a>Примена демо подешавања и података о конфигурацији за Project Operations – једноставно 
 
@@ -28,8 +26,8 @@ _**Једноставна примена – од погодбе до профа
 
 ## <a name="instructions"></a>Упутства
 
-1. Преузмите [Пакет главних података](https://download.microsoft.com/download/3/4/1/341bf279-a64f-4baa-af31-ce624859b518/ProjOpsSampleSetupData%20-%20CE%20only%20CMT.zip). 
-2. Идите у фасциклу *ProjOpsDemoDataSetupAndMaster - Integrated CMT* и покрените извршну датотеку *DataMigrationUtility*.
+1. Преузмите [Пакет главних података](https://download.microsoft.com/download/3/4/1/341bf279-a64f-4baa-af31-ce624859b518/ProjOpsSampleSetupData-%20CE%20only.zip). 
+2. Дођите до фасцикле *ProjOpsSampleSetupData - CE only CMT* и покрените извршну датотеку *DataMigrationUtility*.
 3. На 1. страници Common Data Service чаробњака за конфигурисање миграције (CMT) изаберите **Увези податке**, а затим изаберите **Настави**.
 
     ![Миграција конфигурације](./media/1ConfigurationMigration.png)
@@ -41,18 +39,18 @@ _**Једноставна примена – од погодбе до профа
    ![Пријављивање у конфигурацију](./media/2ConfigurationSignin.png)
 
 7. На страници 3, са листе организација у закупцу, изаберите у коју организацију желите да увезете демо податке, а затим изаберите **Пријављивање**.
-8. На 4. страници изаберите zip датотеку *MasterAndSetupData* из распаковане фасцикле *ProjOpsDemoDataSetupAndMaster - Integrated CMT*.
+8. На страници 4 изаберите zip датотеку, *SampleSetupAndConfigData* из распаковане фасцикле, *ProjOpsSampleSetupData - CE only CMT*.
 
    ![Компримована датотека](./media/3ZipFile.png)
 
-   ![Избор датотеке](./media/4SelectAFile.png)
+   ![Изаберите датотеку](./media/4SelectAFile.png)
 
 9. Када изаберете zip датотеку, изаберите **Увоз података**.
 
    ![Увоз података](./media/5ImportData.png)
 
 10. Увоз ће трајати отприлике од два до десет минута, у зависности од брзине ваше мреже. По завршетку изађите из CMT чаробњака. 
-11. Потражите у својој организацији податке за следећих 20 ентитета:
+11. Потражите у својој организацији податке за следећих 18 ентитета:
 
     -   Валута
     -   Налог

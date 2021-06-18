@@ -2,18 +2,16 @@
 title: Управљање могућностима за пословање заснованим на пројектима
 description: Ова тема пружа информације о томе како радити са могућностима које су повезане са пројектима.
 author: rumant
-manager: Annbe
 ms.date: 10/21/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 5ce9ad1458d338d63469c3d6fddb98b9cbbced31
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
+ms.openlocfilehash: aebff4d3a94735e76bcb9cafd25a058207dae846
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5948438"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5996359"
 ---
 # <a name="manage-project-based-opportunities"></a>Управљање могућностима за пословање заснованим на пројектима
 

@@ -2,19 +2,17 @@
 title: Шта је ново или промењено у услузи Project Operations у марту 2021. за сценарије засноване на залихама/производњи
 description: Ова тема пружа информације о исправкама квалитета доступним у издању услуге Project Operations за март 2021. године за сценарије засноване на залихама/производњи.
 author: andchoi
-manager: tfehr
 ms.date: 03/22/2021
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: andchoi
-ms.openlocfilehash: 804b5d1cc3392349fb6bcc81a91d69d0d9dc51da
-ms.sourcegitcommit: 386921f44f1e9a8a828b140206d52945de07aee7
+ms.openlocfilehash: d1a4658c8eec23f6816b58de42d785d769050b07
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "5701971"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5997034"
 ---
 # <a name="whats-new-or-changed-in-project-operations-march-2021-for-stockedproduction-based-scenarios"></a>Шта је ново или промењено у услузи Project Operations у марту 2021. за сценарије засноване на залихама/производњи
 
@@ -123,7 +121,7 @@ _**Односи се на:** Project Operations за сценарије засн
 | Управљање пројектима и рачуноводство | [533530](https://fix.lcs.dynamics.com/Issue/Details/?bugId=533530) | Метода класе наслеђене структурне анализе посла (САП), **ProjWBSUpdateController::updateOutlineNumbersAndPublishInPreOrder** је застарела.                                                                                                   |
 
 ### <a name="regulatory-updates"></a>Регулаторне исправке
-За информације о регулаторним исправкама за Finance and Operations апликације, погледајте чланак [Регулаторне исправке](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates). Такође се можете пријавити на LCS и прегледати планиране регулаторне исправке помоћу алатке за претрагу проблема. Претрага проблема вам омогућава претрагу по земљи, типу функције и издању.
+За информације о регулаторним исправкама за Finance and Operations апликације, погледајте чланак [Регулаторне исправке](/dynamics365/finance/localizations/regulatory-updates.md). Такође се можете пријавити на LCS и прегледати планиране регулаторне исправке помоћу алатке за претрагу проблема. Претрага проблема вам омогућава претрагу по земљи, типу функције и издању.
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

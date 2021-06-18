@@ -2,18 +2,16 @@
 title: Заглавље/резиме могућности за пословање
 description: Ова тема пружа информације о погодбама заснованим на пројекту и ставкама могућности за пословање заснованим на пројекту.
 author: rumant
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 7357e9a8c8c6294c0a395a80287bb7eeb5c47d85
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
+ms.openlocfilehash: 2b6f4556ef983f46c8bfde909c11c6343cdae239
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5948302"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5996224"
 ---
 # <a name="header-details-for-project-based-opportunities"></a>Детаљи заглавља за могућности за пословање засноване на пројекту
 
