@@ -2,8 +2,6 @@
 title: Подешавање модела стручности
 description: Како да подесите моделе стручности у апликацији Project Service
 author: JohnPBurrows
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,41 +16,41 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 779255971ed4f48bc9410fee76d6591ca13383b9
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 8b5f5c2115f368f3a872bc435c55580b1fbf97f1
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5282441"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6008284"
 ---
-# <a name="set-up-proficiency-models-project-service"></a><span data-ttu-id="36439-103">Подешавање модела стручности (Project Service)</span><span class="sxs-lookup"><span data-stu-id="36439-103">Set up proficiency models (Project Service)</span></span>
+# <a name="set-up-proficiency-models-project-service"></a><span data-ttu-id="bcc86-103">Подешавање модела стручности (Project Service)</span><span class="sxs-lookup"><span data-stu-id="bcc86-103">Set up proficiency models (Project Service)</span></span>
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
-<span data-ttu-id="36439-104">Сада да сте додали вештине за пројекте клијената, потребно је да оцените вештине саветника тако да можете да их спојите са захтевима пројекта.</span><span class="sxs-lookup"><span data-stu-id="36439-104">Now that you’ve added the skills for your clients’ projects, you need a way to rate your consultants’ skills so you can match them to project requirements.</span></span> <span data-ttu-id="36439-105">Можете да користите подразумевани модел стручност, да га уредите или креирате нови који одговара потребама ваше организације.</span><span class="sxs-lookup"><span data-stu-id="36439-105">You can use the default proficiency model, edit it, or create a new one to match the needs of your organization.</span></span>  
+<span data-ttu-id="bcc86-104">Сада да сте додали вештине за пројекте клијената, потребно је да оцените вештине саветника тако да можете да их спојите са захтевима пројекта.</span><span class="sxs-lookup"><span data-stu-id="bcc86-104">Now that you’ve added the skills for your clients’ projects, you need a way to rate your consultants’ skills so you can match them to project requirements.</span></span> <span data-ttu-id="bcc86-105">Можете да користите подразумевани модел стручност, да га уредите или креирате нови који одговара потребама ваше организације.</span><span class="sxs-lookup"><span data-stu-id="bcc86-105">You can use the default proficiency model, edit it, or create a new one to match the needs of your organization.</span></span>  
   
-1.  <span data-ttu-id="36439-106">Идите на **Project Service > Модели стручности**.</span><span class="sxs-lookup"><span data-stu-id="36439-106">Go to **Project Service > Proficiency Models**.</span></span>  
+1.  <span data-ttu-id="bcc86-106">Идите на **Project Service > Модели стручности**.</span><span class="sxs-lookup"><span data-stu-id="bcc86-106">Go to **Project Service > Proficiency Models**.</span></span>  
   
-2.  <span data-ttu-id="36439-107">Да бисте приказали или уредили подразумевани модел стручности, кликните на **Подразумевани модел оцена** са листе или да бисте креирали нови модел стручности кликните на дугме **Нови**.</span><span class="sxs-lookup"><span data-stu-id="36439-107">To view or edit the default proficiency model, click **Default Rating Model** in the list, or to create a new proficiency model, click **New**.</span></span>  
+2.  <span data-ttu-id="bcc86-107">Да бисте приказали или уредили подразумевани модел стручности, кликните на **Подразумевани модел оцена** са листе или да бисте креирали нови модел стручности кликните на дугме **Нови**.</span><span class="sxs-lookup"><span data-stu-id="bcc86-107">To view or edit the default proficiency model, click **Default Rating Model** in the list, or to create a new proficiency model, click **New**.</span></span>  
   
-3.  <span data-ttu-id="36439-108">Ако креирате нови модел стручности, попуните поља у области **Опште** т, а затим кликните на дугме **Сачувај** за креирање записа тако да можете да наставите га уређујете.</span><span class="sxs-lookup"><span data-stu-id="36439-108">If you’re creating a new proficiency model, fill in the fields in the **General** area, and then click **Save** to create the record so you can continue editing it.</span></span> <span data-ttu-id="36439-109">Када креирате сопствени модел стручности, имајте у виду да су виши бројеви бољи.</span><span class="sxs-lookup"><span data-stu-id="36439-109">When you create your own proficiency model, keep in mind that higher numbers are better.</span></span>  
+3.  <span data-ttu-id="bcc86-108">Ако креирате нови модел стручности, попуните поља у области **Опште** т, а затим кликните на дугме **Сачувај** за креирање записа тако да можете да наставите га уређујете.</span><span class="sxs-lookup"><span data-stu-id="bcc86-108">If you’re creating a new proficiency model, fill in the fields in the **General** area, and then click **Save** to create the record so you can continue editing it.</span></span> <span data-ttu-id="bcc86-109">Када креирате сопствени модел стручности, имајте у виду да су виши бројеви бољи.</span><span class="sxs-lookup"><span data-stu-id="bcc86-109">When you create your own proficiency model, keep in mind that higher numbers are better.</span></span>  
   
-     <span data-ttu-id="36439-110">На пример, ако приказујете или уређујете подразумевани модел оцена, видећете следеће нивое стручности у **Вредности оцена**.</span><span class="sxs-lookup"><span data-stu-id="36439-110">For example, if you’re viewing or editing the default rating model, you’ll see the following proficiency levels in **Rating Values**.</span></span>  
+     <span data-ttu-id="bcc86-110">На пример, ако приказујете или уређујете подразумевани модел оцена, видећете следеће нивое стручности у **Вредности оцена**.</span><span class="sxs-lookup"><span data-stu-id="bcc86-110">For example, if you’re viewing or editing the default rating model, you’ll see the following proficiency levels in **Rating Values**.</span></span>  
   
-    |<span data-ttu-id="36439-111">Назив</span><span class="sxs-lookup"><span data-stu-id="36439-111">Name</span></span>|<span data-ttu-id="36439-112">Вредност</span><span class="sxs-lookup"><span data-stu-id="36439-112">Value</span></span>|  
+    |<span data-ttu-id="bcc86-111">Назив</span><span class="sxs-lookup"><span data-stu-id="bcc86-111">Name</span></span>|<span data-ttu-id="bcc86-112">Вредност</span><span class="sxs-lookup"><span data-stu-id="bcc86-112">Value</span></span>|  
     |----------|-----------|  
-    |<span data-ttu-id="36439-113">Упознат/а</span><span class="sxs-lookup"><span data-stu-id="36439-113">Familiar</span></span>|<span data-ttu-id="36439-114">1</span><span class="sxs-lookup"><span data-stu-id="36439-114">1</span></span>|  
-    |<span data-ttu-id="36439-115">Добро</span><span class="sxs-lookup"><span data-stu-id="36439-115">Good</span></span>|<span data-ttu-id="36439-116">2</span><span class="sxs-lookup"><span data-stu-id="36439-116">2</span></span>|  
-    |<span data-ttu-id="36439-117">Стручан/а</span><span class="sxs-lookup"><span data-stu-id="36439-117">Proficient</span></span>|<span data-ttu-id="36439-118">3</span><span class="sxs-lookup"><span data-stu-id="36439-118">3</span></span>|  
+    |<span data-ttu-id="bcc86-113">Упознат/а</span><span class="sxs-lookup"><span data-stu-id="bcc86-113">Familiar</span></span>|<span data-ttu-id="bcc86-114">1</span><span class="sxs-lookup"><span data-stu-id="bcc86-114">1</span></span>|  
+    |<span data-ttu-id="bcc86-115">Добро</span><span class="sxs-lookup"><span data-stu-id="bcc86-115">Good</span></span>|<span data-ttu-id="bcc86-116">2</span><span class="sxs-lookup"><span data-stu-id="bcc86-116">2</span></span>|  
+    |<span data-ttu-id="bcc86-117">Стручан/а</span><span class="sxs-lookup"><span data-stu-id="bcc86-117">Proficient</span></span>|<span data-ttu-id="bcc86-118">3</span><span class="sxs-lookup"><span data-stu-id="bcc86-118">3</span></span>|  
   
-4.  <span data-ttu-id="36439-119">Да бисте додали или променили ниво стручности, кликните на дугме табеле и извршите жељене промене.</span><span class="sxs-lookup"><span data-stu-id="36439-119">To add or change a proficiency level, click the table button and make the changes you want.</span></span>  
+4.  <span data-ttu-id="bcc86-119">Да бисте додали или променили ниво стручности, кликните на дугме табеле и извршите жељене промене.</span><span class="sxs-lookup"><span data-stu-id="bcc86-119">To add or change a proficiency level, click the table button and make the changes you want.</span></span>  
   
-5.  <span data-ttu-id="36439-120">Кликните на дугме **Сачувај** у доњем десном углу екрана.</span><span class="sxs-lookup"><span data-stu-id="36439-120">Click the **Save** button in the bottom right corner of the screen.</span></span>  
+5.  <span data-ttu-id="bcc86-120">Кликните на дугме **Сачувај** у доњем десном углу екрана.</span><span class="sxs-lookup"><span data-stu-id="bcc86-120">Click the **Save** button in the bottom right corner of the screen.</span></span>  
   
-### <a name="see-also"></a><span data-ttu-id="36439-121">Такође погледајте</span><span class="sxs-lookup"><span data-stu-id="36439-121">See Also</span></span>  
- [<span data-ttu-id="36439-122">Подешавање ресурса</span><span class="sxs-lookup"><span data-stu-id="36439-122">Set up resources</span></span>](../psa/set-up-resources.md)
+### <a name="see-also"></a><span data-ttu-id="bcc86-121">Такође погледајте</span><span class="sxs-lookup"><span data-stu-id="bcc86-121">See Also</span></span>  
+ [<span data-ttu-id="bcc86-122">Подешавање ресурса</span><span class="sxs-lookup"><span data-stu-id="bcc86-122">Set up resources</span></span>](../psa/set-up-resources.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
