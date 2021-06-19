@@ -2,12 +2,10 @@
 title: Креирање прилагођених решења за димензије цене
 description: У овој теми се објашњава како се креира прилагођено решење приликом креирања прилагођених димензија цене.
 author: Rumant
-manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: business-applications
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -17,53 +15,53 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1d8117d6f6bcedc97264401fc941470f34efb1ae
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: ae7f22b9cb092e956d0f1eaf1f1997c8e97392f4
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5285006"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6012334"
 ---
-# <a name="create-custom-solutions-for-pricing-dimensions"></a><span data-ttu-id="3ca8f-103">Креирање прилагођених решења за димензије цене</span><span class="sxs-lookup"><span data-stu-id="3ca8f-103">Create custom solutions for pricing dimensions</span></span>
+# <a name="create-custom-solutions-for-pricing-dimensions"></a><span data-ttu-id="420e1-103">Креирање прилагођених решења за димензије цене</span><span class="sxs-lookup"><span data-stu-id="420e1-103">Create custom solutions for pricing dimensions</span></span>
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
 > [!IMPORTANT]
-> <span data-ttu-id="3ca8f-104">Све промене прилагођених димензија цене треба да буду у засебном решењу.</span><span class="sxs-lookup"><span data-stu-id="3ca8f-104">All custom pricing dimension changes should be in a separate solution.</span></span> <span data-ttu-id="3ca8f-105">Ова важна најбоља пракса пружа флексибилност у будућности за ажурирање или уклањање промена по потреби, помоћи ће при поновној употреби посла и олакшава прилагођавање ових промена другој инстанци.</span><span class="sxs-lookup"><span data-stu-id="3ca8f-105">This important best practice provides flexibility in the future to update or remove changes as needed, will help with re-use of your work, and makes it easier to port these changes to another instance.</span></span> <span data-ttu-id="3ca8f-106">Када унесете све потребне промене, извезите ово решење као **Комплетно решење** и увезите га у друге инстанце да бисте поново користили подешавање за одређивање цена.</span><span class="sxs-lookup"><span data-stu-id="3ca8f-106">After you make the required changes, export this solution as a **Managed solution**, and import it into other instances to reuse your pricing setup.</span></span>
+> <span data-ttu-id="420e1-104">Све промене прилагођених димензија цене треба да буду у засебном решењу.</span><span class="sxs-lookup"><span data-stu-id="420e1-104">All custom pricing dimension changes should be in a separate solution.</span></span> <span data-ttu-id="420e1-105">Ова важна најбоља пракса пружа флексибилност у будућности за ажурирање или уклањање промена по потреби, помоћи ће при поновној употреби посла и олакшава прилагођавање ових промена другој инстанци.</span><span class="sxs-lookup"><span data-stu-id="420e1-105">This important best practice provides flexibility in the future to update or remove changes as needed, will help with re-use of your work, and makes it easier to port these changes to another instance.</span></span> <span data-ttu-id="420e1-106">Када унесете све потребне промене, извезите ово решење као **Комплетно решење** и увезите га у друге инстанце да бисте поново користили подешавање за одређивање цена.</span><span class="sxs-lookup"><span data-stu-id="420e1-106">After you make the required changes, export this solution as a **Managed solution**, and import it into other instances to reuse your pricing setup.</span></span>
 
-1. <span data-ttu-id="3ca8f-107">Изаберите **Подешавања** > **Решења**, а затим изаберите **Ново**.</span><span class="sxs-lookup"><span data-stu-id="3ca8f-107">Select **Settings** > **Solutions**, and then select **New**.</span></span> 
-2. <span data-ttu-id="3ca8f-108">Именујте решење, **\<your organization name> димензије за одређивање цена**, унесите преостале захтеване информације, а затим изаберите **Сачувај**.</span><span class="sxs-lookup"><span data-stu-id="3ca8f-108">Name the solution, **\<your organization name> pricing dimensions**, enter the remaining required information, and then select **Save**.</span></span>
+1. <span data-ttu-id="420e1-107">Изаберите **Подешавања** > **Решења**, а затим изаберите **Ново**.</span><span class="sxs-lookup"><span data-stu-id="420e1-107">Select **Settings** > **Solutions**, and then select **New**.</span></span> 
+2. <span data-ttu-id="420e1-108">Именујте решење, **\<your organization name> димензије за одређивање цена**, унесите преостале захтеване информације, а затим изаберите **Сачувај**.</span><span class="sxs-lookup"><span data-stu-id="420e1-108">Name the solution, **\<your organization name> pricing dimensions**, enter the remaining required information, and then select **Save**.</span></span>
 
 > ![Креирање прилагођеног решења за димензије за одређивање цена](media/Creation-of-custom-pricing-dimension-solution.PNG)
   
-## <a name="add-all-required-entities-and-related-components-to-the-pricing-dimension-solution"></a><span data-ttu-id="3ca8f-110">Додајте све захтеване ентитете и сродне компоненте у решење за димензије цене</span><span class="sxs-lookup"><span data-stu-id="3ca8f-110">Add all required entities and related components to the Pricing dimension solution</span></span>
-<span data-ttu-id="3ca8f-111">Мораћете да додате следеће Project Service ентитете у решење за одређивање цена.</span><span class="sxs-lookup"><span data-stu-id="3ca8f-111">You will need to add the following Project Service entities to your pricing solution.</span></span> <span data-ttu-id="3ca8f-112">Довршите кораке у овој процедури да бисте направили неке важне промене шема у решењу за одређивање цена, тако да ентитети постану свесни нових димензија цене.</span><span class="sxs-lookup"><span data-stu-id="3ca8f-112">Complete the steps in this procedure to make some important schema changes in the pricing solution so that the entities become aware of the new pricing dimensions.</span></span>
+## <a name="add-all-required-entities-and-related-components-to-the-pricing-dimension-solution"></a><span data-ttu-id="420e1-110">Додајте све захтеване ентитете и сродне компоненте у решење за димензије цене</span><span class="sxs-lookup"><span data-stu-id="420e1-110">Add all required entities and related components to the Pricing dimension solution</span></span>
+<span data-ttu-id="420e1-111">Мораћете да додате следеће Project Service ентитете у решење за одређивање цена.</span><span class="sxs-lookup"><span data-stu-id="420e1-111">You will need to add the following Project Service entities to your pricing solution.</span></span> <span data-ttu-id="420e1-112">Довршите кораке у овој процедури да бисте направили неке важне промене шема у решењу за одређивање цена, тако да ентитети постану свесни нових димензија цене.</span><span class="sxs-lookup"><span data-stu-id="420e1-112">Complete the steps in this procedure to make some important schema changes in the pricing solution so that the entities become aware of the new pricing dimensions.</span></span>
 
-1. <span data-ttu-id="3ca8f-113">Изаберите **Подешавања** > **Решења**, а затим двапут кликните на **\<your organization name> димензије за одређивање цена**.</span><span class="sxs-lookup"><span data-stu-id="3ca8f-113">Select **Settings** > **Solutions**, and then double-click **\<your organization name> pricing dimensions**.</span></span> 
-2. <span data-ttu-id="3ca8f-114">У левом окну за навигацију истраживача решења изаберите **Додај постојеће** > **Ентитети**.</span><span class="sxs-lookup"><span data-stu-id="3ca8f-114">In Solution Explorer, on the left navigation pane, select **Add Existing** > **Entities**.</span></span>
-3. <span data-ttu-id="3ca8f-115">У дијалогу **Компоненте решења** изаберите следеће ентитете:</span><span class="sxs-lookup"><span data-stu-id="3ca8f-115">In the **Solution Components** dialog box, select the following entities:</span></span>
+1. <span data-ttu-id="420e1-113">Изаберите **Подешавања** > **Решења**, а затим двапут кликните на **\<your organization name> димензије за одређивање цена**.</span><span class="sxs-lookup"><span data-stu-id="420e1-113">Select **Settings** > **Solutions**, and then double-click **\<your organization name> pricing dimensions**.</span></span> 
+2. <span data-ttu-id="420e1-114">У левом окну за навигацију истраживача решења изаберите **Додај постојеће** > **Ентитети**.</span><span class="sxs-lookup"><span data-stu-id="420e1-114">In Solution Explorer, on the left navigation pane, select **Add Existing** > **Entities**.</span></span>
+3. <span data-ttu-id="420e1-115">У дијалогу **Компоненте решења** изаберите следеће ентитете:</span><span class="sxs-lookup"><span data-stu-id="420e1-115">In the **Solution Components** dialog box, select the following entities:</span></span>
 
-- <span data-ttu-id="3ca8f-116">Стварно</span><span class="sxs-lookup"><span data-stu-id="3ca8f-116">Actual</span></span>
-- <span data-ttu-id="3ca8f-117">Ресурс који може да се резервише</span><span class="sxs-lookup"><span data-stu-id="3ca8f-117">Bookable Resource</span></span>
-- <span data-ttu-id="3ca8f-118">Ставка процене</span><span class="sxs-lookup"><span data-stu-id="3ca8f-118">Estimate Line</span></span>
-- <span data-ttu-id="3ca8f-119">Пројектни задатак</span><span class="sxs-lookup"><span data-stu-id="3ca8f-119">Project Task</span></span>
-- <span data-ttu-id="3ca8f-120">Детаљ ставке фактуре</span><span class="sxs-lookup"><span data-stu-id="3ca8f-120">Invoice Line Detail</span></span>
-- <span data-ttu-id="3ca8f-121">Ставка у главној књизи</span><span class="sxs-lookup"><span data-stu-id="3ca8f-121">Journal Line</span></span>
-- <span data-ttu-id="3ca8f-122">Детаљ предмета уговора за пројекат</span><span class="sxs-lookup"><span data-stu-id="3ca8f-122">Project Contract Line Detail</span></span>
-- <span data-ttu-id="3ca8f-123">Члан пројектног тима</span><span class="sxs-lookup"><span data-stu-id="3ca8f-123">Project Team Member</span></span>
-- <span data-ttu-id="3ca8f-124">Детаљ ставке понуде</span><span class="sxs-lookup"><span data-stu-id="3ca8f-124">Quote Line Detail</span></span>
-- <span data-ttu-id="3ca8f-125">Провизија на цену улоге</span><span class="sxs-lookup"><span data-stu-id="3ca8f-125">Role Price Markup</span></span>
-- <span data-ttu-id="3ca8f-126">Цена улоге</span><span class="sxs-lookup"><span data-stu-id="3ca8f-126">Role Price</span></span> 
-- <span data-ttu-id="3ca8f-127">Ставка времена</span><span class="sxs-lookup"><span data-stu-id="3ca8f-127">Time Entry</span></span> 
+- <span data-ttu-id="420e1-116">Стварно</span><span class="sxs-lookup"><span data-stu-id="420e1-116">Actual</span></span>
+- <span data-ttu-id="420e1-117">Ресурс који може да се резервише</span><span class="sxs-lookup"><span data-stu-id="420e1-117">Bookable Resource</span></span>
+- <span data-ttu-id="420e1-118">Ставка процене</span><span class="sxs-lookup"><span data-stu-id="420e1-118">Estimate Line</span></span>
+- <span data-ttu-id="420e1-119">Пројектни задатак</span><span class="sxs-lookup"><span data-stu-id="420e1-119">Project Task</span></span>
+- <span data-ttu-id="420e1-120">Детаљ ставке фактуре</span><span class="sxs-lookup"><span data-stu-id="420e1-120">Invoice Line Detail</span></span>
+- <span data-ttu-id="420e1-121">Ставка у главној књизи</span><span class="sxs-lookup"><span data-stu-id="420e1-121">Journal Line</span></span>
+- <span data-ttu-id="420e1-122">Детаљ предмета уговора за пројекат</span><span class="sxs-lookup"><span data-stu-id="420e1-122">Project Contract Line Detail</span></span>
+- <span data-ttu-id="420e1-123">Члан пројектног тима</span><span class="sxs-lookup"><span data-stu-id="420e1-123">Project Team Member</span></span>
+- <span data-ttu-id="420e1-124">Детаљ ставке понуде</span><span class="sxs-lookup"><span data-stu-id="420e1-124">Quote Line Detail</span></span>
+- <span data-ttu-id="420e1-125">Провизија на цену улоге</span><span class="sxs-lookup"><span data-stu-id="420e1-125">Role Price Markup</span></span>
+- <span data-ttu-id="420e1-126">Цена улоге</span><span class="sxs-lookup"><span data-stu-id="420e1-126">Role Price</span></span> 
+- <span data-ttu-id="420e1-127">Ставка времена</span><span class="sxs-lookup"><span data-stu-id="420e1-127">Time Entry</span></span> 
 
 > ![Додавање постојећих ентитета у решење за димензије одређивања цена](media/Existing-entities-to-PD-solution.png)
 
 > ![Изаберите компоненте решења](media/Dimension-Components.png)
 
 > [!NOTE]
-> <span data-ttu-id="3ca8f-130">Обавезно укључите све обрасце и приказе за сваки од изабраних ентитета.</span><span class="sxs-lookup"><span data-stu-id="3ca8f-130">Make sure to include all forms and views for each of the entities selected.</span></span>
+> <span data-ttu-id="420e1-130">Обавезно укључите све обрасце и приказе за сваки од изабраних ентитета.</span><span class="sxs-lookup"><span data-stu-id="420e1-130">Make sure to include all forms and views for each of the entities selected.</span></span>
 
-4. <span data-ttu-id="3ca8f-131">Када се од вас затражи да укључите зависне ентитете за изабране ентитете, изаберите **Не**.</span><span class="sxs-lookup"><span data-stu-id="3ca8f-131">When prompted to include any dependent entities for the selected entities, select **No**.</span></span>
+4. <span data-ttu-id="420e1-131">Када се од вас затражи да укључите зависне ентитете за изабране ентитете, изаберите **Не**.</span><span class="sxs-lookup"><span data-stu-id="420e1-131">When prompted to include any dependent entities for the selected entities, select **No**.</span></span>
 
 > ![Немојте да укључујете све повезане компоненте](media/Do-not-include-required.png)
 
