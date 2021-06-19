@@ -2,18 +2,16 @@
 title: Преглед интерног фактурисања у оквиру предузећа
 description: Ова тема пружа информације и примере о интерном фактурисању између предузећа за пројекте.
 author: sigitac
-manager: tfehr
 ms.date: 11/19/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 3ad75089de1a2f99646f7aba213e199a2bec347d
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 42af89105f8325f1c94df6d2133d2c329facf2b3
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5287346"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6002659"
 ---
 # <a name="intercompany-invoicing-overview"></a>Преглед интерног фактурисања у оквиру предузећа
 
@@ -21,7 +19,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 Ваша организација може имати више одељења, подружница и других правних лица која међусобно преносе производе и услуге за пројекте. Правно лице које пружа услугу или даје производ назива се *правно лице које позајмљује*. Правно лице које прима услугу или производ назива се *правно лице које се задужује*.
 
-Следећа илустрација приказује типични сценарио када два правна лица, Contoso Robotics USA (правно лице које се задужује) и Contoso Robotics UK (правно лице које позајмљује) деле ресурсе како би испоручили пројекат клијенту, Adventure works. За овај сценарио, Contoso Robotics USA по уговору треба да испоручи посао предузећу Adventure Works.
+Следећа илустрација приказује типичан сценарио када два правна лица, Contoso Robotics USA (правно лице које се задужује) и Contoso Robotics UK (правно лице које позајмљује) дели ресурсе за испоруку пројекта за клијента, Adventure works. За овај сценарио, Contoso Robotics USA је уговорио испоруку дела за Adventure Works.
 
 ![Интерно фактурисање у оквиру предузећа](./media/IntercompanyScenario.png) 
 
