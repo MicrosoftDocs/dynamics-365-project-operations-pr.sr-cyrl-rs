@@ -2,18 +2,16 @@
 title: Управљање заосталим обрачунима
 description: Ова тема пружа информације о томе како да прикажете и радите са заосталим наплатама у услузи Project Operations.
 author: rumant
-manager: Annbe
 ms.date: 04/05/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: e428b551a755220cee67d54b2e63dd7a3c2ca393
-ms.sourcegitcommit: ca0fc078d1a12484eca193fe051b8442c0559db8
+ms.openlocfilehash: d7c242937cd9dd277f8d92b7a29333c1fa272e5f
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "5866795"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6011929"
 ---
 # <a name="manage-billing-backlog"></a>Управљање заосталим обрачунима
 
@@ -32,7 +30,7 @@ Dynamics 365 Project Operations има наменске приказе који 
 
 Приказ **Обуставе и аконтације** наводи обуставе и аконтације у свим уговорима за пројекте у систему. Када се обустава или аванс фактурише, износ аванса постаје доступан за употребу.
 
-## <a name="available-retainers-and-advances"></a>Доступни аванси и аконтације
+## <a name="available-retainers-and-advances"></a>Доступне обуставе и аконтације
 
 Приказ **Доступне обуставе и аконтације** наводи све доступне обуставе и аконтације у свим уговорима за пројекте у систему. Када се аконтација или обустава фактурише, износ аконтације постаје доступан за употребу и додаје се на листу. Када се у потпуности искористи износ обуставе или аконтације, ставка се уклања са листе.
 
