@@ -2,8 +2,6 @@
 title: Шта је ново или промењено у издању 21 исправке за Project Service Automation у верзији 3
 description: У овој теми дате су функције и исправке које су доступне у издању 21 исправке за Project Service Automation у верзији 3.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 06/19/2020
 ms.topic: article
@@ -17,66 +15,66 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ad44f6747486222cc1f48c7b645f2525d382dca3
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
+ms.openlocfilehash: dd894f27baac70238d0bd9e9b1a21a9a499e1ea7
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5949067"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6002345"
 ---
-# <a name="project-service-automation-update-release-21-v3"></a><span data-ttu-id="6e663-103">Project Service Automation издање исправке 21, у верзији 3</span><span class="sxs-lookup"><span data-stu-id="6e663-103">Project Service Automation Update Release 21, V3</span></span>
+# <a name="project-service-automation-update-release-21-v3"></a><span data-ttu-id="c313a-103">Project Service Automation издање исправке 21, у верзији 3</span><span class="sxs-lookup"><span data-stu-id="c313a-103">Project Service Automation Update Release 21, V3</span></span>
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-<span data-ttu-id="6e663-104">Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="6e663-104">We’re pleased to announce the latest update for the Project Service Automation application for Dynamics 365.</span></span> <span data-ttu-id="6e663-105">Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости.</span><span class="sxs-lookup"><span data-stu-id="6e663-105">This release includes some important improvements to quality, performance, and usability.</span></span> <span data-ttu-id="6e663-106">Ово издање је компатибилно са услугом Dynamics 365 9.x.</span><span class="sxs-lookup"><span data-stu-id="6e663-106">This release is compatible with Dynamics 365 9.x.</span></span> <span data-ttu-id="6e663-107">Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку.</span><span class="sxs-lookup"><span data-stu-id="6e663-107">To update to this release, visit the Admin Center for Dynamics 365 online solutions page to install the update.</span></span> <span data-ttu-id="6e663-108">За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).</span><span class="sxs-lookup"><span data-stu-id="6e663-108">For more information, see [Install, update, or remove a preferred solution](/power-platform/admin/install-remove-preferred-solution).</span></span>
+<span data-ttu-id="c313a-104">Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="c313a-104">We’re pleased to announce the latest update for the Project Service Automation application for Dynamics 365.</span></span> <span data-ttu-id="c313a-105">Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости.</span><span class="sxs-lookup"><span data-stu-id="c313a-105">This release includes some important improvements to quality, performance, and usability.</span></span> <span data-ttu-id="c313a-106">Ово издање је компатибилно са услугом Dynamics 365 9.x.</span><span class="sxs-lookup"><span data-stu-id="c313a-106">This release is compatible with Dynamics 365 9.x.</span></span> <span data-ttu-id="c313a-107">Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку.</span><span class="sxs-lookup"><span data-stu-id="c313a-107">To update to this release, visit the Admin Center for Dynamics 365 online solutions page to install the update.</span></span> <span data-ttu-id="c313a-108">За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).</span><span class="sxs-lookup"><span data-stu-id="c313a-108">For more information, see [Install, update, or remove a preferred solution](/power-platform/admin/install-remove-preferred-solution).</span></span>
 
-<span data-ttu-id="6e663-109">У овој теми дате су функције које су нове или су промењене у издању 21 исправке за Project Service Automation у верзији 3.</span><span class="sxs-lookup"><span data-stu-id="6e663-109">This topic lists the features and fixes that are new or changed for Project Service Automation V3, Update Release 21.</span></span> <span data-ttu-id="6e663-110">Број израде ове верзије је V 3.10.32.50 и углавном је доступна путем самосталног ажурирања у јуну 2020. године.</span><span class="sxs-lookup"><span data-stu-id="6e663-110">This version has a build number of V 3.10.32.50 and is generally available through a self-update in June 2020.</span></span>
+<span data-ttu-id="c313a-109">У овој теми дате су функције које су нове или су промењене у издању 21 исправке за Project Service Automation у верзији 3.</span><span class="sxs-lookup"><span data-stu-id="c313a-109">This topic lists the features and fixes that are new or changed for Project Service Automation V3, Update Release 21.</span></span> <span data-ttu-id="c313a-110">Број израде ове верзије је V 3.10.32.50 и углавном је доступна путем самосталног ажурирања у јуну 2020. године.</span><span class="sxs-lookup"><span data-stu-id="c313a-110">This version has a build number of V 3.10.32.50 and is generally available through a self-update in June 2020.</span></span>
 
-## <a name="update-release-21"></a><span data-ttu-id="6e663-111">Издање исправке 21</span><span class="sxs-lookup"><span data-stu-id="6e663-111">Update Release 21</span></span>
+## <a name="update-release-21"></a><span data-ttu-id="c313a-111">Издање исправке 21</span><span class="sxs-lookup"><span data-stu-id="c313a-111">Update Release 21</span></span>
 
-### <a name="bug-fixes"></a><span data-ttu-id="6e663-112">Исправке грешака</span><span class="sxs-lookup"><span data-stu-id="6e663-112">Bug fixes</span></span>
+### <a name="bug-fixes"></a><span data-ttu-id="c313a-112">Исправке грешака</span><span class="sxs-lookup"><span data-stu-id="c313a-112">Bug fixes</span></span>
 
-<span data-ttu-id="6e663-113">**Време и трошак**</span><span class="sxs-lookup"><span data-stu-id="6e663-113">**Time and Expense**</span></span>
+<span data-ttu-id="c313a-113">**Време и трошак**</span><span class="sxs-lookup"><span data-stu-id="c313a-113">**Time and Expense**</span></span>
 
-<span data-ttu-id="6e663-114">Поправљени су следећи проблеми:</span><span class="sxs-lookup"><span data-stu-id="6e663-114">The following issues have been fixed:</span></span>
+<span data-ttu-id="c313a-114">Поправљени су следећи проблеми:</span><span class="sxs-lookup"><span data-stu-id="c313a-114">The following issues have been fixed:</span></span>
 
-- <span data-ttu-id="6e663-115">Приликом хостовања **Контроле мреже ставке времена** на контролној табли, мрежа не користи пуну ширину контејнера мреже контролне табле.</span><span class="sxs-lookup"><span data-stu-id="6e663-115">When hosting the **Time Entry Grid Control** in Dashboards, the grid does not utilize the full width of the dashboard grid container.</span></span>
-- <span data-ttu-id="6e663-116">За одређене временске зоне, контрола мреже **Ставка времена** не приказује записе.</span><span class="sxs-lookup"><span data-stu-id="6e663-116">For specific time zones, the **Time Entry** grid control does not display records.</span></span>
-- <span data-ttu-id="6e663-117">Ставке времена које су после 21:00 појављују се погрешног дана.</span><span class="sxs-lookup"><span data-stu-id="6e663-117">Time entries that are after 9:00 PM appear on the wrong day.</span></span>
-- <span data-ttu-id="6e663-118">Корисници не могу да пошаљу трошкове ако категорија трошкова, **Потребна је признаница за трошкове** нема вредност.</span><span class="sxs-lookup"><span data-stu-id="6e663-118">Users are unable to submit expenses if the expense category, **Expense receipt required** has no value.</span></span>
+- <span data-ttu-id="c313a-115">Приликом хостовања **Контроле мреже ставке времена** на контролној табли, мрежа не користи пуну ширину контејнера мреже контролне табле.</span><span class="sxs-lookup"><span data-stu-id="c313a-115">When hosting the **Time Entry Grid Control** in Dashboards, the grid does not utilize the full width of the dashboard grid container.</span></span>
+- <span data-ttu-id="c313a-116">За одређене временске зоне, контрола мреже **Ставка времена** не приказује записе.</span><span class="sxs-lookup"><span data-stu-id="c313a-116">For specific time zones, the **Time Entry** grid control does not display records.</span></span>
+- <span data-ttu-id="c313a-117">Ставке времена које су после 21:00 појављују се погрешног дана.</span><span class="sxs-lookup"><span data-stu-id="c313a-117">Time entries that are after 9:00 PM appear on the wrong day.</span></span>
+- <span data-ttu-id="c313a-118">Корисници не могу да пошаљу трошкове ако категорија трошкова, **Потребна је признаница за трошкове** нема вредност.</span><span class="sxs-lookup"><span data-stu-id="c313a-118">Users are unable to submit expenses if the expense category, **Expense receipt required** has no value.</span></span>
 
-<span data-ttu-id="6e663-119">**Управљање ресурсима**</span><span class="sxs-lookup"><span data-stu-id="6e663-119">**Resource Management**</span></span>
+<span data-ttu-id="c313a-119">**Управљање ресурсима**</span><span class="sxs-lookup"><span data-stu-id="c313a-119">**Resource Management**</span></span>
 
-<span data-ttu-id="6e663-120">Поправљени су следећи проблеми:</span><span class="sxs-lookup"><span data-stu-id="6e663-120">The following issues have been fixed:</span></span>
+<span data-ttu-id="c313a-120">Поправљени су следећи проблеми:</span><span class="sxs-lookup"><span data-stu-id="c313a-120">The following issues have been fixed:</span></span>
 
-- <span data-ttu-id="6e663-121">Неактивне резервације се приказују у приказу **Сравњење**.</span><span class="sxs-lookup"><span data-stu-id="6e663-121">Inactive bookings are displayed in the **Reconciliation** view.</span></span>
-- <span data-ttu-id="6e663-122">Недостаје валидација генеричког ресурса како би се осигурало да постоји важећи статус резервације.</span><span class="sxs-lookup"><span data-stu-id="6e663-122">Generic resource fulfillment was missing validation to ensure that a valid booking status exists.</span></span>
+- <span data-ttu-id="c313a-121">Неактивне резервације се приказују у приказу **Сравњење**.</span><span class="sxs-lookup"><span data-stu-id="c313a-121">Inactive bookings are displayed in the **Reconciliation** view.</span></span>
+- <span data-ttu-id="c313a-122">Недостаје валидација генеричког ресурса како би се осигурало да постоји важећи статус резервације.</span><span class="sxs-lookup"><span data-stu-id="c313a-122">Generic resource fulfillment was missing validation to ensure that a valid booking status exists.</span></span>
 
-<span data-ttu-id="6e663-123">**Управљање пројектима**</span><span class="sxs-lookup"><span data-stu-id="6e663-123">**Project Management**</span></span>
+<span data-ttu-id="c313a-123">**Управљање пројектима**</span><span class="sxs-lookup"><span data-stu-id="c313a-123">**Project Management**</span></span>
 
-<span data-ttu-id="6e663-124">Поправљени су следећи проблеми:</span><span class="sxs-lookup"><span data-stu-id="6e663-124">The following issues have been fixed:</span></span>
+<span data-ttu-id="c313a-124">Поправљени су следећи проблеми:</span><span class="sxs-lookup"><span data-stu-id="c313a-124">The following issues have been fixed:</span></span>
 
-- <span data-ttu-id="6e663-125">Мреже обрасца за **Пројекат** (**Додела ресурса**, **Задатак**, приказ **Сравњење**, **Процене трошкова**) се могу уређивати чак и када пројекат није активан.</span><span class="sxs-lookup"><span data-stu-id="6e663-125">The **Project** form grids (**Resource Assignment**, **Task**, **Reconciliation** view, **Expense Estimates**) remain editable even when a project is not active.</span></span>
-- <span data-ttu-id="6e663-126">Дуплирани клијенти се не могу објединити са клијентима који су повезани са потврђеним уговорима за пројекат.</span><span class="sxs-lookup"><span data-stu-id="6e663-126">Duplicate customers can't be merged with customers that are linked to confirmed project contracts.</span></span>
-- <span data-ttu-id="6e663-127">Када се дода ресурс који нема важећи календар, систем не враћа поруку о грешци прилагођену кориснику.</span><span class="sxs-lookup"><span data-stu-id="6e663-127">When a resource who does not have a valid calendar is added, the system does not return a user friendly-error message.</span></span>
-- <span data-ttu-id="6e663-128">Дугме **Додај задатак** на мрежи задатака је омогућено када је пројекат повезан на **програмски додатака за Microsoft Project**.</span><span class="sxs-lookup"><span data-stu-id="6e663-128">The **Add Task** button on the task grid is enabled when the project is linked to **Microsoft Project add-in**.</span></span>
-- <span data-ttu-id="6e663-129">Напор неконтролисано расте када је задатак са категоријом додељен ресурсу са улогом за коју је дефинисана цена коштања.</span><span class="sxs-lookup"><span data-stu-id="6e663-129">Effort grows uncontrollably when a task with a category is assigned to a resource with a role for which there is a cost price defined.</span></span>
+- <span data-ttu-id="c313a-125">Мреже обрасца за **Пројекат** (**Додела ресурса**, **Задатак**, приказ **Сравњење**, **Процене трошкова**) се могу уређивати чак и када пројекат није активан.</span><span class="sxs-lookup"><span data-stu-id="c313a-125">The **Project** form grids (**Resource Assignment**, **Task**, **Reconciliation** view, **Expense Estimates**) remain editable even when a project is not active.</span></span>
+- <span data-ttu-id="c313a-126">Дуплирани клијенти се не могу објединити са клијентима који су повезани са потврђеним уговорима за пројекат.</span><span class="sxs-lookup"><span data-stu-id="c313a-126">Duplicate customers can't be merged with customers that are linked to confirmed project contracts.</span></span>
+- <span data-ttu-id="c313a-127">Када се дода ресурс који нема важећи календар, систем не враћа поруку о грешци прилагођену кориснику.</span><span class="sxs-lookup"><span data-stu-id="c313a-127">When a resource who does not have a valid calendar is added, the system does not return a user friendly-error message.</span></span>
+- <span data-ttu-id="c313a-128">Дугме **Додај задатак** на мрежи задатака је омогућено када је пројекат повезан на **програмски додатака за Microsoft Project**.</span><span class="sxs-lookup"><span data-stu-id="c313a-128">The **Add Task** button on the task grid is enabled when the project is linked to **Microsoft Project add-in**.</span></span>
+- <span data-ttu-id="c313a-129">Напор неконтролисано расте када је задатак са категоријом додељен ресурсу са улогом за коју је дефинисана цена коштања.</span><span class="sxs-lookup"><span data-stu-id="c313a-129">Effort grows uncontrollably when a task with a category is assigned to a resource with a role for which there is a cost price defined.</span></span>
 
-<span data-ttu-id="6e663-130">**Sales**</span><span class="sxs-lookup"><span data-stu-id="6e663-130">**Sales**</span></span>
+<span data-ttu-id="c313a-130">**Sales**</span><span class="sxs-lookup"><span data-stu-id="c313a-130">**Sales**</span></span>
 
-<span data-ttu-id="6e663-131">Унета су следећа побољшања:</span><span class="sxs-lookup"><span data-stu-id="6e663-131">The following enhancements have been made:</span></span>
+<span data-ttu-id="c313a-131">Унета су следећа побољшања:</span><span class="sxs-lookup"><span data-stu-id="c313a-131">The following enhancements have been made:</span></span>
 
-- <span data-ttu-id="6e663-132">**Учесталост фактурисања** и **Почетак наплате** су пресељени на картицу **Распоред фактурисања**.</span><span class="sxs-lookup"><span data-stu-id="6e663-132">**Invoice Frequency** and **Billing Start** have been moved to the **Invoice Schedule** tab.</span></span>
+- <span data-ttu-id="c313a-132">**Учесталост фактурисања** и **Почетак наплате** су пресељени на картицу **Распоред фактурисања**.</span><span class="sxs-lookup"><span data-stu-id="c313a-132">**Invoice Frequency** and **Billing Start** have been moved to the **Invoice Schedule** tab.</span></span>
 
-<span data-ttu-id="6e663-133">Поправљени су следећи проблеми:</span><span class="sxs-lookup"><span data-stu-id="6e663-133">The following issues have been fixed:</span></span>
+<span data-ttu-id="c313a-133">Поправљени су следећи проблеми:</span><span class="sxs-lookup"><span data-stu-id="c313a-133">The following issues have been fixed:</span></span>
 
-- <span data-ttu-id="6e663-134">**Укупна продајна цена** је нула (0) за **Категорију**, мада **Улога** има укупну продајну цену која није нула.</span><span class="sxs-lookup"><span data-stu-id="6e663-134">**Total Sales Price** is zero (0) for **Category** even though **Role** has a total sales price that is not zero.</span></span>
-- <span data-ttu-id="6e663-135">Клијенти не могу да мењају вредност поља **Статус фактуре** на **Спремно за фактурисање** када неки други прилагођени процес ажурира додатно поље.</span><span class="sxs-lookup"><span data-stu-id="6e663-135">Customers can't change the value of the **Invoice Status** field to **Ready for invoicing** when another customized process is updating an additional field.</span></span>
-- <span data-ttu-id="6e663-136">Дугме **Освежи ставке фактуре** може да креира више дуплираних ставки ако се више пута изаберу.</span><span class="sxs-lookup"><span data-stu-id="6e663-136">The **Refresh Invoice Lines** button can create multiple duplicated lines if it is repeatedly selected.</span></span>
-- <span data-ttu-id="6e663-137">Дугме **Ажурирај цене** не ради на подформи **Цене улога** у обрасцу **Брзи приказ**.</span><span class="sxs-lookup"><span data-stu-id="6e663-137">The **Update Prices** button doesn't work on the **Role Prices** subgrid in the **Quick View** form.</span></span>
-- <span data-ttu-id="6e663-138">Логика **Решење продајног ценовника** неправилно рукује временским зонама, што резултира погрешним одабиром ценовника.</span><span class="sxs-lookup"><span data-stu-id="6e663-138">The **Sales Price List Resolution** logic improperly handles time zones, resulting in the incorrect selection of price lists.</span></span>
-- <span data-ttu-id="6e663-139">**Укупни стварни трошак** пројекта се може искључити једним делом након што се одобри једна ставка времена.</span><span class="sxs-lookup"><span data-stu-id="6e663-139">A project’s **Total Actual Cost** can be off by a fractional amount after a single time entry is approved.</span></span>
-- <span data-ttu-id="6e663-140">Логика **Решење цена** не даје поруку о грешци прилагођену кориснику ако **Враћена цена улоге** нема вредности у пољима **'Примарна јединица'** и **'Цена у основној јединици'**.</span><span class="sxs-lookup"><span data-stu-id="6e663-140">The **Price Resolution** logic does not provide a user-friendly error message if **Retrieved RolePrice** doesn't have values in **'Primary Unit'** and **'Price In Primary Unit'** fields.</span></span>
+- <span data-ttu-id="c313a-134">**Укупна продајна цена** је нула (0) за **Категорију**, мада **Улога** има укупну продајну цену која није нула.</span><span class="sxs-lookup"><span data-stu-id="c313a-134">**Total Sales Price** is zero (0) for **Category** even though **Role** has a total sales price that is not zero.</span></span>
+- <span data-ttu-id="c313a-135">Клијенти не могу да мењају вредност поља **Статус фактуре** на **Спремно за фактурисање** када неки други прилагођени процес ажурира додатно поље.</span><span class="sxs-lookup"><span data-stu-id="c313a-135">Customers can't change the value of the **Invoice Status** field to **Ready for invoicing** when another customized process is updating an additional field.</span></span>
+- <span data-ttu-id="c313a-136">Дугме **Освежи ставке фактуре** може да креира више дуплираних ставки ако се више пута изаберу.</span><span class="sxs-lookup"><span data-stu-id="c313a-136">The **Refresh Invoice Lines** button can create multiple duplicated lines if it is repeatedly selected.</span></span>
+- <span data-ttu-id="c313a-137">Дугме **Ажурирај цене** не ради на подформи **Цене улога** у обрасцу **Брзи приказ**.</span><span class="sxs-lookup"><span data-stu-id="c313a-137">The **Update Prices** button doesn't work on the **Role Prices** subgrid in the **Quick View** form.</span></span>
+- <span data-ttu-id="c313a-138">Логика **Решење продајног ценовника** неправилно рукује временским зонама, што резултира погрешним одабиром ценовника.</span><span class="sxs-lookup"><span data-stu-id="c313a-138">The **Sales Price List Resolution** logic improperly handles time zones, resulting in the incorrect selection of price lists.</span></span>
+- <span data-ttu-id="c313a-139">**Укупни стварни трошак** пројекта се може искључити једним делом након што се одобри једна ставка времена.</span><span class="sxs-lookup"><span data-stu-id="c313a-139">A project’s **Total Actual Cost** can be off by a fractional amount after a single time entry is approved.</span></span>
+- <span data-ttu-id="c313a-140">Логика **Решење цена** не даје поруку о грешци прилагођену кориснику ако **Враћена цена улоге** нема вредности у пољима **'Примарна јединица'** и **'Цена у основној јединици'**.</span><span class="sxs-lookup"><span data-stu-id="c313a-140">The **Price Resolution** logic does not provide a user-friendly error message if **Retrieved RolePrice** doesn't have values in **'Primary Unit'** and **'Price In Primary Unit'** fields.</span></span>
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
