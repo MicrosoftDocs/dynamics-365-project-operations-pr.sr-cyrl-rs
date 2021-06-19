@@ -2,12 +2,10 @@
 title: Искључивање димензије за одређивање цена
 description: Ова тема показује како се подешавају димензије за одређивање цена у решењу Project Service.
 author: Rumant
-manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 11/06/2018
 ms.topic: article
-ms.service: business-applications
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -17,12 +15,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 6e4b80b9c4b1b0f57d04079c9d2f84051b451d29
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: da8615fa147838d9088c639039d5a2534e662e82
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5281856"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6014314"
 ---
 # <a name="turn-off-a-pricing-dimension"></a>Искључивање димензије за одређивање цена
 
@@ -41,8 +39,8 @@ ms.locfileid: "5281856"
 
 | Стандардна позиција         | Организациона јединица    |Јединица   |Цена  |Валута  |
 | -----------------------|-------------|-------|-------|----------|
-| Инжењер система|Contoso US|Hour| 100.|USD|
-| Виши инжењер система|Contoso US|Hour| 150| USD|
+| Инжењер система|Contoso US|Сат| 100|USD решење|
+| Виши инжењер система|Contoso US|Сат| 150| USD решење|
 
 
 Када искључите поље **Стандардна позиција** као димензију за одређивање цена, а Project Service механизам за одређивање цена претражује цену, користиће само вредност **Организациона јединица** из контекста уноса. Ако је **Организациона јединица** контекста уноса „Contoso US“, резултат ће бити неодређен јер ће се оба реда подударати. Да бисте избегли овај сценарио, када креирате записе **Цена улоге**, Project Service проверава да ли је комбинације димензија јединствена. Ако је димензија искључена након креирања записа **Цена улоге**, ово ограничење може да се прекрши. Због тога је неопходно да пре искључивања димензије избришете све редове **Цена улоге** и **Провизија на цену улоге** у којима је та вредност димензије попуњена.
