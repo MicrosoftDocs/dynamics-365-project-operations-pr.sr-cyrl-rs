@@ -2,8 +2,6 @@
 title: Шта је ново или промењено у Project Service Automation издању исправке 19 у верзији 3
 description: У овој теми дате су функције и исправке које су доступне у Project Service Automation издању исправке 19 у верзији 3.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 05/05/2020
 ms.topic: article
@@ -17,55 +15,55 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0137d0241238ff96de406884dd05a5d7f023c318
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
+ms.openlocfilehash: 7812bc41f32f9d4116c63990059f7dbc0351cf9e
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5949157"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6006619"
 ---
-# <a name="project-service-automation-update-release-19-v3"></a><span data-ttu-id="2d586-103">Project Service Automation издање исправке 19, у верзији 3</span><span class="sxs-lookup"><span data-stu-id="2d586-103">Project Service Automation Update Release 19, V3</span></span>
+# <a name="project-service-automation-update-release-19-v3"></a><span data-ttu-id="b8365-103">Project Service Automation издање исправке 19, у верзији 3</span><span class="sxs-lookup"><span data-stu-id="b8365-103">Project Service Automation Update Release 19, V3</span></span>
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-<span data-ttu-id="2d586-104">Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="2d586-104">We’re pleased to announce the latest update for the Project Service Automation application for Dynamics 365.</span></span> <span data-ttu-id="2d586-105">Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости.</span><span class="sxs-lookup"><span data-stu-id="2d586-105">This release includes some important improvements to quality, performance, and usability.</span></span> <span data-ttu-id="2d586-106">Ово издање је компатибилно са услугом Dynamics 365 9.x.</span><span class="sxs-lookup"><span data-stu-id="2d586-106">This release is compatible with Dynamics 365 9.x.</span></span> <span data-ttu-id="2d586-107">Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку.</span><span class="sxs-lookup"><span data-stu-id="2d586-107">To update to this release, visit the Admin Center for Dynamics 365 online solutions page to install the update.</span></span> <span data-ttu-id="2d586-108">За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).</span><span class="sxs-lookup"><span data-stu-id="2d586-108">For more information, see [Install, update, or remove a preferred solution](/power-platform/admin/install-remove-preferred-solution).</span></span>
+<span data-ttu-id="b8365-104">Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="b8365-104">We’re pleased to announce the latest update for the Project Service Automation application for Dynamics 365.</span></span> <span data-ttu-id="b8365-105">Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости.</span><span class="sxs-lookup"><span data-stu-id="b8365-105">This release includes some important improvements to quality, performance, and usability.</span></span> <span data-ttu-id="b8365-106">Ово издање је компатибилно са услугом Dynamics 365 9.x.</span><span class="sxs-lookup"><span data-stu-id="b8365-106">This release is compatible with Dynamics 365 9.x.</span></span> <span data-ttu-id="b8365-107">Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку.</span><span class="sxs-lookup"><span data-stu-id="b8365-107">To update to this release, visit the Admin Center for Dynamics 365 online solutions page to install the update.</span></span> <span data-ttu-id="b8365-108">За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).</span><span class="sxs-lookup"><span data-stu-id="b8365-108">For more information, see [Install, update, or remove a preferred solution](/power-platform/admin/install-remove-preferred-solution).</span></span>
 
-<span data-ttu-id="2d586-109">У овој теми дате су функције и исправке које су нове или су промењене у решењу PSA у верзији 3, издање исправке 19.</span><span class="sxs-lookup"><span data-stu-id="2d586-109">This topic lists the features and fixes that are new or changed for PSA V3, Update Release 19.</span></span> <span data-ttu-id="2d586-110">Број израде ове верзије је V3.10.30.41 и углавном је доступна путем самосталног ажурирања у мају 2020. године.</span><span class="sxs-lookup"><span data-stu-id="2d586-110">This version has a build number of V3.10.30.41 and is generally available through a self-update in May 2020.</span></span>
+<span data-ttu-id="b8365-109">У овој теми дате су функције и исправке које су нове или су промењене у решењу PSA у верзији 3, издање исправке 19.</span><span class="sxs-lookup"><span data-stu-id="b8365-109">This topic lists the features and fixes that are new or changed for PSA V3, Update Release 19.</span></span> <span data-ttu-id="b8365-110">Број израде ове верзије је V3.10.30.41 и углавном је доступна путем самосталног ажурирања у мају 2020. године.</span><span class="sxs-lookup"><span data-stu-id="b8365-110">This version has a build number of V3.10.30.41 and is generally available through a self-update in May 2020.</span></span>
 
-## <a name="update-release-19"></a><span data-ttu-id="2d586-111">Издање исправке 19</span><span class="sxs-lookup"><span data-stu-id="2d586-111">Update Release 19</span></span>
+## <a name="update-release-19"></a><span data-ttu-id="b8365-111">Издање исправке 19</span><span class="sxs-lookup"><span data-stu-id="b8365-111">Update Release 19</span></span>
 
-### <a name="bug-fixes"></a><span data-ttu-id="2d586-112">Исправке грешака</span><span class="sxs-lookup"><span data-stu-id="2d586-112">Bug fixes</span></span>
+### <a name="bug-fixes"></a><span data-ttu-id="b8365-112">Исправке грешака</span><span class="sxs-lookup"><span data-stu-id="b8365-112">Bug fixes</span></span>
 
-<span data-ttu-id="2d586-113">**Време и трошак**</span><span class="sxs-lookup"><span data-stu-id="2d586-113">**Time and Expense**</span></span>
+<span data-ttu-id="b8365-113">**Време и трошак**</span><span class="sxs-lookup"><span data-stu-id="b8365-113">**Time and Expense**</span></span>
 
-<span data-ttu-id="2d586-114">Поправљени су следећи проблеми:</span><span class="sxs-lookup"><span data-stu-id="2d586-114">The following issues have been fixed:</span></span> 
+<span data-ttu-id="b8365-114">Поправљени су следећи проблеми:</span><span class="sxs-lookup"><span data-stu-id="b8365-114">The following issues have been fixed:</span></span> 
 
-- <span data-ttu-id="2d586-115">Грешке настале приликом увоза у ставки времена се не појављују исправно.</span><span class="sxs-lookup"><span data-stu-id="2d586-115">Errors derived from time entry imports are not surfaced correctly.</span></span>
-- <span data-ttu-id="2d586-116">Мрежа ставке времена не подржава понашање поља **Само датум**.</span><span class="sxs-lookup"><span data-stu-id="2d586-116">Time Entry Grid does not support **Date Only** field behavior.</span></span>
-- <span data-ttu-id="2d586-117">Ресурси пројекта не могу да креирају трошак са пројектом.</span><span class="sxs-lookup"><span data-stu-id="2d586-117">Project Resources are unable to create an expense with a project.</span></span>
+- <span data-ttu-id="b8365-115">Грешке настале приликом увоза у ставки времена се не појављују исправно.</span><span class="sxs-lookup"><span data-stu-id="b8365-115">Errors derived from time entry imports are not surfaced correctly.</span></span>
+- <span data-ttu-id="b8365-116">Мрежа ставке времена не подржава понашање поља **Само датум**.</span><span class="sxs-lookup"><span data-stu-id="b8365-116">Time Entry Grid does not support **Date Only** field behavior.</span></span>
+- <span data-ttu-id="b8365-117">Ресурси пројекта не могу да креирају трошак са пројектом.</span><span class="sxs-lookup"><span data-stu-id="b8365-117">Project Resources are unable to create an expense with a project.</span></span>
 
-<span data-ttu-id="2d586-118">**Управљање пројектима**</span><span class="sxs-lookup"><span data-stu-id="2d586-118">**Project Management**</span></span>
+<span data-ttu-id="b8365-118">**Управљање пројектима**</span><span class="sxs-lookup"><span data-stu-id="b8365-118">**Project Management**</span></span>
 
-<span data-ttu-id="2d586-119">Поправљени су следећи проблеми:</span><span class="sxs-lookup"><span data-stu-id="2d586-119">The following issues have been fixed:</span></span> 
+<span data-ttu-id="b8365-119">Поправљени су следећи проблеми:</span><span class="sxs-lookup"><span data-stu-id="b8365-119">The following issues have been fixed:</span></span> 
 
--  <span data-ttu-id="2d586-120">Другостепени подређени задатак узрокује погрешну процену залагања током израчунавања завршетка (EAC).</span><span class="sxs-lookup"><span data-stu-id="2d586-120">Grandchild task causes an incorrect effort estimate during the Completion (EAC) Calculation.</span></span>
+-  <span data-ttu-id="b8365-120">Другостепени подређени задатак узрокује погрешну процену залагања током израчунавања завршетка (EAC).</span><span class="sxs-lookup"><span data-stu-id="b8365-120">Grandchild task causes an incorrect effort estimate during the Completion (EAC) Calculation.</span></span>
 
-<span data-ttu-id="2d586-121">**Sales**</span><span class="sxs-lookup"><span data-stu-id="2d586-121">**Sales**</span></span>
+<span data-ttu-id="b8365-121">**Sales**</span><span class="sxs-lookup"><span data-stu-id="b8365-121">**Sales**</span></span>
 
-<span data-ttu-id="2d586-122">Поправљени су следећи проблеми:</span><span class="sxs-lookup"><span data-stu-id="2d586-122">The following issues have been fixed:</span></span> 
+<span data-ttu-id="b8365-122">Поправљени су следећи проблеми:</span><span class="sxs-lookup"><span data-stu-id="b8365-122">The following issues have been fixed:</span></span> 
 
-- <span data-ttu-id="2d586-123">Радња **Поновно израчунавање** не функционише са детаљима о трошковима предмета уговора или детаљима ставке понуде.</span><span class="sxs-lookup"><span data-stu-id="2d586-123">The **Recalculate** action does not work with expense contract line details or quote line details.</span></span>
-- <span data-ttu-id="2d586-124">**Ажурирање цена** недостаје за процене трошкова.</span><span class="sxs-lookup"><span data-stu-id="2d586-124">**Update Prices** is missing for expense estimates.</span></span>
--  <span data-ttu-id="2d586-125">Клијенти не могу да изаберу прилагођене разлоге статуса уговора са странице **Пројектни уговор**.</span><span class="sxs-lookup"><span data-stu-id="2d586-125">Customers are unable to select custom contract status reasons from the **Project Contract** page.</span></span>
-- <span data-ttu-id="2d586-126">Клијенти имају смањене перформансе када креирају прилагођени ценовник из понуде.</span><span class="sxs-lookup"><span data-stu-id="2d586-126">Customers experience degraded performance when creating a custom price list from a quote.</span></span>
-- <span data-ttu-id="2d586-127">Клијенти доживљавају недоследност са подразумеваним вредностима за **јединицу** на страницама **Детаљи ставке понуде** и **Детаљи предмета уговора**.</span><span class="sxs-lookup"><span data-stu-id="2d586-127">Customers experience inconsistency with **unit** defaults on **Quote Line Details** and **Contract Line Details** pages.</span></span>
-- <span data-ttu-id="2d586-128">Додавање ставки из категорије ненаплативих трансакција у наплативи предмет уговора неће се поштовати тип обрачуна **Није наплативо** категорије трансакције.</span><span class="sxs-lookup"><span data-stu-id="2d586-128">Adding non-chargeable transaction category items to a chargeable contract line will not respect the **Non-chargeable** billing type of the transaction category.</span></span>
-- <span data-ttu-id="2d586-129">Клијенти не могу да користе новододате улоге и категорију на претходно креираним уговорима.</span><span class="sxs-lookup"><span data-stu-id="2d586-129">Customers can't use the newly added roles and category on previously created contracts.</span></span>
-- <span data-ttu-id="2d586-130">Клијенти имају смањене перформансе Непотребног умањења у PreValidateProjectTeamMemberUpdate.cs</span><span class="sxs-lookup"><span data-stu-id="2d586-130">Customers experience degraded performance Unnecessary retrieve in PreValidateProjectTeamMemberUpdate.cs</span></span>
-- <span data-ttu-id="2d586-131">Улоге које су подешене као ненаплативе на листи **Категорије ресурса** требају бити додате на картицу **Наплативе улоге** као **Ненаплативе** на предмету уговора за пројекат.</span><span class="sxs-lookup"><span data-stu-id="2d586-131">Roles set up as non-chargeable in the **Resource Categories** list should be added to the **Chargeable Roles** tab as **Non0chargeable** on the contract line for a project.</span></span>
-- <span data-ttu-id="2d586-132">Клијенти могу имати смањене перформансе приликом креирања пројекта јер **GetBookableResourceIdFromUser** прибавља све колоне ресурса који могу да се резервишу уместо само примарни ID.</span><span class="sxs-lookup"><span data-stu-id="2d586-132">Customers may experience degraded performance when creating a project because **GetBookableResourceIdFromUser** retrieves all columns of bookable resources instead of just the primary ID.</span></span>
-- <span data-ttu-id="2d586-133">Ентитету **Тип трансакције** недостаје додатна компонента за претходну валидацију да спречи кориснике да уносе **Јединице** и **UnitGroups** које нису важеће за типове трансакција.</span><span class="sxs-lookup"><span data-stu-id="2d586-133">**TransactionType** entity missing the pre-validation update plug-in to prevent users from entering **Units** and **UnitGroups** that are not valid for transaction types.</span></span>
-- <span data-ttu-id="2d586-134">Корак **Уклони** не ради за увоз ставке времена.</span><span class="sxs-lookup"><span data-stu-id="2d586-134">The **Remove** step does not work for time entry import.</span></span>
+- <span data-ttu-id="b8365-123">Радња **Поновно израчунавање** не функционише са детаљима о трошковима предмета уговора или детаљима ставке понуде.</span><span class="sxs-lookup"><span data-stu-id="b8365-123">The **Recalculate** action does not work with expense contract line details or quote line details.</span></span>
+- <span data-ttu-id="b8365-124">**Ажурирање цена** недостаје за процене трошкова.</span><span class="sxs-lookup"><span data-stu-id="b8365-124">**Update Prices** is missing for expense estimates.</span></span>
+-  <span data-ttu-id="b8365-125">Клијенти не могу да изаберу прилагођене разлоге статуса уговора са странице **Пројектни уговор**.</span><span class="sxs-lookup"><span data-stu-id="b8365-125">Customers are unable to select custom contract status reasons from the **Project Contract** page.</span></span>
+- <span data-ttu-id="b8365-126">Клијенти имају смањене перформансе када креирају прилагођени ценовник из понуде.</span><span class="sxs-lookup"><span data-stu-id="b8365-126">Customers experience degraded performance when creating a custom price list from a quote.</span></span>
+- <span data-ttu-id="b8365-127">Клијенти доживљавају недоследност са подразумеваним вредностима за **јединицу** на страницама **Детаљи ставке понуде** и **Детаљи предмета уговора**.</span><span class="sxs-lookup"><span data-stu-id="b8365-127">Customers experience inconsistency with **unit** defaults on **Quote Line Details** and **Contract Line Details** pages.</span></span>
+- <span data-ttu-id="b8365-128">Додавање ставки из категорије ненаплативих трансакција у наплативи предмет уговора неће се поштовати тип обрачуна **Није наплативо** категорије трансакције.</span><span class="sxs-lookup"><span data-stu-id="b8365-128">Adding non-chargeable transaction category items to a chargeable contract line will not respect the **Non-chargeable** billing type of the transaction category.</span></span>
+- <span data-ttu-id="b8365-129">Клијенти не могу да користе новододате улоге и категорију на претходно креираним уговорима.</span><span class="sxs-lookup"><span data-stu-id="b8365-129">Customers can't use the newly added roles and category on previously created contracts.</span></span>
+- <span data-ttu-id="b8365-130">Клијенти имају смањене перформансе Непотребног умањења у PreValidateProjectTeamMemberUpdate.cs</span><span class="sxs-lookup"><span data-stu-id="b8365-130">Customers experience degraded performance Unnecessary retrieve in PreValidateProjectTeamMemberUpdate.cs</span></span>
+- <span data-ttu-id="b8365-131">Улоге које су подешене као ненаплативе на листи **Категорије ресурса** требају бити додате на картицу **Наплативе улоге** као **Ненаплативе** на предмету уговора за пројекат.</span><span class="sxs-lookup"><span data-stu-id="b8365-131">Roles set up as non-chargeable in the **Resource Categories** list should be added to the **Chargeable Roles** tab as **Non0chargeable** on the contract line for a project.</span></span>
+- <span data-ttu-id="b8365-132">Клијенти могу имати смањене перформансе приликом креирања пројекта јер **GetBookableResourceIdFromUser** прибавља све колоне ресурса који могу да се резервишу уместо само примарни ID.</span><span class="sxs-lookup"><span data-stu-id="b8365-132">Customers may experience degraded performance when creating a project because **GetBookableResourceIdFromUser** retrieves all columns of bookable resources instead of just the primary ID.</span></span>
+- <span data-ttu-id="b8365-133">Ентитету **Тип трансакције** недостаје додатна компонента за претходну валидацију да спречи кориснике да уносе **Јединице** и **UnitGroups** које нису важеће за типове трансакција.</span><span class="sxs-lookup"><span data-stu-id="b8365-133">**TransactionType** entity missing the pre-validation update plug-in to prevent users from entering **Units** and **UnitGroups** that are not valid for transaction types.</span></span>
+- <span data-ttu-id="b8365-134">Корак **Уклони** не ради за увоз ставке времена.</span><span class="sxs-lookup"><span data-stu-id="b8365-134">The **Remove** step does not work for time entry import.</span></span>
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
