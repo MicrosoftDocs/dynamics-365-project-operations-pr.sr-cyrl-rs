@@ -2,12 +2,10 @@
 title: Матична страница за димензије одређивања цена и обрачуна трошкова
 description: Ова тема обезбеђује преглед димензија за одређивање цена.
 author: rumant
-manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: business-applications
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -17,12 +15,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 137fee27dd2302d47ae12faccde1682cff43db93
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 9a2e2f7ed394229bbc553af9e616a6f322857195
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5284151"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6009274"
 ---
 # <a name="pricing-and-costing-dimensions-home-page"></a>Матична страница за димензије одређивања цена и обрачуна трошкова
 
@@ -67,16 +65,16 @@ PSA обавља испоруку помоћу подразумеваног ск
 
 | Улога        | Организациона јединица    |Јединица      |Цена      |Валута  |
 | ------------|-------------|----------|----------:|----------|
-| Програмер   | Contoso US  |Hour | 200|USD     |
-| Програмер   | Contoso India |Hour|   112.|USD     |
+| Програмер   | Contoso US  |Сат | 200|USD решење     |
+| Програмер   | Contoso India |Сат|   112|USD решење     |
 
 
 **Примери стопа трошкова**
 
 | Група личних доходака     | Организациона јединица    |Јединица      |Цена      |Валута  |
 | ----------------|-------------|----------|----------:|----------|
-| Моје предузеће_Прва група личних доходака | Contoso US  |Hour | 145.|USD     |
-| Моје предузеће_друга група личних доходака | Contoso India |Hour|   67.|USD     |
+| Моје предузеће_Прва група личних доходака | Contoso US  |Сат | 145|USD решење     |
+| Моје предузеће_друга група личних доходака | Contoso India |Сат|   67|USD решење     |
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

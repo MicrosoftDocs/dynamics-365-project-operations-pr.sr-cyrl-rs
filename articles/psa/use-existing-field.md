@@ -2,12 +2,10 @@
 title: Коришћење постојећег поља у услузи Project Service као димензије за одређивање цена
 description: Ова тема пружа информације о коришћењу постојећих Project Service поља као димензија за одређивање цена.
 author: Rumant
-manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 11/19/2018
 ms.topic: article
-ms.service: business-applications
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -17,12 +15,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ad03f5f7c1c9e93ca12a8c8d48ffbd2f80b1511f
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 09e565c91eda9dee6e0ec479a5c85d94d2591147
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5281586"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6008104"
 ---
 # <a name="use-an-existing-field-in-project-service-as-a-pricing-dimension"></a>Коришћење постојећег поља у услузи Project Service као димензије за одређивање цена
 

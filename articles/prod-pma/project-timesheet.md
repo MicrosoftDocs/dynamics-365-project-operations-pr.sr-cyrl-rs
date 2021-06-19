@@ -2,11 +2,9 @@
 title: Апликација за мобилне уређаје Project Timesheet
 description: Ова тема пружа информације о апликацији за мобилне уређаје Microsoft Dynamics 365 Project Timesheet. Апликација за мобилне уређаје Project Timesheet омогућава корисницима да предају и одобре радне листове за пројекте на свом мобилном уређају.
 author: abruer
-manager: AnnBe
 ms.date: 04/08/2019
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: josaw
@@ -18,12 +16,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: db035bfd555d724f80156d0b50df7c0d0bfaff27
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 517c6f2b749fa3ed44b198b799489e7e29e34d7f
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5288847"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6009904"
 ---
 # <a name="project-timesheet-mobile-application"></a>Апликација за мобилне уређаје Project Timesheet
 
