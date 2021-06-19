@@ -2,18 +2,16 @@
 title: Верзије мапе двоструког уписивања за Project Operations
 description: Ова тема пружа списак мапа двоструког уписивања потребних за Dynamics 365 Project Operations.
 author: sigitac
-manager: Annbe
 ms.date: 04/22/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: fa0342985f2c860cd3cb3f686f0dcaa59d8cfd41
-ms.sourcegitcommit: bc51629df94c164325cf2afee387d0e7cda66da7
+ms.openlocfilehash: b24a20d47eefa43b2e4e184a377decdb280d436d
+ms.sourcegitcommit: fd6e9ff78392c7bac35591d9130c00d2750438ae
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/23/2021
-ms.locfileid: "5939040"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "6025792"
 ---
 # <a name="project-operations-dual-write-map-versions"></a>Верзије мапе двоструког уписивања за Project Operations
 
@@ -36,32 +34,32 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ![Синхронизација мапе главне књиге](media/DW6.png)
 
-1. Следите исте кораке за све преостале мапе табела наведене у горњој табели. Не бирајте поље **Почетна синхронизација** за покретање тих мапа.
+2. Следите исте кораке за све преостале мапе табела наведене у горњој табели. Не бирајте поље **Почетна синхронизација** за покретање тих мапа.
 
 ## <a name="project-operations-dual-write-maps"></a>Мапе двоструког уписивања за Project Operations
 
-Следеће мапе су неопходне за Project Operations решење.
+Следеће мапе су неопходне за Project Operations решење. Наведене су верзије мапа са двоструким уписивањем, почев од исправке услуге Project Operations за мај 2021, верзије 4.10.0.186.
 
 | **Мапа ентитета** | **Најновија верзија** | **Почетна синхронизација** |
 | --- | --- | --- |
 | Ентитет интеграције за односе трансакција пројекта (msdyn\_transactionconnections) | 1.0.0.0 | Није потребно за резервисање. |
 | Заглавља пројектних уговора (налози за продају) | 1.0.0.1 | Није потребно за резервисање. |
 | Предмети уговора пројекта (salesorderdetails) | 1.0.0.0 | Није потребно за резервисање. |
-| Извор финансирања пројеката (msdyn_projectcontractsplitbillingrules) | 1.0.0.1 | Није потребно за резервисање. |
+| Извор финансирања пројеката (msdyn_projectcontractsplitbillingrules) | 1.0.0.2 | Није потребно за резервисање. |
 | Project Operations табела интеграције за процене материјала (msdyn\__estimatelines) | 1.0.0.0 | Није потребно за резервисање. |
-| Предлози фактура пројекта V2 (фактуре) | 1.0.0.2 | Није потребно за резервисање. |
+| Предлози фактура пројекта V2 (фактуре) | 1.0.0.3 | Није потребно за резервисање. |
 | Project Operations стварне вредности интеграције (msdyn_actuals) | 1.0.0.14 | Није потребно за резервисање. |
 | Project Operations контролне тачке предмета уговора о интеграцији (msdyn_contractlinesscheduleofvalues) | 1.0.0.4 | Није потребно за резервисање. |
 | Project Operations ентитет интеграције за процене трошкова (msdyn_estimateslines) | 1.0.0.2 | Није потребно за резервисање. |
 | Project Operations ентитет интеграције за процене сати (msdyn_resourceassignments) | 1.0.0.5 | Није потребно за резервисање. |
-| Project Operations ентитет извоза категорија трошкова пројекта (msdyn_expensecategories) | 1.0.0.2 | Није потребно за резервисање. |
+| Project Operations ентитет извоза категорија трошкова пројекта (msdyn_expensecategories) | 1.0.0.1 | Није потребно за резервисање. |
 | Project Operations ентитет извоза трошкова интеграције пројекта (msdyn_expenses) | 1.0.0.2 | Није потребно за резервисање. |
 | Project Operations ентитет извоза фактуре продавца (msdyn_projectvendorinvoices) | 1.0.0.0 | Није потребно за резервисање. |
-| Project Operations ентитет извоза реда фактуре продавца (msdyn_projectvendorinvoicelines) | 1.0.0.0 | Није потребно за резервисање. |
+| Project Operations ентитет извоза реда фактуре продавца (msdyn_projectvendorinvoicelines) | 1.0.0.1 | Није потребно за резервисање. |
 | Улоге пројектних ресурса за сва предузећа (bookableresourcecategories) | 1.0.0.1 | Захтева почетну синхронизацију за мапу табеле за синхронизацију улога ресурса Менаџера пројекта и члана тима који су попуњени у Dynamics 365 Dataverse окружењу током резервисања. Dataverse је главни извор за почетну синхронизацију. |
 | Пројектни задаци (msdyn_projecttasks) | 1.0.0.4 | Није потребно за резервисање. |
 | Категорије пројектних трансакција (msdyn_transactioncategories) | 1.0.0.0 | Није потребно за резервисање. |
-| Пројекти V2 (msdyn_projects) | 1.0.0.1 | Није потребно за резервисање. |
+| Projects V2 (msdyn_projects) | 1.0.0.2 | Није потребно за резервисање. |
 
 Довршите следеће кораке за покретање наведених мапа.
 
