@@ -2,7 +2,7 @@
 title: Интеграција услуге Microsoft Project Client
 description: Планирање и одржавање распореда пројекта може бити сложено, па менаџери пројеката морају да користе алате који им помажу у управљању овим задатком. Интеграција са услугом Microsoft Project Client пружа подршку за отварање и управљање структурне анализе посла на пројекту.
 author: Yowelle
-ms.date: 12/11/2017
+ms.date: 06/16/2021
 ms.topic: article
 ms.prod: ''
 ms.technology: ''
@@ -16,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2017-12-04
 ms.dyn365.ops.version: 7.2999999999999998
-ms.openlocfilehash: 032d726bb6206c563b573f30d13fe2697a13c949
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: b312ec5b1f4e6a98a2cbf1667b2f55b758b2d613
+ms.sourcegitcommit: 3a4b181be08ef0428104d72b54a3e61ac2782f14
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5999464"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "6269853"
 ---
 # <a name="microsoft-project-client-integration"></a>Интеграција услуге Microsoft Project Client
 
@@ -126,5 +126,12 @@ ms.locfileid: "5999464"
 
 11. Кликните на дугме **У реду**.
 
+> [!NOTE]
+> Програмски додатак Project Client не подржава следеће знакове у формату ID-а пројекта:
+> 
+>   - Доња црта
+>   - Период
+>   - Размак
+>   - Коса црта
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
