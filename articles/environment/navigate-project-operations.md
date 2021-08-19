@@ -6,12 +6,12 @@ ms.date: 10/28/2020
 ms.topic: article
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: b3b403d9432720a4fe2f9b818600a00e250ea918
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 15533febe12f970bb35ccb4cdceedce251d1f837bfb59ffcd10e633eec1a3a92
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6000158"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6994609"
 ---
 # <a name="navigate-project-operations"></a>Кретање кроз Project Operations
 
@@ -28,11 +28,11 @@ Dynamics 365 Project Operations за сценарије са ресурсима/
 
 Користите име окружења у одељку **Common Data Service име окружења** за навигацију до услуге Project Operations у CDS окружењу. 
 
-  ![Назив Common Data Service окружења](./media/environment-name.PNG)
+  ![Назив Common Data Service окружења.](./media/environment-name.PNG)
 
 Изаберите **Пријавите се** > **Пријавите се у окружење** за навигацију до модула **Управљање пројектима и рачуноводство** у услузи Finance.  
 
-   ![Пријавите се у Finance](./media/environment-login.PNG)
+   ![Пријавите се у модул Finance.](./media/environment-login.PNG)
 
 > [!NOTE]
 > Услузи Project Operations можете приступити у услузи Common Data Service и модулу **Управљање пројектима и рачуноводство** директно користећи њихове одговарајуће URL адресе. 
