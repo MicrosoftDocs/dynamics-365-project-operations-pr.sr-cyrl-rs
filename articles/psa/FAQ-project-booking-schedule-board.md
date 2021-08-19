@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: d33786a5d0a2485a06d174eb7afcbaaa2f337cf6
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 513f7fe75cfb7b1658b4be71ed0a17da7b64a1023992e1dada9adca8f0dbf21e
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5992984"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6987634"
 ---
 # <a name="create-a-project-booking-from-the-schedule-board"></a>Креирање резервације у пројекту из табеле распореда
 
@@ -43,7 +43,7 @@ ms.locfileid: "5992984"
 
 1.  На табели распореда, овај ресурс ће се приказати на картици **Отворене потребе**. Можда ћете морати да користите филтере колона на мрежи уколико имате много отворених захтева. 
 
-    ![Отварање картице Захтеви на табели распореда](media/FAQ-Project-Booking-Schedule-Board-1.png "Снимак екрана табеле резервација и додела")
+    ![Отварање картице Захтеви на табели распореда.](media/FAQ-Project-Booking-Schedule-Board-1.png "Снимак екрана табеле резервација и додела")
 
 2. Изаберите захтев. Картица **Претрага доступности** ће се појавити при врху изабраног реда.
  
@@ -53,7 +53,7 @@ ms.locfileid: "5992984"
 
     Избор опције **Резервиши** резервише ресурс у пројектном тиму.
 
-![Табла Креирање резервације ресурса](media/FAQ-Project-Booking-Schedule-Board-6.png "")
+![Табла Креирање резервације ресурса.](media/FAQ-Project-Booking-Schedule-Board-6.png "")
  
 
 ## <a name="book-from-the-primary-requirement"></a>Резервисање из примарног захтева
@@ -62,7 +62,7 @@ ms.locfileid: "5992984"
 
 1. Да бисте резервисали ресурс са примарним захтевом, у табели распореда изаберите картицу **Пројекат**. Можда ћете морати да користите филтер колоне за колону **Пројекат** уколико имате више пројеката.
 
-   ![Филтери колоне на табли распореда](media/FAQ-Project-Booking-Schedule-Board-2.png "Снимак екрана табеле резервација и додела")
+   ![Филтери колоне на табли распореда.](media/FAQ-Project-Booking-Schedule-Board-2.png "Снимак екрана табеле резервација и додела")
 
 2. Изаберите захтев који има само име пројекта као своје име и чије трајање износи нула (0).
 

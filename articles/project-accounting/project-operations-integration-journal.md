@@ -6,12 +6,12 @@ ms.date: 10/27/2020
 ms.topic: article
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: f4428bac8e82bdfc848c199b0e294486b9fde82e
-ms.sourcegitcommit: 639ec8a41fda15dedfd6918702d33ea406999ba6
+ms.openlocfilehash: c5cc3254c52750b35be2c66137b6c57bbd9acbfbc89dedc6559059a89c8e2393
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "6304274"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6987949"
 ---
 # <a name="integration-journal-in-project-operations"></a>Дневник интеграције у услузи Project Operations
 
@@ -19,7 +19,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 Ставке времена и трошкова креирају трансакције **стварних вредности** које представљају оперативни приказ на посао завршен у односу на пројекат. Dynamics 365 Project Operations пружа рачуновођама алат за преглед трансакција и прилагођавање рачуноводствених атрибута по потреби. Након завршетка прегледа и прилагођавања, трансакције се књиже у поткњигу пројекта и у главну књигу. Рачуновођа може да обавља ове активности користећи дневник **Project Operations интеграција** (**Dynamics 365 Finance** > **Управљање пројектима и рачуноводство** > **Дневници** > **Project Operations интеграција**.
 
-![Ток дневника интеграције](./media/IntegrationJournal.png)
+![Ток дневника интеграције.](./media/IntegrationJournal.png)
 
 ### <a name="create-records-in-the-project-operations-integration-journal"></a>Креирање записа у дневнику интеграције у услузи Project Operations
 

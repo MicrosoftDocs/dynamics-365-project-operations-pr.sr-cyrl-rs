@@ -6,12 +6,12 @@ ms.date: 04/12/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 6daa86d453ec5022cdd75dff0394c8818292406c
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: e4502c1dec3bfeed083186b2d053549fefc9339609946c8da919b46e0e56cc79
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6000634"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6986689"
 ---
 # <a name="add-an-azure-subscription-to-an-lcs-project"></a>Додајте Azure претплату у LCS пројекат
 
@@ -23,35 +23,35 @@ _**Односи се на:** Project Operations за сценарије засн
 
 1. У вашем LCS пројекту, у одељку **Окружења**, изаберите **Microsoft Azure подешавања**.
 
-![Подешавања програма Microsoft Azure](./media/1MicrosoftAzureSettings.png)
+![Подешавања програма Microsoft Azure.](./media/1MicrosoftAzureSettings.png)
 
 2. На страници **Подешавања пројекта**, на картици **Azure конектори**, изаберите **Одобри**. То омогућава да се окружења примене на овај пројекат.
 
-![Azure конектори](./media/2AzureConnectors.png)
+![Azure конектори.](./media/2AzureConnectors.png)
 
 3. Поново изаберите **Одобри** да бисте пружили пристанак администратора.
 
-![Дајте пристанак администратора](./media/3GrantAdminConsent.png)
+![Дајте пристанак администратора.](./media/3GrantAdminConsent.png)
 
 4. Прихватите захтев за дозволе.
 
-![Прихватите захтев за дозволе](./media/4AcceptPermissionRequest.png)
+![Прихватите захтев за дозволе.](./media/4AcceptPermissionRequest.png)
 
 Овлашћење је сада завршено. 
 
-![Одобрење је успешно](./media/5AuthorizationComplete.png)
+![Одобрење је успешно.](./media/5AuthorizationComplete.png)
 
 ## <a name="provide-dynamics-deployment-services-access-to-your-azure-subscription"></a><a name="provide"></a>Омогућите приступ услуге Dynamics Deployment Services вашој Azure претплати
 
 1. Идите на [Microsoft Azure обрачун](https://portal.azure.com/#blade/Microsoft\_Azure\_Billing/SubscriptionsBlade) и изаберите своју претплату. Услуга Dynamics Deployment Services треба да приступи овој претплати да би могла да примени окружења.
 
-![Детаљи претплате на услугу Azure](./media/6AzureSubscription.png)
+![Детаљи Azure претплате.](./media/6AzureSubscription.png)
 
 2. Изаберите **Контрола приступа (IAM)** у окну за навигацију, а затим изаберите **Додајте додељивање улога**.
 3. У клизачу са десне стране изаберите **Улога сарадника** и на приложеној листи пронађите и изаберите **Dynamics Deployment Services**. 
 4. Изаберите ставку **Сачувај**.
 
-![Приступ претплати](./media/7SubscriptionAccess.png)
+![Приступ претплати.](./media/7SubscriptionAccess.png)
 
 ### <a name="add-a-subscription-connector-to-an-lcs-project"></a>Додавање конектора за претплату у LCS пројекат
 

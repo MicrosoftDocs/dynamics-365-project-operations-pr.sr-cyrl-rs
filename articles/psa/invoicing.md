@@ -15,12 +15,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: e0dc911bb0ca72af547262a5716ef1091ea81c81
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 58259c05939cfe870ce5e36b4a0221cd93b8e8d2b4be582efc9167e82579699e
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6015079"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6985519"
 ---
 # <a name="invoicing-in-project-service-automation"></a>Фактурисање у апликацији Project Service Automation
 
@@ -50,7 +50,7 @@ PSA није дизајниран да генерише фактуре у окр
 
 - На страници листе **Уговори о пројектима** отворите уговор о пројекту, а затим изаберите **Креирај фактуру**.
 
-    ![Креирање фактура за пројекат за одређени уговор о пројекту](media/CreateProjectInvoicesOneByOne.png)
+    ![Креирање фактура за пројекат за одређени уговор о пројекту.](media/CreateProjectInvoicesOneByOne.png)
 
     Фактура се генерише за све трансакције за изабрани уговор о пројекту који имају статус **Спремно за фактурисање**. Ове трансакције укључују време, трошкове, контролне тачке и предмете уговора засноване на производу.
 
@@ -58,7 +58,7 @@ PSA није дизајниран да генерише фактуре у окр
 
 1. На страници листе **Уговори о пројектима** изаберите један уговор или више уговора о пројектима за које морате креирати фактуру, а затим изаберите **Креирај фактуре за пројекте**.
 
-    ![Масовно креирање фактура за пројекте](media/CreateProjectInvoicesBulk.png)
+    ![Масовно креирање фактура за пројекте.](media/CreateProjectInvoicesBulk.png)
 
     Порука упозорења вас обавештава да можда постоји кашњење пре креирања фактура. Овај процес се такође приказује.
 

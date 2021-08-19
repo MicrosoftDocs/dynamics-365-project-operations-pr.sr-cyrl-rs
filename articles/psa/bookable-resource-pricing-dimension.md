@@ -15,12 +15,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0ffbb1f7aa25e723c7842259f1c0127b3d2e26d6
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: c551673708ae2d965979136e92326be98252304a601964c1fbc52a329c592712
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6012109"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988984"
 ---
 # <a name="use-bookable-resource-as-a-pricing-dimension"></a>Коришћење ресурса који се може резервисати као димензије за одређивање цена
 
@@ -62,18 +62,18 @@ ms.locfileid: "6012109"
 1. Да бисте то урадили, двапут кликните на ред у мрежи **Димензије за одређивање цена** да бисте отворили страницу димензије поља **msdyn_bookableresource**.
 2. На страници димензије, на картици **Повезано** кликните на **Имена поља димензија за одређивање цена**.
 
- ![Картица Имена поља димензија за одређивање цена](media/PD-fieldname.png)
+ ![Картица Имена поља димензија за одређивање цена.](media/PD-fieldname.png)
 
 4. У везаном приказу који се отвара кликните на **Додај ново име поља димензије за одређивање цена**.
 
- ![Додавање нових имена поља димензије за одређивање цена](media/Add-NewPD-fieldname.png)
+ ![Додавање нових имена поља димензије за одређивање цена.](media/Add-NewPD-fieldname.png)
 
 
 Овако отварате страницу **Ново име поља димензије за одређивање цена** за **msdyn_bookableresource**. 
 
 5. Додајте **msdyn_projectteam** у поље **Логичко име ентитета** и **msdyn_bookableresourceid** у поље **Име поља**. Сачувајте запис.
 
- ![Образац за ново име поља димензије за одређивање цена](media/PD-fieldname-Added.png)
+ ![Образац за ново име поља димензије за одређивање цена.](media/PD-fieldname-Added.png)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
