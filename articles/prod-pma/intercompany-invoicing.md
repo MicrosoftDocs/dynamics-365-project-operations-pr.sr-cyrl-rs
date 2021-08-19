@@ -16,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 9d1debf8f67b7dbe7752075c6f8e5f2cdd37a3ae
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 7c201ccec2069869707409ff6a9236e81e125f06b391c67202927f5c038787d8
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6002794"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6995824"
 ---
 # <a name="intercompany-invoicing"></a>Међукомпанијско фактурисање
 
@@ -33,7 +33,7 @@ ms.locfileid: "6002794"
 
 Следећа илустрација приказује типичан сценарио када два правна лица, SI FR (зајмопримац) и SI USA (зајмодавац) деле ресурсе за испоруку пројекта за клијента А. За овај сценарио, SI FR је уговорен да испоручи рад за клијента А. 
 
-[![Пример међукомпанијског фактурисања](./media/interco.invoicing-01.jpg)](./media/interco.invoicing-01.jpg) 
+[![Пример међукомпанијског фактурисања.](./media/interco.invoicing-01.jpg)](./media/interco.invoicing-01.jpg) 
 
 Циљ је учинити контролу трошкова, признавање прихода, пореза и цене трансфера за међукомпанијске пројектне трансакције флексибилнијим и моћнијим. Поред тога, пружају се следеће могућности:
 

@@ -6,12 +6,12 @@ ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: d82302f12ba75a92f2de0e9746ad7e61ce0cdc6b
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: cea43422469adf12f336f7686814a8199717090c18804d3d0a7509452349566e
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5995189"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6997129"
 ---
 # <a name="configure-project-categories"></a>Конфигурисање категорија пројекта
 
@@ -23,7 +23,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 Категорије трансакција су основно груписање за пројектне трансакције. Унутар те групације постоји скуп дељених категорија које се могу делити између апликација и модула. Улазећи још даље у детаље, категорије пројеката су најосновнији ниво категорија. Категорије пројеката су специфичне за правно лице, модул и апликацију.
 
-![Корелација између категорија трансакција, дељених категорија и категорија пројеката](media/project-categories.png)
+![Корелација између категорија трансакција, дељених категорија и категорија пројеката.](media/project-categories.png)
 
 ## <a name="transaction-categories"></a>Категорије трансакција
 

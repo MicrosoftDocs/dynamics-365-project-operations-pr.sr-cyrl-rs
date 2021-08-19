@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1814d3a48611a76ee957967fc6da0b66e821ce5d
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 1b9c19438effff5901426c904fa905afb3e2c09c35aff8559f491c06401806e0
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5998024"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6996859"
 ---
 # <a name="fulfilling-resource-requests"></a>Испуњавање захтева за ресурсе
 
@@ -33,15 +33,15 @@ ms.locfileid: "5998024"
 
 Потребе за ресурсима су приказане као листа у приказу **Активни захтеви за ресурсе**.
 
-> ![Листа захтева за ресурсе](media/Resource-Management-image59.png)
+> ![Листа захтева за ресурсе.](media/Resource-Management-image59.png)
 
 Да бисте испунили захтев, одаберите га на листи, а затим изаберите **Пронађи ресурсе**. Можете и да кликнете двапут на ред да бисте отворили захтев. Затим можете да отворите картицу **Потреба за ресурсом** да бисте видели потребе за тим захтевом. Да бисте почели да испуњавате захтев, изаберите **Пронађи ресурсе**.
 
-> ![Детаљи захтева за ресурсе](media/Resource-Management-image60.png)
+> ![Детаљи захтева за ресурсе.](media/Resource-Management-image60.png)
 
 Помоћник за заказивање ће се приказати и филтрирате га према потребама. Изаберите ресурс, а затим изаберите **Резервиши**.
 
-> ![Ресурс је изабран](media/Resource-Management-image61.png)
+> ![Ресурс је изабран.](media/Resource-Management-image61.png)
 
 Генерички члан тима замењује се фиксно резервисаним именованим ресурсом пројектног тима и доделама задатака у распореду пројекта.
 

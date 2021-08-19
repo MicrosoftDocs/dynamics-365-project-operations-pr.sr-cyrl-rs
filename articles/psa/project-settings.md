@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 24032a77834005c444972f8d234d3acb33d19135
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 5f6fec091c50f35589e333fce4b3a296dd736d10dd2f56b6c11209a55b493836
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5998339"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6996949"
 ---
 # <a name="project-settings"></a>Подешавања пројекта
 
@@ -47,7 +47,7 @@ ms.locfileid: "5998339"
   - Распоред посла за један дан
   - Одступање у времену
 
-> ![Подешавање опција](media/project-13.png)
+> ![Подешавање опција.](media/project-13.png)
 
 4. Изаберите **Нови седмични распоред**, а затим подесите опције за овај распоред ресурса. Можете подесити периодични седмични распоред, параметре сата у дану, прекид пословних активности и још много тога.
 5. Подесите опсег датума, изаберите **Сачувај**, а затим кликните на **Затвори**. 
