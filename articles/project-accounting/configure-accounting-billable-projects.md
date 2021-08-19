@@ -6,12 +6,12 @@ ms.date: 04/05/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 413c9821f251fa37f5cfa082281be662d6be670a
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: cbc6bcbfa527486df4c740c52cec8c4be1dabe0478783fb7d2e71a65f18c050f
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6012604"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6991054"
 ---
 # <a name="configure-accounting-for-billable-projects"></a>Конфигурисање рачуноводства за наплативе пројекте
 
@@ -101,23 +101,23 @@ Dynamics 365 Project Operations подржава разне рачуноводс
 
 Време и материјали – без посла у току
 
-![Профил трошкова и прихода: Време и материјали - без посла у току](media/time-material-no-wip.png)
+![Профил трошкова и прихода: Време и материјали - без посла у току.](media/time-material-no-wip.png)
 
 Време и материјали – посао у току (приход)
 
-![Профил трошкова и прихода: Време и материјали – посао у току](media/time-material-with-wip.png)
+![Профил трошкова и прихода: Време и материјали – посао у току.](media/time-material-with-wip.png)
 
 Фиксна цена – Без посла у току
 
-![Профил трошкова и прихода: Фиксна цена - без посла у току](media/fixed-price-no-wip.png)
+![Профил трошкова и прихода: Фиксна цена - без посла у току.](media/fixed-price-no-wip.png)
 
 Фиксна цена – завршен уговор
 
-![Профил трошкова и прихода: Фиксна цена – завршен уговор](media/fixed-price-completed-contract.png)
+![Профил трошкова и прихода: Фиксна цена – завршен уговор.](media/fixed-price-completed-contract.png)
 
 Фиксна цена – проценат довршености
 
-![Профил трошкова и прихода: Фиксна цена – проценат довршености](media/fixed-price-completed-percentage.png)
+![Профил трошкова и прихода: Фиксна цена – проценат довршености.](media/fixed-price-completed-percentage.png)
 
 
 ## <a name="accounting-event-examples-for-sample-project-cost-and-revenue-profiles"></a>Примери рачуноводственог догађаја за пробне профиле трошкова и прихода пројекта.

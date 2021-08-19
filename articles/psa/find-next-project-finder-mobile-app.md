@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: f686c8329c3965ab98b7de9909dc3567b6cb5094
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: b5b6c4d608ae083d01be24258af35ed8f64e67a897690f1a2678f76b8befdcb1
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6007519"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6990812"
 ---
 # <a name="find-your-next-project-with-the-project-finder-mobile-app-project-service"></a>Пронађите следећи пројекат помоћу апликације Project Finder Mobile (Project Service)
 
@@ -38,12 +38,12 @@ ms.locfileid: "6007519"
   
  Додирните стрелицу десно од пројекта за који сте заинтересовани да бисте видели више и пријавили се за пројекат.  
   
- ![Листа вештина пројеката које се подударају у апликацију за проналажење пројеката за мобилне уређаје](../psa/media/project-service-project-finder-list.png "Листа вештина пројеката које се подударају у апликацију за проналажење пројеката за мобилне уређаје")  
+ ![Листа вештина пројеката које се подударају у апликацију Project Finder Mobile.](../psa/media/project-service-project-finder-list.png "Листа вештина пројеката које се подударају у апликацију за проналажење пројеката за мобилне уређаје")  
   
 ## <a name="update-your-skills"></a>Ажурирање вештина  
  Додирните дугме за профил у доњем десном углу екрана да бисте ажурирали нивое вештина и стручности.  
   
- ![Дугме профила у апликацији за проналажење пројеката за мобилне уређаје](../psa/media/project-service-project-finder-profile.png "Дугме профила у апликацији за проналажење пројеката за мобилне уређаје")  
+ ![Дугме профила у апликацији Project Finder Mobile.](../psa/media/project-service-project-finder-profile.png "Дугме профила у апликацији за проналажење пројеката за мобилне уређаје")  
   
 ### <a name="see-also"></a>Такође погледајте  
  [Водич за време, трошак и сарадњу](../psa/time-expense-collaboration-guide.md)

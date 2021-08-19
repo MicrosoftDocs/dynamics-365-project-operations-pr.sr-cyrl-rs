@@ -6,12 +6,12 @@ ms.date: 11/09/2020
 ms.topic: article
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 86f4cd2c26ebfca621d1b226b571d220d3b2441e
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 753f0c4496bafd43d7e4a399cedeb355c2163c7ce56d932b2c786d5f2e672b6b
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6010354"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992224"
 ---
 # <a name="create-a-solution-for-custom-pricing-dimensions"></a>Креирање решења за прилагођене димензије одређивања цена
 
@@ -26,7 +26,7 @@ ms.locfileid: "6010354"
 2.  Именујте решење, *<your organization name> димензије за одређивање цена*.
 3. Унесите преостале потребне информације, а затим изаберите **Сачувај**.
 
-  ![Креирање решења за прилагођене димензије за одређивање цена](./media/Creation-of-custom-pricing-dimension-solution.png)
+  ![Креирање решења за прилагођене димензије за одређивање цена.](./media/Creation-of-custom-pricing-dimension-solution.png)
  
 ## <a name="add-all-required-entities-and-related-components-to-the-pricing-dimension-solution"></a>Додајте све захтеване ентитете и сродне компоненте у решење за димензије цене
 
@@ -49,19 +49,19 @@ ms.locfileid: "6010354"
    - **Цена улоге**
    - **Ставка времена**
  
-   ![Додавање решења са прилагођеном димензијом одређивања цена постојећим ентитетима](./media/Existing-entities-to-PD-solution.png)
+   ![Додавање решења са прилагођеном димензијом одређивања цена постојећим ентитетима.](./media/Existing-entities-to-PD-solution.png)
  
  4. За сваки ентитет, прегледајте компоненте које се додају и коначну листу средстава ентитета за сваки ентитет. 
 
    >[!NOTE]
    > Укључите све обрасце и приказе за сваки од изабраних ентитета.
 
-  ![Додати ентитети](./media/solution-component-selection.png)
+  ![Додати ентитети.](./media/solution-component-selection.png)
 
 
 5.  Када се од вас затражи да укључите било који зависни ентитет за изабране ентитете, изаберите **Не, не укључуј обавезне компоненте.**
 
-    ![Укључивање зависних ентитета](./media/Do-not-include-required.png)
+    ![Укључивање зависних ентитета.](./media/Do-not-include-required.png)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

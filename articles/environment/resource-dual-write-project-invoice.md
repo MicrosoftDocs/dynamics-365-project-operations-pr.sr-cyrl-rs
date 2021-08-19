@@ -7,12 +7,12 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 7407c98aad79806dcbaf25e81ff3e08397b41ffe
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 37549080d76e3bffd7cb002aee8e3c46b9eeb18e3cec915cd971881b69747534
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5996584"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6993259"
 ---
 # <a name="project-invoice-integration"></a>Интеграција фактура пројекта
 
@@ -20,7 +20,7 @@ ms.locfileid: "5996584"
 
 У Project Operations, менаџер пројекта управља заостатком у фактурисању пројеката и креира предрачун за клијента у Microsoft Dataverse. На основу ове предрачуне, службеник за потраживања или књиговођа на пројекту креира фактуру према купцима. Интеграција двоструког писања осигурава да се детаљи предрачуна синхронизују са Finance and Operations апликацијама. Након што се књижи фактура за купца, систем ажурира релевантне чињенице о пројекту у Dataverse са детаљима рачуноводства. Следећа графика даје концептуални преглед ове интеграције на високом нивоу.
 
-   ![Интеграција фактура пројекта](./media/DW5Invoicing.png)
+   ![Интеграција фактура пројекта.](./media/DW5Invoicing.png)
 
 Након што менаџер пројекта потврди предрачун у Dataverse, информације о заглављу предрачуна се синхронизују са Finance and Operations апликацијама које користе мапу табела двоструког уписивања, **Предлог пројектне фактуре V2 (фактуре)**. Ово је једносмерна интеграција из Dataverse до Finance and Operations апликација. Креирање или брисање предлога пројектних фактура директно у Finance and Operations апликацијама није подржано.
 
