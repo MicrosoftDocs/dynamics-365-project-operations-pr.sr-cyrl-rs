@@ -6,12 +6,12 @@ ms.date: 04/22/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: b24a20d47eefa43b2e4e184a377decdb280d436d
-ms.sourcegitcommit: fd6e9ff78392c7bac35591d9130c00d2750438ae
+ms.openlocfilehash: c8bc389c83eaf2a7720ef3fa969c677eed11e7959199b5f0083df5bf3b43ea43
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "6025792"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7003834"
 ---
 # <a name="project-operations-dual-write-map-versions"></a>Верзије мапе двоструког уписивања за Project Operations
 
@@ -32,7 +32,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 1. На листи мапа одаберите мапу Главна књига **(msdyn\__ledgers)** са свим предусловима и означите поље за потврду **Почетна синхронизација**. У пољу **Мастер за почетну синхронизацију**, изаберите **Finance and Operations апликације** и за мапу главне књиге и за све предусловне карте. Изаберите **Покрени**.
 
-![Синхронизација мапе главне књиге](media/DW6.png)
+![Синхронизација мапе главне књиге.](media/DW6.png)
 
 2. Следите исте кораке за све преостале мапе табела наведене у горњој табели. Не бирајте поље **Почетна синхронизација** за покретање тих мапа.
 
@@ -65,7 +65,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 1. Омогућите улоге ресурса пројекта за **све компаније (bookableresourcecategories)** мапу табеле јер ова мапа захтева почетну синхронизацију. У **Мастер за почетну синхронизацију**, изаберите **Common Data Service**. 
 
- ![Синхронизација мапе табеле улога ресурса](media/6ResourceInitialSync.jpg)
+ ![Синхронизација мапе табеле улога ресурса.](media/6ResourceInitialSync.jpg)
 
  Сачекајте док статус мапе не постане **Активно** пре него што пређете на следећи корак.
 

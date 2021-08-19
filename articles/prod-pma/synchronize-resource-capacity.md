@@ -16,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 8bde3c434680f0651293cbce13ecdce945c3a743
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 5f2e9b8e189be0594569e14ebc41c6ed452afd10aba34ea1397b3e3f66cd2e96
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5997529"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7005634"
 ---
 # <a name="synchronize-resource-capacity"></a>Синхронизација капацитета ресурса
 
@@ -29,7 +29,7 @@ ms.locfileid: "5997529"
 
 Процеси за синхронизацију ресурса гарантују да ће се информације за календар и основни календар сливати у планирање ресурса пројекта. Ако се календар промени, процеси извршавају потребна ажурирања распореда ресурса пројекта. Процеси такође помажу у побољшању перформанси, јер су информације о ресурсима календара унапред синхронизоване. Стога се ажурирања података о распореду ресурса дешавају брже. Препоручујемо да процесе планирате као пакете уместо као један по један. У супротном, постоји ризик да ће неко заборавити све датуме када су информације последњи пут синхронизоване. Ако се не користе сви датуми, могу се појавити празнине током синхронизације датума.
 
-![Синхронизација календара](./media/projectresourcing04-1024x471.jpg)
+![Синхронизација календара.](./media/projectresourcing04-1024x471.jpg)
 
 ## <a name="synchronize-resource-capacity-roll-ups"></a>Синхронизација збирних вредности капацитета ресурса
 
@@ -46,7 +46,7 @@ ms.locfileid: "5997529"
     | Датум почетка  | Унесите датум почетка процеса синхронизације за збирне вредности капацитета ресурса. |
     | Датум завршетка    | Унесите датум завршетка процеса синхронизације за збирне вредности капацитета ресурса. |
 
-[![Процес синхронизације](./media/projectresourcing09.jpg)](./media/projectresourcing09.jpg)
+[![Процес синхронизације.](./media/projectresourcing09.jpg)](./media/projectresourcing09.jpg)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
