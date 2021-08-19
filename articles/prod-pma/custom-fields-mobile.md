@@ -16,12 +16,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10.0.3
 ms.search.validFrom: 2019-05-29
-ms.openlocfilehash: 23b002559dcbb9118ccb2b36d70707ccb37b19ad
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 9f19a6d069c4f825be8515a6d26739c50d3b064698fc1872ede07a4e74ee4dcb
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6003063"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7005769"
 ---
 # <a name="implement-custom-fields-for-the-microsoft-dynamics-365-project-timesheet-mobile-app-on-ios-and-android"></a>Примена прилагођених поља за Microsoft Dynamics 365 Project Timesheet апликацију за мобилне уређаје на платформама iOS и Android
 
@@ -153,13 +153,13 @@ ms.locfileid: "6003063"
 
 У наставку се налази снимак екрана из апликације за мобилне уређаје где се креира ставка временског распореда. Показује унапред припремљена поља и прилагођена поља у одељку „Ставка времена“ под називом „Тест ниска“ са већ постављеном нумеричком вредношћу „Друга опција“.
 
-![Прилагођено поље за тестирање ниски у апликацији](media/timesheet-entry.jpg)
+![Прилагођено поље за тестирање ниски у апликацији.](media/timesheet-entry.jpg)
 
 
 
 У наставку се налази снимак екрана из апликације за мобилне уређаје корисника који бира једну од опција набрајања доступних за прилагођено поље „Тест ниска“.  Две опције су „Прва опција“ и „Друга опција“, приказане као радио дугмад. Тренутно је изабрана друга опција.
 
-![Дугмад са опцијама (радио дугмад) за прилагођено поље Тест ниска](media/enum-option.jpg)
+![Дугмад са опцијама (радио дугмад) за поље за тестирање ниски.](media/enum-option.jpg)
 
 
 
@@ -171,7 +171,7 @@ ms.locfileid: "6003063"
 
 У наставку се налази снимак екрана са Visual Studio стаблом објеката апликације. Приказује се проширење табеле TSTimesheetLine са пољем TestLineString које је додато као прилагођено поље.
 
-![Ниска линије](media/b6756b4a3fc5298093327a088a7710fd.png)
+![Ниска линије.](media/b6756b4a3fc5298093327a088a7710fd.png)
 
 ### <a name="use-chain-of-command-on-the-buildcustomfieldlist-method-of-the-tstimesheetsettings-class-to-show-a-field-in-the-timesheet-entry-section"></a>Користите ланац команди на методи buildCustomFieldList класе TSTimesheetSettings да бисте приказали поље у одељку ставке временског распореда
 
@@ -317,11 +317,11 @@ final class TSTimesheetEntryService_Extension
 
 У наставку се налази снимак екрана из апликације за мобилне уређаје где корисник прегледа временски распоред. У горњем десном углу је изабрано дугме „Више информација“ да би се приказала опција „Прикажи више детаља“.  
 
-![Команда Прикажи више детаља](media/show-more.png)
+![Команда Прикажи више детаља.](media/show-more.png)
 
 У наставку се налази снимак екрана из апликације за мобилне уређаје где се приказује одељак „Још“ временског распореда. Прилагођено поље под називом „Стопа искоришћености овог временског распореда (израчунато прилагођено поље)“ додато је у одељак заглавља временског распореда. Вредност само за читање „0,667“ постављена је у прилагођеном пољу.
 
-![Одељак „Још“](media/more-section.jpg)
+![Одељак „Још“.](media/more-section.jpg)
 
 ### <a name="extend-the-tstimesheettable-table-so-that-it-has-a-custom-field"></a>Проширите табелу TSTimesheetTable тако да има прилагођено поље
 
@@ -414,7 +414,7 @@ final class TSTimesheetDetails_Extension
 
 Из параметара пројекта можете да направите унапред припремљена поља која су само за читање или скривена у апликацији за мобилне уређаје. Поставите опције у одељку **Мобилни временски распореди** на картици **Временски распоред** на страници **Параметри управљања пројектом и рачуноводством**.
 
-![Параметри пројекта](media/5753b8ecccd1d8bb2b002dd538b3f762.png)
+![Параметри пројекта.](media/5753b8ecccd1d8bb2b002dd538b3f762.png)
 
 ### <a name="changing-the-activities-that-are-available-for-selection-via-extensions"></a>Промена активности које су доступне за избор путем додатака
 

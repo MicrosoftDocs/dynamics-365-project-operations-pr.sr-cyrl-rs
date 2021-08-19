@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: e1c123854209b3cb5c310e3bbcb242c9219279a8
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 32dba5acd95c1d192556153240ebd51343112be53aa3db93e5e6f127c2d960e9
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5992852"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007164"
 ---
 # <a name="view-chargeable-utilization-for-resources"></a>Приказ наплативе укупне искоришћености ресурса
 
@@ -29,7 +29,7 @@ ms.locfileid: "5992852"
  
 **Приказ укупне искоришћености** на страници **Укупна искоришћеност ресурса у апликацији Project Service** приказује наплативу укупну искоришћеност сваког ресурса који може да се резервише. Пошто је приказ заснован на табели распореда, пронаћићете доста истих функција.
 
-> ![Снимак екрана приказа укупне искоришћености](media/FAQ-utilization-1.png)
+> ![Снимак екрана приказа укупне искоришћености.](media/FAQ-utilization-1.png)
  
 
 Израчунавање наплативе укупне искоришћености функционише на следећи начин:
@@ -48,7 +48,7 @@ ms.locfileid: "5992852"
 2. Изаберите ресурс да бисте отворили запис. 
 3. На картици **Project Service** можете подесити циљну укупну искоришћеност ресурса.
 
-> ![Снимак екрана коришћења картице Project Service за подешавање циљне укупне искоришћености](media/FAQ-utilization-2.png)
+> ![Снимак екрана коришћења картице Project Service за подешавање циљне укупне искоришћености.](media/FAQ-utilization-2.png)
  
 ## <a name="set-target-utilization-on-a-role"></a>Подешавање циљне укупне искоришћености за улогу
 
@@ -56,7 +56,7 @@ ms.locfileid: "5992852"
 2. Изаберите улогу и отворите запис. 
 3. Подесите циљну укупну искоришћеност за улогу.
 
-> ![Снимак екрана коришћења улога ресурса за подешавање циљне укупне искоришћености](media/FAQ-utilization-3.png)
+> ![Снимак екрана коришћења улога ресурса за подешавање циљне укупне искоришћености.](media/FAQ-utilization-3.png)
  
 ## <a name="calculate-chargeable-utilization-for-a-resource"></a>Израчунавање наплативе укупне искоришћености ресурса
 

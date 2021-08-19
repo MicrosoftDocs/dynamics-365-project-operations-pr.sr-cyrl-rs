@@ -16,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 21721a9b0af820df10c4fa965d000e85098e0dea
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: f93fbda0ad6435c627eb7e580f92fd90481034cae2236b9a636195883470ca5c
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5999059"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007434"
 ---
 # <a name="manage-resource-competencies"></a>Управљање компетенцијама ресурса
 
@@ -29,7 +29,7 @@ ms.locfileid: "5999059"
 
 Компетенције ресурса су суштински део управљања ресурсима. Компетенције се могу користити као полазна основа за одређивање ресурса који имају тачну равнотежу вештина, образовања, сертификације и пројектног искуства. Требало би да поставити те информације за сваки ресурс и да их редовно ажурирате. На овај начин можете максимизовати могућности када се одговарајуће компетенције ресурса поклапају током доделе ресурса пројектима.
 
-[![Примери вештина, сертификација, образовања и искуства рада на пројектима](./media/projectresourcing06-1024x383.jpg)](./media/projectresourcing06.jpg)
+[![Примери вештина, сертификација, образовања и искуства рада на пројектима.](./media/projectresourcing06-1024x383.jpg)](./media/projectresourcing06.jpg)
 
 Следећи поступци објашњавају како да поставите неке компетенције за ресурс.
 

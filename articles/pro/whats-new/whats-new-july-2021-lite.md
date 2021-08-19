@@ -7,12 +7,12 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 6992498df5beb97d4e7197e301f093320dc28a23
-ms.sourcegitcommit: 3abf1e67938d91bd826b025ae3187cd313f556b9
+ms.openlocfilehash: 8cff4c37e1c2df29041ef86cdcf05afa6093f890565a855024202e87fd533ea5
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "6433671"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7009234"
 ---
 # <a name="whats-new-july-2021---project-operations-lite-deployment"></a>Шта је ново у јулу 2021. – Project Operations једноставна примена
 
@@ -20,7 +20,7 @@ _Односи се на: Једноставна примена – од пого
 
 Ова тема се односи на следеће компоненте и верзије услуге Dynamics 365 Project Operations:
 
-  - Project Operations у Dataverse окружењу верзије 4.12.0.148.
+  - Project Operations у Dataverse окружењу верзије 4.12.0.148 или 4.12.0.152.
 
 ## <a name="quality-updates"></a>Исправке квалитета
 | **Област функција**              | **Референтни број** | **Исправка квалитета**                                                                                                                                                                                             |
@@ -59,3 +59,4 @@ _Односи се на: Једноставна примена – од пого
 | Опште                       | 2296857              | Праћење напредовања за дуготрајне послове.                                                                                                                                                                        |
 | Опште                       | 2253682              | Project Operations решење са двоструким уписивањем не би требало инсталирати када је језгро двоструког уписивања инсталирано у окружењу без решења оркестрације двоструког уписивања.                                                |
 | Опште                       | 2316420              | Обезбеђење Project Service језгра не успева ако се промени пословна јединица корисника апликације.                                                                                                                     |
+| Опште                       | 2376405              | Решен је проблем са ажурирањем које покреће произвођач (ажурирање квалитета је доступно у верзији 4.12.0.152)                                                                                                                     |
