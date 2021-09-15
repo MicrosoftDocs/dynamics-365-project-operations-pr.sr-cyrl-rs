@@ -4,6 +4,8 @@
   items:
     - name: Одређивање врсте примене
       href: environment/determine-deployment-type.md
+    - name: Регистрација за пробне верзије услуге Project Operations
+      href: environment/admin-trials.md
     - name: Исправке услуге Project Operations
       href: whats-new/project-operations-updates.md
 - name: Project Operations за ресурс/сценарије који нису засновани на залихама
@@ -32,7 +34,7 @@
               href: environment/resource-manual-deploy-dataverse-dualwrite.md
             - name: Обезбеђивање новог окружења
               href: environment/resource-provision-new-environment.md
-            - name: Модел безбедности
+            - name: Безбедносни модел
               href: environment/security-model.md
             - name: Конфигурисање интеграције за Project Operations по правном лицу
               href: environment/resource-configure-integration-per-legal-entity.md
@@ -54,6 +56,8 @@
               href: environment/resource-dual-write-vendor-invoice.md
     - name: Шта је ново
       items:
+        - name: Август 2021. – Project Operations за сценарије са ресурсима/материјалима који нису на залихама
+          href: whats-new/whats-new-august-2021-resource-based.md
         - name: Јул 2021. – Project Operations за сценарије са ресурсима/материјалима који нису на залихама
           href: whats-new/whats-new-july-2021-resource-based.md
         - name: Јун 2021. – Project Operations за сценарије са ресурсима/материјалима који нису на залихама
@@ -418,13 +422,15 @@
       items:
         - name: Преглед одобрења
           href: approvals/approvals-overview.md
+        - name: Скупови одобрења
+          href: approvals/approval-sets.md
         - name: Напомене програмера
           items:
             - name: Напомене програмера за одобрења
               href: approvals/dev-notes-approvals.md
-    - name: Тренутно стање
+    - name: Стварне вредности
       items:
-        - name: Преглед тренутног стања
+        - name: Преглед стварних вредности
           href: actuals/actuals-overview.md
         - name: Повезивање тренутног стања са оригиналним записима
           href: actuals/linkingactuals.md
@@ -514,12 +520,16 @@
           href: environment/lite-preview-subscription-sign-up.md
         - name: Примена услуге Project Operations – једноставно
           href: environment/lite-deployment.md
-        - name: Примена демо подешавања и података о конфигурацији – једноставна
+        - name: Примена подешавања демонстрације и података о конфигурацији – једноставна
           href: environment/lite-apply-demo-setup-config-data.md
-        - name: Модел безбедности
+        - name: Безбедносни модел
           href: environment/security-model.md
     - name: Шта је ново
       items:
+        - name: Шта је ново у вези са раним приступом 2. таласа за 2021. – једноставна примена
+          href: pro/whats-new/whats-new-2021-early-access-lite.md
+        - name: Шта је ново у августу 2021. – једноставна примена
+          href: pro/whats-new/whats-new-august-2021-lite.md
         - name: Шта је ново у јулу 2021. – једноставна примена
           href: pro/whats-new/whats-new-july-2021-lite.md
         - name: Шта је ново у јуну 2021. – једноставна примена
@@ -832,16 +842,30 @@
           items:
             - name: Преглед укупне искоришћености ресурса
               href: resource-management/resource-utilization-overview.md
-    - name: Управљање подуговорима у апликацији Project Operations
+    - name: Управљање подуговорима у услузи Project Operations
       items:
-        - name: Преглед управљања подуговорима
+        - name: Управљање подуговорима у услузи Project Operations
           href: pro/subcontracting/managing-subcontracts-overview.md
+        - name: Подуговарање у верзији за рани приступ у октобру 2021.
+          href: pro/subcontracting/Subcontracting_EA_scope.md
         - name: Кључни концепти у подуговарању
           href: pro/subcontracting/key-concepts-subcontracting.md
         - name: Управљање добављачима и ценовницима пројеката
           href: pro/subcontracting/vendors-purchase-price-lists.md
         - name: Подизвођачи као ресурси који могу да се резервишу
           href: pro/subcontracting/subcontractors-as-bookable-resources.md
+        - name: Детаљи заглавља за подуговоре
+          href: pro/subcontracting/subcontract-header-details.md
+        - name: Предмети подуговора за време
+          href: pro/subcontracting/subcontract-line-time.md
+        - name: Предмети подуговора за трошак
+          href: pro/subcontracting/subcontract-line-expense.md
+        - name: Предмети подуговора за производ
+          href: pro/subcontracting/subcontract-line-products.md
+        - name: Ресурси предмета подуговора
+          href: pro/subcontracting/subcontract-line-resources.md
+        - name: Контролне тачке предмета подуговора
+          href: pro/subcontracting/subcontract-line-milestones.md
     - name: Време
       items:
         - name: Преглед времена
@@ -868,13 +892,15 @@
       items:
         - name: Преглед одобрења
           href: approvals/approvals-overview.md
+        - name: Скупови одобрења
+          href: approvals/approval-sets.md
         - name: Напомене програмера
           items:
             - name: Напомене програмера за одобрења
               href: approvals/dev-notes-approvals.md
-    - name: Тренутно стање
+    - name: Стварне вредности
       items:
-        - name: Преглед тренутног стања
+        - name: Преглед стварних вредности
           href: actuals/actuals-overview.md
         - name: Повезивање тренутног стања са оригиналним записима
           href: actuals/linkingactuals.md
@@ -1060,6 +1086,8 @@
       items:
         - name: Распоред издања исправки за Project Service 3.x
           href: psa/version-history-ps.md
+        - name: 'Шта је ново или промењено у издању исправке број 35, V3'
+          href: psa/whats-new-ur-35.md
         - name: 'Шта је ново или промењено у издању исправке број 34, V3'
           href: psa/whats-new-ur-34.md
         - name: 'Шта је ново или промењено у издању исправке број 33, V3'
@@ -1232,7 +1260,7 @@
               href: psa/recall-approved.md
             - name: Отказивање одобрења за претходно одобрене ставке времена или трошкова
               href: psa/cancel-approval.md
-            - name: Тренутно стање
+            - name: Стварне вредности
               href: psa/actuals.md
             - name: Масовне исправке тренутног стања креиране одобреним ставкама времена и трошкова
               href: psa/bulk-corrections-actuals-created-by-approved-time-expense-entries.md
@@ -1306,11 +1334,11 @@
               href: psa/time-entry-calendar.md
             - name: Прилагођавање седмичне ставке времена
               href: psa/time-entry-extensibility-v3.md
-            - name: Скупови одобрења
+            - name: Скупови одобрења у услузи Project Service Automation
               href: psa/approval-set.md
     - name: Најчешћа питања и решавање проблема (3.x)
       items:
-        - name: Зашто се цена подразумевано враћа на нулу за тренутно стање износа трошкова?
+        - name: Зашто се цена подразумевано враћа на нулу за стварне вредности износа трошкова?
           href: psa/FAQ-zero-price-expense-cost-actuals.md
         - name: Зашто се цена подразумевано враћа на нулу у стварним подацима о трошковима продаје?
           href: psa/FAQ-zero-price-expense-sales-actuals.md
