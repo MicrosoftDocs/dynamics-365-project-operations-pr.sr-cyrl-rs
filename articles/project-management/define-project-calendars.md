@@ -15,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: ruhercul
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 181032b27ee67591a3bb40ab080477c51c1e34a46e9aac20039e4e5df3a5ab1d
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 9c2ea49e008d6cde40f152320face073c7e5f548
+ms.sourcegitcommit: bbe484e58a77efe77d28b34709fb6661d5da00f9
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7000954"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "7487658"
 ---
 # <a name="define-project-calendars"></a>Дефинисање календара пројеката
 
@@ -46,7 +46,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 1. Идите на **Ресурси** \> **Ресурси**.
 2. Направите нови ресурс за референцу у предлошку календара или одаберите постојећи.
-3. Изаберите картицу ресурса **Радно време** и довршите упутства у [Поставите радно време за ресурс](/dynamics365/field-service/set-work-hours-resource.md) за конфигурисање правила календара.
+3. Изаберите картицу ресурса **Радно време** и довршите упутства у [Поставите радно време за ресурс](/dynamics365/field-service/set-work-hours-resource) за конфигурисање правила календара.
 
 **Креирајте нови предложак календара**
 

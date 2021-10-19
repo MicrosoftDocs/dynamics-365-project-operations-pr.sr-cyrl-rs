@@ -2,16 +2,16 @@
 title: Пријавите се за пробну верзију апликације Project Operations
 description: Ова тема пружа информације о томе како да примените пробну верзију апликације Dynamics 365 Project Operations.
 author: ruhercul
-ms.date: 08/19/2021
+ms.date: 10/04/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: e9c0d81591061f0ff01200dd5fd634a4a9ff31e4
-ms.sourcegitcommit: 0e5de344f2040075ba431918a4499a80510458d9
+ms.openlocfilehash: 1c8ae111acffb45fef1c2e6435849471ae331796
+ms.sourcegitcommit: 05ee415093d152b5b9e1203c3db0ea7f0c5a75a5
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "7418475"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "7599231"
 ---
 # <a name="sign-up-for-project-operations-trials"></a>Пријавите се за пробну верзију апликације Project Operations 
 
@@ -85,15 +85,9 @@ _**Односи се на:** Project Operations за сценарије засн
 
    Након покретања обезбеђивања, бићете преусмерени на листу окружења у Power Platform центру администрације. Док је обезбеђивање у току, статус вашег окружења је **PreparingInstance**.
  
-  Након што се обезбеђивање доврши, статус вашег окружења је **Ready**.
+  Када се обезбеђивање доврши, статус вашег окружења је **Спремно**. Обезбеђивање окружења укључује примену демо података.
  
-4.  Када се обезбеђивање заврши, изаберите одговарајући Microsoft Dataverse URL, као и URL адресе Finance and Operations апликација, за проверу примене.
-
-## <a name="demo-data-installation"></a>Инсталирање података демонстрације
-
-Помоћу следећих веза приступите пакетима података демонстрације и за материјале који нису на залихама и за сценарије једноставне примене. 
-- [Подаци демонстрације за материјале који нису на залихама](resource-apply-pro-setup-config-data.md)
-- [Једноставни подаци демонстрације](lite-apply-demo-setup-config-data.md)
+4.  Изаберите одговарајуће Microsoft Dataverse URL адресе и URL адресе Finance and Operations апликација за проверу примене.
 
 ## <a name="configuring-dual-write"></a>Конфигурисање двоструког уписивања
 Само за примене материјала који нису на залихама, конфигуришите мапирања са двоструким уписивањем. За више информација погледајте [Верзије мапа са двоструким уписивањем за Project Operations](resource-dual-write-maps.md).
