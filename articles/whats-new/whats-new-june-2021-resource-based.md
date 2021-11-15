@@ -7,12 +7,12 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 483992768f8b8a02dd0d56b9479c7d591fa676d1eca41161e68b7cf3f97107af
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: c6a40335df89cc6b2bb35e54832140aac6eb9ac6
+ms.sourcegitcommit: 03414a74ddf1f2d63043d734ebdee7485f1aadd2
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7003879"
+ms.lasthandoff: 10/25/2021
+ms.locfileid: "7679227"
 ---
 # <a name="whats-new-june-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>Шта је ново у јуну 2021. – Project Operations за сценарије засноване на ресурсима / без залиха
 
@@ -30,6 +30,7 @@ _**Односи се на:** Project Operations за сценарије засн
 - Могућност брисања [ставки предлога фактуре за пројекат за сценарије прилагођавања](../invoicing/correct-project-invoice-proposals.md).
 - Појединачни редови трошкова одражавају називе поткатегорија у извештају о трошковима [Поново осмишљени извештаји – Нове функције](../expense/expense-reports-reimagined.md#new-features).
 - Начин плаћања је доступан у окну „Нови трошак“ приликом креирања новог трошка.
+- Општа доступност API-ја планирања пројеката. Ова нова функционалност омогућава клијентима да програмски извршавају операције креирања, ажурирања и брисања пројектних задатака, додељивања ресурса, зависности задатака и записа чланова пројектног тима. Више информација потражите у чланку [Коришћење API-ја за распоред пројеката за извршавање операција са планирањем ентитета](../project-management/schedule-api-preview.md).
 
 ## <a name="project-operations-dual-write-maps-updates"></a>Ажурирања мапа двоструког уписивања за Project Operations
 

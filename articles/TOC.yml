@@ -54,6 +54,8 @@
               href: environment/resource-dual-write-expense.md
             - name: Интеграција фактура добављача
               href: environment/resource-dual-write-vendor-invoice.md
+        - name: Деинсталација услуге Dynamics 365 Project Operations
+          href: environment/uninstall-project-operations.md
     - name: Шта је ново
       items:
         - name: Октобар 2021. – Project Operations за ресурс/сценарије који нису засновани на залихама
@@ -298,6 +300,8 @@
               href: project-management/dev-copy-project.md
             - name: Користите API-је за распоред пројеката
               href: project-management/schedule-api-preview.md
+            - name: Перформансе API-ја распореда пројекта
+              href: project-management/project-schedule-api-performance.md
     - name: Управљање ресурсима
       items:
         - name: Кључни концепти
@@ -802,6 +806,8 @@
               href: project-management/dev-copy-project.md
             - name: Користите API-је за распоред пројеката
               href: project-management/schedule-api-preview.md
+            - name: Перформансе API-ја распореда пројекта
+              href: project-management/project-schedule-api-performance.md
     - name: Управљање ресурсима
       items:
         - name: Кључни концепти
@@ -1100,8 +1106,10 @@
       href: psa/overview.md
     - name: Шта је ново
       items:
-        - name: Распоред издања исправки за Project Service 3.x
+        - name: Распореда издања исправке за Project Service 3.x
           href: psa/version-history-ps.md
+        - name: 'Шта је ново или промењено у издању исправке број 37, V3'
+          href: psa/whats-new-ur-37.md
         - name: 'Шта је ново или промењено у издању исправке број 36, V3'
           href: psa/whats-new-ur-36.md
         - name: 'Шта је ново или промењено у издању исправке број 35, V3'
