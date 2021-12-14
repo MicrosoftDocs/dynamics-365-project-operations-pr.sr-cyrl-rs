@@ -8,11 +8,11 @@
       href: environment/admin-trials.md
     - name: Исправке услуге Project Operations
       href: whats-new/project-operations-updates.md
-- name: Project Operations за ресурс/сценарије који нису засновани на залихама
+- name: Project Operations за сценарије који су засновани на ресурсима/без залиха
   items:
     - name: Започните
       items:
-        - name: Приказ примене услуге Project Operations за ресурс/сценарије који нису засновани на залихама
+        - name: Приказ примене услуге Project Operations за сценарије који су засновани на ресурсима/без залиха
           href: environment/project-operations-integrated-deployment-overview.md
         - name: Уписивање за претплату на верзију за преглед
           href: environment/resource-sign-up-preview-subscription.md
@@ -54,15 +54,17 @@
               href: environment/resource-dual-write-expense.md
             - name: Интеграција фактура добављача
               href: environment/resource-dual-write-vendor-invoice.md
-        - name: Деинсталација услуге Dynamics 365 Project Operations
+        - name: Деинсталирање услуге Dynamics 365 Project Operations
           href: environment/uninstall-project-operations.md
     - name: Шта је ново
       items:
-        - name: Октобар 2021. – Project Operations за ресурс/сценарије који нису засновани на залихама
+        - name: Новембар 2021. – Project Operations за сценарије који су засновани на ресурсима/без залиха
+          href: whats-new/whats-new-nov-2021-resource-based.md
+        - name: Октобар 2021. – Project Operations за сценарије који су засновани на ресурсима/без залиха
           href: whats-new/whats-new-oct-2021-resource-based.md
-        - name: Септембар 2021. – Project Operations за ресурс/сценарије који нису засновани на залихама
+        - name: Септембар 2021. – Project Operations за сценарије који су засновани на ресурсима/без залиха
           href: whats-new/whats-new-sept-2021-resource-based.md
-        - name: Август 2021. – Project Operations за ресурс/сценарије који нису засновани на залихама
+        - name: Август 2021. – Project Operations за сценарије који су засновани на ресурсима/без залиха
           href: whats-new/whats-new-august-2021-resource-based.md
         - name: Јул 2021. – Project Operations за сценарије са ресурсима/материјалима који нису на залихама
           href: whats-new/whats-new-july-2021-resource-based.md
@@ -72,15 +74,15 @@
           href: whats-new/whats-new-may-2021-resource-based.md
         - name: Април 2021. – Project Operations за сценарије са ресурсима/материјалима који нису на залихама
           href: whats-new/whats-new-apr-2021-resource-based.md
-        - name: Март 2021. – Project Operations за ресурс/сценарије који нису засновани на залихама
+        - name: Март 2021. – Project Operations за сценарије који су засновани на ресурсима/без залиха
           href: whats-new/whats-new-mar-2021-resource-based.md
-        - name: Фебруар 2021. – Project Operations за ресурс/сценарије који нису засновани на залихама
+        - name: Фебруар 2021. – Project Operations за сценарије који су засновани на ресурсима/без залиха
           href: whats-new/whats-new-feb-2021-resource-based.md
-        - name: Јануар 2021. – Project Operations за ресурс/сценарије који нису засновани на залихама
+        - name: Јануар 2021. – Project Operations за сценарије који су засновани на ресурсима/без залиха
           href: whats-new/whats-new-jan-2021-resource-based.md
-        - name: Децембар 2020. – Project Operations за ресурс/сценарије који нису засновани на залихама
+        - name: Децембар 2020. – Project Operations за сценарије који су засновани на ресурсима/без залиха
           href: whats-new/whats-new-dec-2020-resource-based.md
-        - name: Новембар 2020. – Project Operations за ресурс/сценарије који нису засновани на залихама
+        - name: Новембар 2020. – Project Operations за сценарије који су засновани на ресурсима/без залиха
           href: whats-new/whats-new-nov-2020-resource-based.md
     - name: Продајни процес за пројекат
       items:
@@ -298,10 +300,12 @@
           items:
             - name: Развој предложака пројеката помоћу опције за копирање пројеката
               href: project-management/dev-copy-project.md
-            - name: Користите API-је за распоред пројеката
+            - name: Коришћење API-ја за распоред пројеката
               href: project-management/schedule-api-preview.md
             - name: Перформансе API-ја распореда пројекта
               href: project-management/project-schedule-api-performance.md
+            - name: Евиденције распореда пројеката
+              href: project-management/schedule-api-logs.md
     - name: Управљање ресурсима
       items:
         - name: Кључни концепти
@@ -544,6 +548,8 @@
       items:
         - name: Шта је ново у вези са раним приступом 2. таласа за 2021. – једноставна примена
           href: pro/whats-new/whats-new-2021-early-access-lite.md
+        - name: Шта је ново у новембру 2021. – једноставна примена
+          href: pro/whats-new/whats-new-nov-2021-lite.md
         - name: Шта је ново у октобру 2021. – једноставна примена
           href: pro/whats-new/whats-new-oct-2021-lite.md
         - name: Шта је ново у септембру 2021. – једноставна примена
@@ -804,7 +810,7 @@
           items:
             - name: Развој предложака пројеката помоћу опције за копирање пројеката
               href: project-management/dev-copy-project.md
-            - name: Користите API-је за распоред пројеката
+            - name: Коришћење API-ја за распоред пројеката
               href: project-management/schedule-api-preview.md
             - name: Перформансе API-ја распореда пројекта
               href: project-management/project-schedule-api-performance.md
@@ -952,6 +958,10 @@
   items:
     - name: Шта је ново
       items:
+        - name: Шта је ново у октобру 2021. – Project Operations за сценарије засноване на залихама/производњи
+          href: prod-pma/whats-new/whats-new-oct-2021-stocked.md
+        - name: Шта је ново у септембру 2021. – Project Operations за сценарије засноване на залихама/производњи
+          href: prod-pma/whats-new/whats-new-sep-2021-stocked.md
         - name: Шта је ново у јулу 2021. – Project Operations за сценарије засноване на залихама/производњи
           href: prod-pma/whats-new/whats-new-jul-2021-stocked.md
         - name: Шта је ново у мају 2021. – Project Operations за сценарије засноване на залихама/производњи
@@ -1106,8 +1116,10 @@
       href: psa/overview.md
     - name: Шта је ново
       items:
-        - name: Распореда издања исправке за Project Service 3.x
+        - name: Распоред издања исправке за Project Service 3.x
           href: psa/version-history-ps.md
+        - name: 'Шта је ново или промењено у издању исправке број 37.5, V3'
+          href: psa/whats-new-ur-37-5.md
         - name: 'Шта је ново или промењено у издању исправке број 37, V3'
           href: psa/whats-new-ur-37.md
         - name: 'Шта је ново или промењено у издању исправке број 36, V3'

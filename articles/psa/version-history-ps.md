@@ -1,6 +1,6 @@
 ---
 title: План издања исправке за Project Service 3.x
-description: У овој теми се пружају информације о доступним и предстојећим издањима услуге Dynamics 365 Project Service Automation.
+description: Овај тема пружа информације о доступним и предстојећим издањима Дyнамицс 365 Пројецт Сервице Аутоматион.
 ms.custom: dyn365-projectservice
 ms.date: 10/04/2021
 ms.reviewer: kfend
@@ -22,12 +22,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 71cb8d0d9111e84bbd85dd116ce39465081f1653
-ms.sourcegitcommit: 95c0a30142fbacfd0c2ef63f42066f3a3534b832
-ms.translationtype: MT
+ms.openlocfilehash: e985fc4150044a0146aac752bdbad685c562a13c
+ms.sourcegitcommit: 97e5887ae5bad6c26aa1179b51c9b71c434ea8fe
+ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 11/08/2021
-ms.locfileid: "7773620"
+ms.lasthandoff: 12/06/2021
+ms.locfileid: "7892215"
 ---
 # <a name="update-release-schedule-for-project-service-3x"></a>План издања исправке за Project Service 3.x
 
@@ -37,7 +37,7 @@ ms.locfileid: "7773620"
 
 | Решење  | Најновија верзија |
 |-------|----|
-| Project Service Automation    | 3.10.58.120 |
+| Project Service Automation    | 3.10.58.130 |
 | Програмски додатак за Project Service Automation за стоне рачунаре                | 3.15          |
 
 За информације о другим исправкама услуге Project Service, погледајте чланак [Dynamics 365 планови издања](/dynamics365/release-plans/). 
@@ -55,18 +55,18 @@ ms.locfileid: "7773620"
 | | <i>Немачка</i> | [3.10.58.120](whats-new-ur-37.md) | TBD | 10. децембар 2021.
 | | <i>Швајцарска</i> | [3.10.58.120](whats-new-ur-37.md) | TBD | 10. децембар 2021.
 |<strong>Станица 3</strong> | |  |  | |
-| | <i>Јапан</i> | [3.10.57.152](whats-new-ur-36.md) | [3.10.58.120](whats-new-ur-37.md) | 12. новембар 2021.
-| | <i>Пацифичка Азија</i> | [3.10.57.152](whats-new-ur-36.md) | [3.10.58.120](whats-new-ur-37.md) | 12. новембар 2021.
-| | <i>Велика Британија</i> | [3.10.57.152](whats-new-ur-36.md) | [3.10.58.120](whats-new-ur-37.md) | 12. новембар 2021.
-| | <i>Океанија</i> | [3.10.57.152](whats-new-ur-36.md) | [3.10.58.120](whats-new-ur-37.md) | 12. новембар 2021.
-| | <i>Уједињени Арапски Емирати</i> | [3.10.57.152](whats-new-ur-36.md) | [3.10.58.120](whats-new-ur-37.md) | 12. новембар 2021.
+| | <i>Јапан</i> | [3.10.58.130](whats-new-ur-37-5.md) | TBD | 17. децембар 2021.
+| | <i>Пацифичка Азија</i> | [3.10.58.130](whats-new-ur-37-5.md) | TBD | 17. децембар 2021.
+| | <i>Велика Британија</i> | [3.10.58.130](whats-new-ur-37-5.md) | TBD | 17. децембар 2021.
+| | <i>Океанија</i> | [3.10.58.130](whats-new-ur-37-5.md) | TBD | 17. децембар 2021.
+| | <i>Уједињени Арапски Емирати</i> | [3.10.58.130](whats-new-ur-37-5.md) | TBD | 17. децембар 2021.
 |<strong>Станица 4</strong> | |  |  | |
-| | <i>Европа</i> | [3.10.57.152](whats-new-ur-36.md) | [3.10.58.120](whats-new-ur-37.md) | 19. новембар 2021.
+| | <i>Европа</i> | [3.10.58.130](whats-new-ur-37-5.md) | TBD | 07. јануар 2022.
 |<strong>Станица 5</strong> | |  |  | |
-| | <i>Северна Америка</i> | [3.10.57.152](whats-new-ur-36.md) | [3.10.58.120](whats-new-ur-37.md) | 03. децембар 2021.
+| | <i>Северна Америка</i> | [3.10.58.130](whats-new-ur-37-5.md) | TBD | 14. јануар 2022.
 |<strong>Станица 6</strong> | |  |  | |
-| | <i>Government Community Cloud</i> | [3.10.57.152](whats-new-ur-36.md) | [3.10.58.120](whats-new-ur-37.md) | 03. децембар 2021.
-| | <i>Групе наменских скала</i> | [3.10.57.152](whats-new-ur-36.md) | [3.10.58.120](whats-new-ur-37.md) | 10. децембар 2021.
+| | <i>Government Community Cloud</i> | [3.10.58.130](whats-new-ur-37-5.md) | TBD | 14. јануар 2022.
+| | <i>Групе наменских скала</i> | [3.10.57.152](whats-new-ur-36.md) | [3.10.58.130](whats-new-ur-37-5.md) | 10. децембар 2021.
 
 
 
