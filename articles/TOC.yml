@@ -1,6 +1,6 @@
 - name: Dynamics 365 Project Operations
   href: index.md
-- name: Започните
+- name: Први кораци
   items:
     - name: Одређивање врсте примене
       href: environment/determine-deployment-type.md
@@ -8,9 +8,13 @@
       href: environment/admin-trials.md
     - name: Исправке услуге Project Operations
       href: whats-new/project-operations-updates.md
+    - name: Уклоњене или застареле функције
+      items:
+        - name: Уклоњене или застареле функције у услузи Project Operations
+          href: whats-new/removed-depreciated-features-project.md
 - name: Project Operations за сценарије који су засновани на ресурсима/без залиха
   items:
-    - name: Започните
+    - name: Први кораци
       items:
         - name: Приказ примене услуге Project Operations за сценарије који су засновани на ресурсима/без залиха
           href: environment/project-operations-integrated-deployment-overview.md
@@ -52,12 +56,14 @@
               href: environment/resource-dual-write-project-invoice.md
             - name: Интеграција управљања трошковима
               href: environment/resource-dual-write-expense.md
-            - name: Интеграција фактура добављача
+            - name: Интеграција фактура продаваца
               href: environment/resource-dual-write-vendor-invoice.md
         - name: Деинсталирање услуге Dynamics 365 Project Operations
           href: environment/uninstall-project-operations.md
     - name: Шта је ново
       items:
+        - name: Децембар 2021. – Project Operations за сценарије који су засновани на ресурсима/без залиха
+          href: whats-new/whats-new-dec-2021-resource-based.md
         - name: Новембар 2021. – Project Operations за сценарије који су засновани на ресурсима/без залиха
           href: whats-new/whats-new-nov-2021-resource-based.md
         - name: Октобар 2021. – Project Operations за сценарије који су засновани на ресурсима/без залиха
@@ -398,11 +404,13 @@
               href: expense/set-up-credit-card-integration.md
             - name: Подешавање категорија трошкова
               href: expense/set-up-expense-categories.md
-            - name: Подесите километражу помоћу нивоа километраже
+            - name: Подешавање километраже помоћу нивоа километраже
               href: expense/set-up-mileage.md
+        - name: Ставке трошкова
+          href: prod-exp/expense-itemization.md
         - name: Лични трошкови
           href: expense/personal-expenses-expense-report.md
-        - name: Интерни трошкови у оквиру предузећа
+        - name: Трошкови у оквиру предузећа
           href: prod-exp/intercompany-expense.md
         - name: Креирање извештаја о трошковима
           items:
@@ -530,9 +538,15 @@
           href: revenue-recognition/cost-complete-methods.md
         - name: Управљање проценама прихода
           href: revenue-recognition/rev-rec-completed-contract-method.md
+    - name: Решавање проблема
+      items:
+        - name: Продајни процес за пројекат
+          items:
+            - name: 'Грешка у неподударању валуте приликом креирања пројекта, уговора, понуде или ресурса који се могу резервисати'
+              href: troubleshooting/project-sales-process/currency-mismatch-error.md
 - name: Једноставна примена – од погодбе до профактуре
   items:
-    - name: Започните
+    - name: Први кораци
       items:
         - name: Преглед једноставне примене
           href: pro/project-operations-overview-lite.md
@@ -548,6 +562,8 @@
       items:
         - name: Шта је ново у вези са раним приступом 2. таласа за 2021. – једноставна примена
           href: pro/whats-new/whats-new-2021-early-access-lite.md
+        - name: Шта је ново у децембру 2021. – једноставна примена
+          href: pro/whats-new/whats-new-dec-2021-lite.md
         - name: Шта је ново у новембру 2021. – једноставна примена
           href: pro/whats-new/whats-new-nov-2021-lite.md
         - name: Шта је ново у октобру 2021. – једноставна примена
@@ -890,10 +906,24 @@
           href: pro/subcontracting/subcontract-line-expense.md
         - name: Предмети подуговора за производе
           href: pro/subcontracting/subcontract-line-products.md
-        - name: Ресурси предмета подуговора
+        - name: Ресурси предмета подизвођача
           href: pro/subcontracting/subcontract-line-resources.md
         - name: Контролне тачке предмета подуговора
           href: pro/subcontracting/subcontract-line-milestones.md
+        - name: Чланови пројектног тима подуговарања
+          href: pro/subcontracting/subcontracting-project-team-members.md
+        - name: Опције подуговарања за чланове пројектног тима
+          href: pro/subcontracting/subcon-options.md
+        - name: Процена трошкова додељивања ресурса подизвођачима
+          href: pro/subcontracting/costing-subcon-ra.md
+        - name: Конфигурисање табеле распореда за приказивање радника по уговору и капацитета подизвођача
+          href: pro/subcontracting/configure-sb-subcon.md
+        - name: Особље пројекта са радницима по уговору и подизвођачима
+          href: pro/subcontracting/staffing-cw.md
+        - name: 'Време снимања, трошкови и коришћење материјала за компоненте подизвођачима'
+          href: pro/subcontracting/recording-subcon-actuals.md
+        - name: Промене статуса подуговора
+          href: pro/subcontracting/subcon-states.md
     - name: Време
       items:
         - name: Преглед времена
@@ -1086,7 +1116,7 @@
           href: expense/set-up-expense-categories.md
     - name: Лични трошкови
       href: expense/personal-expenses-expense-report.md
-    - name: Интерни трошкови у оквиру предузећа
+    - name: Трошкови у оквиру предузећа
       href: prod-exp/intercompany-expense.md
     - name: Креирање извештаја о трошковима
       items:
@@ -1116,8 +1146,10 @@
       href: psa/overview.md
     - name: Шта је ново
       items:
-        - name: Распоред издања исправке за Project Service 3.x
+        - name: Распоред издања исправки за Project Service 3.x
           href: psa/version-history-ps.md
+        - name: 'Шта је ново или промењено у издању исправке број 38, V3'
+          href: psa/whats-new-ur-38.md
         - name: 'Шта је ново или промењено у издању исправке број 37.5, V3'
           href: psa/whats-new-ur-37-5.md
         - name: 'Шта је ново или промењено у издању исправке број 37, V3'
@@ -1204,6 +1236,8 @@
           href: psa/implementation-guides/resource-management-guide.md
         - name: Водич за извештавање
           href: psa/implementation-guides/reporting-guide.md
+    - name: Надоградња са апликације Project Service Automation на услугу Project Operations – једноставно
+      href: psa/upgrade-project-operations-non-stocked.md
     - name: Надоградња апликације Project Service Automation (верзија апликације 3.x)
       items:
         - name: Надоградња апликације Project Service Automation

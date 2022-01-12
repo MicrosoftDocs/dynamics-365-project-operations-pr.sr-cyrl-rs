@@ -7,20 +7,20 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: e8560e7c7d6bae1bb2fda389a63bde1c57654bcb
-ms.sourcegitcommit: 04ebe764afa22742b3fbf8f12af31e8eea93682e
+ms.openlocfilehash: 0fd910fb1b1e4e4576afa386a600e56e6f2dd504
+ms.sourcegitcommit: 9d20e7738cce195d344f5925a115741a1ce3ca36
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "7827299"
+ms.lasthandoff: 12/21/2021
+ms.locfileid: "7942949"
 ---
 # <a name="whats-new-november-2021---project-operations-lite-deployment"></a>Шта је нови новембар 2021 - Пројецт Оператионс лите деплоyмент
 
 _Односи се на: Једноставна примена – од погодбе до профактуре_
 
-Ова тема се примењује на следеће компоненте и верзије програма Мицрософт Дyнамицс 365 Пројецт Оператионс:
+Ова тема се односи на следеће компоненте и верзије корпорације Dynamics 365 Project Operations Мицрософт:
 
-- Операције пројекта у верзији Датаверсе окружења 4.26.0.145, 4.26.0.148, или 4.26.0.150
+- Операције пројекта у Dataverse верзији окружења 4.26.0.145, 4.26.0.148, 4.26.0.150, 4.26.0.155
   
 ## <a name="features-included-in-this-release"></a>Функције укључене у овом издању
 
@@ -30,7 +30,7 @@ _Односи се на: Једноставна примена – од пого
 
 ## <a name="quality-updates"></a>Исправке квалитета
 
-### <a name="project-operations-in-dataverse"></a>Пројектне операције у Датаверсе
+### <a name="project-operations-in-dataverse"></a>Операције пројекта у Dataverse
 
 | Област функција | Референтни број | Исправка квалитета |
 | --- | --- | --- |
