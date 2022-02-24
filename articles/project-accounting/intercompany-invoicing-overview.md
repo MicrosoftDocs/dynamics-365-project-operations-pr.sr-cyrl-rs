@@ -2,17 +2,18 @@
 title: Преглед интерног фактурисања у оквиру предузећа
 description: Ова тема пружа информације и примере о интерном фактурисању између предузећа за пројекте.
 author: sigitac
+manager: tfehr
 ms.date: 11/19/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.custom: intro-internal
-ms.openlocfilehash: c343c5bf525574e496036793cd4e131394e8b1b471153147a66cfebe1acf3fce
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 670b5d15ecf1ef7dcc034064e625814cbe6d54b0
+ms.sourcegitcommit: addbe0647619413e85e7cde80f6a21db95ab623e
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7005409"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "4595547"
 ---
 # <a name="intercompany-invoicing-overview"></a>Преглед интерног фактурисања у оквиру предузећа
 
@@ -20,9 +21,9 @@ _**Односи се на:** Project Operations за сценарије засн
 
 Ваша организација може имати више одељења, подружница и других правних лица која међусобно преносе производе и услуге за пројекте. Правно лице које пружа услугу или даје производ назива се *правно лице које позајмљује*. Правно лице које прима услугу или производ назива се *правно лице које се задужује*.
 
-Следећа илустрација приказује типичан сценарио када два правна лица, Contoso Robotics USA (правно лице које се задужује) и Contoso Robotics UK (правно лице које позајмљује) дели ресурсе за испоруку пројекта за клијента, Adventure works. За овај сценарио, Contoso Robotics USA је уговорио испоруку дела за Adventure Works.
+Следећа илустрација приказује типични сценарио када два правна лица, Contoso Robotics USA (правно лице које се задужује) и Contoso Robotics UK (правно лице које позајмљује) деле ресурсе како би испоручили пројекат клијенту, Adventure works. За овај сценарио, Contoso Robotics USA по уговору треба да испоручи посао предузећу Adventure Works.
 
-![Интерно фактурисање у оквиру предузећа.](./media/IntercompanyScenario.png) 
+![Интерно фактурисање у оквиру предузећа](./media/IntercompanyScenario.png) 
 
 Dynamics 365 Project Operations користи следећи ток за обраду трансакција између предузећа:
 
@@ -35,13 +36,10 @@ Dynamics 365 Project Operations користи следећи ток за обр
 
 Следећи дијаграм илуструје фактурисање између предузећа које се односи на рачуноводствене догађаје и очекивана књижења у главну књигу.
 
-![Ток између предузећа.](./media/IntercompanyFlow.png)
+![Ток између предузећа](./media/IntercompanyFlow.png)
 
 ## <a name="additional-resources"></a>Додатни ресурси
 
 - [Конфигурисање интерног фактурисања у оквиру предузећа](configure-intercompany-invoicing.md)
 - [Евидентирање трансакција у оквиру предузећа](create-intercompany-transactions.md)
 - [Креирање интерних фактура клијента и добављача у оквиру предузећа](create-intercompany-customer-vendor-invoices.md)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

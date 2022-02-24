@@ -2,9 +2,11 @@
 title: Креирање пројектног тима
 description: Ова тема пружа информације о томе како да креирате и управљате пројектним тимовима.
 author: Yowelle
+manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
@@ -16,12 +18,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 1ab8ae045852a75a7a39a4eccfa86a114a34273581c98631975bcbfac5a7a343
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 121a007d91c2da4f3b9951901781757b8bcca8fe
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7005814"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5270876"
 ---
 # <a name="create-a-project-team"></a>Креирање пројектног тима
 
@@ -33,7 +35,7 @@ ms.locfileid: "7005814"
 
 Менаџер пројекта може одабрати улогу на страници, а затим, ако постоји доступан ресурс који одговара захтевима, изаберите да резервишете ресурс за попуњавање улоге. Имајте на уму да ресурси у овом тренутку не морају бити резервисани у фази планирања. Када креирате САП, можете заменити улоге ресурсима особља за пројекат. Ако се улоге замене ресурсима особља у САП-у, подешавање ресурса аутоматски ажурира списак и распоред пројектног тима.
 
-[![Списак пројектног тима који укључује и улоге и стварне ресурсе.](./media/projectresourcing03-1024x368.jpg)](./media/projectresourcing03.jpg) 
+[![Списак пројектног тима који укључује и улоге и стварне ресурсе](./media/projectresourcing03-1024x368.jpg)](./media/projectresourcing03.jpg) 
 
 Менаџер пројекта има разне могућности за резервацију ресурса за пројекат, као што су **Преостали капацитет**, **Пун капацитет**, **Проценат капацитета** и **Наведите радно време**. Ове опције резервације могу се отказати у било ком тренутку ако се промене додељивања ресурса. Подржане су две врсте резервација:
 

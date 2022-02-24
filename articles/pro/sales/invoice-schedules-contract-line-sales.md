@@ -2,16 +2,18 @@
 title: Креирање распореда фактурисања за предмет уговора заснован на пројекту – једноставно
 description: Ова тема пружа информације о креирању распореда фактура и контролних тачака.
 author: rumant
+manager: Annbe
 ms.date: 10/26/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: dc0cf92ed7af0353baa0f93fc7fb69e02905f805eb04a7b4c7bc99cfe59da62a
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 728a35b2b69fb63a2b20f218c250365c5068370f
+ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7006084"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "4180345"
 ---
 # <a name="create-invoice-schedules-on-a-project-based-contract-line---lite"></a>Креирање распореда фактурисања за предмет уговора заснован на пројекту – једноставно
 
@@ -72,6 +74,3 @@ _**Односи се на:** Једноставна примена – од по
 | Порез | Брзо креирање | Износ пореза примењен на контролну тачку. | Ово је укључено у контролну тачку предмета уговора за пројекат и у фактуру. |
 
 4. Изаберите ставку **Сачувај и затвори**.
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

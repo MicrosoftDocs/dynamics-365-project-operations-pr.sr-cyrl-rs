@@ -2,16 +2,18 @@
 title: Управљање уговорима за пројекат
 description: Ова тема пружа информације о приказу уговора заснованих на пројекту.
 author: rumant
+manager: Annbe
 ms.date: 10/26/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 448c5a7c4144387440b26c526f66acbbbe475ad533da9e00db0eb5d5e86be9e8
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 441fbc378a423334f45bc65658811ef238515393
+ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7001854"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "4177349"
 ---
 # <a name="manage-project-contracts"></a>Управљање уговорима за пројекат
 
@@ -31,6 +33,3 @@ _**Односи се на:** Project Operations за сценарије засн
 2. Изаберите **Пребацивач приказа** (падајућа стрелица поред назива приказа) да бисте изабрали друге филтриране приказе. Можете да креирате сопствене приказе са прилагођеним критеријумима филтера.
 
 Уговори се могу креирати или избрисати са ове странице листе или страница са детаљима.
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

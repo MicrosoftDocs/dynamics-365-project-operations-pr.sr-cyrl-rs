@@ -2,17 +2,19 @@
 title: Ажурирање услуге Project Operations у Finance окружењу
 description: Ова тема пружа информације о томе како да ажурирате услугу Project Operations у Dynamics 365 Finance окружењу.
 author: ruhercul
+manager: tfehr
 ms.date: 12/11/2020
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 3665bccfa25c759c0f2351c691d24901867c178f7c339f4a524856842666aec5
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 249b8dba17165da04596ec46a625131b9b4daeb5
+ms.sourcegitcommit: f4fc6e3a81e8551da050e92f8fde85f8d7b52fbd
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6986779"
+ms.lasthandoff: 12/29/2020
+ms.locfileid: "4816643"
 ---
 # <a name="update-project-operations-in-your-finance-environment"></a>Ажурирање услуге Project Operations у Finance окружењу
 
@@ -33,7 +35,7 @@ _**Односи се на:** Project Operations за сценарије засн
 4. Проверите да ли је окружење покренуто. Ако није покренуто, покрените окружење.
 5. У одељку **Ново издање** под **Доступне исправке** изаберите **Прикажи исправку** за 10.0.15.
 
-![Дугме „Прикажи исправку“.](media/view-update.png)
+![Дугме „Прикажи исправку“](media/view-update.png)
 
 6. На страници **Бинарна ажурирања** изаберите **Сачувај пакет**.
 7. На страници **Преглед и чување исправки** изаберите **Сачувај пакет**.
@@ -47,11 +49,11 @@ _**Односи се на:** Project Operations за сценарије засн
 2. На листи изаберите пакет који сте раније сачували, а затим изаберите **Примени**.
 3. Изаберите **Да** да бисте потврдили да желите да примените пакет.
 
-![Потврдите избор у дијалогу „Примена пакета“.](media/confirm-package-deployment.png)
+![Потврдите избор у дијалогу „Примена пакета“](media/confirm-package-deployment.png)
 
 4. Изаберите **Да** да бисте потврдили да желите да ажурирате апликацију.
 
-![Потврдите избор у дијалогу „Ажурирање апликације“.](media/confirm-application-update.png)
+![Потврдите избор у дијалогу „Ажурирање апликације“](media/confirm-application-update.png)
 
 Покренуће се примена и ажурирање апликације. 
 
@@ -84,7 +86,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 1. У окружењу Dataverse идите на **Подешавања** и у групи **Систем** изаберите **Безбедност**.
 
-![Подешавања Dataverse окружења.](media/Picture21.png)
+![Подешавања Dataverse окружења](media/Picture21.png)
 
 2. Изаберите **Безбедносне улоге**.
 3. Са листе улога изаберите **корисник апликације за двоструко уписивање** и изаберите картицу **Прилагођени ентитети**. 
@@ -121,8 +123,5 @@ _**Односи се на:** Project Operations за сценарије засн
 6. На листи мапа одаберите мапу **Главна књига (msdyn_ledgers)** са свим предусловима и означите поље за потврду **Почетна синхронизација**. 
 7. У пољу **Мастер за почетну синхронизацију** изаберите **Finance and Operations апликације**, а затим изаберите **Покрени**.
  
- ![Синхронизација мапе главне књиге.](media/DW6.png)
+ ![Синхронизација мапе главне књиге](media/DW6.png)
  
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

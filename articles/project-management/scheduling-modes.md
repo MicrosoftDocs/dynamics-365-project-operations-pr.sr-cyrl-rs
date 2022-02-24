@@ -2,16 +2,18 @@
 title: Режими планирања
 description: Ова тема пружа информације о режимима планирања.
 author: ruhercul
-ms.date: 05/28/2021
+manager: AnnBe
+ms.date: 05/04/2021
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 41e56d01c3cfa62558b10e178085a4408a0aadb023f3f7347a61d121f542bb08
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: fe54944999617b248ff925148a78601dd4be7aca
+ms.sourcegitcommit: c45ceda833b30ad39861f5bcd3ba1bbfff11fe7a
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6987769"
+ms.lasthandoff: 05/04/2021
+ms.locfileid: "5981453"
 ---
 # <a name="scheduling-modes"></a>Режими планирања
 
@@ -23,12 +25,12 @@ Dynamics 365 Project Operations пружа могућност организац
 У Project Operations доступна су три начина распоређивања:
 
   - Фиксно трајање (ово је подразумевани режим)
-  - Фиксно ангажовање (*Рад*)
+  - Фиксни рад
   - Фиксне јединице
 
 Вредности на које утиче дефиниција одређеног режима распореда одређују се следећом формулом:
 
-  Ангажовање = Трајање x Јединице
+  Напор (*Посао*) = Трајање x Јединице
 
 Када дефинишете режим заказивања пројекта, постављате једну од ових вредности, које се потом не могу променити. Држање ове вредности као константе ставља приоритет на ту вредност, што обавештава систем да је не мења када се промене друге две вредности. Следећа табела пружа информације о утицајима избора одређеног режима.
 

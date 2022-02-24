@@ -2,21 +2,22 @@
 title: Преглед помоћника за заказивање
 description: Ова тема пружа информације о раду са помоћником за планирање ради резервисања ресурса.
 author: ruhercul
+manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
+ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.custom: intro-internal
-ms.openlocfilehash: 309cb94ea30c525daccf032c625004c42fb408dada4b337b65d8f36d76219669
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: da551e805f395e466952df1dbb7d193bdddba358
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6990244"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4083828"
 ---
 # <a name="schedule-assistant-overview"></a>Преглед помоћника за заказивање
 
-_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
+_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_
 
 Помоћник за планирање се користи за резервисање ресурса на основу захтева које је дефинисао менаџер пројекта. Помоћник за планирање се ослања на параметре наведене у захтеву за ресурсом да би пронашао ресурс. Помоћник за планирање препоручује ресурсе који одговарају релевантним захтевима, попут доступних времена или потребних вештина.
 
@@ -24,7 +25,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ## <a name="prerequisites"></a>Предуслови
 
-Помоћник за планирање је део решења Universal Resource Scheduling. Ово решење је укључено и инсталирано уз Dynamics 365 Project Operations, Dynamics 365 Field Service и Dynamics 365 Customer Service.
+Помоћник за планирање је део решења Universal Resource Scheduling. Ово решење је укључено и инсталирано са услугама Dynamics 365 Project Operations, Dynamics 365 Field Service и Dynamics 365 Customer Service.
 
 ## <a name="matching-requirements-and-resources"></a>Захтеви и ресурси који се подударају
 
@@ -56,6 +57,3 @@ _**Односи се на:** Project Operations за сценарије засн
 -   Предузеће које обезбеђује ресурсе
 -   Типови ресурса
 -   Жељени ресурси
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

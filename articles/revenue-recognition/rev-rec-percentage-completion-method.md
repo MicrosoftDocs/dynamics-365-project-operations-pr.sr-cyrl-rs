@@ -2,16 +2,18 @@
 title: Процена прихода пројеката са фиксном ценом
 description: Ова тема пружа информације о процени прихода са фиксном ценом у пројектима.
 author: sigitac
+manager: Annbe
 ms.date: 11/16/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 451f0403f0111b5ea4de6c91b54eae157830e413d3a21f23bd841a66905e147b
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 80fe1d4171d80ca39e8b7ebb1eefaa524a4f2b07
+ms.sourcegitcommit: 2d399bc9d07807626f0d6b2d0cf304240c47591c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7006444"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "4531546"
 ---
 # <a name="fixed-price-revenue-estimate-projects"></a>Процена прихода пројеката са фиксном ценом 
 
@@ -33,6 +35,3 @@ _**Односи се на:** Project Operations за сценарије засн
 
   Трошак пројекта, профил прихода, предложак трошкова и кôд периода могу се ручно подесити. Ако их не поставите ручно, вредности ће бити подразумеване на прво израчунавање процене за пројекат користећи правила конфигурисана за профиле трошкова и прихода пројекта.
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

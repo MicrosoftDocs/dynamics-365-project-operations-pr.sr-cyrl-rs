@@ -1,10 +1,12 @@
 ---
 title: Јединице и групе јединица
-description: Ова тема пружа информације о томе како да креирате јединице и групе јединица у услузи Dynamics 365 Project Operations.
+description: Ова тема пружа информације о томе како да креирате јединице и групе јединица у систему Dynamics 365 Project Operations.
 author: rumant
+manager: AnnBe
 ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -15,12 +17,12 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 6a0aec1cc32ebdea9d2dbc7cc891f82da07e044f5c5655e008068f72dd198587
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 3f588e41d001befeac87bb6a4e28a83cf5cfa865
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6999559"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4131046"
 ---
 # <a name="units-and-unit-groups"></a>Јединице и групе јединица
 
@@ -44,6 +46,3 @@ _**Односи се на:** Project Operations за сценарије засн
 3. У пољу **Количина** унесите количину коју желите да јединица садржи. На пример, ако кутија садржи два комада, унесите „2“. 
 4. У пољу **Основна јединица** изаберите основну јединицу да бисте успоставили најнижу мерну јединицу за јединицу. На пример, можете одабрати „Комад“.
 5. Изаберите **Сачувај**:
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

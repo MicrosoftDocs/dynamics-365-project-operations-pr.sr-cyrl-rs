@@ -2,9 +2,10 @@
 title: Шта је Dynamics 365 Project Service Automation?
 description: Увод и преглед апликације Project Service
 author: stsporen
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
-- intro-internal
 ms.date: 9/23/2019
 ms.topic: article
 ms.author: ruhercul
@@ -17,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 06894a64e4d96ec14799b528ff17b92fbb0d36ba8fdbc9b58abb892563e822b5
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: a78d8a2085821d6ba44750cfdba909c2c38b42ff
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7000279"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5150551"
 ---
 # <a name="what-is-dynamics-365-project-service-automation"></a>Шта је Dynamics 365 Project Service Automation?
 
@@ -46,10 +47,10 @@ ms.locfileid: "7000279"
 ## <a name="whats-new-in-psa"></a>Шта је ново у апликацији PSA
 Тим са узбуђењем најављује наше најновије исправке! Оне се пружају од побољшања корисничког интерфејса и исправљања програмских грешака до додавања нових важних функција и могућности. Ви сте тражили; ми смо слушали.
 
-Погледајте [Напомене уз издање из октобра '19.](/dynamics365-release-plan/2019wave2/index) да бисте видели наша најновија побољшања и додатке.
+Погледајте [Напомене уз издање из октобра '19.](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/index) да бисте видели наша најновија побољшања и додатке.
 
 ### <a name="in-development"></a>У развоју
-Да бисте видели шта планирамо у блиској будућности, пређите на [Dynamics 365: план 1. фазе издања за 2020.](/dynamics365-release-plan/2020wave1/index).
+Да бисте видели шта планирамо у блиској будућности, пређите на [Dynamics 365: план 1. фазе издања за 2020.](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/index).
 
 ## <a name="get-help-with-psa-version-3x"></a>Пронађите помоћ за PSA верзије 3.x
 Тражите ресурсе који ће вам помоћи да планирате примену? Погледајте ове водиче које можете преузети.
@@ -82,9 +83,6 @@ ms.locfileid: "7000279"
  [Напомене за програмере (апликација верзије 2.x)](../psa/developer-guides/add-custom-qoi-forms-v2.x.md)
 
  ## <a name="watch-a-2-minute-overview-video"></a>Погледајте 2-минутни видео запис прегледа
- <a name="heroArea"></a> [![ProjectService_IntroVideo](../psa/media/project-service-intro-video.png "ProjectService_IntroVideo."](https://go.microsoft.com/fwlink/p/?LinkId=799457)
+ <a name="heroArea"></a> [![ProjectService_IntroVideo](../psa/media/project-service-intro-video.png "ProjectService_IntroVideo")](https://go.microsoft.com/fwlink/p/?LinkId=799457)
 
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

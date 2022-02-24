@@ -2,6 +2,8 @@
 title: Пронађите следећи пројекат помоћу апликације Project Finder Mobile
 description: Како да пронађете следећи пројекат помоћу апликације Project Finder Mobile за Project Service
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -16,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: b5b6c4d608ae083d01be24258af35ed8f64e67a897690f1a2678f76b8befdcb1
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 58e6970dbe902deeef144e563bcfcd09046c70ce
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6990812"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5149291"
 ---
 # <a name="find-your-next-project-with-the-project-finder-mobile-app-project-service"></a>Пронађите следећи пројекат помоћу апликације Project Finder Mobile (Project Service)
 
@@ -38,15 +40,12 @@ ms.locfileid: "6990812"
   
  Додирните стрелицу десно од пројекта за који сте заинтересовани да бисте видели више и пријавили се за пројекат.  
   
- ![Листа вештина пројеката које се подударају у апликацију Project Finder Mobile.](../psa/media/project-service-project-finder-list.png "Листа вештина пројеката које се подударају у апликацију за проналажење пројеката за мобилне уређаје")  
+ ![Листа вештина пројеката које се подударају у апликацију за проналажење пројеката за мобилне уређаје](../psa/media/project-service-project-finder-list.png "Листа вештина пројеката које се подударају у апликацију за проналажење пројеката за мобилне уређаје")  
   
 ## <a name="update-your-skills"></a>Ажурирање вештина  
  Додирните дугме за профил у доњем десном углу екрана да бисте ажурирали нивое вештина и стручности.  
   
- ![Дугме профила у апликацији Project Finder Mobile.](../psa/media/project-service-project-finder-profile.png "Дугме профила у апликацији за проналажење пројеката за мобилне уређаје")  
+ ![Дугме профила у апликацији за проналажење пројеката за мобилне уређаје](../psa/media/project-service-project-finder-profile.png "Дугме профила у апликацији за проналажење пројеката за мобилне уређаје")  
   
 ### <a name="see-also"></a>Такође погледајте  
  [Водич за време, трошак и сарадњу](../psa/time-expense-collaboration-guide.md)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

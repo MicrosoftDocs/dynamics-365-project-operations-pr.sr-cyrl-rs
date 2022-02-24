@@ -2,16 +2,18 @@
 title: Креирање ад-хок авансне уплате за уговор
 description: Ова тема пружа информације о креирању аванса за уговор по потреби.
 author: rumant
+manager: Annbe
 ms.date: 10/26/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: bceed1372dbaf523426a4c34da7152d77fe108240c8c3e4e1390c43b1cf536a4
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 790a0281f72eff5f241d11da025b5b4af643a567
+ms.sourcegitcommit: 250270409412ba4cad95fbd4c345a80d3d2b3e53
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6999154"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "4596029"
 ---
 # <a name="creating-an-ad-hoc-advance-on-a-contract"></a>Креирање ад-хок авансне уплате за уговор
 
@@ -37,6 +39,3 @@ Microsoft Dynamics 365 Project Operations подржава сценарије ф
     | **Статус фактуре** | Ово је подешавање опције које показује да ли је овај аванс додат радној верзији фактуре за овог клијента. Могуће вредности су следеће:</br>- **Није спремно за фактурисање**</br>- **Спремно за фактурисање** | Када се аванс или претплата означи као **Спремно за фактурисање**, додаје се као време ставке на радној верзији фактуре. Само потпуно фактурисани аванс се може користити за усаглашавање са пројектним трошковима за следећи период фактурисања. |
 
 4. Изаберите **Сачувај и затвори** у дијалогу за брзо креирање за бележење аванса или претплате.
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

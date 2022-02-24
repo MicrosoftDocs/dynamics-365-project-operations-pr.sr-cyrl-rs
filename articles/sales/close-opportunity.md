@@ -2,16 +2,18 @@
 title: Затварање могућности за пословање
 description: Ова тема пружа информације о затварању могућности за пословање пројекта.
 author: rumant
+manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: da388c19fb32a1dc62a0273a4de1203a45345dfb0c0a56e76b73cccc751e9545
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 59a4cd96a4fd24987179f0ab17f1379efc22bbbe
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7006399"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4128750"
 ---
 # <a name="close-an-opportunity"></a>Затварање могућности за пословање
 
@@ -21,7 +23,4 @@ _**Односи се на:** Project Operations за сценарије засн
 
 Неће вам бити дозвољено да затворите могућност за пословање ако су са њом повезане било какве активне понуде. Можете истовремено затворити све активне понуде и радне верзије понуда повезане са могућношћу за пословање. Затим ће вам бити дозвољено да затворите могућност за пословање.
 
-За више општих информација о затварању могућности за пословање, погледајте [Затварање могућности за пословање као остварених или неостварених](/dynamics365/sales-enterprise/close-opportunity-won-lost-sales).
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
+За више општих информација о затварању могућности за пословање, погледајте [Затварање могућности за пословање као остварених или неостварених](https://docs.microsoft.com/dynamics365/sales-enterprise/close-opportunity-won-lost-sales).

@@ -2,6 +2,8 @@
 title: Креирање ставки времена
 description: Ова тема пружа информације о томе како да креирате ставке времена.
 author: rumant
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 05/20/2019
@@ -16,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0d0e21d0964788564d3db9173c3a0b3378cd0049b4455a23ccc1bccd1c21d9e7
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 520d3a6e6cc3d486d778c66c2ef7fd3ff20cd582
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6990424"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5149696"
 ---
 # <a name="create-time-entries"></a>Креирање ставки времена
 
@@ -68,6 +70,3 @@ ms.locfileid: "6990424"
 ## <a name="group-by-sort-search-and-filter-capabilities"></a>Могућности груписања према, сортирања, претраге и филтрирања
 
 Можете груписати и филтрирати ставке времена према димензијама које су наведене у колонама. У пољу **Групирај према** одаберите димензију за филтрирање ставки времена. Такође можете сортирати записе ставки времена растућим или опадајућим редоследом користећи стрелицу за сортирање у називима колона. Поред тога, ставке можете приказати или сакрити тако што ћете кликнути на дугме **Филтер** у називу колоне, а затим у пољу **Претрага** унети текст који треба да се користи за претрагу ставки времена према називу пројекта, пројектном задатку, ставци времена или ресурсу.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

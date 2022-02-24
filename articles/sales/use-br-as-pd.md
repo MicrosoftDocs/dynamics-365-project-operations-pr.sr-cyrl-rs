@@ -2,16 +2,18 @@
 title: Коришћење ресурса који може да се резервише као аспекта за одређивање цена
 description: Ова тема пружа информације о томе како да користите ресурс који се може резервисати као димензије за одређивање цена.
 author: Rumant
+manager: tfehr
 ms.date: 11/18/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 1e8487d3d32acab294bb2de16fb0278f357f774e62b553eb0c1ebd5b6246e332
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: b0c5cb85f7c43f7b2fd9c367d7f7ac9c3250e0a1
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6996274"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4643101"
 ---
 # <a name="use-a-bookable-resource-as-a-pricing-dimension"></a>Коришћење ресурса који може да се резервише као аспекта за одређивање цена
 
@@ -64,18 +66,15 @@ ms.locfileid: "6996274"
 1. Двапут кликните на ред у мрежи **Димензије за одређивање цена** да бисте отворили страницу димензије поља **msdyn_bookableresource**.
 2. На страници димензије, на картици **Повезано** изаберите **Називи поља димензија за одређивање цена**.
 
-  ![Картица Имена поља димензија за одређивање цена.](media/PD-fieldname.png)
+  ![Картица Имена поља димензија за одређивање цена](media/PD-fieldname.png)
 
 3. У везаном приказу који се отвара изаберите **Додај нови назив поља димензије за одређивање цена**.
 
-  ![Додавање нових имена поља димензије за одређивање цена.](media/Add-NewPD-fieldname.png)
+  ![Додавање нових имена поља димензије за одређивање цена](media/Add-NewPD-fieldname.png)
 
   Овако отварате страницу **Ново име поља димензије за одређивање цена** за **msdyn_bookableresource**. 
 
 4. У страници **Нови назив поља димензије за одређивање цене**, додајте **msdyn_projectteam** у **Логички назив ентитета**.
 5. Додајте **msdyn_bookableresourceid** у **Назив поља**.
 
- ![Образац за ново име поља димензије за одређивање цена.](media/PD-fieldname-Added.png)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
+ ![Образац за ново име поља димензије за одређивање цена](media/PD-fieldname-Added.png)

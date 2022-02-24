@@ -2,16 +2,18 @@
 title: Коришћење категорије трансакције као аспекта за одређивање цена
 description: Ова тема пружа информације о томе како да користите поље „Категорија трансакције“ као димензије за одређивање цена.
 author: rumant
+manager: tfehr
 ms.date: 11/05/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: ab8093aca9a33bbbaef41c6fc7d33cad930bfadd13b0f7587c3de9032ac0d630
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: bace11455d34fdda95e08be1a7cc37850a0cf589
+ms.sourcegitcommit: 869bde007805ef255f61b03937e4a44aeef61df9
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6996139"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "4514022"
 ---
 # <a name="use-transaction-category-as-a-pricing-dimension"></a>Коришћење категорије трансакције као аспекта за одређивање цена
 
@@ -48,6 +50,3 @@ _**Односи се на:** Project Operations за сценарије засн
 2. На страници **Параметри**, на картици **Димензије за одређивање цена засноване на износима**, потврдите да ли мрежа приказује записе у ентитету **Димензије за одређивање цена**.
 3. Додајте **Категорија трансакције** на ову листу и подесите поља **Применљиво на трошкове** и **Примењиво на продају** на **Да**.
 4. У пољу **Врста димензије** изаберите **Засновано на износу**, а затим изаберите приоритет за ставку **Категорија трансакције** јер је повезана са трошковима и продајом.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,9 +2,11 @@
 title: Мобилни радни простор за ставку времена пројекта
 description: Ова тема пружа информације о мобилном радном простору ставке времена пројекта. Овај радни простор омогућава корисницима да унесу у сачувају време у пројекту користећи свој мобилни уређај.
 author: Yowelle
+manager: AnnBe
 ms.date: 12/01/2017
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: josaw
@@ -16,12 +18,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: 04024cc005b67b8f4e5821b22be65cfd1822b2414c85e1fbb75c3b2ac4339dc4
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 23a5a9f25cfdd6df74257b3500c7a035d711b5f6
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6989569"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4083953"
 ---
 # <a name="project-time-entry-mobile-workspace"></a>Мобилни радни простор за ставку времена пројекта
 
@@ -46,7 +48,7 @@ ms.locfileid: "6989569"
 Предуслови се разликују, на основу верзије система Microsoft Dynamics 365 који је примењен за вашу организацију.
 
 ### <a name="prerequisites-if-you-use-dynamics-365-finance"></a>Предуслови ако користите Dynamics 365 Finance
-Ако је Finance примењен у вашој организацији, администратор система мора објавити мобилни радни простор **Ставка времена пројекта**. За упутства погледајте [Објављивање мобилног радног простора](/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace).
+Ако је Finance примењен у вашој организацији, администратор система мора објавити мобилни радни простор **Ставка времена пројекта**. За упутства погледајте [Објављивање мобилног радног простора](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace).
 
 ### <a name="prerequisites-if-you-use-version-1611-with-platform-update-3-or-later"></a>Предуслови ако користите верзију 1611 са исправком 3 платформе или новијом
 Ако је за вашу организацију примењена верзија 1611 са исправком 3 платформе или новијом, администратор система мора да испуни следеће предуслове. 
@@ -66,17 +68,17 @@ ms.locfileid: "6989569"
 <td>Администратор система</td>
 <td>KB 4018050 је хитна исправка за X++ исправку или метаподатке која садржи мобилни радни простор <strong>Ставка времена пројекта</strong>. Да би применио KB 4018050, администратор система мора следити ове кораке.
 <ol>
-<li><a href="/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/download-hotfix-lcs">Преузмите хитну исправку за метаподатке из услуге Microsoft Dynamics Lifecycle Services (LCS)</a>.</li>
-<li><a href="/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/install-metadata-hotfix-package">Инсталирајте хитну исправку за метаподатке</a>.</li>
-<li><a href="/dynamics365/fin-ops-core/dev-itpro/deployment/create-apply-deployable-package">Креирајте пакет који се може применити</a> који садржи моделе <strong>ApplicationSuite</strong> и <strong>ProjectMobile</strong>, а затим отпремни пакет који се може применити на LCS.</li>
-<li><a href="/dynamics365/fin-ops-core/dev-itpro/deployment/apply-deployable-package-system">Примените пакет који се може применити</a>.</li>
+<li><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/download-hotfix-lcs">Преузмите хитну исправку за метаподатке из услуге Microsoft Dynamics Lifecycle Services (LCS)</a>.</li>
+<li><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/install-metadata-hotfix-package">Инсталирајте хитну исправку за метаподатке</a>.</li>
+<li><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/create-apply-deployable-package">Креирајте пакет који се може применити</a> који садржи моделе <strong>ApplicationSuite</strong> и <strong>ProjectMobile</strong>, а затим отпремни пакет који се може применити на LCS.</li>
+<li><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/apply-deployable-package-system">Примените пакет који се може применити</a>.</li>
 
 </ol></td>
 </tr>
 <tr class="even">
 <td>Објавите мобилни радни простор за <strong>ставку времена пројекта</strong>.</td>
 <td>Администратор система</td>
-<td>Погледајте <a href="/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace">Објављивање мобилног радног простора</a>.</td>
+<td>Погледајте <a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace">Објављивање мобилног радног простора</a>.</td>
 </tr>
 </tbody>
 </table>
@@ -94,23 +96,20 @@ ms.locfileid: "6989569"
 3.  Када се први пут пријавите, од вас ће се затражити корисничко име и лозинка. Унесите акредитиве.
 4.  Када се пријавите, приказују се доступни радни простори за вашу компанију. Имајте на уму да ако администратор система касније објави нови радни простор, мораћете да освежите листу мобилних радних простора.
 
-[![Повуци ради освежавања.](./media/pull-to-refresh-list-of-workspaces-183x300.png)](./media/pull-to-refresh-list-of-workspaces.png)
+[![Повуците да освежите](./media/pull-to-refresh-list-of-workspaces-183x300.png)](./media/pull-to-refresh-list-of-workspaces.png)
 
 ## <a name="enter-time-by-using-the-project-time-entry-mobile-workspace"></a>Унесите време помоћу мобилног радног простора за ставку времена пројекта
 1.  На мобилном уређају, изаберите радни простор **Ставка времена пројекта**.
 2.  Изаберите **Ставка времена**. Приказани су датуми календара за текућу недељу.
 3.  За изабрани датум изаберите **Радње** &gt; **Нова ставка**.
 4.  Унесите број сати за евидентирање.
-5.  Изаберите пројекат за ставку времена. Листа приказује пројекте који су учитани у вашу апликацију за коришћење ван мреже. Подразумевано се учитава 50 ставки, али програмер може променити овај број. За више информација погледајте чланак [Мобилна платформа](/dynamics365/fin-ops-core/dev-itpro/mobile-apps/mobile-app-home-page).
+5.  Изаберите пројекат за ставку времена. Листа приказује пројекте који су учитани у вашу апликацију за коришћење ван мреже. Подразумевано се учитава 50 ставки, али програмер може променити овај број. За више информација погледајте чланак [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/mobile-app-home-page).
 6.  Ако ваш пројекат није на листи, изаберите **Претрага**. Претражујте по имену или пређите на претрагу по називу пројекта или клијенту.
-7.  Изаберите категорију. Листа приказује категорије које су учитане у вашу апликацију за коришћење ван мреже. Подразумевано се учитава 50 ставки, али програмер може променити овај број. За више информација погледајте чланак [Мобилна платформа](/dynamics365/fin-ops-core/dev-itpro/mobile-apps/mobile-app-home-page).
+7.  Изаберите категорију. Листа приказује категорије које су учитане у вашу апликацију за коришћење ван мреже. Подразумевано се учитава 50 ставки, али програмер може променити овај број. За више информација погледајте чланак [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/mobile-app-home-page).
 8.  Ако ваша категорија није на листи, изаберите **Претрага**. Претражујте по категорији или се пребаците на претрагу по називу категорије.
-9.  Изаберите активност. Листа приказује активности које су учитане у вашу апликацију за коришћење ван мреже. Подразумевано се учитава 50 ставки, али програмер може променити овај број. За више информација погледајте чланак [Мобилна платформа](/dynamics365/fin-ops-core/dev-itpro/mobile-apps/mobile-app-home-page).
+9.  Изаберите активност. Листа приказује активности које су учитане у вашу апликацију за коришћење ван мреже. Подразумевано се учитава 50 ставки, али програмер може променити овај број. За више информација погледајте чланак [Мобилна платформа](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/mobile-app-home-page).
 10. Ако ваша активност није на листи, изаберите **Претрага**. Претражујте према броју активности или се пребаците на претрагу по намени.
 
 11. Изаберите својство реда.
 12. Опционално: Унесите све спољне и интерне коментаре.
 13. Изаберите **Готово**.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

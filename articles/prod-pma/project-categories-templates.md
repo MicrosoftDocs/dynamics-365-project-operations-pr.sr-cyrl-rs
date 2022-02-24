@@ -2,9 +2,11 @@
 title: Синхронизујте категорије трошкова пројекта између услуга Finance and Operations и Project Service Automation
 description: Ова тема описује предлошке и основне задатке који се користе за синхронизацију категорија задатака пројекта између услуга Microsoft Dynamics 365 Finance и Dynamics 365 Project Service Automation.
 author: Yowelle
+manager: AnnBe
 ms.date: 07/20/2018
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: josaw
@@ -15,12 +17,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 8.0.0
-ms.openlocfilehash: 52c79f8b641d4b2df3b30964331633f2487402f8f8d229b540f9544c0f848557
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: ed7ca3c85d3f99b7eefe10f4ddec822b9aeb1684
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7001134"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4084111"
 ---
 # <a name="synchronize-project-expense-categories-between-finance-and-operations-and-project-service-automation"></a>Синхронизујте категорије трошкова пројекта између услуга Finance and Operations и Project Service Automation
 
@@ -56,7 +58,7 @@ ms.locfileid: "7001134"
 
 Следећа илустрација приказује како се подаци синхронизују између услуга Project Service Automation и Finance.
 
-[![Ток података за интеграцију услуге Project Service Automation са услугом Finance.](./media/ProjectExpenseCategoriesFlow.png)](./media/ProjectExpenseCategoriesFlow.png)
+[![Ток података за интеграцију услуге Project Service Automation са услугом Finance](./media/ProjectExpenseCategoriesFlow.png)](./media/ProjectExpenseCategoriesFlow.png)
 
 ## <a name="project-expense-category-synchronization-from-finance-to-project-service-automation"></a>Синхронизација категорије трошкова пројекта из услуге Finance у Project Service Automation
 
@@ -93,7 +95,7 @@ ms.locfileid: "7001134"
 
 Следећа илустрација приказује пример мапирања задатака предлошка у услузи Data Integration. Мапирање приказује информације о пољу које ће се синхронизовати из услуге Finance у Project Service Automation.
 
-[![Мапирање категорије трошкова пројекта са Project Service Automation предлошком.](./media/ProjectExpenseCategoriesToPSAMapping.jpg)](./media/ProjectExpenseCategoriesToPSAMapping.jpg)
+[![Мапирање категорије трошкова пројекта са Project Service Automation предлошком](./media/ProjectExpenseCategoriesToPSAMapping.jpg)](./media/ProjectExpenseCategoriesToPSAMapping.jpg)
 
 ## <a name="project-expense-category-synchronization-from-project-service-automation-to-finance"></a>Синхронизација категорије трошкова пројекта из услуге Project Service Automation у Finance
 
@@ -121,7 +123,4 @@ ms.locfileid: "7001134"
 > [!NOTE]
 > Мапирање приказује информације о терену које ће се синхронизовати из услуге Project Service Automation у Finance.
 
-[![Мапирање услуге Project Service Automation са Finance предлошком.](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
+[![Мапирање услуге Project Service Automation са Finance предлошком](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)

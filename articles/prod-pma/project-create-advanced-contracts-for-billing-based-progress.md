@@ -2,9 +2,11 @@
 title: Креирајте напредне уговоре за наплату на основу напретка
 description: Ова тема објашњава како се креирају пројектни уговори тако да можете генерисати фактуре за клијенте на основу процента завршеног посла.
 author: RadhikaRS
+manager: AnnBe
 ms.date: 03/26/2020
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
@@ -16,12 +18,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 7
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: 661e8aa0be70e9c8aadcb3a3d9dd6d39d1bcb2fd55d198b3c9af19fc2d0ae9d3
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 1a83785a9db4dffc4585acf11ef971c08594f312
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7000999"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4084101"
 ---
 # <a name="create-advanced-contracts-for-billing-based-on-progress"></a>Креирајте напредне уговоре за наплату на основу напретка
 [!include [banner](../includes/banner.md)]
@@ -101,6 +103,3 @@ ms.locfileid: "7000999"
 8. Опционално: Доделите правило наплате додатним пројектима. На брзој картици **Пројекат**, у одељку **Доступни пројекти** изаберите пројекат, а затим притисните дугме са стрелицом удесно да бисте додали пројекат у одељак **Одабрани пројекти**.
 9. Опционално: Израчунајте процентуални износ који купац задржава од плаћања на рачуну. На брзој картици **Услови задржавања плаћања** изаберите извор финансирања, а затим у пољу **Проценат задржавања** унесите проценат задржавања.
 10. Поновите ове кораке да бисте креирали додатна правила за обрачун за пројектни уговор.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

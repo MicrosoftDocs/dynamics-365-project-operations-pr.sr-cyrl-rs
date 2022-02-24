@@ -2,6 +2,8 @@
 title: Пријављивање у Project Service Automation
 description: Како да се пријавите у апликацију Project Service
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -16,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 4302b922e3ed9a2d01f12473c272c58f888e19825424c319c0c49b80e79a8bea
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 30af778c31dc7dfc1f80f8f8295f8791873a05dd
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6990469"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5150281"
 ---
 # <a name="sign-in-to-project-service-automation"></a>Пријављивање у Project Service Automation
 
@@ -37,7 +39,7 @@ ms.locfileid: "6990469"
   
 - Ваша лозинка  
   
-  Вероватно сте те информације примили у е-поруци од администратора. Ако немате све ове информације или ако имате проблеме приликом пријављивања, [Потражите администратора или особу за подршку](/dynamics365/customerengagement/on-premises/basics/find-administrator-support).  
+  Вероватно сте те информације примили у е-поруци од администратора. Ако немате све ове информације или ако имате проблеме приликом пријављивања, [Потражите администратора или особу за подршку](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/basics/find-administrator-support).  
   
 ## <a name="set-your-personal-options-to-allow-email"></a>Подесите личне опције да омогућавају е-пошту  
  Потребно је да конфигуришете подешавања е-поште да се дозволи слање е-поште другима у ваше име, тако да [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] може да пошаљете е-поруке са обавештењем у ваше име када је потребно да одобрите време и трошкове или да се пријавите за пројекте.  
@@ -54,6 +56,3 @@ ms.locfileid: "6990469"
   
 ### <a name="see-also"></a>Такође погледајте  
  [Водич за време, трошак и сарадњу](../psa/time-expense-collaboration-guide.md)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

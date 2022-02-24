@@ -2,9 +2,11 @@
 title: Синхронизација стварних вредности пројекту директно из услуге Project Service Automation са дневником интеграције пројекта за књижење у услузи Finance and Operations
 description: Ова тема описује предлошке и основне задатке који се користе за синхронизацију стварних вредности пројекта директно из услуге Microsoft Dynamics 365 Project Service Automation у Finance and Operations.
 author: Yowelle
+manager: AnnBe
 ms.date: 07/20/2018
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
@@ -15,12 +17,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 85b6c07464e919e363f28d8bc62115e8fb4c72ea6631269b98fd00f324a01cba
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: cff62e739e88dc45e7c3d1ea044875f0600f2bc1
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6988129"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4084104"
 ---
 # <a name="synchronize-project-actuals-directly-from-project-service-automation-to-the-project-integration-journal-for-posting-in-finance-and-operations"></a>Синхронизација стварних вредности пројекту директно из услуге Project Service Automation са дневником интеграције пројекта за књижење у услузи Finance and Operations
 
@@ -42,7 +44,7 @@ ms.locfileid: "6988129"
 
 Следећа илустрација приказује како се подаци синхронизују између услуга Project Service Automation и Finance.
 
-[![Ток података за интеграцију услуге Project Service Automation са услугом Finance and Operations.](./media/ProjectActualsFlow.jpg)](./media/ProjectActualsFlow.jpg)
+[![Ток података за интеграцију услуге Project Service Automation са услугом Finance and Operations](./media/ProjectActualsFlow.jpg)](./media/ProjectActualsFlow.jpg)
 
 ## <a name="project-actuals-from-project-service-automation"></a>Стварне вредности пројекта из услуге Project Service Automation
 
@@ -93,9 +95,9 @@ ms.locfileid: "6988129"
 
 Следеће илустрације приказују пример мапирања задатака предлошка у услузи Data Integration. Мапирање приказује информације о терену које ће се синхронизовати из услуге Project Service Automation у Finance.
 
-[![Мапирање предложака - стварни трошкови.](./media/ActualsMapping.jpg)](./media/ActualsMapping.jpg)
+[![Мапирање предложака - стварни трошкови](./media/ActualsMapping.jpg)](./media/ActualsMapping.jpg)
 
-[![Мапирање шаблона - Трансакционе везе.](./media/TransactionConnections.jpg)](./media/TransactionConnections.jpg)
+[![Мапирање шаблона - Трансакционе везе](./media/TransactionConnections.jpg)](./media/TransactionConnections.jpg)
 
 ## <a name="import-from-staging-table-after-integration-from-project-service-automation"></a>Увоз из припремне табеле након интеграције из услуге Project Service Automation
 
@@ -135,9 +137,6 @@ ms.locfileid: "6988129"
 
 Следеће илустрације приказују примере мапирања задатака предлошка у услузи Data Integration. Мапирање приказује информације о пољу које ће се синхронизовати из услуге Finance у Project Service Automation.
 
-[![Мапирање предложака - ажурирање стварних трошкова.](./media/ActualsUpdateMapping.jpg)](./media/ActualsUpdateMapping.jpg)
+[![Мапирање предложака - ажурирање стварних трошкова](./media/ActualsUpdateMapping.jpg)](./media/ActualsUpdateMapping.jpg)
 
-[![Мапирање предложака - ажурирање трансакција.](./media/TransactionConnectionsUpdate.jpg)](./media/TransactionConnectionsUpdate.jpg)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
+[![Мапирање предложака - ажурирање трансакција](./media/TransactionConnectionsUpdate.jpg)](./media/TransactionConnectionsUpdate.jpg)

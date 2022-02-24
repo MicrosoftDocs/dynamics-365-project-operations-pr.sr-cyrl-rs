@@ -2,9 +2,11 @@
 title: Дефинисање вештина и стручности
 description: Ова тема пружа информације о томе како да подесите вештине и моделе стручности за оцену ресурса.
 author: ruhercul
+manager: AnnBe
 ms.date: 09/23/2020
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-365-customerservice
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -15,18 +17,18 @@ ms.search.industry: Service industries
 ms.author: ruhercul
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: e120f8c5a3d2dfaeb577652afcc1feac4cdc9e22f2f274e94bb674ea3fa52fed
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 24538ed1d610a0cae4c2badc0fd33c2f738a8338
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6988759"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4083916"
 ---
 # <a name="define-skills-and-proficiencies"></a>Дефинисање вештина и стручности
 
-_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
+_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_
 
-Вештине су карактеристике ресурса које се деле између услуга Dynamics 365 Project Operations и Dynamics 365 Field Service (ако постоји). 
+Вештине су карактеристике ресурса које се деле између услуга Dynamics 365 Project Operations и, ако постоји, Dynamics 365 Field Service. 
 
 - Да бисте одржали спремиште вештина у услузи Project Operations, идите на **Ресурси** \> **Вештине ресурса**. 
 
@@ -36,10 +38,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 1. Да бисте креирали модел стручности, идите на **Ресурси** \> **Модели стручности**, а затим изаберите **Нови**.
 2. У новом моделу оцењивања наведите минималну вредност оцењивања, максималну вредност оцењивања и ентитет који се оцењује.
-3. У подформи **Вредности оцена** можете дефинисати различите вредности оцењивања, од минималне до максималне.
+3. У подформи **Вредности оцењивања** можете дефинисати различите вредности оцењивања, од минималне до максималне.
 
 
 Те вредности оцењивања су приказане у филтерима **Потребе за ресурсима**, **Табела распореда** и **Помоћник за заказивање**.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

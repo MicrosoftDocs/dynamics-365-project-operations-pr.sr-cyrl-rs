@@ -2,16 +2,18 @@
 title: Конфигурисање рачуноводства за наплативе пројекте
 description: Ова тема пружа информације о рачуноводственим опцијама за наплативе пројекте.
 author: sigitac
+manager: Annbe
 ms.date: 04/05/2021
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: cbc6bcbfa527486df4c740c52cec8c4be1dabe0478783fb7d2e71a65f18c050f
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 629e3fc2f9069d104d459d0b4a6fa46c37f5c6f2
+ms.sourcegitcommit: 5fd529f2308edfe9322082313e6d50146df56aca
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6991054"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "5858671"
 ---
 # <a name="configure-accounting-for-billable-projects"></a>Конфигурисање рачуноводства за наплативе пројекте
 
@@ -101,23 +103,23 @@ Dynamics 365 Project Operations подржава разне рачуноводс
 
 Време и материјали – без посла у току
 
-![Профил трошкова и прихода: Време и материјали - без посла у току.](media/time-material-no-wip.png)
+![Профил трошкова и прихода: Време и материјали - без посла у току](media/time-material-no-wip.png)
 
 Време и материјали – посао у току (приход)
 
-![Профил трошкова и прихода: Време и материјали – посао у току.](media/time-material-with-wip.png)
+![Профил трошкова и прихода: Време и материјали – посао у току](media/time-material-with-wip.png)
 
 Фиксна цена – Без посла у току
 
-![Профил трошкова и прихода: Фиксна цена - без посла у току.](media/fixed-price-no-wip.png)
+![Профил трошкова и прихода: Фиксна цена - без посла у току](media/fixed-price-no-wip.png)
 
 Фиксна цена – завршен уговор
 
-![Профил трошкова и прихода: Фиксна цена – завршен уговор.](media/fixed-price-completed-contract.png)
+![Профил трошкова и прихода: Фиксна цена – завршен уговор](media/fixed-price-completed-contract.png)
 
 Фиксна цена – проценат довршености
 
-![Профил трошкова и прихода: Фиксна цена – проценат довршености.](media/fixed-price-completed-percentage.png)
+![Профил трошкова и прихода: Фиксна цена – проценат довршености](media/fixed-price-completed-percentage.png)
 
 
 ## <a name="accounting-event-examples-for-sample-project-cost-and-revenue-profiles"></a>Примери рачуноводственог догађаја за пробне профиле трошкова и прихода пројекта.

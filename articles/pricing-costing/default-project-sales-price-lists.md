@@ -2,16 +2,18 @@
 title: Подразумевани ценовници
 description: Ова тема пружа информације о подразумеваним продајним и ценовницима трошкова у услузи Project Operations.
 author: rumant
+manager: Annbe
 ms.date: 10/13/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: a5e38e2f0b553b789956c6d73d481ab0ed2ce3a77815e7cf8c058a0b4666c558
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: fd29a3fc9c873d46dd66a05ad100c7515177d6cd
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6989884"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4130956"
 ---
 # <a name="default-price-lists"></a>Подразумевани ценовници
 
@@ -19,7 +21,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ## <a name="sales-price-lists"></a>Продајни ценовници
 
-Свака пројектна понуда и уговор у услузи Dynamics 365 Project Operations садржи подразумевани продајни ценовник. 
+Свака понуда за пројекат и уговор у програму Dynamics 365 Project Operations садржи подразумевани ценовник продаје. 
 
 ### <a name="price-list-default-on-project-quotes"></a>Подразумевана вредност ценовника према понудама за пројекат
 Систем довршава следећи поступак да би утврдио који ће се ценовник подразумевати за понуду за пројекат:
@@ -55,6 +57,3 @@ _**Односи се на:** Project Operations за сценарије засн
 5. Затим систем прегледа датум ступања на снагу ценовника који се подударају са датумом долазне процене или стварне линије. 
 6. Ако постоји више ценовника који важе за датум на долазној процени или стварној вредности, бира се најновији ценовник.
 7. Ако уз параметре пројекта нису приложени ценовници трошкова који се подударају са валутом и датумом ступања на снагу, систем подразумевано враћа стопу трошкова на нулу (0) на долазној процени или стварној линији.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

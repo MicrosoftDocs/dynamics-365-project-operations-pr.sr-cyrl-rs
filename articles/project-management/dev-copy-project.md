@@ -2,16 +2,18 @@
 title: Развијте предлошке пројеката помоћу опције за копирање пројеката
 description: Ова тема пружа информације о томе како креирати предлошке пројеката помоћу прилагођене радње Копирање пројекта.
 author: stsporen
+manager: Annbe
 ms.date: 01/21/2021
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: d12301b4e7baabeb0f045f9a11d4695fc026339af3fa7650db7177c495c71e90
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 87696b41db20e9ec70270c850d9acfe05df8cd84
+ms.sourcegitcommit: d5004acb6f1c257b30063c873896fdea92191e3b
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6989289"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "5045027"
 ---
 # <a name="develop-project-templates-with-copy-project"></a>Развијте предлошке пројеката помоћу опције за копирање пројеката
 
@@ -42,7 +44,7 @@ Dynamics 365 Project Operations подржава могућност копира
 - **{"clearTeamsAndAssignments":true}**: Подразумевано понашање за Project за веб и уклониће све задатке и чланове тима.
 - **{"removeNamedResources":true}** Подразумевано понашање за Project Operations и вратиће задатке на генеричке ресурсе.
 
-За више подразумеваних вредности радњи погледајте [Користите веб API радње](/powerapps/developer/common-data-service/webapi/use-web-api-actions)
+За више подразумеваних вредности радњи погледајте [Користите веб API радње](https://docs.microsoft.com/powerapps/developer/common-data-service/webapi/use-web-api-actions)
 
 ## <a name="specify-fields-to-copy"></a>Наведите поља за копирање 
 Када је акција позвана, **Копирај пројекат** погледаће приказ пројекта **Копирајте колоне пројекта** да би се утврдило која поља треба копирати када се пројекат копира.
@@ -110,6 +112,3 @@ Dynamics 365 Project Operations подржава могућност копира
     }
 }
 ```
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,10 +2,12 @@
 title: Фактурисање у апликацији Project Service Automation
 description: Ова тема пружа информације о фактурисању.
 author: rumant
+manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 08/03/2020
 ms.topic: article
+ms.service: business-applications
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -15,12 +17,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 58259c05939cfe870ce5e36b4a0221cd93b8e8d2b4be582efc9167e82579699e
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 0855e85c1f09d29d3ecb49ba517fd3043ae11140
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6985519"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5151406"
 ---
 # <a name="invoicing-in-project-service-automation"></a>Фактурисање у апликацији Project Service Automation
 
@@ -50,7 +52,7 @@ PSA није дизајниран да генерише фактуре у окр
 
 - На страници листе **Уговори о пројектима** отворите уговор о пројекту, а затим изаберите **Креирај фактуру**.
 
-    ![Креирање фактура за пројекат за одређени уговор о пројекту.](media/CreateProjectInvoicesOneByOne.png)
+    ![Креирање фактура за пројекат за одређени уговор о пројекту](media/CreateProjectInvoicesOneByOne.png)
 
     Фактура се генерише за све трансакције за изабрани уговор о пројекту који имају статус **Спремно за фактурисање**. Ове трансакције укључују време, трошкове, контролне тачке и предмете уговора засноване на производу.
 
@@ -58,7 +60,7 @@ PSA није дизајниран да генерише фактуре у окр
 
 1. На страници листе **Уговори о пројектима** изаберите један уговор или више уговора о пројектима за које морате креирати фактуру, а затим изаберите **Креирај фактуре за пројекте**.
 
-    ![Масовно креирање фактура за пројекте.](media/CreateProjectInvoicesBulk.png)
+    ![Масовно креирање фактура за пројекте](media/CreateProjectInvoicesBulk.png)
 
     Порука упозорења вас обавештава да можда постоји кашњење пре креирања фактура. Овај процес се такође приказује.
 
@@ -115,6 +117,3 @@ PSA није дизајниран да генерише фактуре у окр
 
 - Стварна вредности наплаћене продаје за шест сати.
 - Стварна вредности ненаплаћене продаје за преостала два сата. Ова трансакција може бити наплаћена касније или означена као ненаплатива, у зависности од преговора са клијентом.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

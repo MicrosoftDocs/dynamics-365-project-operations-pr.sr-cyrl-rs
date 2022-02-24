@@ -2,16 +2,18 @@
 title: Креирање додела ресурса
 description: Ова тема пружа информације о креирању генеричких и именованих додела ресурса.
 author: ruhercul
+manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: d2e7c9a340a482a62afc0c9f0aa46c24fda27ca6ef56fdc0160f06af846c0b53
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 829c1d1de7270e7cafbb98ef80235ae6404f77f7
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6987904"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4131766"
 ---
 # <a name="create-resource-assignments"></a>Креирање додела ресурса
 
@@ -40,6 +42,3 @@ _**Односи се на:** Project Operations за сценарије засн
 1. Из мреже задатака, са табле или временске осе идите на ћелију **Додељено**.
 2. У пољу за претрагу почните да куцате име. Приказују се резултати претраге за име у **бирачу ресурса** у оквиру опције **Други ресурси**.
 3. Изаберите ресурс који желите да доделите задатку или изаберите име ресурса у делу **Остали ресурси тима**.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

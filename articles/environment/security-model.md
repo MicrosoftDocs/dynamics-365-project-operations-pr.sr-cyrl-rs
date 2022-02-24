@@ -2,16 +2,18 @@
 title: Модел безбедности
 description: У овој теми дате су информације о безбедносном моделу у услузи Dynamics 365 Project Operations.
 author: stsporen
+manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 2f283771921504dc29ddcc26ca659d4e151598840339bd8c1a857e8bf5dde9ed
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: b01f3d88dd021895933bc863b762f019ae50eed6
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6991504"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642921"
 ---
 # <a name="security-model"></a>Модел безбедности
 
@@ -47,8 +49,8 @@ Microsoft Project за Веб укључује следеће улоге:
 
 Важно је то узети у обзир приликом креирања пројеката у услузи Project Operations.
 
-## <a name="modern-group-collaboration-with-project-operations"></a>Модерна групна сарадња са услугом Project Operations
-Project за Веб и Project Operations подржавају модерне групе за сарадњу. Корисници додати у пројекат путем групе могу да уређују план пројекта.
+## <a name="modern-group-collaboration-with-project-operations"></a>Савремена групна сарадња са услугом Project Operations
+Project за Веб и Project Operations подржавају савремене групе за сарадњу. Корисници додати у пројекат путем групе могу да уређују план пројекта.
 
 Project за Веб аутоматски додаје кориснике у групу по додељивању.
 
@@ -56,9 +58,9 @@ Project за Веб аутоматски додаје кориснике у гр
 
 Услуга Project Operations не креира групу имплицитном акцијом, већ само експлицитном акцијом притиска група.
 
-Претрага чланова групе у дијалогу **Управљање групама** ограничена је на оне који су постављени као део безбедносне групе окружења. Више информација потражите у чланку [Контрола корисничког приступа окружењима: безбедносне групе и лиценце](/power-platform/admin/control-user-access).
+Претрага чланова групе у дијалогу **Управљање групама** ограничена је на оне који су постављени као део безбедносне групе окружења. Више информација потражите у чланку [Контрола корисничког приступа окружењима: безбедносне групе и лиценце](https://docs.microsoft.com/power-platform/admin/control-user-access).
 
-![Групни режим.](./media/groupsmode.png)
+![Групни режим](./media/groupsmode.png)
 
 1. Пројекат се креира и његов власник је корисник који га је креирао.
 2. Власник пројекта је обавештен о тиму.
@@ -68,7 +70,7 @@ Project за Веб аутоматски додаје кориснике у гр
 ## <a name="deployment-recommendation"></a>Препорука за примену
 Како се модел сарадње Office групе развија, функционалност ће бити додавана како би се пружала детаљнија контрола током времена. Клијенти који данас примењују Project Operations подстичу се да се усредсреде на традиционални Microsoft Dynamics 365 модел безбедности.
 
-За више информација, погледајте [Безбедност у услузи Common Data Service](/power-platform/admin/wp-security).
+За више информација, погледајте [Безбедност у услузи Common Data Service](https://docs.microsoft.com/power-platform/admin/wp-security).
 
 ## <a name="project-operations-and-microsoft-dynamics-365-finance-security"></a>Project Operations и Microsoft Dynamics 365 Finance безбедност
 Услуга Project Operations укључује следеће улоге:
@@ -76,9 +78,6 @@ Project за Веб аутоматски додаје кориснике у гр
 - Менаџер пројекта
 - Рачуновођа пројекта
 
-Више информација о безбедности у услузи Finance потражите у одељку [Безбедност заснована на улогама](/dynamics365/fin-ops-core/dev-itpro/sysadmin/role-based-security).
+Више информација о безбедности у услузи Finance потражите у одељку [Безбедност заснована на улогама](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/role-based-security).
 
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

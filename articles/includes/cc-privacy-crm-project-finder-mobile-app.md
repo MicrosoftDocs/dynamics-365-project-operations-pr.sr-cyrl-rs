@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 205a4fbe41637be12970041ff309c0a8d206db513987c4f64610e842183ed781
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: dc45bfd6fefaa51a4a540d694cb4ba07c5058a2a
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7004833"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4070199"
 ---
 Омогућавајући апликацију Project Finder Mobile, корисницима у организацији пружате увид у рад на пројекту и могућност да се пријаве за рад. Корисници такође могу да раде са апликацијом Project Finder како би стекли увид у своје вештине и освежили их. Апликација Project Finder Mobile је омогућена преко поставке „Параметри услуге Project Service”, тако што ће се вредности „Захтеви у погледу ресурса видљиви ресурсима” и „Дозволи да ресурси освеже вештине” поставити на „Да”. Промена вредности ових атрибута у „Не” онемогућава ову функционалност.  
   

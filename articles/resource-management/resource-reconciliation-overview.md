@@ -2,25 +2,27 @@
 title: Преглед сравњења ресурса
 description: Ова тема пружа информације које ће вам помоћи да осигурате усклађивање резервација ресурса и задатака за пројекте.
 author: ruhercul
+manager: AnnBe
 ms.date: 01/08/2021
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
-ms.custom: intro-internal
+ms.custom: ''
 ms.assetid: ''
 ms.search.region: Global
 ms.search.industry: Service industries
 ms.author: ruhercul
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 1542e97955902486d22ca637514e4e121fae70e2b227cafc7020c031061b5f98
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 8723cfad1e7cd07774e37023c5427b0a5833a554
+ms.sourcegitcommit: cffc84187007b34211c90babef8af5152d4d92ea
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6994789"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "4849642"
 ---
 # <a name="resource-reconciliation-overview"></a>Преглед сравњења ресурса
 
@@ -46,6 +48,3 @@ _**Односи се на:** Project Operations за сценарије засн
 Резервације креиране путем радње **Прошири резервацију** су повезане са примарним пројектним захтевом. Када се покреће проширење, не може се утврдити конкретан захтев који се мора проширити јер ресурс може бити повезан са више захтева за пројекат.
 
 Менаџер пројекта или менаџер ресурса тада може да користи табелу распореда како би управљао било којом ситуацијом у којој је ресурс прекомерно резервисан у односу на његов капацитет.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,9 +2,11 @@
 title: Апликација за мобилне уређаје Project Timesheet
 description: Ова тема пружа информације о апликацији за мобилне уређаје Microsoft Dynamics 365 Project Timesheet. Апликација за мобилне уређаје Project Timesheet омогућава корисницима да предају и одобре радне листове за пројекте на свом мобилном уређају.
 author: abruer
+manager: AnnBe
 ms.date: 04/08/2019
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: josaw
@@ -16,12 +18,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: df6d286b6d5716fb0ea908ed71c2257b4db21ecfd35148fea65dfd96e058ac9a
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: b9cbd84ecb0d71a99982e158d7e0ea1e236fb369
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6997219"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4084145"
 ---
 # <a name="project-timesheet-mobile-application"></a>Апликација за мобилне уређаје Project Timesheet
 
@@ -94,6 +96,3 @@ ms.locfileid: "6997219"
 ## <a name="review-timesheets"></a>Прегледајте временске распореде
 
 Листа временских распореда које треба прегледати доступна је у менију. Ова опција је доступна само ако сте изабрани за даваоца одобрења тока посла. Подржани су и заглавље и одобрење линије. Одобрење нивоа линије нуди могућност обележавања једне или више линија за одобрење. Након прегледа информација о временском распореду, кликните на **Одобри**, **Делегат** или **Повратак** да бисте наставили ток посла.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

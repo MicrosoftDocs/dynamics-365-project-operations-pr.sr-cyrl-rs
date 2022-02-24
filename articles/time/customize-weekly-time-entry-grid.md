@@ -2,22 +2,24 @@
 title: Проширење ставки времена
 description: Ова тема пружа информације о томе како програмери могу да прошире контролу ставки времена.
 author: stsporen
+manager: Annbe
 ms.date: 10/08/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: c36a47b09e6012925a047f81318e89167d5c506facaae8d72b0bb6e8e267a7d5
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: d9c14f0550d4429ac794607a3fb61717566207e4
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6993349"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4124656"
 ---
 # <a name="extending-time-entries"></a>Проширење ставки времена
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
-Dynamics 365 Project Operations обухвата прошириву прилагођену контролу уноса времена. Ова контрола садржи следеће функције:
+Dynamics 365 Project Operations укључује прилагођену контролу ставки времена. Ова контрола садржи следеће функције:
 
 - Унесите време хоризонтално током недеље
 - Укупно по дану, реду или недељи
@@ -142,6 +144,3 @@ Dynamics 365 Project Operations обухвата прошириву прилаг
 
 ### <a name="copying-time-entries"></a>Копирање ставки времена
 Користите приказ **Колоне за копирање ставки времена** да бисте дефинисали листу поља за копирање током уноса времена. **Датум** и **Трајање** су обавезна поља и не би их требало уклонити из приказа.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

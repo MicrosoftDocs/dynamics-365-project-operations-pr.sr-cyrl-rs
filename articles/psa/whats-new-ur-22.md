@@ -2,6 +2,8 @@
 title: Шта је ново или промењено у издању 22 исправке за Project Service Automation у верзији 3
 description: У овој теми дате су функције и исправке које су доступне у издању 22 исправке за Project Service Automation у верзији 3.
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 07/28/2020
 ms.topic: article
@@ -15,18 +17,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 6a5109b1ffedfce99fc50c035bcbe5810abcf3b71f88679b47561d69daa9f3ab
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: db4cbb9f9daadcb1911325f8bee987d5e480e1cf
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7004329"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5151001"
 ---
 # <a name="project-service-automation-update-release-22-v3"></a>Project Service Automation издање исправке 22, у верзији 3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
+Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
 
 У овој теми дате су функције које су нове или су промењене у издању 22 исправке за Project Service Automation у верзији 3. Број израде ове верзије је V 3.10.33.48 и углавном је доступна путем самосталног ажурирања у јуну 2020. године.
 
@@ -70,6 +72,3 @@ ms.locfileid: "7004329"
 - Затварање добијене понуде не прелази на креирани уговор ако је BPF у прилогу понуде у завршној фази.
 - Сторнирање **Ненаплаћена продаја** је повезано са првобитним трошком када се опозове унос времена.
 - Након одабира дугмета **Потврди**, статус фактуре се не мења у **Потврђено**, осим ако се фактура освежи.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

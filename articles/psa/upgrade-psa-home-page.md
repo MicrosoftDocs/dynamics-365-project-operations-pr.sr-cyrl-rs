@@ -1,10 +1,11 @@
 ---
 title: Надоградња матичне странице
 description: Ова тема показује где можете пронаћи важне информације о новим и измењеним функцијама у апликацији Dynamics 365 Project Service Automation и поступак надоградње на најновију верзију.
+manager: kfend
 ms.prod: ''
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
-- intro-internal
 ms.date: 05/30/2019
 ms.topic: article
 author: rumant
@@ -18,12 +19,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 2b9b14d72157ae0046e1ca6abdc604b8dbc30377b5b24f5d79617a7201b1bf10
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: e30da3a5ade6d8bafcdc45801b830196841997bf
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7006759"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5150101"
 ---
 # <a name="upgrade-home-page"></a>Надоградња матичне странице
 
@@ -64,6 +65,3 @@ ms.locfileid: "7006759"
 
 > [!NOTE]
 > Да бисте добили најбоље искуство приликом коришћена старије верзије Field Service и PSA апликација, идите на страницу **Подешавања система** и за поље **Коришћење само новог обједињеног интерфејса (препоручено)** изаберите **Не** јер ове верзије нису дизајниране да буду исправно учитане у обједињени интерфејс клијента. Након што искључите обједињени интерфејс клијента, ове верзије услуга Field Service и PSA можете отворити и покренути помоћу старог веб-клијента. 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

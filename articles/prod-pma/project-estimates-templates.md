@@ -2,9 +2,11 @@
 title: Синхронизовање процена пројекта директно из услуге Project Service Automation са услугом Finance and Operations
 description: Ова тема описује предлошке и основне задатке који се користе за синхронизацију процене радних сати и процене трошкова пројекта директно из услуге Microsoft Dynamics 365 Project Service Automation у Dynamics 365 Finance.
 author: Yowelle
+manager: AnnBe
 ms.date: 07/20/2018
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: josaw
@@ -15,12 +17,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 6696449d80e0915a0c878dbe75cfdf6e268b98ad9f6453bcfc4b424db68021e4
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 336de474c859d30d1ec07ae34bf0c3d578faeef1
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6988219"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4084100"
 ---
 # <a name="synchronize-project-estimates-directly-from-project-service-automation-to-finance-and-operations"></a>Синхронизовање процена пројекта директно из услуге Project Service Automation са услугом Finance and Operations
 
@@ -38,7 +40,7 @@ ms.locfileid: "6988219"
 
 Следећа илустрација приказује како се подаци синхронизују између услуга Project Service Automation и Finance.
 
-[![Ток података за интеграцију услуге Project Service Automation са услугом Finance.](./media/ProjectEstimatesFlow.png)](./media/ProjectEstimatesFlow.png)
+[![Ток података за интеграцију услуге Project Service Automation са услугом Finance](./media/ProjectEstimatesFlow.png)](./media/ProjectEstimatesFlow.png)
 
 ## <a name="project-hour-estimates"></a>Процене радних сати за пројекат
 
@@ -95,7 +97,7 @@ ms.locfileid: "6988219"
 
 Следећа илустрација приказује пример мапирања задатака предлошка у услузи Data Integration. Мапирање приказује информације о терену које ће се синхронизовати из услуге Project Service Automation у Finance.
 
-[![Мапирање задатака предложака у услузи Data Integration.](./media/ProjectHourEstimatesMapping.jpg)](./media/ProjectHourEstimatesMapping.jpg)
+[![Мапирање задатака предложака у услузи Data Integration](./media/ProjectHourEstimatesMapping.jpg)](./media/ProjectHourEstimatesMapping.jpg)
 
 ## <a name="project-expense-estimates"></a>Процене трошкова пројекта
 
@@ -165,9 +167,6 @@ else **null**
 
 Следеће илустрације приказују примере мапирања задатака предлошка у услузи Data Integration. Мапирање приказује информације о терену које ће се синхронизовати из услуге Project Service Automation у Finance.
 
-[![Предложак мапирања трансакција процене трошкова.](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)
+[![Предложак мапирања трансакција процене трошкова](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)
 
-[![Предложак мапирања процена трошкова.](./media/ExpenseEstimatesMapping.jpg)](./media/ExpenseEstimatesMapping.jpg)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
+[![Предложак мапирања процена трошкова](./media/ExpenseEstimatesMapping.jpg)](./media/ExpenseEstimatesMapping.jpg)

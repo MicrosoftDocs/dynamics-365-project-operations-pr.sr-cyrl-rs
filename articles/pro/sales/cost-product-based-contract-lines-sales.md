@@ -2,17 +2,19 @@
 title: Цена за предмете уговора засноване на производу – једноставно
 description: Ова тема пружа информације о креирању
 author: rumant
+manager: Annbe
 ms.date: 10/19/2020
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 55f74b016b55945433083e11902003cea99f1aa463264cdd95b0aad389592e20
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: a81c972f36179621f0547c24fc53d294485f638c
+ms.sourcegitcommit: 2b74edd31f38410024a01124c9202a4d94464d04
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6997354"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4764477"
 ---
 # <a name="cost-product-based-contract-lines---lite"></a>Цена за предмете уговора засноване на производу – једноставно
 
@@ -28,6 +30,3 @@ _**Односи се на:** Једноставна примена – од по
 Постојање јединичне цене у предмету уговора заснованог на производу омогућава различите цене за производ за сваку продају јединице. Иако нису увек неопходни, постоје одређени сценарији у којима добављач може снизити трошкове производа за клијента. Размотрите следећи сценарио:
 
 Fabrikam Robotics инсталира роботске руке на производним тракама компаније Adatum Corporation. Fabrikam пружа услуге уградње, али руке робота су из компаније Trey Research. Ако инсталација роботске руке у компанији Adatum Corporation отвори нову индустријску делатност за роботске руке компаније Trey Research, тада би компанија Trey Research могла дати посебан попуст за овај посао компанији Fabrikam. У овом случају, Fabrikam креира предмет уговора заснован на производу за руке робота. За овај уговор се уноси цена по јединици. Цена се разликује од цене за руке робота компаније Trey Research.
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

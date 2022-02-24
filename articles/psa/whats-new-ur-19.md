@@ -2,6 +2,8 @@
 title: Шта је ново или промењено у Project Service Automation издању исправке 19 у верзији 3
 description: У овој теми дате су функције и исправке које су доступне у Project Service Automation издању исправке 19 у верзији 3.
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 05/05/2020
 ms.topic: article
@@ -15,18 +17,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ad61589125e42e8dceb462290f65ddc05e171bd828d26d34ebd548ca285e9aa4
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 8a73a6acd4ce4c9559cdf4591ede735a613f4d52
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6993664"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5143669"
 ---
 # <a name="project-service-automation-update-release-19-v3"></a>Project Service Automation издање исправке 19, у верзији 3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
+Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
 
 У овој теми дате су функције и исправке које су нове или су промењене у решењу PSA у верзији 3, издање исправке 19. Број израде ове верзије је V3.10.30.41 и углавном је доступна путем самосталног ажурирања у мају 2020. године.
 
@@ -64,6 +66,3 @@ ms.locfileid: "6993664"
 - Клијенти могу имати смањене перформансе приликом креирања пројекта јер **GetBookableResourceIdFromUser** прибавља све колоне ресурса који могу да се резервишу уместо само примарни ID.
 - Ентитету **Тип трансакције** недостаје додатна компонента за претходну валидацију да спречи кориснике да уносе **Јединице** и **UnitGroups** које нису важеће за типове трансакција.
 - Корак **Уклони** не ради за увоз ставке времена.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

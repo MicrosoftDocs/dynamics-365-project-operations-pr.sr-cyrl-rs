@@ -2,9 +2,11 @@
 title: Подесите улоге на предлошцима структурне анализа посла
 description: Ова тема пружа информације о постављању информација о улогама на предлошцима структурне анализе посла.
 author: Yowelle
+manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
@@ -16,12 +18,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: c84015c46f0a8c9d3d48be1b995d4bdd7fd8ee25b240f455bbe2031f42adc0f5
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 143f1094c653fb7ac0e026b7875aa162a3eb83f7
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7008919"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4083952"
 ---
 # <a name="set-up-roles-on-work-breakdown-structure-templates"></a>Подесите улоге на предлошцима структурне анализа посла
 
@@ -89,7 +91,7 @@ ms.locfileid: "7008919"
 
 4. Подесите датуме и залагање (у сатима), као што је приказано на следећој илустрацији.
 
-    [![Одређивање датума и залагања.](./media/projectresourcing10.jpg)](./media/projectresourcing10.jpg)
+    [![Одређивање датума и залагања](./media/projectresourcing10.jpg)](./media/projectresourcing10.jpg)
 
 5. Изаберите ред задатка **Покретање**, а затим у пољу **Улога** изаберите **Виши менаџер пројекта**.
 6. Изаберите **Објави**.
@@ -105,6 +107,3 @@ ms.locfileid: "7008919"
     > Нећете добити упозорење да је наведени ресурс сада 2, јер број ресурса остаје 1.
 
 14. На страници **Структурна анализа посла** потврдите додељивање ресурса на САП-у, а затим изаберите **Сачувај**.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

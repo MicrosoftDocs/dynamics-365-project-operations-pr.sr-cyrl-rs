@@ -2,16 +2,18 @@
 title: Конфигурисање интеграције за Project Operations по правном лицу
 description: Ова тема пружа информације о томе како да подесите интеграцију по правном лицу у услузи Project Operations.
 author: sigitac
+manager: Annbe
 ms.date: 10/21/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: fc3f5be1318d482ece9a6e9e4fadc3cf628ff79577776e679f32cef7c0b2fc8f
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 5d2bb415362a088e01253fbe54f9f06569b4a921
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6999424"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4122901"
 ---
 # <a name="configure-project-operations-integration-per-legal-entity"></a>Конфигурисање интеграције за Project Operations по правном лицу 
 
@@ -49,6 +51,3 @@ Project Operations можете да омогућите у услузи Dynamics
   - **Подразумеване вредности типова обрачуна**: Project Operations користи фиксни скуп подразумеваних задатака типа наплате који се морају мапирати са својствима ставки услуге Finance. Направите запис за сваку врсту обрачуна: **Није наведено**, **Наплативо**, **Ненаплативо**, **Бесплатно** и **Није доступно**.
   - **Подразумеване категорије пројеката**: Изаберите подразумеване категорије пројеката које ће се користити за сваку врсту трансакције. Ове подразумеване вредности ће се користити у **Project Operations дневнику интеграције** и у проценама где није наведена категорија трансакције за стварни пројекат.
   - **Прогнозе**: Изаберите модел прогнозе који ће се користити за процену времена и трошкова.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

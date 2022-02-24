@@ -2,6 +2,8 @@
 title: Опозивање одобрених ставки времена или трошкова
 description: Ова тема пружа информације о томе како се опозивају претходно одобрено време или трансакција трошкова.
 author: rumant
+manager: kfend
+ms.service: project-operations
 ms.custom: ''
 ms.author: rumant
 ms.date: 03/08/2019
@@ -15,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: e90b84bbfcd007e97e96b294144f058ac73746e3d358437692f0a8e6e92b8de3
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: f9bb25ac9ef7b400063c5f958311e475de6f6506
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6998344"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5147869"
 ---
 # <a name="recall-approved-time-or-expense-entries"></a>Опозивање одобрених ставки времена или трошкова
 
@@ -98,13 +100,10 @@ ms.locfileid: "6998344"
 
 Следећа илустрација приказује промене које се дешавају за одобрене ставке времена када су опозване.
 
-![Промене статуса ставке времена.](media/TimeEntryStateTransitions.png)
+![Промене статуса ставке времена](media/TimeEntryStateTransitions.png)
 
 ## <a name="changes-to-expense-entry-records"></a>Промене записа ставке трошкова
 
 Следећа илустрација приказује промене које се дешавају за одобрене ставке трошкова када су опозване.
 
-![Промене статуса ставке трошкова.](media/ExpenseEntryStateTransitions.png)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
+![Промене статуса ставке трошкова](media/ExpenseEntryStateTransitions.png)
