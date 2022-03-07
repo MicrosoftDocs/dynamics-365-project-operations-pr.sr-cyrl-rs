@@ -2,12 +2,10 @@
 title: Процена продаје и трошкове за пројекат када ресурс који можете са резервишете испуњава више улога у пројекту
 description: Ова тема пружа информације о томе како да димензије одређивања цена могу да се користе за подршку проценама цена и трошкова за ресурс који испуњава више улога у пројекту.
 author: rumant
-manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: business-applications
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -17,12 +15,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 67e24156e960b9b09cf92f7f0cd77f6c74a982b8
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: be24bb3bdf2f3c8351fc396ae67457b5213e1cd800e9d2ad23d59d0d038f22b9
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5145061"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6987499"
 ---
 # <a name="estimate-project-sales-and-costs-when-a-bookable-resource-fills-multiple-roles-for-a-project"></a>Процена продаје и трошкове за пројекат када ресурс који можете са резервишете испуњава више улога у пројекту 
 
@@ -74,3 +72,6 @@ ms.locfileid: "5145061"
 Када одете на мрежу **Процене**, приметићете да обе доделе за исти ресурс имају различито одређене цене.
 Цена доделе ресурса задатку А одређује се коришћењем вредности атрибута **Улога** за **вођу консултаната**. Цена доделе истог ресурса задатку Б одређује се коришћењем вредности атрибута **Улога** за **техничара мреже**.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

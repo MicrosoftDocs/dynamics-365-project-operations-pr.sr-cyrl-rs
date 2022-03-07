@@ -2,11 +2,9 @@
 title: Подешавање продајног ценовника
 description: Ова тема пружа информације о раду са продајним ценовницима за одређивање цена производа у пројекту.
 author: rumant
-manager: AnnBe
 ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -17,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: eb8dfa61a2d17ba644daf1552889cbcde0f1e47a
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
-ms.translationtype: HT
+ms.openlocfilehash: 952d518fb58b5be46c4b1cf4ed57b2494fdfdad85e7fe6fb0d622367bc071b5f
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4176269"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6997624"
 ---
 # <a name="set-up-a-sales-price-list"></a>Подешавање продајног ценовника
 
@@ -59,3 +57,6 @@ _**Односи се на:** Project Operations за сценарије засн
 Када се ценовник пројекта унесе подразумевано, систем проверава да ли се валута подудара са валутом клијента и да ли подразумевани ценовници који су унети имају контекст **продаје**.
 
 Можете да повежете више ценовника пројекта са ентитетима Клијент, Могућност за пословање, Понуда и Уговор о пројекту. Ова могућност подржава подразумеване цене за одређени датум за дугорочни уговор о пројекту, где можете да захтевате више од једног ценовника како бисте у обзир узели измене цена до којих долази због инфлације. Међутим, ако се за ценовнике које повежете са ентитетом Клијент, Могућност за пословање, Понуда или Уговор о пројекту преклапају датуми ступања на снагу, подразумеване цене могу бити нетачне. Због тога би требало да проверите да ценовници пројеката са датумима ступања на снагу који се преклапају нису повезани са тим ентитетима.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,18 +2,16 @@
 title: Управљање проценама прихода
 description: У овој теми се пружају информације о томе како да радите са проценама прихода за пројекте.
 author: sigitac
-manager: Annbe
 ms.date: 11/04/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 98df0301eaa8e9f8e9cd51fc5714254ae3bbc83d
-ms.sourcegitcommit: 2d399bc9d07807626f0d6b2d0cf304240c47591c
-ms.translationtype: HT
+ms.openlocfilehash: 8d118826f8c63b9540435e320924d4562ab191ba126088560f5def1c1ff0b908
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "4531543"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6996544"
 ---
 # <a name="manage-revenue-estimates"></a>Управљање проценама прихода
 
@@ -90,3 +88,6 @@ _**Односи се на:** Project Operations за сценарије засн
 Користите ову страницу за сторнирање свих елиминација са наведеним датумом процене и са статусом процене **Елиминисан**. Статус трансакције се мења након што изаберете одговарајућа поља.
 
 Ово такође аутоматски мења статус пројекта у **У процесу** ако је фаза пројекта постављена на довршено. Процењени статус пројектног периода се враћа на **Прокњижено**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

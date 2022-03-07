@@ -2,18 +2,16 @@
 title: Ставке производа засноване на обрачуну
 description: Ова тема пружа информације о примени цене коштања на ставку понуде засноване на производу.
 author: ruhercul
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: d21ab159294cac66ffeb8abcf0943b4babd7b360
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 1fa7896e249abfefd3e93cba4bad789e67e14f31
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4118944"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6003469"
 ---
 # <a name="costing-product-based-quote-lines"></a>Ставке производа засноване на обрачуну
 
@@ -33,3 +31,6 @@ _**Односи се на:** Project Operations за сценарије засн
 Fabrikam Robotics инсталира роботске руке на производним тракама компаније A Datum Corporation. Fabrikam пружа услуге уградње, али роботске руке су набављене од компаније Trey robotics. Ако инсталација роботске руке у компанији A Datum Corporation отвори нову индустријску делатност за роботске руке компаније Trey, тада би компанија Trey могла дати посебан попуст за овај посао компанији Fabrikam.
 
 У овом случају, Fabrikam ће креирати ставку понуде засновану на производу за роботске руке и унеће посебну цену по јединици за ову понуду. Та цена се разликује од стандардне цене роботске руке компаније Trey.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

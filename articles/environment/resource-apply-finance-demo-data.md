@@ -2,18 +2,16 @@
 title: Примена демо података на Finance окружење које се хостује у облаку
 description: Ова тема објашњава како да примените демо податке из услуге Project Operations на Dynamics 365 Finance окружење хостовано у облаку.
 author: sigitac
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: a7cdbd2847ce45972aadd0d1a2d4f26270727ad9
-ms.sourcegitcommit: d33ef0ae39f90fe3b0f6b4524f483e8052057361
-ms.translationtype: HT
+ms.openlocfilehash: c04aab6ffb332a3095ca2a7890deb73f15a8b5e3713021c60eec02eb13dbd0cb
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "4365256"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7009684"
 ---
 # <a name="apply-demo-data-to-a-finance-cloud-hosted-environment"></a>Примена демо података на Finance окружење које се хостује у облаку
 
@@ -24,40 +22,40 @@ _**Односи се на:** Project Operations за сценарије засн
 
 1. У свом LCS пројекту, отворите страницу **Детаљи окружења**. Приметите да садржи детаље потребне за повезивање са околином помоћу протокола удаљене радне површине (RDP).
 
-![Детаљи  окружења](./media/1EnvironmentDetails.png)
+![Детаљи окружења.](./media/1EnvironmentDetails.png)
 
 Први скуп истакнутих акредитива су акредитиви локалног налога и садрже хипервезу до везе са удаљеном радном површином. Акредитиви укључују корисничко име и лозинку администратора окружења. Други скуп акредитива се користи за пријављивање на SQL Server у овом окружењу.
 
 2. Повежите се удаљено са окружењем користећи хипервезу у одељку **Локални налози** и употребите **Акредитиви за локални налог** за потврду идентитета.
 3. Идите на **Internet Information Services** > **Групе апликација** > **AOSService** и зауставите услугу. У овом тренутку заустављате услугу да бисте могли да наставите да замењујете SQL базу података.
 
-![Заустављање AOS](./media/2StopAOS.png)
+![Заустављање AOS.](./media/2StopAOS.png)
 
 4. Идите на **Услуге** и зауставите следеће две ставке:
 
 - Microsoft Dynamics 365 Unified Operations: Batch Management Service
 - Microsoft Dynamics 365 Unified Operations: Data Import Export Framework
 
-![Заустављање услуга](./media/3StopServices.png)
+![Заустављање услуга.](./media/3StopServices.png)
 
 5. Отворите Microsoft SQL Server Management Studio. Пријавите се помоћу акредитива за SQL Server и користите корисника axdbadmin и лозинку са LCS странице **Детаљи окружења**.
 
-![SQL Server Management Studio](./media/4SSMS.png)
+![SQL Server Management Studio.](./media/4SSMS.png)
 
 6. У прегледачу објеката, изаберите **Базе података** и пронађите **AXDB**. Базу података ћете заменити новом базом података која се налази у [центру за преузимање](https://download.microsoft.com/download/1/a/3/1a314bd2-b082-4a87-abdc-1ba26c92b63d/ProjOpsDemoDataFOGARelease.zip). 
 7. Копирајте zip датотеку у VM у који сте удаљено повезани и распакујте zip садржај.
 8. У програму SQL Server Management Studio кликните десним тастером миша на **AxDB**, а затим изаберите **Задаци** > **Враћање** > **База података**.
 
-![Враћање базе података](./media/5RestoreDatabase.png)
+![Враћање базе података.](./media/5RestoreDatabase.png)
 
 9. Изаберите **Изворни уређај** и дођите до датотеке извучене из zip датотеке коју сте копирали.
 
-![Изворни уређаји](./media/6SourceDevice.png)
+![Изворни уређаји.](./media/6SourceDevice.png)
 
 10. Изаберите **Опције**, а затим изаберите **Препиши постојећу базу података** и **Затворите постојеће везе са одредишном базом података**. 
 11. Изаберите **У реду**.
 
-![Враћање подешавања](./media/7RestoreSetting.png)
+![Враћање подешавања.](./media/7RestoreSetting.png)
 
 Добићете потврду да је враћање AXDB било успешно. Када добијете ову потврду, можете да затворите SQL Services Management Studio.
 
@@ -68,14 +66,17 @@ _**Односи се на:** Project Operations за сценарије засн
 15. Покрените .ext датотеку користећи своју корисничку адресу у пољу **Адреса е-поште**. 
 16. Изаберите **Проследи**.
 
-![Обезбеђивање корисника-администратора](./media/8AdminUserProvisioning.png)
+![Обезбеђивање корисника-администратора.](./media/8AdminUserProvisioning.png)
 
 За ово је потребно неколико минута. Требало би да примите поруку са потврдом да је корисник-администратор успешно ажуриран.
 
 17. На крају, покрените командну линију као администратор и покрените команду iisreset
 
-![Ресетовање IIS](./media/9IISReset.png)
+![Ресетовање IIS.](./media/9IISReset.png)
 
 18. Затворите сесију удаљене радне површине и користите страницу LCS **Детаљи окружења** да бисте се пријавили у окружење и потврдили да ради као што се очекује.
 
-![Finance and Operations](./media/10FinanceAndOperations.png)
+![Finance and Operations.](./media/10FinanceAndOperations.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

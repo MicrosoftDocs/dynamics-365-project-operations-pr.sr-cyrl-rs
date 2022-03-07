@@ -16,16 +16,14 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 433cd05746423d5e654a999b80aee594c1fd1455
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 0a47a5bb588df83a958acedd830c53d4c5a7122f
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5148616"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4084162"
 ---
 # <a name="time-and-expense-changes-project-service-automation-3x"></a>Промене времена и трошкова (Project Service Automation 3.x)
-
-[!include [banner](../../includes/psa-now-project-operations.md)]
 
 У апликацији Dynamics 365 Project Service Automation верзије 3.0, прикази Време и Трошак су ажурирани како би искористили предност новог оквира платформе за прилагођене контроле.
 

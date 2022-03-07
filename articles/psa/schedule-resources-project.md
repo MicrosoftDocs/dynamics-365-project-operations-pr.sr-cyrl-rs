@@ -2,8 +2,6 @@
 title: Планирајте ресурсе за пројекат
 description: Како да планирате ресурсе за пројекат у апликацији Project Service
 author: JohnPBurrows
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: e39c95386eb2dd31fb54878bc203bd94931274de
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 7beb1f86795a909a1266b2a2c97421e1f04ef3c4cf2f9b49413cd1382b0f2011
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5150461"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6998164"
 ---
 # <a name="schedule-resources-for-a-project-project-service"></a>Планирање ресурса за пројекат (Project Service)
 
@@ -35,7 +33,7 @@ ms.locfileid: "5150461"
   
 Табла распореда приказује листу ресурса и њихову доступност. Изаберите режим приказа за приказивање доступности према **Сатима**, **Данима**, **Недељи** или **Месецу**.  
   
-Пре него што можете да користите табелу распореда, важно је да је подесите. Више информација потражите у одељку [Конфигуришите таблу распореда (Field Service или Project Service Automation)](https://docs.microsoft.com/dynamics365/field-service/configure-schedule-board).
+Пре него што можете да користите табелу распореда, важно је да је подесите. Више информација потражите у одељку [Конфигуришите таблу распореда (Field Service или Project Service Automation)](/dynamics365/field-service/configure-schedule-board).
   
 Ако користите старију верзију, за доступност ресурса погледајте [Приказ доступности ресурса](../psa/view-resource-availability.md).  
 
@@ -83,3 +81,6 @@ ms.locfileid: "5150461"
   
 ### <a name="additional-resources"></a>Додатни ресурси  
  [Водич за менаџера ресурса](../psa/resource-manager-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

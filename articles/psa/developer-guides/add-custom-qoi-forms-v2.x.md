@@ -2,12 +2,10 @@
 title: Додавање нових образаца прилагођених ентитета (Project Service Automation 2. x)
 description: Ова тема пружа информације о додавању прилагођених образаца ентитета за могућности за пословање, понуде, поруџбине или фактуре у апликацији Dynamics 365 Project Service Automation 2.x.
 author: makk
-manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 3/14/2019
 ms.topic: article
-ms.service: business-applications
 ms.author: makk
 audience: admin
 search.audienceType:
@@ -16,12 +14,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 31986efed81892cc5722cb8f5e292cde14d8843d
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: e59e343887ef59ee28bee13346a0c9bf3ad7df27346e2a4f3f02a1e5c08c060f
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5144611"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6995239"
 ---
 # <a name="add-new-custom-entity-forms-project-service-automation-2x"></a>Додавање нових образаца прилагођених ентитета (Project Service Automation 2. x)
 
@@ -59,7 +57,7 @@ Dynamics 365 Project Service Automation се ослања на поље **Тип
     - Извезите образац **Моје информације о пројекту** као део некомплетног решења, а затим потражите вредност **formId** у датотеци customization.xml у извезеном решењу.
     - Отворите образац **Моје информације о пројекту** у уређивачу образаца, а затим потражите универзални јединствени идентификатор (GUID) поред параметра **fromId** у URL адреси, као што је приказано на следећој илустрацији.
 
-    ![Вредност formId новог обрасца у URL адреси](media/how-to-add-custom-forms-in-v2.0.png)
+    ![Вредност formId новог обрасца у URL адреси.](media/how-to-add-custom-forms-in-v2.0.png)
 
 5. Креирајте мапирање **msdyn\_ordertype** за вредност **formId** уређивањем веб-ресурса msdyn\_/Документ продаје/PSSalesDocumentCustomFormIds.js. Уклоните кôд из ресурса и замените га следећим кодом.
 
@@ -96,3 +94,6 @@ Dynamics 365 Project Service Automation се ослања на поље **Тип
     ```
 
 6. Сачувајте, а затим објавите прилагођавања.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -2,18 +2,16 @@
 title: Управљање већим бројем клијената у предметима уговора заснованим на пројекту
 description: Ова тема пружа информације о раду са предметима уговора и уговорима који садрже више клијената.
 author: rumant
-manager: Annbe
 ms.date: 10/22/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 71081775ab45167bc1bff1979f7856a2a2a91385
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
-ms.translationtype: HT
+ms.openlocfilehash: 25ce50251380d1ca136a81268c74a0675928011dc2eefaee21df83cdd62845a9
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4181920"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992134"
 ---
 # <a name="manage-multiple-customers-on-project-based-contract-lines"></a>Управљање већим бројем клијената у предметима уговора заснованим на пројекту
 
@@ -44,3 +42,6 @@ _**Односи се на:** Project Operations за сценарије засн
 Проценти поделе наплате се могу уређивати у мрежи. Када проценти поделе наплате не буду износили 100 процената, јавиће се грешка. Када уредите проценте поделе наплате, освежите страницу да бисте уклонили грешку.
 
 Такође можете покушати да изаберете **Равномерно распореди** на подформи клијента предмета уговора. Ова радња равномерно распоређује поделе наплате за све клијенте предмета уговора. Ако постоји било који фактор заокруживања, он ће се додати клијенту за заокруживање. Један клијент из предмета уговора увек је означен као клијент за **заокруживање**, чија заставица **Заокруживање** је постављена на **Да**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,18 +2,16 @@
 title: Конфигурисање наплативим компонентама ставке понуде засноване на пројекту
 description: Ова тема пружа информације о укљученим, наплативим и ненаплативим компонентама на ставкама понуда заснованих на пројекту.
 author: rumant
-manager: Annbe
 ms.date: 11/18/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 36765ab3687a8aaf3ae4a631516a1d61c14e981e
-ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
-ms.translationtype: HT
+ms.openlocfilehash: 251d0013b445d2f7d17fbe1908f0db2e05cfc2670ac667deb363c98f608a2aef
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "4642561"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7004014"
 ---
 # <a name="configure-the-chargeable-components-of-a-project-based-quote-line"></a>Конфигурисање наплативим компонентама ставке понуде засноване на пројекту
 
@@ -53,3 +51,6 @@ _**Односи се на:** Project Operations за сценарије засн
 | Ne | Да | Није могуће подесити | Ненаплативо | Обрачун у стварном времену: Није доступно </br>Тип обрачуна на стварном трошку: Ненаплативо |
 | Да | Ne | Наплативо | Није могуће подесити | Обрачун у стварном времену: Наплативо </br>Тип обрачуна на стварном трошку: Није доступно |
 | Да | Ne | Ненаплативо | Није могуће подесити | Обрачун у стварном времену: Ненаплативо </br> Тип обрачуна на стварном трошку: Није доступно |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

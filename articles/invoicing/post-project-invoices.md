@@ -2,18 +2,17 @@
 title: Преглед процеса фактурисања
 description: Ова тема пружа преглед процеса фактурисања у услузи Project Operations за сценарије засноване на ресурсима/без залиха.
 author: sigitac
-manager: Annbe
 ms.date: 01/29/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: fbc1519b6cbcf231cfa89df8b7843d11a8904e49
-ms.sourcegitcommit: b4298ca4729643c1040ef35dde8c67f829461ce7
+ms.custom: intro-internal
+ms.openlocfilehash: 0eab33c8640f665555cf5ec5b0f188e5af65a493
+ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "5089298"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "6369034"
 ---
 # <a name="invoicing-process-overview"></a>Преглед процеса фактурисања
 
@@ -30,3 +29,6 @@ Project Operations за сценарије засноване на ресурс�
 Можете [ручно да креирате профактуру](../proforma-invoicing/create-manual-proforma-invoice.md) или да користите [периодични процес](../proforma-invoicing/configure-automated-invoice-creation.md). Менаџер пројекта може да [прилагоди радну верзију пфорактуре](../proforma-invoicing/manage-proforma-invoice.md) по потреби, а затим да је потврди.
 
 Потврђена профактура се шаље у модул **Управљање пројектима и рачуноводство** у услузи Finance. Рачуновођа пројекта форматира и ажурира предлог фактуре пројекта, а затим књижи и штампа документ. Прокњижене фактуре пројеката евидентирају се у главној књизи, као и у поткњигама за клијента и пројекат.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

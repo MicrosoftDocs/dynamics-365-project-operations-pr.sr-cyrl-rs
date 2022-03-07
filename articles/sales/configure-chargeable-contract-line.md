@@ -1,5 +1,5 @@
 ---
-title: Конфигурисање наплативих компоненти предмета уговора за пројекат
+title: Конфигуришите наплативе компоненте за предмет уговора заснован на пројекту
 description: Ова тема пружа информације о укљученим, наплативим и ненаплативим компонентама на предметима уговора.
 author: rumant
 manager: Annbe
@@ -8,14 +8,14 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 60a2792f7783053a288303e1dcc01a986e948300
-ms.sourcegitcommit: 5fd529f2308edfe9322082313e6d50146df56aca
+ms.openlocfilehash: d6f67d5dc6b94148d437b3399229c1235c702c6a
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "5858356"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4128717"
 ---
-# <a name="configure-chargeable-components-of-a-project-contract-line"></a>Конфигурисање наплативих компоненти предмета уговора за пројекат
+# <a name="configure-chargeable-components-of-a-project-based-contract-line"></a>Конфигуришите наплативе компоненте за предмет уговора заснован на пројекту
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_
 
@@ -58,6 +58,3 @@ _**Односи се на:** Project Operations за сценарије засн
 | Ne | Да | Није могуће подесити | Ненаплативо | Обрачун у стварном времену: Није доступно </br>Тип обрачуна на стварном трошку: Ненаплативо |
 | Да | Ne | Наплативо | Није могуће подесити | Обрачун у стварном времену: Наплативо </br>Тип обрачуна на стварном трошку: Није доступно |
 | Да | Ne | Ненаплативо | Није могуће подесити | Обрачун у стварном времену: Ненаплативо </br> Тип обрачуна на стварном трошку: Није доступно |
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

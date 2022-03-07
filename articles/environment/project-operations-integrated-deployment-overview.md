@@ -2,18 +2,17 @@
 title: Приказ примене услуге Project Operations за сценарије засноване на ресурсима/без залиха
 description: Ова тема пружа информације о типу примене, Project Operations за сценарије засноване на ресурсима/без залиха.
 author: rumant
-manager: Annbe
 ms.date: 11/02/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 035ad22d2b51182c11e5c29d35f74f499fc903d5
-ms.sourcegitcommit: d33ef0ae39f90fe3b0f6b4524f483e8052057361
+ms.custom: intro-internal
+ms.openlocfilehash: 3648bf6c5e00fe701f309392bd09819f84bf574d
+ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "4365608"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "6368719"
 ---
 # <a name="project-operations-for-resourcenon-stocked-based-scenarios-deployment-overview"></a>Приказ примене услуге Project Operations за сценарије засноване на ресурсима/без залиха
 
@@ -43,3 +42,6 @@ _**Односи се на:** Project Operations за сценарије засн
 - Захтевајте богат механизам за израчунавање пореза на промет и курсне листе на нивоу предузећа да бисте генерисали фактуре за пројекте у окружењу клијената.
 - Систем рачуноводства пројеката и признавања прихода који је усклађен са Међународним стандардима финансијског извештавања (IFRS).
 - Апликације Finance или Supply Chain Management и интеграција трансакција заснованих на пројектима.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

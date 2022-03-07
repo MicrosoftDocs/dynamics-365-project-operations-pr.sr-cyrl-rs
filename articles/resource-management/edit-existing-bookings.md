@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 3980df0608c387d47ad68bbf2e816d408f1c2cf0
-ms.sourcegitcommit: 260ce052fed760bb44c514517806049ca13a5459
+ms.openlocfilehash: 4960792358194d071ba7a34c87b74fe2ce4457fd
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "4841396"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5279651"
 ---
 # <a name="edit-bookings"></a>Uređivanje rezervacija
 
@@ -33,3 +33,6 @@ _**Односи се на:** Project Operations за сценарије засн
 ## <a name="schedule-board"></a>Табела распореда
 
 У **табели распореда** менаџер ресурса има приказ портфеља свих резервација у организацији. У овом приказу менаџер ресурса може проширити, скратити или преместити постојеће резервације слично могућностима које нуди **Одржавање резервација**. Менаџер ресурса такође може заменити постојеће ресурсе додељене одређеној резервацији десним кликом на резервацију и одабиром **Замени ресурс**. Менаџери ресурса такође могу уређивати контуре постојећих резервација десним кликом на резервацију и одабиром опције **Уреди**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

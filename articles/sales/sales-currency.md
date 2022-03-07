@@ -6,7 +6,7 @@ manager: AnnBe
 ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
+ms.service: dynamics-365-customerservice
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -17,18 +17,16 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 093eaa78b5f88aee364a753374a56c33e20a5ce3
-ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
+ms.openlocfilehash: 1db7e76dbb220954b9f9088b2168eed1a1902abc
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "4642291"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4084004"
 ---
 # <a name="currency"></a>Валута
 
-_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
-
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_
 
 Валуте одређују цене за производе у каталогу производа и трошкове трансакција, као што су улазне поруџбине. Ако се ваши клијенти налазе у различитим географским областима, додајте њихове валуте да бисте управљали трансакцијама. Додајте валуте које највише одговарају тренутним и будућим пословним потребама.  
 

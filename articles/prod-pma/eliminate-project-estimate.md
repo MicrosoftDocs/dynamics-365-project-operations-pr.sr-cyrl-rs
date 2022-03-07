@@ -18,12 +18,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 7
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: 000eabdac41f30a6e7dd37e34b8fd91d7c51f6c4
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 8bda8a7357e883b948449b2a19bea476996dde3c
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5270696"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4084025"
 ---
 # <a name="eliminate-a-project-estimate"></a>Елиминисање процене за пројекат
 
@@ -51,6 +51,3 @@ ms.locfileid: "5270696"
 5. Након завршетка поступка елиминације, пројекат са елиминисаном проценом приказује се са негативном вредношћу. 
 
 Ако нисте намеравали да елиминишете процену, можете да изаберете елиминисану процену и изаберете **Опозови елиминацију**.   
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

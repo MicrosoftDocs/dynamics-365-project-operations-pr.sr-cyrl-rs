@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 2f3aab57f159dbb522ebe5d24dc3693034f6f81f
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
+ms.openlocfilehash: 29e301062f8f3ba955a95953bc2e891f3acaf765
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4181470"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5287706"
 ---
 # <a name="manage-a-proforma-invoice"></a>Управљање предрачуном
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_
 
-У услузи Dynamics 365 Project Operations, предрачуни се граде као додатак фактурама у услузи Dynamics 365 Sales. Међутим, постоје многе разлике у процесу фактурисања између услуга Sales и Project Operations када је реч о фактурисању. На пример, није могуће креирати нову фактуру на страници **Листа фактура** у услузи Project Operations, али то је могуће учинити у услузи Sales. Ове разлике и проширења постоје за подршку процесима фактурисања за пројекте који се разликују од типичне фактуре за наруџбеницу.
+У услузи Dynamics 365 Project Operations, профактуре се праве као додатак фактурама у услузи Dynamics 365 Sales. Међутим, постоје многе разлике у процесу фактурисања између услуга Sales и Project Operations када је реч о фактурисању. На пример, није могуће креирати нову фактуру на страници **Листа фактура** у услузи Project Operations, али то је могуће учинити у услузи Sales. Ове разлике и проширења постоје за подршку процесима фактурисања за пројекте који се разликују од типичне фактуре за наруџбеницу.
 
 > [!IMPORTANT]
 > Због тих разлика, немојте размењивати фактуре између услуга Sales и Project Operations.
@@ -135,3 +135,6 @@ _**Односи се на:** Project Operations за сценарије засн
 2. Отворите радни верзију предрачуна и на траци **Радње** кликните на **Освежавање трансакција ставки фактуре**.
 
   Ово креира детаље о ставки фактуре за све стварне вредности чији датум је истекао и означене су као **Спремно за фактурисање**; али нису укључене у фактуру.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

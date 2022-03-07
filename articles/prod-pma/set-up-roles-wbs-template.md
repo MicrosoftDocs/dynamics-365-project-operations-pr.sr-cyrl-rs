@@ -2,11 +2,9 @@
 title: Подесите улоге на предлошцима структурне анализа посла
 description: Ова тема пружа информације о постављању информација о улогама на предлошцима структурне анализе посла.
 author: Yowelle
-manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
@@ -18,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 143f1094c653fb7ac0e026b7875aa162a3eb83f7
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: ec952021f9da4d83520d29d68d040675f7933df7
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083952"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5997619"
 ---
 # <a name="set-up-roles-on-work-breakdown-structure-templates"></a>Подесите улоге на предлошцима структурне анализа посла
 
@@ -107,3 +105,6 @@ ms.locfileid: "4083952"
     > Нећете добити упозорење да је наведени ресурс сада 2, јер број ресурса остаје 1.
 
 14. На страници **Структурна анализа посла** потврдите додељивање ресурса на САП-у, а затим изаберите **Сачувај**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

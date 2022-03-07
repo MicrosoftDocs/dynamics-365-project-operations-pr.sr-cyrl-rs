@@ -2,8 +2,6 @@
 title: Шта је ново или промењено у издању 13 исправке Project Service Automation верзије 3
 description: У овој теми дате су информације о томе шта је ново у издању исправке 13 за Project Service Automation у верзији 3.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 02/04/2020
 ms.topic: article
@@ -17,18 +15,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 7287054c470a44ed1fdc243018ec935fe21a6c4f
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 3a20cf32e578bc818f3ef6ed916784c32b559c3342162bcb7857f5e9cc520d9c
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5147266"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7006713"
 ---
 # <a name="project-service-automation-update-release-13-v3"></a>Project Service Automation издање исправке 13, у верзији 3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-Са задовољство најављујемо најновију исправку за апликацију Dynamics 365 Project Service Automation (PSA). Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите центар за администрацију за Dynamics 365 online и идите до странице са решењима како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
+Са задовољство најављујемо најновију исправку за апликацију Dynamics 365 Project Service Automation (PSA). Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите центар за администрацију за Dynamics 365 online и идите до странице са решењима како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
 У овој теми дате су функције које су нове или су промењене у решењу Project Service Automation у верзији 3, издање исправке 13. Ова верзија има број верзије V3.10.3.18 и доступна је према следећем плану:
 
@@ -59,3 +57,6 @@ ms.locfileid: "5147266"
      - Исправљено: Додатна дугмад за ставке **Нова могућност за пословање**, **Понуда**, **Ставка поруџбине** и **Додавање производа** су видљива у командама за могућности за пословање, понуде, наручивање производа и подформе за ставке засноване на пројекту.
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

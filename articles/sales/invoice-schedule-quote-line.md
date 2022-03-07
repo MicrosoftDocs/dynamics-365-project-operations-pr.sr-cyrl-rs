@@ -2,18 +2,16 @@
 title: Распореди фактурисања на ставкама понуде засноване на пројекту
 description: Ова тема пружа информације о креирању распореда и контролних тачака фактурисања за ставке понуде.
 author: rumant
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 2b69742915fe79ee59e7fdcf317000cea79c5929
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
-ms.translationtype: HT
+ms.openlocfilehash: 0d07596b299d71b229487faf80a09e368059575ea37095d2c82d35561d009c96
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4180840"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988624"
 ---
 # <a name="invoice-schedules-on-project-based-quote-lines"></a>Распореди фактурисања на ставкама понуде засноване на пројекту
 
@@ -68,3 +66,6 @@ _**Односи се на:** Project Operations за сценарије засн
 | Статус фактуре | Брзо креирање | Када се креира контролна тачка, овај статус се увек поставља на **Није спремно за фактурисање**. | Ово се преноси на контролну тачку предмета уговора о пројекту и на фактуру. |
 | Износ ставке | Брзо креирање | Износ или вредност контролне тачке која ће се фактурисати клијенту. | Ово се преноси на контролну тачку предмета уговора о пројекту и на фактуру. |
 | Порез | Брзо креирање | Износ пореза који ће се применити на контролну тачку. | Ово се преноси на контролну тачку предмета уговора о пројекту и на фактуру. |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

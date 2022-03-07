@@ -2,18 +2,16 @@
 title: Уређивање потребе за ресурсом
 description: Ова тема пружа информације о томе како да ажурирате информације захтева за ресурсима.
 author: ruhercul
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 988d3338f19443f1d8bcb7cf77e69aa3c1cff155
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
-ms.translationtype: HT
+ms.openlocfilehash: 8c80c7148df972e542ea1952ef333b3c7c2709b4409ffaf0508f8f617d5f9894
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4128796"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6999784"
 ---
 # <a name="edit-a-resource-requirement"></a>Уређивање потребе за ресурсом
 
@@ -37,3 +35,5 @@ _**Односи се на:** Project Operations за сценарије засн
 ## <a name="edit-resource-assignment-contours"></a>Уређивање контура додељивања ресурса
 
 Поред уређивања детаља захтева за ресурсима, менаџер пројекта може да ажурира појединачне контуре захтева за ресурсима користећи функционалност **Наведи образац**. Када изаберете **Наведи образац**, отвориће се страница и можете видети контуре на временској скали дана, недеље или месеца. Свака контура се може подесити за време почетка, време завршетка и укупно ангажовање у датом периоду.
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

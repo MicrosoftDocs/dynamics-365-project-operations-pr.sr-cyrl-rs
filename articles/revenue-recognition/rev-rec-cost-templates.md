@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 786b2b9b140f82d406044c2ed05761d7f46ee9e0
-ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
+ms.openlocfilehash: 4d9dcc54e62682a02ea6cf8caca90586b4217908
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "4642741"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5278976"
 ---
 # <a name="set-up-cost-templates"></a>Конфигурисање предложака трошкова
 
@@ -79,3 +79,6 @@ _**Односи се на:** Project Operations за сценарије засн
 7. На картици **Категорије** изаберите категорије пројеката које ће бити укључене у ред предлошка трошкова.
 8. На картици **Општи подаци**, изаберите да ли ће ова линија бити укључена у проценат израчунавања довршености.
 9. Изаберите метод цене за довршетак који ћете користити при израчунавању процента довршења.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

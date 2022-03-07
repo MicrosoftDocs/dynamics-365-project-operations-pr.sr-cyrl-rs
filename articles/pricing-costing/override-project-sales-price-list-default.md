@@ -2,19 +2,17 @@
 title: Измена продајних ценовника за пројекат
 description: Ова тема пружа информације о креирању прилагођених продајних ценовника.
 author: rumant
-manager: Annbe
 ms.date: 10/22/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: af9baca540d89f4e5e616bdfdd6111bef29abe28
-ms.sourcegitcommit: 656a9d03f260c29e988e2ff05b6e07ae0365d6d0
-ms.translationtype: HT
+ms.openlocfilehash: b26947822eb8e87b3b36fcde9c99c6ee69375aa942a5641112b9b1109dcaa26c
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "4672249"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7009594"
 ---
 # <a name="override-project-sales-price-lists"></a>Измена продајних ценовника за пројекат
 
@@ -52,3 +50,6 @@ _**Односи се на:** Project Operations за сценарије засн
 У уговору за пројекат, одређивање цена за пројекат се увек подразумева из прилагођеног ценовника са називом уговора и обележјем датума и времена креирања који се додаје називу. То је тачно да ли је уговор креиран када је понуда добијена или је уговор креиран испочетка. Ако је потребно, можете уклонити ово повезивање са прилагођеним ценовником и уместо тога придружити стандардни ценовник уговору о пројекту.
 
 Када стандардни ценовник придружите ценовницима пројекта у понуди или уговору, све промене цена у ценовнику утицаће на све понуде и уговоре који користе тај ценовник.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,10 +2,9 @@
 title: Преглед тренутног стања
 description: Ова тема пружа информације о стварним вредностима пројекта.
 author: rumant
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
+- intro-internal
 ms.date: 08/03/2020
 ms.topic: article
 ms.author: rumant
@@ -18,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 63ad6544f0ec0a893aebd8d81f3ee895e51c294e
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: cbb3e5c7f74cdf37ae4d259687bf7a98102a8131
+ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5146141"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "6368179"
 ---
 # <a name="actuals-overview"></a>Преглед тренутног стања
 
@@ -330,3 +329,6 @@ PSA бележи финансијске трансакције које се д�
 </tr>
 </tbody>
 </table>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

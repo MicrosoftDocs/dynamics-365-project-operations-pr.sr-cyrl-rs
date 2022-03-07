@@ -3,7 +3,7 @@ title: Вештине и модели стручности
 description: Ова тема пружа информације о томе како да користите вештине и моделе стручности.
 author: ruhercul
 manager: kfend
-ms.service: project-operations
+ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/13/2019
@@ -18,16 +18,14 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: c7da8b2a7eda51b2aa7cf04e325a92f33d834efc
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: cd243544df062e5801bbfa0a3bd75c4d9a116a6f
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5147491"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4084192"
 ---
 # <a name="skills-and-proficiency-models"></a>Вештине и модели стручности
-
-[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
@@ -43,7 +41,7 @@ ms.locfileid: "5147491"
 
 1. Да бисте креирали модел стручности, идите на **Ресурси** \> **Модели стручности**, а затим изаберите **Нови**.
 2. У новом моделу оцењивања наведите минималну вредност оцењивања, максималну вредност оцењивања и ентитет који се оцењује.
-3. У подформи **Вредности оцена** можете дефинисати различите вредности оцењивања, од минималне до максималне.
+3. У подформи **Вредности оцењивања** можете дефинисати различите вредности оцењивања, од минималне до максималне.
 
 > ![Дефинисане су минималне и максималне вредности оцењивања](media/Resource-Management-image85.png)
 

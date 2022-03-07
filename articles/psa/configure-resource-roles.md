@@ -3,7 +3,7 @@ title: Конфигурисање улога ресурса
 description: Како да конфигуришете улоге ресурса у апликацији Project Service
 author: JohnPBurrows
 manager: kfend
-ms.service: project-operations
+ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,16 +18,14 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: deaff0977ebb50382a28494fba2a1c34ed5cc9b4
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 5f899d17980df16602c964bab4bbab1e976b3ebf
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5144926"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4083970"
 ---
 # <a name="configure-resource-roles-project-service"></a>Конфигурисање улога ресурса (Project Service)
-
-[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 

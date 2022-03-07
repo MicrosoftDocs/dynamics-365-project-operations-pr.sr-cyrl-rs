@@ -2,6 +2,8 @@
 title: Како да „услово резервишете“ ресурсе у апликацији у верзији 2.x?
 description: У овом чланку описано је како да условно резервишете чланове пројектног тима уз помоћ програма Project Service.
 author: JohnPBurrows
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/21/2018
@@ -16,16 +18,14 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 413783d2386cccd98cfe216a7c7300a5b7f771ab
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: a35799b422fa338c2666e1b2aa11bc2a54f5cce3
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5992917"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4122271"
 ---
 # <a name="how-do-i-soft-book-resources-in-the-web-app-project-service-app-v2x"></a>Како да „условно резервишем“ ресурсе у веб апликацији (апликација Project Service у верзији v2.x)?
-
-[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1.x-2.x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
@@ -85,6 +85,3 @@ ms.locfileid: "5992917"
 2. Када се отвори табела распореда, развијте ресурс да бисте приказали његове резервације. Видећете да је резервација означена као „Условна“.
 3. Кликните десним тастером миша на резервацију, у оквиру опције „Промена статуса“, изаберите „Фиксно резервиши“ и затим „Фиксно“. Статус резервације је сада „Фиксно“.
 4. Након затварања табеле распореда, видећете да су сати за ресурс промењени из „Фиксни“ на „Условни“ на мрежи члана тима. Сада можете да доделите ресурс задацима (уколико постоји усклађеност између фиксно резервисаних часова и часова ангажовања задатка за доделу). Имајте у виду да ако сте пратили кораке испуњења генеричког ресурса у ставци бр. 3 изнад, када промените статус условно резервисаног ресурса у фиксно резервисани, генерички члан тима се уклања из тима.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

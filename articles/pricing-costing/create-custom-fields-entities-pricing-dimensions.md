@@ -2,11 +2,9 @@
 title: Креирање прилагођених поља и ентитета као димензије за одређивање цена
 description: Ова тема пружа информације о томе како да креирате прилагођене скупове опција или ентитете.
 author: rumant
-manager: AnnBe
 ms.date: 11/18/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -17,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: fc5917856b8f28d36dc55593a68eba7823a00b36
-ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
-ms.translationtype: HT
+ms.openlocfilehash: 40a6a4173cb0e4d7ea5bcf24c8954fe9d7e079d1e9ecf4aac252b5133f12d3ff
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "4642831"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7003654"
 ---
 # <a name="create-custom-fields-and-entities-as-pricing-dimensions"></a>Креирање прилагођених поља и ентитета као димензије за одређивање цена
 
@@ -46,7 +44,7 @@ _**Односи се на:** Project Operations за сценарије засн
 3. Изаберите **Ново** да бисте креирали нови ентитет под називом **Стандардна позиција**. 
 4. Унесите преостале потребне информације, а затим изаберите **Сачувај**.
 
-> ![Дефиниција стандардног ентитета назива](media/Standard-Title-entity-definition.png)
+> ![Дефиниција стандардног ентитета назива.](media/Standard-Title-entity-definition.png)
 
 ### <a name="option-set-based-dimensions"></a>Димензије засноване на скупу опција 
 Можете креирати две димензије засноване на скуповима опција. 
@@ -56,11 +54,11 @@ _**Односи се на:** Project Operations за сценарије засн
 
 Следећи графикон даје приказ димензије **Место рада ресурса**. 
 
-> ![Димензија одређивања цена заснована на скупу опција под називом Радна локација ресурса](media/Option-set-PD-called-Resource-Work-Location.png)
+> ![Димензија одређивања цена заснована на скупу опција под називом Радна локација ресурса.](media/Option-set-PD-called-Resource-Work-Location.png)
 
 Следећи графикон даје приказ димензије **Радно време ресурса**. 
 
-> ![Димензија одређивања цена заснована на скупу опција под називом Радно време ресурса](media/Option-set-PD-called-Resource-Work-Hours.png)
+> ![Димензија одређивања цена заснована на скупу опција под називом Радно време ресурса.](media/Option-set-PD-called-Resource-Work-Hours.png)
 
 1. Идите на **Подешавања** > **Решења**, а затим двапут кликните на **\<your organization name> димензије за одређивање цена**. 
 2. У левом окну за навигацију истраживача решења изаберите **Скупови опција**. 
@@ -76,4 +74,7 @@ _**Односи се на:** Project Operations за сценарије засн
 4. Затворите страницу. 
 5. Поновите кораке 1-3 да бисте креирали још једну стандардну позицији „Виши инжењер система“.
 
-> ![Пробни подаци за ентитет Стандардна позиција](media/ST-data.png)
+> ![Пробни подаци за ентитет Стандардна позиција.](media/ST-data.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

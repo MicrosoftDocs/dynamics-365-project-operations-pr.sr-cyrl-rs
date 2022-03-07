@@ -2,11 +2,9 @@
 title: Интеграција услуге Microsoft Project Client
 description: Планирање и одржавање распореда пројекта може бити сложено, па менаџери пројеката морају да користе алате који им помажу у управљању овим задатком. Интеграција са услугом Microsoft Project Client пружа подршку за отварање и управљање структурне анализе посла на пројекту.
 author: Yowelle
-manager: AnnBe
-ms.date: 12/11/2017
+ms.date: 06/16/2021
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjWbsTemplate
 audience: Application User
@@ -18,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2017-12-04
 ms.dyn365.ops.version: 7.2999999999999998
-ms.openlocfilehash: 732b72d9819fc149c4b2c783b3dc7f7eec3f0393
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: 8ef34bc984510f23ab77cc1710c06abbcf80f721703685d696fea28eeaddd732
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4084033"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988039"
 ---
 # <a name="microsoft-project-client-integration"></a>Интеграција услуге Microsoft Project Client
 
@@ -127,3 +125,13 @@ ms.locfileid: "4084033"
 8.  Изаберите **Календар** који ћете користити за обезбеђивање ресурса.
 
 11. Кликните на дугме **У реду**.
+
+> [!NOTE]
+> Програмски додатак Project Client не подржава следеће знакове у формату ID-а пројекта:
+> 
+>   - Доња црта
+>   - Период
+>   - Размак
+>   - Коса црта
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,11 +2,9 @@
 title: Конфигурисање стандардне цене рада и трошкова
 description: Ова тема објашњава како да поставите стандардну цену рада и трошкове пројекта.
 author: Yowelle
-manager: AnnBe
 ms.date: 08/02/2019
 ms.topic: business-process
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjCostPriceHour, ProjSalesPriceHour, ProjCostPriceExpense, ProjSalesPriceCost
 audience: Application User
@@ -17,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.search.validFrom: 2016-06-30
 ms.dyn365.ops.version: Version 7.0.0
-ms.openlocfilehash: b3eb6b1d4d75b095383689dd53a59a15fe9e884a
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: b8f65709433ed6f9ff9d23ed6d99624ee1d4aaef6927ee689c9f7651807340c5
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4084029"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6987994"
 ---
 # <a name="configure-standard-costs-for-labor-and-expenses"></a>Конфигурисање стандардне цене рада и трошкова
 
@@ -54,3 +52,6 @@ ms.locfileid: "4084029"
 22. У поље **Цена** унесите број. Стварна продајна цена, која се примењује када радник уноси трансакције у дневник трошкова, јесте продајна цена са највишим нивоом детаља. На пример, ако су постављене и општа продајна цена и продајна цена специфична за радника, користи се продајна цена специфична за радника.  
 23. Изаберите ставку **Сачувај**.
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

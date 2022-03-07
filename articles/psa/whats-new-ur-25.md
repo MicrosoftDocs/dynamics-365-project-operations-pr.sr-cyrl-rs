@@ -2,8 +2,6 @@
 title: Шта је ново или промењено у издању 25 исправке Project Service Automation верзије 3
 description: У овој теми су наведене функције и исправке које су доступне у издању 25 исправке за Project Service Automation верзије 3.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 10/26/2020
 ms.topic: article
@@ -17,18 +15,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: aabee3fe755e33d2c0f01a96b6f53a68957bc041
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 9d8ac559be2c23396604c61caae83c8a5328869d76218c6d8b3b6a6a6b32c1eb
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5143799"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6996589"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-25-v3"></a>Шта је ново или промењено у издању 25 исправке Project Service Automation верзије 3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
+Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
 У овој теми су наведене функције и исправке које су нове или промењене за Project Service Automation верзије 3, издање 25 исправке. Ова верзија има број верзије V 3.10.43.76 и постала је опште доступна путем самосталне исправке у октобру 2020.
 
@@ -70,3 +68,6 @@ ms.locfileid: "5143799"
 - Побољшано је руковање грешкама за решавање проблема изузетка празне референце генерисане из **Копирање пројекта: Процене за HelperResource Management**.
 - **Није спремно за фактурисање** на страници **Неизвршавање наплате времена и материјала** не брише статус наплате.
 - Исправљена су погрешно означена дугмад **Цене** на картицама **Цена улоге** и **Ставке каталога**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

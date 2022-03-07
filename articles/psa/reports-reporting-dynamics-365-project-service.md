@@ -2,10 +2,9 @@
 title: Матична страница за извештавање
 description: Ова тема пружа информације о извештавању у апликацији Dynamics 365 Project Service Automation.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
+- intro-internal
 ms.date: 03/01/2019
 ms.topic: article
 ms.author: ruhercul
@@ -18,28 +17,28 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 25486b0c153842cab4331f27eea4872f848bea50
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 4e60fc8c3788f4a2997d894e79d0d510d63209dd1570d79f1c43c2814d8ab819
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5147716"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6998299"
 ---
-# <a name="reporting-home-page"></a>Матична страница за извештавање
+# <a name="reporting-home-page"></a>Почетна страница за извештавање
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
-Microsoft Dynamics 365 Project Service Automation омогућава да организације засноване на пројектима ефикасно управљају пословним операцијама предузећа. На било којем пројекту, чланови тима морају да управљају могућностима за пословање, дају пословну понуду и планирају посао, обезбеђују ресурсе за пројекте, управљају послом према плану, наплаћују за посао, а затим обављају остале послове како би пројекат привели крају. Могућност извештавања о пословним операцијама је кључна за утврђивање стања организације и предузимање било каквих корективних поступака који су потребни. PSA користи Microsoft Dynamics 365 методе и технологије извештавања за целокупно извештавање. Још информација о опцијама за извештавање потражите у одељку [Водич за писање извештаја за Dynamics 365 Customer Engagement (on-premises), верзију 9](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/analytics/reporting-analytics-with-dynamics-365).
+Microsoft Dynamics 365 Project Service Automation омогућава да организације засноване на пројектима ефикасно управљају пословним операцијама предузећа. На било којем пројекту, чланови тима морају да управљају могућностима за пословање, дају пословну понуду и планирају посао, обезбеђују ресурсе за пројекте, управљају послом према плану, наплаћују за посао, а затим обављају остале послове како би пројекат привели крају. Могућност извештавања о пословним операцијама је кључна за утврђивање стања организације и предузимање било каквих корективних поступака који су потребни. PSA користи Microsoft Dynamics 365 методе и технологије извештавања за целокупно извештавање. Још информација о опцијама за извештавање потражите у одељку [Водич за писање извештаја за Dynamics 365 Customer Engagement (on-premises), верзију 9](/dynamics365/customerengagement/on-premises/analytics/reporting-analytics-with-dynamics-365).
 
 ## <a name="report-wizard"></a>Чаробњак за извештаје
 
-Чаробњак за извештаје омогућава онима који нису програмери да креирају једноставне извештаје. Будући да је апликација развијена на постојећој платформи, искуство је исто као искуство документовано у чланку [Креирање или измена извештаја помоћу чаробњака за извештаје](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/basics/create-edit-copy-report-wizard). Међутим, користићете ентитете специфичне за Project Service Automation.
+Чаробњак за извештаје омогућава онима који нису програмери да креирају једноставне извештаје. Будући да је апликација развијена на постојећој платформи, искуство је исто као искуство документовано у чланку [Креирање или измена извештаја помоћу чаробњака за извештаје](/dynamics365/customerengagement/on-premises/basics/create-edit-copy-report-wizard). Међутим, користићете ентитете специфичне за Project Service Automation.
 
 ## <a name="custom-sql-server-reporting-services-reports"></a>Прилагођени извештаји за SQL Server Reporting Services
 
-Ако ваше предузеће захтева одређени извештај који се не може креирати помоћу чаробњака за извештаје, можете да креирате прилагођени извештај. Морате инсталирати Microsoft Visual Studio, уз одговарајуће Microsoft SQL Server Data Tools и додатке за креирање извештаја. За више информација о алаткама и верзијама погледајте чланак [Окружење за писање извештаја које користи SQL Server Data Tools](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/analytics/report-writing-environment-using-sql-server-data-tools). Информације о креирању прилагођеног извештаја потражите у чланку [Креирање новог извештаја помоћу услуге SQL Server Data Tools](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/analytics/create-a-new-report-using-sql-server-data-tools).
+Ако ваше предузеће захтева одређени извештај који се не може креирати помоћу чаробњака за извештаје, можете да креирате прилагођени извештај. Морате инсталирати Microsoft Visual Studio, уз одговарајуће Microsoft SQL Server Data Tools и додатке за креирање извештаја. За више информација о алаткама и верзијама погледајте чланак [Окружење за писање извештаја које користи SQL Server Data Tools](/dynamics365/customerengagement/on-premises/analytics/report-writing-environment-using-sql-server-data-tools). Информације о креирању прилагођеног извештаја потражите у чланку [Креирање новог извештаја помоћу услуге SQL Server Data Tools](/dynamics365/customerengagement/on-premises/analytics/create-a-new-report-using-sql-server-data-tools).
 
 ## <a name="power-bi-insights-apps"></a>Power BI апликације за увиде
 
@@ -52,3 +51,6 @@ Microsoft Power BI и Dynamics 365 заједно пружају моћан на
 - [Рад са Project Service моделом података](reports-working-project-service-data-model.md)
 - [Контролне табле](reports-dashboards.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -17,18 +17,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: f38f847b6097c5b43b4ee6da97c00fb1a00c1506
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: a12effe3af1c1c5596710af658a2811ba9496438
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5151091"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5948797"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-275-v3"></a>Шта је ново или промењено у издању исправке 27.5 за Project Service Automation верзије 3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
+Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
 У овој теми су наведене функције и исправке које су нове или промењене у издању исправке 27.5 за Project Service Automation верзије 3. Ова верзија има број верзије V3.10.45.119 и опште је доступна путем само-исправке у јануару 2021. године.
 
@@ -42,3 +42,6 @@ ms.locfileid: "5151091"
 Поправљени су следећи проблеми:
 
 - Погоршање перформанси претраге помоћи за заказивање
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

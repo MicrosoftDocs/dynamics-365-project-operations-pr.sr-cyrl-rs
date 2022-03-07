@@ -2,10 +2,8 @@
 title: Масовне исправке тренутног стања креираног одобреним ставкама времена и трошка
 description: Ова тема објашњава како администратор може да изврши појединачне или масовне исправке претходно одобрених ставки времена или трошка уколико наплата није потпуна.
 author: rumant
-manager: AnnBe
 ms.date: 04/02/2020
 ms.topic: article
-ms.service: dynamics-ax-applications
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: Core, Operations
@@ -18,12 +16,12 @@ ms.dyn365.ops.version: 7
 ms.search.validFrom: 2019-01-15
 search.app:
 - ProjectOperations
-ms.openlocfilehash: 063c4d017f5904f09c3c239bfa432a128872e4d7
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 88706946e5c5c59be996640f4c7b37e958c1cf1d9fd14c72c0c6dc854a77dab4
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5144971"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6995419"
 ---
 # <a name="bulk-corrections-of-actuals-created-by-approved-time-and-expense-entries"></a>Масовне исправке тренутног стања креираног одобреним ставкама времена и трошка
 
@@ -64,7 +62,7 @@ ms.locfileid: "5144971"
 
 На пример, на следећој слици постоје две ставке чија је количина 8,00 а које имају задужења наведена у колони Износ. Уз то, постоје две ставке чија је количина -8,00 које приказују задужене износе у колони Износ. Ове исправке своде количину на нулу.
 
-![Листа везаног приказа стварних вредности](https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr/blob/bulk-corrections-actuals-created-by-approved-time-expense-entries.md/time-actuals.png)
+![Листа везаног приказа стварних вредности.](https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr/blob/bulk-corrections-actuals-created-by-approved-time-expense-entries.md/time-actuals.png)
  
 ## <a name="correct-approved-expense-entries"></a>Исправне одобрене ставке трошкова
 
@@ -89,4 +87,7 @@ ms.locfileid: "5144971"
 
 8. На страници пројекта, на картици **Актуелно**, прегледајте **Везани приказ стварних вредности**. Наведене су изворне ставке и исправљене ставке. Следећа слика приказује изворне износе ставке трошка и одговарајуће исправљене износе ставке трошка. 
 
-![Трошак_стварна вредност](https://user-images.githubusercontent.com/60806505/77122219-4cd52900-69fa-11ea-8349-ccd2ffebf640.png)
+![Трошак_стварна вредност.](https://user-images.githubusercontent.com/60806505/77122219-4cd52900-69fa-11ea-8349-ccd2ffebf640.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

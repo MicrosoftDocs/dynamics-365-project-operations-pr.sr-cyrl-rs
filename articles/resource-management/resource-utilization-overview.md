@@ -2,18 +2,16 @@
 title: Преглед укупне искоришћености ресурса
 description: Ова тема пружа информације о приказу укупне искоришћености ресурса у услузи Project Operations.
 author: ruhercul
-manager: Annbe
 ms.date: 11/05/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 8b85464dbb68523b122116225a604f67e7236f3e
-ms.sourcegitcommit: 14aa380759214713d9bf560f5a7f619b7f4bd5b8
+ms.openlocfilehash: a683931bcd6a357c5feec9198b190b948ad17a40
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "4401394"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6000814"
 ---
 # <a name="resource-utilization-overview"></a>Преглед укупне искоришћености ресурса
 
@@ -45,3 +43,6 @@ _**Односи се на:** Project Operations за сценарије засн
 На картици **Project Service** можете подесити и појединачну циљну укупну искоришћеност за ресурс. Калкулација укупне искоришћености затим користи ту циљну укупну искоришћеност за процену циља ресурса уместо циља подразумеване улоге ресурса.
 
 Укупна искоришћеност се приказује за ресурс само ако је тај ресурс одобрио наплативо време током периода који је приказан на мрежи.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

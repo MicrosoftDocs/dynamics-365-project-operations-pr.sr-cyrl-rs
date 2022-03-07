@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: suvaidya
-ms.openlocfilehash: 46a678ac4486c99f11d74dbac07dedd08364cb2f
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: fa612696944082e179ab2484e2fdd76d1696b889
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4123756"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5276006"
 ---
 # <a name="travel-requisitions"></a>Захтеви за путовање
 
@@ -56,3 +56,6 @@ _**Односи се на:** Project Operations за сценарије засн
 
 > [!NOTE]
 > Када мапирате извештај о трошковима у одобрени захтев за путовање, износ трансакције не може бити већи од одобреног износа. 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

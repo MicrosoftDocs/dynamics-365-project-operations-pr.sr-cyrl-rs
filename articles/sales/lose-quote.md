@@ -2,18 +2,16 @@
 title: Копирање понуда заснованих на пројекту
 description: Ова тема пружа информације о начину копирања понуда заснованих на пројекту у услузи Project Operations.
 author: rumant
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: e4e70ed1451c1076f72ef5d7200b918c626ab23c
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
-ms.translationtype: HT
+ms.openlocfilehash: 247f9d33bc2e7b0bcbeae8114bb436ed237efce660d0840e58d536d2a290639e
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4181830"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992179"
 ---
 # <a name="copy-project-based-quotes"></a>Копирање понуда заснованих на пројекту
 
@@ -45,3 +43,6 @@ _**Односи се на:** Project Operations за сценарије засн
 > - Референца пројекта на ставкама понуде засноване на пројекту – Информације о буџету клијента
 >
 >Будући да су ове информације врло специфичне за сваку понуду, та поља и записи се не копирају. Копирају се ставке понуде за пројекте и производе, процене детаља ставки понуде и вредности које не смеју да премаше вредност на нивоу понуде. Подразумеване вредности цена и стопа трошкова зависе од опције **Копирање одређивања цена** изабране на страници дијалога **Копирање параметара**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

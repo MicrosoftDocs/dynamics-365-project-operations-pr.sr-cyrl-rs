@@ -2,8 +2,6 @@
 title: Шта је ново или промењено у издању 12 исправке Project Service Automation верзије 3
 description: У овој теми дате су информације о томе шта је ново у издању исправке 12 за Project Service Automation у верзији 3.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 02/04/2020
 ms.topic: article
@@ -17,18 +15,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: daf0e6c7a4b1b953cb808cfefab74475c47d3996
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 5f05488a652f7a699aaa5d8e644eae38d7083f404d3c461cdaabd1915b1a710a
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5143846"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7004509"
 ---
 # <a name="project-service-automation-update-release-12-v3"></a>Project Service Automation издање исправке 12, у верзији 3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-Са задовољство најављујемо најновију исправку за апликацију Dynamics 365 Project Service Automation (PSA). Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите центар за администрацију за Dynamics 365 online и идите до странице са решењима како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
+Са задовољство најављујемо најновију исправку за апликацију Dynamics 365 Project Service Automation (PSA). Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите центар за администрацију за Dynamics 365 online и идите до странице са решењима како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
 У овој теми дате су функције које су нове или су промењене у решењу Project Service Automation у верзији 3, издање исправке 12. Ова верзија има број верзије V3.10.2.34 и опште је доступна путем само-исправке у октобру 2019. године.
 
@@ -61,3 +59,6 @@ ms.locfileid: "5143846"
     - Исправљено: дуплирани ID-ови објекта пронађени на главном обрасцу **Уговор**.
     - Исправљено: логика је исправљена како би картица **Анализа понуде** била видљива тако да приказује подешавање метаподатака картице.
     - Исправљено: рачуноводствени датум на стварном запису сада потиче од датума уноса времена/трошка, а не од датума одобрења.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

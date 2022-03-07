@@ -2,11 +2,9 @@
 title: Перформансе предлога пројектних фактура
 description: Ова тема пружа информације о побољшањима перформанси предлога пројектних фактура.
 author: Yowelle
-manager: AnnBe
-ms.date: 04/20/2021
+ms.date: 06/16/2021
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ''
 audience: Application User, IT Pro
@@ -18,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 20121-03-05
 ms.dyn365.ops.version: 10.0.18
-ms.openlocfilehash: 1641d5f731029fdbdc16c4b652cc752a583058c6
-ms.sourcegitcommit: 68d52fc983861114e654ffc8d2472b4db9b48981
-ms.translationtype: HT
+ms.openlocfilehash: 8b6df8baf1013720778308ce536b037dec4775f040d2925a47508fb373900f81
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "5920320"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7005724"
 ---
 # <a name="project-invoice-proposal-performance"></a>Перформансе предлога пројектних фактура
 
@@ -46,4 +44,6 @@ ms.locfileid: "5920320"
 3.  Освежите прегледач.
 
 > [!NOTE]
-> Перформансе предлога фактуре не може се применити када су омогућена правила обрачуна или су покренуте групне обраде.
+> Перформансе предлога фактуре се не могу применити када су омогућена правила обрачуна.
+> 
+> Током групног поступка за креирање предлога фактура, број подзадатака поделиће задатке на максималан број на основу броја уговора са трансакцијама подложним фактурисању, без обзира на то шта сте унели. На пример, ако унесете **3** за број подзадатака за креирање предлога фактуре у пакету, а постоје само два уговора са трансакцијама које могу да се фактуришу, креирају се само два подзадатка.

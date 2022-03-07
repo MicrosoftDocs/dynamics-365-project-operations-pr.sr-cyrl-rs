@@ -3,26 +3,23 @@ title: Обезбеђење новог окружења
 description: Ова тема пружа информације о начину обезбеђења новог Project Operations окружења.
 author: sigitac
 manager: Annbe
-ms.date: 12/11/2020
+ms.date: 10/07/2020
 ms.topic: article
-ms.prod: ''
-ms.service: project-operations
+ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 09af2a7693c45d1d0b9c75420d018cc50d2cc0fa
-ms.sourcegitcommit: 04c446746aad97fc3f4c3d441983c586b918a3a6
+ms.openlocfilehash: a43b947207b6d4276ef27ec996713bf3883e7906
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "4727808"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4083859"
 ---
 # <a name="provision-a-new-environment"></a>Обезбеђење новог окружења
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
-
-Ова тема пружа информације о начину да обезбедите ново Dynamics 365 Project Operations окружење за сценарије засноване на ресурсима/без залиха.
+Ова тема пружа информације о начину обезбеђења новог Dynamics 365 Project Operations окружења за сценарије засноване на ресурсима / без залиха.
 
 ## <a name="enable-project-operations-automated-provisioning-in-an-lcs-project"></a>Омогућавање Project Operations аутоматског обезбеђивања у LCS пројекту
 
@@ -61,15 +58,17 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ![Сагласност за примену](./media/2DeploymentConsent.png)
 
-7. Опционално – примените демо податке на окружење. Идите на **Напредна подешавања**, изаберите **Прилагоди конфигурацију SQL базе података** и подесите **Наведите скуп података за базу података апликације** на **Демо**.
-
-8. Попуните преостала обавезна поља у чаробњаку и потврдите примену. Време за припрему окружења варира у зависности од врсте окружења. Обезбеђење може потрајати до шест сати.
+7. Попуните преостала обавезна поља у чаробњаку и потврдите примену. Време обезбеђивања окружења варира у зависности од врсте окружења. Обезбеђење може потрајати до шест сати.
 
   Када се примена успешно заврши, окружење ће се приказати као **Примењено**.
 
-9. Да бисте потврдили да се окружење успешно применило, изаберите **Пријави се** и пријавите се у окружење да бисте потврдили.
+8. Да бисте потврдили да је окружење успешно постављено, изаберите **Пријављивање** и пријавите се у окружење да бисте потврдили.
 
 ![Детаљи  окружења](./media/3EnvironmentDetails.png)
+
+## <a name="apply-project-operations-finance-demo-data-optional-step"></a>Примена Project Operations Finance демо података (опционални корак)
+
+Примените Project Operations Finance демо податке на 10.0.13 издање услуге у окружењу које се хостује у облаку, као што је описано у [овом чланку](resource-apply-finance-demo-data.md).
 
 ## <a name="apply-updates-to-the-finance-environment"></a>Примените исправке на Finance окружење
 
@@ -121,7 +120,7 @@ Project Operations захтева Finance окружење са верзијом
 
 ![Примена решења](./media/13ApplySolutions.png)
 
-5. Изаберите оба решења, **Dynamics 365 Finance and Operations мапа ентитета за двоструко писање** и **Dynamics 365 Project Operations мапе ентитета за двоструко писање**, а затим изаберите **Примени**.
+5. Изаберите оба решења, **Dynamics 365 Finance and Operations мапа ентитета за двоструко уписивање** и **Dynamics 365 Project Operations мапе ентитета двоструког уписивања**, а затим изаберите **Примени**.
 
 ![Потврда решења](./media/14ConfirmSolutions.png)
 
@@ -151,21 +150,6 @@ Project Operations захтева Finance окружење са верзијом
 
 ![Потврда освежавања](./media/19RefreshConfirmation.png)
 
-## <a name="update-security-settings-on-project-operations-on-dataverse"></a>Ажурирање безбедоносних подешавања у услузи Project Operations за Dataverse
-
-1. Идите на Project Operations з Dataverse окружењу. 
-2. Идите на **Подешавања** > **Безбедност** > **Безбедносне улоге**. 
-3. На страници **Безбедоносне улоге** са листе улога изаберите **корисник апликације за двоструко уписивање** и изаберите картицу **Прилагођени ентитети**.  
-4. Проверите да ли улога има дозволе **Читање** и **Приложи у** за:
-      
-      - **Тип девизног курса валуте**
-      - **Графикон пословних контаката**
-      - **Фискални календар**
-      - **Главна књига**
-
-5. Након ажурирања безбедносне улоге, идите на **Подешавања** > **Безбедност** > **Тимови** и изаберите подразумевани тим у приказу тимова **Власник локалног предузећа**.
-6. Изаберите **Управљање улогама** и проверите да ли је безбедносна привилегија **корисник апликације за двоструко уписивање** примењена на овај тим.
-
 ## <a name="run-project-operations-dual-write-maps"></a>Покрените Project Operations мапе двоструког уписивања
 
 1. У свом LCS пројекту идите на страницу **Детаљи окружења**.
@@ -174,10 +158,9 @@ Project Operations захтева Finance окружење са верзијом
 
 | **Мапа ентитета** | **Освежавање ентитета** | **Почетна синхронизација** | **Мастер за почетну синхронизацију** | **Предуслови за покретање** | **Почетна синхронизација предуслова** |
 | --- | --- | --- | --- | --- | --- |
-| **Улоге пројектних ресурса за сва предузећа (bookableresourcecategories)** | No | Да | Common Data Service | No | Није примењиво |
-| **Правна лица (cdm\_предузећа)** | No | Да | Finance and Operations апликације | No | Није примењиво |
-| **Књига (msdyn_ledgers)** | No | Да | Finance and Operations апликације | Да | Да, Finance and Operations апликације |
-| **Project Operations стварне вредности интеграције (msdyn\_actuals)** | No | Не | Није примењиво | Да | Не |
+| **Улоге пројектних ресурса за сва предузећа (bookableresourcecategories)** | Не | Да | Common Data Service | Не | Није примењиво |
+| **Правна лица (cdm\_предузећа)** | Не | Да | Finance and Operations апликације | Не | Није примењиво |
+| **Project Operations стварне вредности интеграције (msdyn\_стварне вредности)** | Не | Не | Није примењиво | Да | Не |
 | **Предмети уговора пројекта (salesorderdetails)** | Не | Не | Није примењиво | Не | Не |
 | **Ентитет интеграције за односе трансакција пројекта (msdyn\_transactionconnections)** | Не | Не | Није примењиво | Не | Није примењиво |
 | **Project Operations контролне тачке предмета уговора о интеграцији (msdyn\_contractlinesscheduleofvalues)** | Не | Не | Није примењиво | Не | Није примењиво |
@@ -202,10 +185,4 @@ Project Operations захтева Finance окружење са верзијом
 
 ![Све мапе су покренуте](./media/22AllMapsRunning.png)
 
-
-## <a name="apply-configuration-data-in-cds-for-project-operations-optional"></a>Примена података о конфигурацији у услузи CDS за Project Operations (опционално)
-
-Ако сте применили демо податке на Finance окружење, погледајте чланак [Подешавање и примена података о конфигурацији у услузи Common Data Service за Project Operations](resource-apply-pro-setup-config-data.md) за примену демо података на CDS окружење.
-
-
-Ваше Project Operations окружење је сада обезбеђено и конфигурисано. 
+Ваше Project Operations окружење је сада обезбеђено и конфигурисано.

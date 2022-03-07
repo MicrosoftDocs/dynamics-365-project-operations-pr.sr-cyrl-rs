@@ -2,8 +2,6 @@
 title: Предлошци пројеката
 description: Ова тема пружа информације о томе како користити предлошке пројекта за брзо подешавање пројекта.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: db42c9ea7280274cdc9cc90f1487f27e08f892e5
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 34df8ed9a8baff949097af1b95da56bfe9a4240c213896fafd5c7dcfcf580b6c
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5148076"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7002529"
 ---
 # <a name="project-templates"></a>Предлошци пројеката 
 
@@ -49,7 +47,7 @@ ms.locfileid: "5148076"
 
 - Када креирате пројекат из понуде, можете одабрати предложак пројекта у дијалогу за **брзо креирање пројекта**.
 
-> ![Дијалог за брзо креирање пројекта](media/project-11.png)
+> ![Дијалог за брзо креирање пројекта.](media/project-11.png)
 
 - Када креирате пројекат одабиром опције **Нови пројекат**, страница **Пројекат** се појављује пре него што се запис сачува. У пољу **Избор предлошка** изаберите један од унапред дефинисаних предложака пројеката у организацији.
 - Употребите **Креирање пројекта из предлошка** на страници **Ентитет предлошка**.
@@ -69,3 +67,6 @@ ms.locfileid: "5148076"
 ### <a name="copying-a-project-team"></a>Копирање пројектног тима
 
 Када копирате пројектни тим из предлошка пројекта у пројекат, копирају се генерички ресурси, заједно са вештинама и стручношћу дефинисаним у предлошку. Доделе генеричких ресурса такође се одржавају као у предлошку пројекта. Именовани ресурси нису подржани у предлошцима пројеката.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,8 +2,6 @@
 title: Зашто се цена подразумевано враћа на нулу на стварним подацима о утрошеном времену продаје?
 description: Решавање проблема због чега се цена подразумевано враћа на 0 у стварним подацима о утрошеном времену продаје.
 author: rumant
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/21/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5f72e0db94392a35fee9fdcf2c4adb8a08feef13
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 2df4ce2d6391e70fea8e8f15c1b5774c9a9bfbe5f5ef2e6d8da8668afd34d4c9
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5146231"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992584"
 ---
 # <a name="why-is-price-defaulting-to-zero-on-time-sales-actuals"></a>Зашто се цена подразумевано враћа на нулу на стварним подацима о утрошеном времену продаје?
 
@@ -57,3 +55,6 @@ ms.locfileid: "5146231"
 
 Ако и даље не видите важећу цену у стварном податку о утрошеном времену продаје након обављене горенаведене три провере, пошаљите тикет подршци. 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

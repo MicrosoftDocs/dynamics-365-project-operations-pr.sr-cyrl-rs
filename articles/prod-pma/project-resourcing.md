@@ -2,28 +2,26 @@
 title: Матична страница за обезбеђивање ресурса за пројекат
 description: Ова тема пружа информације о обезбеђивању ресурса за пројекат.
 author: Yowelle
-manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
 ms.reviewer: josaw
 ms.search.scope: Core, Operations
-ms.custom: 82022
+ms.custom: intro-internal
 ms.assetid: bd2fb375-84c6-428a-8e54-f0f719045898
 ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 3ecf8ee588de9ec41e0b4f384110f912759ed53f
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: ea2a34ed9e0bf5b28649a53db88976ec56aaf10d1c80af99cb0856250873a2ab
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083958"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007344"
 ---
 # <a name="project-resourcing-home-page"></a>Матична страница за обезбеђивање ресурса за пројекат
 
@@ -40,7 +38,7 @@ ms.locfileid: "4083958"
 - Процените број ресурса који су потребни за цео животни циклус пројекта.
 - Направите структурну анализу посла (САП) користећи почетне доделе ресурса.
 
-[![Животни циклус пројекта](./media/projectresourcing02-1024x812.jpg)](./media/projectresourcing02.jpg)
+[![Животни циклус пројекта.](./media/projectresourcing02-1024x812.jpg)](./media/projectresourcing02.jpg)
 
 Како се планирање пројекта одвија, планирани ресурси могу се заменити ресурсима са особљем. Менаџер пројекта се такође може вратити и ажурирати резервације ресурса током било које фазе пројекта.
 
@@ -49,9 +47,12 @@ ms.locfileid: "4083958"
 - [Подешавање ресурса пројекта](set-up-project-resources.md)
 - [Управљање компетенцијама ресурса](manage-resource-competencies.md)
 - [Креирајте нови пројекат](create-new-project.md)
-- [Поставите одређивање цене засновано на улогама](set-up-role-based-pricing.md)
+- [Поставите одређивање цена засновано на улогама](set-up-role-based-pricing.md)
 - [Креирање пројектног тима](create-project-team.md)
 - [Синхронизација капацитета ресурса](synchronize-resource-capacity.md)
 - [Перформансе планирања ресурса за пројекат](project-scheduling-performance.md)
 - [Подесите улоге на предлошцима структурне анализа посла](set-up-roles-wbs-template.md)
 - [Испуњавање ресурса за планиране ресурсе](resource-fulfillment-planned-resources.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

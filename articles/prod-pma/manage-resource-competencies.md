@@ -2,11 +2,9 @@
 title: Управљање компетенцијама ресурса
 description: Ова тема пружа информације о подешавању компетенција за ресурсе пројекта.
 author: Yowelle
-manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
@@ -18,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: db96ffc5fdd6bc759cd35fff0a39a64d9854a4f0
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: f93fbda0ad6435c627eb7e580f92fd90481034cae2236b9a636195883470ca5c
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5270651"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007434"
 ---
 # <a name="manage-resource-competencies"></a>Управљање компетенцијама ресурса
 
@@ -31,7 +29,7 @@ ms.locfileid: "5270651"
 
 Компетенције ресурса су суштински део управљања ресурсима. Компетенције се могу користити као полазна основа за одређивање ресурса који имају тачну равнотежу вештина, образовања, сертификације и пројектног искуства. Требало би да поставити те информације за сваки ресурс и да их редовно ажурирате. На овај начин можете максимизовати могућности када се одговарајуће компетенције ресурса поклапају током доделе ресурса пројектима.
 
-[![Примери вештина, сертификација, образовања и искуства рада на пројектима](./media/projectresourcing06-1024x383.jpg)](./media/projectresourcing06.jpg)
+[![Примери вештина, сертификација, образовања и искуства рада на пројектима.](./media/projectresourcing06-1024x383.jpg)](./media/projectresourcing06.jpg)
 
 Следећи поступци објашњавају како да поставите неке компетенције за ресурс.
 

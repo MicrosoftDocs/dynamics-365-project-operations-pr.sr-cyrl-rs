@@ -2,11 +2,9 @@
 title: Синхронизовање пројектних задатака директно из услуге Project Service Automation са услугом Finance and Operations
 description: Ова тема описује предложак и основни задатак који се користе за синхронизацију пројектних задатака директно из услуге Microsoft Dynamics 365 Project Service Automation у Dynamics 365 Finance.
 author: Yowelle
-manager: AnnBe
 ms.date: 07/20/2018
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: josaw
@@ -17,12 +15,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 0383607a07def6c21562bf4b0893fe3ce3db6a04
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: 45846d7a6dd7b84fe28f0a78ccc103679236917ea506180c5b383fd2828624eb
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083954"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992809"
 ---
 # <a name="synchronize-project-tasks-directly-from-project-service-automation-to-finance-and-operations"></a>Синхронизовање пројектних задатака директно из услуге Project Service Automation са услугом Finance and Operations
 
@@ -41,7 +39,7 @@ ms.locfileid: "4083954"
 
 Следећа илустрација приказује како се подаци синхронизују између услуга Project Service Automation и Finance.
 
-[![Ток података за интеграцију услуге Project Service Automation са услугом Finance](./media/ProjectTasksFlow.png)](./media/ProjectTasksFlow.png)
+[![Ток података за интеграцију услуге Project Service Automation са услугом Finance.](./media/ProjectTasksFlow.png)](./media/ProjectTasksFlow.png)
 
 ## <a name="template-and-task"></a>Предложак и задатак
 
@@ -82,4 +80,7 @@ ms.locfileid: "4083954"
 
 Следећа илустрација приказује пример мапирања задатака предлошка у интеграцији података. Мапирање приказује информације о терену које ће се синхронизовати из услуге Project Service Automation у Finance.
 
-[![Мапирање предложака](./media/ProjectTasksMapping.png)](./media/ProjectTasksMapping.png)
+[![Мапирање предложака.](./media/ProjectTasksMapping.png)](./media/ProjectTasksMapping.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

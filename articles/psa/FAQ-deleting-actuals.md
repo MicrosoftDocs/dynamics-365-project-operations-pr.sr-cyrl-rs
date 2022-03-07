@@ -2,6 +2,8 @@
 title: Зато не могу да избришем записе из ентитета стварних вредности?
 description: Ова тема пружа информације о томе зашто не можете обрисати записе из ентитета стварних вредности.
 author: JPBurrows
+manager: kfend
+ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 11/6/2018
@@ -16,21 +18,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 434be93cedb4772616b1e6d5cbe15fc715eed19a
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: f47e7ccd46642dc6129fbb3beac3c9490160d046
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5993119"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4084098"
 ---
 # <a name="why-cant-i-delete-records-from-the-actuals-entity"></a>Зато не могу да избришем записе из ентитета стварних вредности?
-
-[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
 Project Service Automation (PSA) не допушта вам брисање стварних вредности јер оне служе као извор истине за трансакције које имају финансијске импликације на долазне системе, као што је главна књига. Ако би се стварне вредности могле избрисати, могао би се довести у питање интегритет трансакција финансијског извештавања. Да би успоставили евиденцију надгледања, клијенти би требало да користе дневнике за креирање трансакција компензације.
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

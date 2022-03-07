@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 520d3a6e6cc3d486d778c66c2ef7fd3ff20cd582
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 8f86f69090e869bf5e6a7505a4cb1ad1c69b475b
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5149696"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5282171"
 ---
 # <a name="create-time-entries"></a>Креирање ставки времена
 
@@ -70,3 +70,6 @@ ms.locfileid: "5149696"
 ## <a name="group-by-sort-search-and-filter-capabilities"></a>Могућности груписања према, сортирања, претраге и филтрирања
 
 Можете груписати и филтрирати ставке времена према димензијама које су наведене у колонама. У пољу **Групирај према** одаберите димензију за филтрирање ставки времена. Такође можете сортирати записе ставки времена растућим или опадајућим редоследом користећи стрелицу за сортирање у називима колона. Поред тога, ставке можете приказати или сакрити тако што ћете кликнути на дугме **Филтер** у називу колоне, а затим у пољу **Претрага** унети текст који треба да се користи за претрагу ставки времена према називу пројекта, пројектном задатку, ставци времена или ресурсу.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -9,12 +9,12 @@ ms.product: ''
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 89bbad62c2a0a5693a57cf5c9a812ab644486469
-ms.sourcegitcommit: c9edb4fc3042d97cb1245be627841e0a984dbdea
+ms.openlocfilehash: dedd989cc7c959d9ea97a0abfb13f8f1b2150a56
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "5031555"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5286581"
 ---
 # <a name="troubleshoot-working-in-the-task-grid"></a>Решавање проблема са радом у мрежи података 
 
@@ -106,3 +106,6 @@ Project Operations се ослања на екстерну услугу зака
   - Project Operations систем
   - Пројектни систем
   - Project Operations систем двоструког уписивања (ова улога је потребна ако примењујете ресурс/сценарио који није заснован на залихама услуге Project Operations.)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

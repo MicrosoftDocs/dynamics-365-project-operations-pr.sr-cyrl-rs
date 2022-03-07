@@ -2,28 +2,26 @@
 title: Преглед пројеката апликација за мобилне уређаје
 description: 'Ова тема пружа опште информације о апликацијама пројекта које се односе на време: Microsoft Dynamics 365 Project Timesheet, Ставка времена пројекта и Моји временски распореди / Временски распореди, које су доступне на мобилном уређају.'
 author: Yowelle
-manager: AnnBe
 ms.date: 05/28/2019
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: josaw
 ms.search.scope: Core, Operations
-ms.custom: ''
+ms.custom: intro-internal
 ms.assetid: ''
 ms.search.region: Global
 ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10
 ms.search.validFrom: 2019-02-28
-ms.openlocfilehash: 69f44aa73b33bf55df324a71b67e0a743208b4e4
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 742bfc7bbf90feea638d5b5759f5aa7541d14c87ed96c3ad6f074684696e0c73
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083961"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7005679"
 ---
 # <a name="project-mobile-applications-overview"></a>Преглед пројеката апликација за мобилне уређаје
 
@@ -49,3 +47,6 @@ ms.locfileid: "4083961"
 - [Ставка времена пројекта]( project-time-entry-mobile-workspace.md)
 - [Временски распореди пројекта на мобилном уређају](Mobile-timesheets.md)
 - [Примените прилагођена поља за Microsoft Dynamics 365 Project Timesheet апликацију за мобилне уређаје на платформама iOS и Android](custom-fields-mobile.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,19 +2,17 @@
 title: Шта је ново у децембру 2020. – Project Operations за сценарије засноване на залихама/производњи
 description: Ова тема пружа информације о исправкама квалитета доступним у издању услуге Project Operations за децембар 2020. за сценарије засноване на залихама/производњи.
 author: Yowelle
-manager: Annbe
 ms.date: 12/11/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: andchoi
-ms.openlocfilehash: 5aac6b77b0d07a090a071b075711e3dd915e6be4
-ms.sourcegitcommit: 04c446746aad97fc3f4c3d441983c586b918a3a6
-ms.translationtype: HT
+ms.openlocfilehash: 14c31f27c0d8871063b3c6689a70f32201958002b50ac4c721c4e26c3359b631
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "4728017"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7008829"
 ---
 # <a name="whats-new-or-changed-in-project-operations-december-2020-for-stockedproduction-based-scenarios"></a>Шта је ново или промењено у услузи Project Operations у децембру 2020. за сценарије засноване на залихама/производњи
 
@@ -141,4 +139,7 @@ _Односи се на: Project Operations за сценарије заснов
 
 ## <a name="regulatory-updates"></a>Регулаторне исправке
 
-Информације о регулаторним исправкама за Dynamics 365 Finance потражите у чланку [Регулаторне исправке](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates). Други начин да сазнате више о регулаторним исправкама је да се пријавите на Lifecycle Services (LCS) и прегледате планиране регулаторне исправке помоћу алатке за претрагу проблема. Претрага проблема вам омогућава претрагу по земљи, типу функције и издању.
+Информације о регулаторним исправкама за Dynamics 365 Finance потражите у чланку [Регулаторне исправке](/dynamics365/finance/localizations/regulatory-updates). Други начин да сазнате више о регулаторним исправкама је да се пријавите на Lifecycle Services (LCS) и прегледате планиране регулаторне исправке помоћу алатке за претрагу проблема. Претрага проблема вам омогућава претрагу по земљи, типу функције и издању.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

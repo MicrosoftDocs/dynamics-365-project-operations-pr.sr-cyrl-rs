@@ -2,18 +2,16 @@
 title: Расподеле у извештају о трошковима
 description: Када унесете трошкове у извештај о трошковима, можете их распоредити на више пројеката, правних лица или налога у вашој организацији.
 author: suvaidya
-manager: AnnBe
 ms.date: 10/10/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: suvaidya
-ms.openlocfilehash: 8c0ee3b9b989c644ab429310d1e7b4ef4b600dc3
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
-ms.translationtype: HT
+ms.openlocfilehash: 396fd201949663d93d90f6609e5b97f646f7942cde002c91482fa7dc26c394ae
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4120966"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7006264"
 ---
 # <a name="distributions-on-an-expense-report"></a>Расподеле у извештају о трошковима
 
@@ -30,3 +28,6 @@ _**Односи се на:** Project Operations за сценарије засн
 | Возна карта   | 578 DKK              | 405 DKK                         | 173 DKK                         |
 | Хотел        | 725 EUR              | 557 EUR                         | 168 EUR                         |
 | Оброци        | 346 EUR              | 284 EUR                         | 62 EUR                          |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

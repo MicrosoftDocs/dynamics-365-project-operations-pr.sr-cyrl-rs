@@ -2,9 +2,7 @@
 title: Омогућавање функција апликације Project Finder Mobile
 description: Како да омогућите функције апликације Project Finder Mobile за апликацију Project Service
 author: JohnPBurrows
-manager: kfend
 ms.prod: ''
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -19,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1b70182125d607aa17528ef3dc4ea2345b76acd1
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: f068c32ac957dc5921ccabc989b3b7a347585c19
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5144566"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6007744"
 ---
 # <a name="enable-project-finder-mobile-app-features-project-service"></a>Омогућавање функција апликације Project Finder Mobile (Project Service)
 
@@ -68,3 +66,6 @@ ms.locfileid: "5144566"
   
 ### <a name="see-also"></a>Такође погледајте  
  [Подешавање ресурса](../psa/set-up-resources.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

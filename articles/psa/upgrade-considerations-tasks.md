@@ -2,7 +2,7 @@
 title: Разматрања надоградње структурне анализе посла
 description: Ова тема пружа информације о надоградњи структурне анализе посла из апликације Project Service Automation верзије 2.x у верзију 3.x.
 manager: kfend
-ms.service: project-operations
+ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 10/18/2019
@@ -18,17 +18,14 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: cea8ce7f61fbc0f0c8c8deb522bc332be102238d
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 169dc24f0d1ae151ea5927123fb738221de88250
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5149561"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4084054"
 ---
 # <a name="upgrade-considerations-for-the-work-breakdown-structure"></a>Разматрања надоградње структурне анализе посла
-
-[!include [banner](../includes/psa-now-project-operations.md)]
-
 Ова тема пружа информације о надоградњи структурне анализе посла из апликације Project Service Automation верзије 2.x у верзију 3.x. Ова тема дефинише исправно стање пројекта у апликацији Project Service Automation (PSA), потребно за успешну надоградњу. Постоје и информације о уобичајеним условима блокирања који ће довести до неуспешне надоградње. Више информација о дефинисању пројектних задатака и њиховим функцијама у оквиру распореда пројекта потражите у чланку [Распореди пројеката](project-creating.md).
 
 ## <a name="key-entities"></a>Кључни ентитети

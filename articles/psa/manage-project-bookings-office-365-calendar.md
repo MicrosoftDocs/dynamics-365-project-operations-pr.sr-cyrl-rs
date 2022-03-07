@@ -17,19 +17,17 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: c575bd3deba5bcde2526ccfc598327917bf91642
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 31ff541f5b817c29b162c38c282df8cfd866e375
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5144476"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4129066"
 ---
 # <a name="manage-projects-and-bookings-in-your-calendar-project-service"></a>Управљање пројектима и резервацијама у календару (Project Service)
 
 > [!Note]
 > ЗАСТАРЕЛО: Ова функција је застарела и није више доступна.
-
-[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 

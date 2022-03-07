@@ -15,12 +15,12 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: c55cec132649daf9ee08ea4d8db3668860247934
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 863d1e44dad9fa0d2174cf77582a1d820988e92d
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4128436"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5276096"
 ---
 # <a name="define-expense-policies"></a>Дефинисање смерница трошкова
 
@@ -53,3 +53,6 @@ _**Односи се на:** Project Operations за сценарије засн
 ## <a name="when-to-evaluate-policies"></a>Када се процењују смернице
 
 У параметрима управљања трошковима можете изабрати да процените политике управљања трошковима када се линија сачува или када се поднесе извештај о трошковима. Ако одлучите да процените када је линија сачувана, корисници ће имати ранији увид у оно што треба да ураде да би одједном комплетирали свој извештај о трошковима. У супротном, можете одложити процену смерница и уштедети време потврђивањем на крају, током предаје у радни ток.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

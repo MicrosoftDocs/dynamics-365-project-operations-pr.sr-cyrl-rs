@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: d7fa645e78d2206e333d9f85fcec0f7a9c213c23
-ms.sourcegitcommit: 260ce052fed760bb44c514517806049ca13a5459
+ms.openlocfilehash: 695bbc2ae1ba1e762472b5f5fa853c89017d2f52
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "4841397"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5287031"
 ---
 # <a name="create-a-work-breakdown-structure-wbs"></a>Креирање структурне анализе посла (САП)
 
@@ -93,6 +93,8 @@ ms.locfileid: "4841397"
 | Име | Име задатка. |
 | ID | ID задатка у структурној анализи посла. |
 
+Као администратор можете да дефинишете прилагођена поља на ентитету задатка. Међутим, поља се не могу приказати на мрежи распореда. Да бисте видели прилагођена поља, додајте их на страници са детаљима **Пројектни задатак**.
+
 ## <a name="staffing-attributes"></a>Атрибути запослених
 
 Атрибутима ангажовања се приступа у пољу **Ресурси** у распореду. Можете потражити постојећи ресурс или изаберите **Креирај** и у окну **Брзо креирање** додајте члана пројектног тима као нови ресурс.
@@ -116,3 +118,6 @@ ms.locfileid: "4841397"
 ## <a name="accessibility-and-keyboard-shortcuts"></a>Приступачност и тастерске пречице
 
 Мрежа **Распоред** је потпуно доступна и може се користити са читачима екрана као што су Narrator, JAWS или NVDA. Кроз област мреже можете се кретати помоћу тастера са стрелицама (као у програму Microsoft Excel), можете користити тастер Tab да бисте се кретали кроз интерактивне елементе корисничког интерфејса, а помоћу тастера са стрелицом надоле, тастера Enter или размакнице можете да изаберете и отворите падајуће меније.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,8 +2,6 @@
 title: Продајне процене и пројекти
 description: Ова тема пружа информације о томе како искористити распоред и процене у процесу продаје.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 76e21f80e51e6f3092880dc629ba90b400805486
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 1dac342ead487c50d14f3b2fa39e60314d13b0047b77fe6df8f32dee29b09422
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5148391"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6995194"
 ---
 # <a name="sales-estimates-and-projects"></a>Продајне процене и пројекти
 
@@ -37,11 +35,11 @@ ms.locfileid: "5148391"
 
 Када креирате ставку понуде засновану на пројекту, можете да креирате нови пројекат или повежете постојећи пројекат на страници **Ставка пројекта**. 
 
-> ![Образац ставке понуде](media/project-8.png)
+> ![Образац ставке понуде.](media/project-8.png)
  
 Када креирате нови пројекат из детаља ставке понуде, можете искористити предлошке пројекта. Предлошци пројеката су модели пројеката који представљају стандардне планове пројеката и финансијске процене типичне за организацију. Такође могу представљати копије пројектних планова и процена из прошлих пројеката.
 
-> ![Детаљи ставке понуде](media/project-9.png)
+> ![Детаљи ставке понуде.](media/project-9.png)
   
 Када креирате пројекат из понуде, пројекат се аутоматски повезује са ставком понуде.
 
@@ -54,3 +52,6 @@ ms.locfileid: "5148391"
 ## <a name="importing-estimates-from-a-project-into-a-quote"></a>Увоз процена из пројекта у понуду
 
 Након што дефинишете процене пројекта, можете их увести у ставку понуде. На страници **Детаљи ставке понуде** изаберите **Увоз из процена** на траци да бисте резимирали процене пројекта према врсти трансакције, улози или нивоу задатка.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

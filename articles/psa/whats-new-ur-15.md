@@ -2,8 +2,6 @@
 title: Шта је ново или промењено у издању 15 исправке Project Service Automation верзије 3
 description: У овој теми дате су информације о томе шта је ново у издању исправке 15 за Project Service Automation у верзији 3.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 01/27/2020
 ms.topic: article
@@ -17,18 +15,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0ec6746c0d3a1a03ee56440c73d044df844046f8
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: d052dd670ac31fae57a71cb71682da86a237b3487482a9548f3fb9e52516c407
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5143981"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7004464"
 ---
 # <a name="project-service-automation-update-release-15-v3"></a>Project Service Automation издање исправке 15, у верзији 3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-Са задовољство најављујемо најновију исправку за апликацију Dynamics 365 Project Service Automation (PSA). Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите центар за администрацију за Dynamics 365 online и идите до странице са решењима како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
+Са задовољство најављујемо најновију исправку за апликацију Dynamics 365 Project Service Automation (PSA). Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите центар за администрацију за Dynamics 365 online и идите до странице са решењима како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
 У овој теми дате су функције и исправке које су нове или су промењене у решењу PSA у верзији 3, издање исправке 15. Ова верзија има број верзије V3.10.5.28 и опште је доступна путем само-исправке у јануару 2020. године.
 
@@ -63,3 +61,6 @@ ms.locfileid: "5143981"
   - Исправљено: више се не добија порука о грешци у ставци **Проналажење пројекта** у обрасцу **Ставка понуде** када има преко 1000 пројеката.
   - Исправљено: Мрежа **Процене** за процене цене рада и цене трошкова сада приказује исправан симбол валуте.
   - Исправљено: након што организација ажурира PSA са издања исправке 14 на издање исправке 15, картица **Распоред** се више не појављује као празна у обрасцу **Пројекат**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,18 +2,16 @@
 title: Дефинисање календара ресурса
 description: Ова тема пружа информације о томе како се дефинишу календари радног времена за ресурсе у услузи Project Operations.
 author: ruhercul
-manager: Annbe
 ms.date: 10/05/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: daa49cf8ba9ba005a16777f590c4c06d024de529
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 5ac834e16afc2f559bee6e10434f7015e8a8e51f
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4123936"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6012199"
 ---
 # <a name="define-resource-calendars"></a>Дефинисање календара ресурса
 
@@ -43,3 +41,6 @@ _**Односи се на:** Project Operations за сценарије засн
 2. Из приказа мреже изаберите до 25 **ресурса који могу дасе резервишу** да бисте их ажурирали.
 3. Изаберите **Подеси календар** и појавиће се дијалог са листом доступних предложака радног времена.
 4. Изаберите предложак који желите да користите, а затим изаберите дугме **Примени**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

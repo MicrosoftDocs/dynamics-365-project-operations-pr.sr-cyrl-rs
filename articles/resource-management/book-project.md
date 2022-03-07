@@ -2,18 +2,16 @@
 title: Резервисање за пројекат
 description: Ова тема пружа информације о резервисању ресурса у пројекат.
 author: ruhercul
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: c87b0c32ef081f601ed79c11687f008bb454dd45
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 15de5735ba6d25994a68192ebdf80aefec772d6e
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4131091"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5998834"
 ---
 # <a name="book-to-a-project"></a>Резервисање за пројекат
 
@@ -66,3 +64,6 @@ _**Односи се на:** Project Operations за сценарије засн
 
 > [!NOTE]
 > Ова метода не креира никакве резервације за ресурс. Уместо тога, додаје ресурс тиму. Када се члан тима дода у пројекат, менаџер пројекта може користити одржавање резервација или продужити резервације да би потребне резервације додао ресурсу.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

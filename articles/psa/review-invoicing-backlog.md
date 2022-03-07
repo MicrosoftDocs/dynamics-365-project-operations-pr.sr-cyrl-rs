@@ -2,8 +2,6 @@
 title: Преглед преосталог фактурирања за пројекте и уговоре о пројектима
 description: Ова тема пружа информације о томе како прегледати преостало време, трошкове и производе и како их означити као спремне за фактурирање.
 author: rumant
-manager: kfend
-ms.service: project-operations
 ms.custom: ''
 ms.author: rumant
 ms.date: 03/11/2019
@@ -16,12 +14,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 092455a131f556e4f943f6bb89d7e38358f0a697
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: cec09ca39563e3faf0f3b2c10cf9bde3feb020b0
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5150506"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6008554"
 ---
 # <a name="review-the-invoicing-backlog-on-projects-and-project-contracts"></a>Преглед преосталог фактурирања за пројекте и уговоре о пројектима
 
@@ -59,3 +57,6 @@ ms.locfileid: "5150506"
 Да бисте прегледали контролне тачке наплате, идите на **Продаја** \> **Наплата** \> **Контролне тачке са фиксном ценом**. Одаберите контролне тачке које су спремне за фактурисање, а затим изаберите **Спремно за фактурисање**. Статус наплате ових контролних тачака је промењен у **Спремно за фактурисање**.
 
 ![Контролне тачке са фиксном ценом](media/FPBacklog.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 728a35b2b69fb63a2b20f218c250365c5068370f
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
+ms.openlocfilehash: 4706a2a711efa7d176030deaa33b65bca28d8498
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4180345"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5273396"
 ---
 # <a name="create-invoice-schedules-on-a-project-based-contract-line---lite"></a>Креирање распореда фактурисања за предмет уговора заснован на пројекту – једноставно
 
@@ -74,3 +74,6 @@ _**Односи се на:** Једноставна примена – од по
 | Порез | Брзо креирање | Износ пореза примењен на контролну тачку. | Ово је укључено у контролну тачку предмета уговора за пројекат и у фактуру. |
 
 4. Изаберите ставку **Сачувај и затвори**.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

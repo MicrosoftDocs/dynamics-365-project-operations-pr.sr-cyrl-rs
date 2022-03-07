@@ -2,22 +2,28 @@
 title: Преглед процеса продаје
 description: Ова тема пружа информације о основним процесима продаје.
 author: rumant
-manager: Annbe
-ms.date: 10/29/2020
+manager: kfend
+ms.service: dynamics-365-customerservice
+ms.custom:
+- dyn365-projectservice
+ms.date: 09/23/2019
 ms.topic: article
-ms.service: project-operations
-ms.reviewer: kfend
+ms.prod: ''
 ms.author: rumant
-ms.openlocfilehash: 5da29d2959a6e49defa185630f45d280dba283c4
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+audience: Admin
+search.audienceType:
+- admin
+- customizer
+- enduser
+search.app: ''
+ms.openlocfilehash: c70760748c5faa87f6738ab7e2ab593e2df49e41
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4177619"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4084171"
 ---
-# <a name="sales-process-overview"></a>Преглед процеса продаје
-
-_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
+# <a name="sales-processes-overview"></a>Преглед процеса продаје
 
 Процеси продаје који се користе у организацији заснованој на пројектима разликују се од процеса продаје који се користе у организацији заснованој на производима. То је зато што су циклуси продаје за организације засноване на пројектима дужи и захтевају прилагођене технике процена за анализирање и креирање понуда за сваку погодбу. Dynamics 365 Project Operations користи нека од следећих функционалности које се користе у процесу продаје.
 

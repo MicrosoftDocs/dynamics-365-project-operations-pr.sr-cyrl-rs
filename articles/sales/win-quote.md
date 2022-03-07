@@ -2,24 +2,22 @@
 title: Затвори понуду
 description: Ова тема пружа информације о затварању понуда у услузи Project Operations.
 author: rumant
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 47804db0144c2b0f9dee2c60518e8aba6fb27473
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
-ms.translationtype: HT
+ms.openlocfilehash: 2314444dfdbd4d1a2f38c7de55e2070011e51a86f1e074dd6667d54393c641fe
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4124701"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6993439"
 ---
 # <a name="close-a-quote"></a>Затвори понуду
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_
 
-Понуда за пројекат може да се затвори као остварена или неостварена. Будући да функције Активирање и Ревизија нису подржане у понудама у услузи Microsoft Dynamics 365 Project Operations, можете затворити радну верзију понуде.
+Понуда за пројекат може да се затвори као остварена или неостварена. Будући да функције Активирај и Ревидирај нису подржане за понуде у услузи Microsoft Dynamics 365 Project Operations, можете да затворите радну верзију понуде.
 
 ## <a name="close-a-quote-as-won"></a>Затварање понуде као остварене
 
@@ -43,3 +41,6 @@ _**Односи се на:** Project Operations за сценарије засн
 
 > [!NOTE]
 > У услузи Project Operations, затварање понуде као остварене или неостварене неће утицати на статус могућности за пословање, која ће остати отворена све док се ручно не затвори.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

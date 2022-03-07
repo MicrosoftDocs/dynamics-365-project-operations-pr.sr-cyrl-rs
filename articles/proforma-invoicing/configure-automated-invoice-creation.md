@@ -2,18 +2,16 @@
 title: Конфигурисање аутоматског креирања фактуре
 description: Ова тема пружа информације о начинима конфигурисања система за аутоматско генерисање фактура.
 author: rumant
-manager: Annbe
 ms.date: 10/13/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 295c3b099c9670c930fb2ba2fd208be63a77217f
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
-ms.translationtype: HT
+ms.openlocfilehash: 894e8f6e4ffbb5f003cdd1f69594e2a1e043b514923de5673d7ba9afaa6894e8
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4122451"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992674"
 ---
 # <a name="configure-automatic-invoice-creation"></a>Конфигурисање аутоматског креирања фактуре
 
@@ -45,3 +43,6 @@ _**Односи се на:** Project Operations за сценарије засн
 
 > [!NOTE]
 > Групно фактурисање се изводи само за предмете уговора о пројекту који су конфигурисани према распоредима фактура. Предмет уговора са начином наплате уз фиксну цену мора да има конфигурисане контролне тачке. Предмет уговора за пројекат са начином наплате времена и материјала треба да успостави распоред фактура на основу датума. Исто се односи и на предмет уговора заснован на пројекту.     
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

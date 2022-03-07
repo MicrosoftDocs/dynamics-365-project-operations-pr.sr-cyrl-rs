@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: c824a5cdbcf6c7654fc96155cd4fdfb232308738
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: a0b8055e73744f1ddf5281974144b9fe06ec929f
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5145286"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5291322"
 ---
 # <a name="associate-skills-with-resources-project-service"></a>Повежите вештине са ресурсима (Project Service)
 
@@ -45,3 +45,6 @@ ms.locfileid: "5145286"
   
 ### <a name="see-also"></a>Такође погледајте  
  [Подешавање ресурса](../psa/set-up-resources.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

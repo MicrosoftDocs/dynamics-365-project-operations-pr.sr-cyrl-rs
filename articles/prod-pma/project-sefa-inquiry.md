@@ -2,11 +2,9 @@
 title: Распоред трошкова истраге савезне помоћи
 description: Ова тема пружа информације о Распореду трошкова истраге савезне помоћи.
 author: velofog
-manager: Ann Beebe
 ms.date: 04/2/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: PSNProjSEFAinquiry
 audience: Application User
@@ -20,12 +18,12 @@ ms.search.industry: public sector
 ms.author: andchoi
 ms.search.validFrom: 2020-4-01
 ms.dyn365.ops.version: 10.0.11
-ms.openlocfilehash: eaf523ab147cbe974fed6e7eab21967404583fe6
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: d0cc3db3fd05fa809f707b15a50380753ac8f9f779f45c13f707321d2b0e0841
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083956"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007254"
 ---
 # <a name="schedule-of-expenditures-of-federal-awards-inquiry"></a>Распоред трошкова истраге савезне помоћи
 
@@ -62,7 +60,7 @@ ms.locfileid: "4083956"
 ## <a name="set-up-grants-to-report-for-the-schedule-of-expenditures-of-federal-awards-inquiry"></a>Поставите помоћ ради извештавања о Распореду трошкова истраге савезне помоћи
 
 1. Идите на **Управљање пројектима и рачуноводство \> Помоћ \> Помоћ**, и изаберите постојећу помоћ.
-2. На брзој картици **Подешавање**, у пољу **Каталог савезне домаће помоћи** доделите CFDA број. CFDA број на помоћи одређује CFDA групу за извештавање.
+2. На брзој картици **Подешавање**, у пољу **Каталог савезне домаће помоћи** доделите CFDA број. CFDA број на помоћи одређује CFDA групу за извештавање.
 3. На брзој картици **Контакт информације** унесите информације о даваоцу помоћи пратећи ове кораке:
 
     1. У пољу **Одобри клијента** унесите клијента који је одговоран за помоћ. За постојећу помоћ ове информације су можда већ унете.
@@ -79,8 +77,8 @@ ms.locfileid: "4083956"
 
 ## <a name="exclude-grants-from-sefa-reporting-based-on-the-grant-type"></a>Искључите помоћи из SEFA извештавања на основу врсте помоћи
 
-1. Идите на **Управљање пројектима и рачуноводство \> Подешавање \> Помоћ \> Врсте помоћи**.
-2. На брзој картици **Подразумеване информације** изаберите поље за потврду **Распоред трошкова истраге савезне помоћи**.
+1. Идите на **Управљање пројектима и рачуноводство \> Подешавање \> Помоћ \> Врсте помоћи**.
+2. На брзој картици **Подразумеване информације** изаберите поље за потврду **Изузми из распореда трошкова савезне помоћи**.
 3. Изаберите **Сачувај** да бисте сачували промене.
 
 ## <a name="run-the-schedule-of-expenditures-of-federal-awards-inquiry"></a>Покрените Распоред трошкова истраге савезне помоћи
@@ -104,3 +102,6 @@ ms.locfileid: "4083956"
 - Каталог Савезне домаће помоћи
 - Признанице
 - Расходи
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

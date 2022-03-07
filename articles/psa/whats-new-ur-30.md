@@ -2,8 +2,6 @@
 title: Шта је ново или промењено у издању 30 исправке Project Service Automation верзије 3
 description: У овој теми дате су функције и исправке које су доступне у издању 30 исправке за Project Service Automation верзије 3.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 04/01/2021
 ms.topic: article
@@ -17,18 +15,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1169ee13c42e982cb30a40d92df660f8933786a9
-ms.sourcegitcommit: b4a05c7d5512d60abdb0d05bedd390e288e8adc9
+ms.openlocfilehash: 3b6b7dba9c2a22587d27006b9972c950fbb454f2
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "5852891"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6010444"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-30-v3"></a>Шта је ново или промењено у издању 30 исправке Project Service Automation верзије 3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
+Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution.md).
 
 У овој теми дате су функције које су нове или су промењене у решењу Project Service Automation у верзији 3, издање исправке 30. Број израде ове верзије је V3.10.51.61 и углавном је доступна путем самосталног ажурирања у априлу 2021. године.
 

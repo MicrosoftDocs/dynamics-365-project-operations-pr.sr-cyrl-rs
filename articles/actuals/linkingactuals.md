@@ -2,19 +2,17 @@
 title: Повезивање тренутног стања са оригиналним записима
 description: Ова тема објашњава како се повезује тренутно стање са оригиналним записима као што су ставка времена, ставка трошкова или евиденција употребе материјала.
 author: rumant
-manager: tfehr
 ms.date: 03/25/2021
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 545775c4eae6c3dc689f264e7f662471c17b2340
-ms.sourcegitcommit: b4a05c7d5512d60abdb0d05bedd390e288e8adc9
+ms.openlocfilehash: b5a70d2c2b3f98028b4e4998ed25ab73a275c66e4b8137eb573b943658a1a41e
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "5852607"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6991774"
 ---
 # <a name="link-actuals-to-original-records"></a>Повезивање тренутног стања са оригиналним записима
 
@@ -79,7 +77,7 @@ Project Operations препознаје записе у ових пет енти
 
 Следећи пример приказује типичну обраду ставки времена у животном циклусу пројекта у услузи Project Operations.
 
-> ![Обрада ставки времена у животном циклусу услуге Project Service](media/basic-guide-17.png)
+> ![Обрада ставки времена у животном циклусу услуге Project Service.](media/basic-guide-17.png)
  
 1. Прослеђивање ставке времена узрокује креирање две ставке у главној књизи: једне за трошкове и једне за ненаплаћену продају.
 2. Крајње одобравање ставке времена креира два тренутна стања: једно за трошкове и једно за ненаплаћену продају.
