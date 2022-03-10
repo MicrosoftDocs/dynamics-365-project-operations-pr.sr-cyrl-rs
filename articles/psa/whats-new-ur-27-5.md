@@ -2,8 +2,6 @@
 title: Шта је ново или промењено у издању хитне исправке 27.5 за Project Service Automation верзије 3
 description: У овој теми су наведене функције и исправке које су доступне у издању хитне исправке 27.5 за Project Service Automation верзије 3.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 02/03/2021
 ms.topic: article
@@ -17,12 +15,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: a12effe3af1c1c5596710af658a2811ba9496438
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
-ms.translationtype: HT
+ms.openlocfilehash: 7b1ebe4652a3c0e80e9ffdba4d3ec5552e7ab521c8d672e8c43dbbcf461a92d6
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5948797"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7004239"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-275-v3"></a>Шта је ново или промењено у издању исправке 27.5 за Project Service Automation верзије 3
 

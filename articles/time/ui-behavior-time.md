@@ -2,18 +2,16 @@
 title: Понашање корисничког интерфејса за ставку времена
 description: Ова тема пружа информације о понашању корисничког интерфејса за ставку времена.
 author: stsporen
-manager: AnnBe
-ms.date: 10/05/2020
+ms.date: 03/03/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 8719e2f9ee4867f17ed75142eca2115f61e37999
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
-ms.translationtype: HT
+ms.openlocfilehash: ef99f220e9ff207a7620a900aa0630e2803f4f7261eccfbf73ed79717648bf92
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4124521"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6999469"
 ---
 # <a name="time-entry-ui-behavior"></a>Понашање корисничког интерфејса за ставку времена
 
@@ -21,6 +19,19 @@ _**Односи се на:** Project Operations за сценарије засн
 
 
 Мрежа **Седмична ставка времена** је прилагођена контрола која садржи два главна одељка, **Димензије** и **Трајање**.
+
+## <a name="keyboard-shortcuts"></a>Тастерске пречице
+| Акција        | Пречица                  |
+|------------   |------------------------   |
+| Нова           | Alt + Shift + n           |
+| Копирај ред      | Alt + Shift + c           |
+| Уреди ставку    | Alt + Shift + e           |
+| Уреди ред      | Alt + Shift + Ctrl + e    |
+| Отвори ставку    | Alt + Shift + o           |
+| Прослеђивање        | Alt + Shift + s           |
+| Опозови        | Alt + Shift + r           |
+| Delete        | Alt + Shift + d           |
+| Копирај седмицу     | Alt + Shift + w           |
 
 ## <a name="dimensions"></a>Димензије
 Одељак **Димензије** приказује димензије за које се време може унети. Следеће димензије су подржане као унапред дефинисане:
@@ -85,3 +96,6 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ## <a name="import"></a>Увоз
 Исти основни поступак користи се за увоз из резервација, додела и размена. Можете одредити опсег датума резервација за увоз, а затим експлицитно изабрати резервације које би требало да буду креиране као радне верзије ставки времена. 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

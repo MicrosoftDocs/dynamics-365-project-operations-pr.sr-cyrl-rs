@@ -2,8 +2,6 @@
 title: Шта је ново или промењено у издању 23 исправке Project Service Automation верзије 3
 description: У овој теми дате су функције и исправке које су доступне у издању 23 исправке за Project Service Automation верзије 3.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 08/25/2020
 ms.topic: article
@@ -17,12 +15,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: f90c0d2168b261cf1b6ef10374f282274ea61af5
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
-ms.translationtype: HT
+ms.openlocfilehash: ec27d2344f14e61a50be2771ee3d7952f16abd736927de7c3c5a019351a3e067
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5948977"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6996634"
 ---
 # <a name="project-service-automation-update-release-23-v3"></a>Project Service Automation издање 23 исправке верзије 3
 

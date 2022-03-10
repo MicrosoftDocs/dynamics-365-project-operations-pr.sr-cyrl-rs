@@ -2,8 +2,6 @@
 title: Повежите вештине са ресурсима
 description: Како да повежете вештине са одређеним ресурсима у услузи Project Service
 author: JohnPBurrows
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: a0b8055e73744f1ddf5281974144b9fe06ec929f
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 0488773deea6c23dbab6c579a07ab7cbcc17534eb83a8888121160865cfd2706
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5291322"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7000639"
 ---
 # <a name="associate-skills-with-resources-project-service"></a>Повежите вештине са ресурсима (Project Service)
 

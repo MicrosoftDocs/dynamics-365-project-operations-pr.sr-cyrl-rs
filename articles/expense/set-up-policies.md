@@ -2,11 +2,9 @@
 title: Дефинисање смерница трошкова
 description: Можете да дефинишете смернице трошкова које ваши радници морају следити приликом уношења и подношења извештаја о трошковима и путних захтева.
 author: suvaidya
-manager: AnnBe
 ms.date: 09/23/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.search.form: ''
 audience: Application User
 ms.reviewer: kfend
@@ -15,12 +13,12 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: 863d1e44dad9fa0d2174cf77582a1d820988e92d
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: d29b1a9c1a935b933f403f78279b74577d11089007ce1d1090c361075822263a
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5276096"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6986374"
 ---
 # <a name="define-expense-policies"></a>Дефинисање смерница трошкова
 

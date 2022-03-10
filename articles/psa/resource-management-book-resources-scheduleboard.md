@@ -2,8 +2,6 @@
 title: Коришћење табеле распореда за резервисање ресурса за пројекте
 description: Ова тема пружа информације о томе како да резервишете ресурсе.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/28/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 9c9db2e602ca97d63ba237fd2c0eb757583caebc
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 5e4516d13a30ddfb5763fe600b0c1fc675ba6cf980730912e1795cc3d6f4991f
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5144431"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6998254"
 ---
 # <a name="use-the-schedule-board-to-book-project-resources"></a>Коришћење табеле распореда за резервисање ресурса за пројекте
 
@@ -36,20 +34,23 @@ ms.locfileid: "5144431"
 1. Ако је окно **Потребе за резервацијама** на дну странице скупљено, изаберите контролу за проширење да бисте га проширили.
 2. У окну **Потребе за резервацијама**, на картици **Пројекат** изаберите потребу да резервишете.
 
-    ![Захтев је изабран на картици Пројекат](media/Resource-Management-image73.png)
+    ![Захтев је изабран на картици Пројекат.](media/Resource-Management-image73.png)
 
 3. Изаберите **Доступност за проналажење** да бисте филтрирали ресурсе који могу да се резервишу и прегледали доступне ресурсе. 
 4. Изаберите један или више ресурса у табли распореда. 
 5. У окну **Креирање резервације ресурса** десно на страници унесите податке о резервацији, а затим изаберите **Резервиши и изађи**.
 
-    ![Креирање окна за резервацију ресурса за одабрани ресурс који може да се резервише](media/Resource-Management-image74.png)
+    ![Креирање окна за резервацију ресурса за одабрани ресурс који може да се резервише.](media/Resource-Management-image74.png)
 
 6. Док је захтев изабран у окну **Креирање резервације ресурса**, изаберите једну или више ћелија ресурса да бисте креирали резервацију.
 
-    ![Више ћелија је изабрано за ресурс](media/Resource-Management-image75.png)
+    ![Више ћелија је изабрано за ресурс.](media/Resource-Management-image75.png)
 
 7. Изаберите **Резервиши**.
 
 Захтев је испуњен коришћењем изабраног ресурса. У окну **Потребе за резервацијама** ћете приметити да је потреба ажурирана, а ресурс се приказује као резервисан за пројекат.
 
-![Ресурс је резервисан за пројекат](media/Resource-Management-image76.png)
+![Ресурс је резервисан за пројекат.](media/Resource-Management-image76.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

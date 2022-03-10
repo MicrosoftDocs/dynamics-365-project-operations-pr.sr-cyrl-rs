@@ -2,19 +2,17 @@
 title: Шта је ново у јануару 2021. – Project Operations за сценарије засноване на ресурсима/без залиха
 description: Ова тема пружа информације о исправкама квалитета доступним у издању услуге Project Operations за јануар 2021. за сценарије засноване на ресурсима/без залиха.
 author: sigitac
-manager: tfehr
 ms.date: 01/13/2021
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 5e5bfd3c790dac51895cde04e08d1fa62f4457e8
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 9d54d5fed6e8ec1535ad798073ac8a1eec36e87d1dbba4cc4acd94d8bbdc5157
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5292087"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7008109"
 ---
 # <a name="whats-new-january-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>Шта је ново у јануару 2021. – Project Operations за сценарије засноване на ресурсима/без залиха
 
@@ -88,7 +86,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ## <a name="regulatory-updates"></a>Регулаторне исправке
 
-За информације о регулаторним исправкама за Finance and Operations апликације, погледајте чланак [Регулаторне исправке](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates). Такође се можете пријавити на LCS и прегледати планиране регулаторне исправке помоћу алатке за претрагу проблема. Претрага проблема вам омогућава претрагу по земљи, типу функције и издању.
+За информације о регулаторним исправкама за Finance and Operations апликације, погледајте чланак [Регулаторне исправке](/dynamics365/finance/localizations/regulatory-updates). Такође се можете пријавити на LCS и прегледати планиране регулаторне исправке помоћу алатке за претрагу проблема. Претрага проблема вам омогућава претрагу по земљи, типу функције и издању.
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

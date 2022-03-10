@@ -2,11 +2,9 @@
 title: Фазе пројекта
 description: Ова тема пружа информације о фазама пројекта које су доступне у услузи Microsoft Dynamics Project Operations.
 author: ruhercul
-manager: AnnBe
 ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-365-customerservice
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -17,16 +15,16 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 554ad63bc44cbe5a1fe91eb47fedbb74bbedd4b6
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: ea8b74813e8a51930a03571eab0d962e14f66a8fd6cb978d3435570a01ce5c5d
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4084099"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7003082"
 ---
 # <a name="project-stages"></a>Фазе пројекта
 
-_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_
+_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 Фазе пројекта се дизајнирају тако да одражавају статус пројекта током његовом напретка. Прилагођавања се могу користити за аутоматско ажурирање фаза са токовима пословних процеса, Power Automate или проширења додатних компоненти.
 
@@ -63,3 +61,6 @@ _**Односи се на:** Project Operations за ресурс/сценари
 
 Када се све трансакције евидентирају за пројекат, менаџер пројекта може да ажурира фазу на **Затворено**. У том тренутку не могу се евидентирати никакве трансакције и пројект се подешава на „само за читање“.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

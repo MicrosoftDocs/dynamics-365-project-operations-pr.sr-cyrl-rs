@@ -2,8 +2,6 @@
 title: Закажите пројекат са структурном анализом посла
 description: Како да планирате пројекат са структурном анализом посла у апликацији Project Service
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: a00e39f78890426721a49cd569ba8ce4accb30a9
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 896f19746bde1ba6cf2acd6d558137f4271a5cd99424043053eefe128d3b4250
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5282711"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6996814"
 ---
 # <a name="schedule-a-project-with-a-work-breakdown-structure-project-service"></a>Планирајте пројекат са структурном анализом посла (Project Service)
 

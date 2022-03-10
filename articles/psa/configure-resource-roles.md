@@ -2,8 +2,6 @@
 title: Конфигурисање улога ресурса
 description: Како да конфигуришете улоге ресурса у апликацији Project Service
 author: JohnPBurrows
-manager: kfend
-ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,14 +16,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5f899d17980df16602c964bab4bbab1e976b3ebf
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: d57f843b681760c214d1f66fb4e3c748d0c8b659ab844189f24c682f42d309f0
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083970"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7002799"
 ---
 # <a name="configure-resource-roles-project-service"></a>Конфигурисање улога ресурса (Project Service)
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
@@ -57,3 +57,6 @@ ms.locfileid: "4083970"
   
 ### <a name="see-also"></a>Такође погледајте  
  [Подешавање ресурса](../psa/set-up-resources.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

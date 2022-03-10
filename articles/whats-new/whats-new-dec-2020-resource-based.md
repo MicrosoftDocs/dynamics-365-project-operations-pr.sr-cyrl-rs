@@ -2,19 +2,17 @@
 title: Шта је ново децембра 2020. – Project Operations за сценарије засноване на ресурсима/без залиха
 description: Ова тема пружа информације о исправкама квалитета доступним у издању услуге Project Operations за децембар 2020. за сценарије засноване на ресурсима/без залиха.
 author: sigitac
-manager: tfehr
 ms.date: 12/04/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: f5927a638fe8e454aecc9ce8dfc0871ed51d09f5
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: dd4047c2f1ed89d668882e4a1e162f3df8e452cf1ed6b85e34e6290b33e53814
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5291952"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6984889"
 ---
 # <a name="whats-new-december-2020---project-operations-for-resourcenon-stocked-based-scenarios"></a>Шта је ново децембра 2020. – Project Operations за сценарије засноване на ресурсима/без залиха
 
@@ -108,7 +106,7 @@ _**Односи се на:** Project Operations за сценарије засн
 | Путовање и трошак                | [513845](https://fix.lcs.dynamics.com/Issue/Details/?bugId=513845)            | Ток посла аутоматског књижења извештаја о трошковима је завршен, али фактура није прокњижена                                                                                                                                                                                          |
 
 ### <a name="regulatory-updates"></a>Регулаторне исправке
-За информације о регулаторним исправкама за Finance and Operations апликације, погледајте чланак [Регулаторне исправке](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates). Такође се можете пријавити на LCS и прегледати планиране регулаторне исправке помоћу алатке за претрагу проблема. Претрага проблема вам омогућава претрагу по земљи, типу функције и издању.
+За информације о регулаторним исправкама за Finance and Operations апликације, погледајте чланак [Регулаторне исправке](/dynamics365/finance/localizations/regulatory-updates). Такође се можете пријавити на LCS и прегледати планиране регулаторне исправке помоћу алатке за претрагу проблема. Претрага проблема вам омогућава претрагу по земљи, типу функције и издању.
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

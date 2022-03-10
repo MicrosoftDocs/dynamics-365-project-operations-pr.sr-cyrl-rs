@@ -2,12 +2,11 @@
 title: Матична страница за димензије одређивања цена и обрачуна трошкова
 description: Ова тема обезбеђује преглед димензија за одређивање цена.
 author: rumant
-manager: kfend
 ms.custom:
 - dyn365-projectservice
+- intro-internal
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: business-applications
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -17,12 +16,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 137fee27dd2302d47ae12faccde1682cff43db93
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: d17939777a6670bafc41b372adc922f8bdcc0411f3fdb399e7c9ab01eca87dd0
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5284151"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6998479"
 ---
 # <a name="pricing-and-costing-dimensions-home-page"></a>Матична страница за димензије одређивања цена и обрачуна трошкова
 
@@ -42,7 +41,7 @@ ms.locfileid: "5284151"
 
 PSA обавља испоруку помоћу подразумеваног скуп димензија за одређивање цена. Можете да их видите тако што ћете отићи на **Project Service** > **Параметри**. У запису параметра, на картици **Димензије за одређивање цена засноване на износима** проверите да ли улога **msdyn_resourcecategory** и организациона јединица ресурса **msdyn_organizationalunit** имају поља **Применљиво на продају** и **Применљиво на трошкове** подешена на **Да**. Ово ће вам омогућити подешавање цене и трошка за сваку комбинацију улоге и организационе јединице.
 
-![Снимак екрана Project Service параметара са маркираном ставком „Применљиво на продају“](media/PS-OOB-parameters.png)
+![Снимак екрана Project Service параметара са маркираном ставком „Применљиво на продају“.](media/PS-OOB-parameters.png)
 
 > [!IMPORTANT]
 > Ако сте користили унапред дефинисана поља улоге и организационих јединица као димензије за одређивање цена пре верзије 3 апликације PSA, неће бити никаквих приметних промена. Можете да наставите да користите Project Service као и обично. 
@@ -67,16 +66,16 @@ PSA обавља испоруку помоћу подразумеваног ск
 
 | Улога        | Организациона јединица    |Јединица      |Цена      |Валута  |
 | ------------|-------------|----------|----------:|----------|
-| Програмер   | Contoso US  |Hour | 200|USD     |
-| Програмер   | Contoso India |Hour|   112.|USD     |
+| Програмер   | Contoso US  |Сат | 200|USD решење     |
+| Програмер   | Contoso India |Сат|   112|USD решење     |
 
 
 **Примери стопа трошкова**
 
 | Група личних доходака     | Организациона јединица    |Јединица      |Цена      |Валута  |
 | ----------------|-------------|----------|----------:|----------|
-| Моје предузеће_Прва група личних доходака | Contoso US  |Hour | 145.|USD     |
-| Моје предузеће_друга група личних доходака | Contoso India |Hour|   67.|USD     |
+| Моје предузеће_Прва група личних доходака | Contoso US  |Сат | 145|USD решење     |
+| Моје предузеће_друга група личних доходака | Contoso India |Сат|   67|USD решење     |
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

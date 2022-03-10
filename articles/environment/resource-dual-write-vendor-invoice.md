@@ -2,19 +2,17 @@
 title: Интеграција фактуре добављача
 description: Ова тема пружа информације о интеграцији фактуре добављача у Project Operations.
 author: sigitac
-manager: Annbe
 ms.date: 04/27/2021
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 07839436c3777b0554e0721d250bff643e38c088
-ms.sourcegitcommit: 02f00960198cc78a5e96955a9e4390c2c6393bbf
-ms.translationtype: HT
+ms.openlocfilehash: 538a2694591f1d0d368ee0ffeed9bdf12cb47420c3d0571f75185fe433f23436
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "5955830"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6986509"
 ---
 # <a name="vendor-invoice-integration"></a>Интеграција фактуре добављача
 
@@ -38,7 +36,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 Помоћна књига пореза, помоћна књига добављача и друга финансијска књижења евидентирају се према потреби у Dynamics 365 Finance када се фактура добављача објави.
 
-![Интеграција фактуре добављача](media/DW7VendorInvoice.png)
+![Интеграција фактуре добављача.](media/DW7VendorInvoice.png)
 
 Када се записи уписују у **Рачун добављача** ентитет у Dataverse, започиње аутоматизовани поступак одобравања записа. Ако је потребно, статус аутоматског поступка одобравања може се прегледати у Dataverse одласком у **Напредна подешавања** > **Систем** > **Системски послови**. Након завршетка одобрења, систем креира записи класе трансакција материјала у ентитету **Стварни подаци**.
 

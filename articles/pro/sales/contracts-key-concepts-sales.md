@@ -2,24 +2,24 @@
 title: Уговори за пројекат – Кључни концепти – једноставно
 description: Ова тема пружа информације о кључним концептима уговора за пројекат.
 author: rumant
-manager: Annbe
 ms.date: 10/07/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: ce37c9dd18fd01e599e8766389e42c066e182547
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: a797a4fef6276f6ed008b0e58eed4c7480ba3492bcc166a362d4ff2816acf777
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4177079"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6991459"
 ---
-# <a name="project-contracts---key-concepts---lite"></a>Уговори за пројекат – Кључни концепти – једноставно
+# <a name="concepts-unique-to-project-contracts"></a>Концепти јединствени за уговор о пројекту
 
 _**Односи се на:** Једноставна примена – од погодбе до профактуре_
 
-Ова тема пружа кључне концепте којих морате бити свесни пре него што почнете да користите пројектне уговоре у услузи Dynamics 365 Project Operations:
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
+У овој теми дати су кључни концепти којих морате бити свесни пре него што почнете да користите пројектне уговоре у Dynamics 365 Project Operations:
 
 ## <a name="contracting-unit"></a>Јединица уговарања
 
@@ -91,3 +91,6 @@ Project Operations уговори се граде на Dynamics 365 Sales уго
 - Project Operations уговори имају сопствени образац и елементе корисничког интерфејса, пословна правила, пословну логику у додатним компонентама и скрипте на страни клијента које их чине јединственим у односу на уговоре услуге Sales.
 
 Из ових разлога не треба да користите Sales уговор и уговор о пројекту наизменично.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

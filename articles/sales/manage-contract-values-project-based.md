@@ -2,18 +2,16 @@
 title: Рад са предметима уговора заснованим на пројекту
 description: Ова тема пружа информације о предметима уговора заснованим на пројекту.
 author: rumant
-manager: Annbe
 ms.date: 10/28/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 14d880eccd5547c122ebe37b63022e64fa2fb6fe
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
-ms.translationtype: HT
+ms.openlocfilehash: c1c935a998cba8bd42ba2f11c8310d41e72de94adac7c2cb83f4c7224127b10b
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4181740"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6990064"
 ---
 # <a name="work-with-projectbased-contract-lines"></a>Рад са предметима уговора заснованим на пројекту
 
@@ -57,3 +55,6 @@ ms.locfileid: "4181740"
 | C1       | CL2           | П1      | Ne           | Да             | Ne          | Важећи           | Време и накнаде за пројекат P1 су укључени у CL1. Трошкови за пројекат P1 укључени су у CL2. </br>   Нема преклапања онога што је укључено у сваки предмет уговора и стога је важеће.  |
 | C1       | CL1           | П1      | Да          | Да             | Да         | Не важи       | Крши правило. Време, трошкови и накнаде за пројекат P1 укључени су у предмете два уговора.                                                                                               |
 | CL2      | CL2           | П1      | Да          | Да             | Да         | Не важи       | Крши правило. Време, трошкови и накнаде за пројекат P1 укључени су у предмете два уговора.                                                                                               |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

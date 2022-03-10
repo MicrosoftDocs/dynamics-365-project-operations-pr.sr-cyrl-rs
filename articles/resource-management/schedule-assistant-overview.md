@@ -2,18 +2,17 @@
 title: Преглед помоћника за заказивање
 description: Ова тема пружа информације о раду са помоћником за планирање ради резервисања ресурса.
 author: ruhercul
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 92b12bd9272805a736286bf7e0ff926cb6361c05
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.custom: intro-internal
+ms.openlocfilehash: 309cb94ea30c525daccf032c625004c42fb408dada4b337b65d8f36d76219669
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4125646"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6990244"
 ---
 # <a name="schedule-assistant-overview"></a>Преглед помоћника за заказивање
 
@@ -25,7 +24,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ## <a name="prerequisites"></a>Предуслови
 
-Помоћник за планирање је део решења Universal Resource Scheduling. Ово решење је укључено и инсталирано са услугама Dynamics 365 Project Operations, Dynamics 365 Field Service и Dynamics 365 Customer Service.
+Помоћник за планирање је део решења Universal Resource Scheduling. Ово решење је укључено и инсталирано уз Dynamics 365 Project Operations, Dynamics 365 Field Service и Dynamics 365 Customer Service.
 
 ## <a name="matching-requirements-and-resources"></a>Захтеви и ресурси који се подударају
 
@@ -57,3 +56,6 @@ _**Односи се на:** Project Operations за сценарије засн
 -   Предузеће које обезбеђује ресурсе
 -   Типови ресурса
 -   Жељени ресурси
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

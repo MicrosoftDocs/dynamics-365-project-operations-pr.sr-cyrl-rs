@@ -2,12 +2,10 @@
 title: Коришћење ресурса који се може резервисати као димензије за одређивање цена
 description: Ова тема пружа информације о коришћењу ресурса који се може резервисати као димензије за одређивање цена.
 author: Rumant
-manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: business-applications
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -17,12 +15,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: d9b25a768f892d83c09d37ce76291d6c8e75b1be
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: c551673708ae2d965979136e92326be98252304a601964c1fbc52a329c592712
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5145016"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988984"
 ---
 # <a name="use-bookable-resource-as-a-pricing-dimension"></a>Коришћење ресурса који се може резервисати као димензије за одређивање цена
 
@@ -64,15 +62,18 @@ ms.locfileid: "5145016"
 1. Да бисте то урадили, двапут кликните на ред у мрежи **Димензије за одређивање цена** да бисте отворили страницу димензије поља **msdyn_bookableresource**.
 2. На страници димензије, на картици **Повезано** кликните на **Имена поља димензија за одређивање цена**.
 
- ![Картица Имена поља димензија за одређивање цена](media/PD-fieldname.png)
+ ![Картица Имена поља димензија за одређивање цена.](media/PD-fieldname.png)
 
 4. У везаном приказу који се отвара кликните на **Додај ново име поља димензије за одређивање цена**.
 
- ![Додавање нових имена поља димензије за одређивање цена](media/Add-NewPD-fieldname.png)
+ ![Додавање нових имена поља димензије за одређивање цена.](media/Add-NewPD-fieldname.png)
 
 
 Овако отварате страницу **Ново име поља димензије за одређивање цена** за **msdyn_bookableresource**. 
 
 5. Додајте **msdyn_projectteam** у поље **Логичко име ентитета** и **msdyn_bookableresourceid** у поље **Име поља**. Сачувајте запис.
 
- ![Образац за ново име поља димензије за одређивање цена](media/PD-fieldname-Added.png)
+ ![Образац за ново име поља димензије за одређивање цена.](media/PD-fieldname-Added.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,8 +2,6 @@
 title: Кориснички водич за чвориште ресурса за пројекат
 description: Водич за крајње кориснике за чвориште ресурса за Project Service
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ec6ef1827b71d887524a04c511b44824688749fb
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: ac815eb82114c00af712a7ae76e43f28841ac5023be81f97718dc7ce529e1d34
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5148211"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6987274"
 ---
 # <a name="user-guide-for-project-resource-hub"></a>Водич за кориснике за чвориште ресурса за пројекат
 
@@ -48,34 +46,34 @@ ms.locfileid: "5148211"
 ## <a name="install-the-mobile-app"></a>Инсталирање апликације за мобилне уређаје
 Пре него што можете да почнете са коришћењем апликације чворишта ресурса за пројекат, потребно је да инсталирате мобилну апликацију на уређају. 
 
-[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Инсталирање система Dynamics 365 for phones и tablets](https://docs.microsoft.com/dynamics365/mobile-app/install-dynamics-365-for-phones-and-tablets)
+[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Инсталирање система Dynamics 365 for phones и tablets](/dynamics365/mobile-app/install-dynamics-365-for-phones-and-tablets)
 
 ## <a name="basic-navigation"></a>Основна навигација
 1.  Када сте пријавите у апликацију за мобилне уређаје, видећете страницу MyApps са листом апликација којима можете да приступите. 
 2.  Изаберите **Чвориште ресурса за пројекат**.
 
-![Одаберите апликацију](media/chooseApp_1.png "Одаберите апликацију")
+![Изаберите апликацију.](media/chooseApp_1.png "Одаберите апликацију")
 
 **Трака за навигацију**
 
-Користите траку за навигацију да бисте дошли до своје области посла, креирали нови запис, претраживали садржај или обављали друге задатке. Да бисте приступили већем броју команди, додирните ![Дугме „Још“](media/MoreButton.png "Дугме „Још“")
+Користите траку за навигацију да бисте дошли до своје области посла, креирали нови запис, претраживали садржај или обављали друге задатке. Да бисте приступили већем броју команди, додирните ![Дугме „Још“.](media/MoreButton.png "Дугме „Још“")
 
-![Трака за навигацију](media/NavBar_2.png "Трака за навигацију")
+![Трака за навигацију.](media/NavBar_2.png "Трака за навигацију")
 
 **Омиљене ставке и недавно коришћени записи**
 
 Одељци „Омиљене ставке“ и „Недавно коришћено“ нуде брз приступ записима, приказима и контролнима таблама. 
 
-- Да бисте приступили овим одељцима, додирните дугме **Мени** ![Дугме „Мени“](media/MenuButton.png "Дугме менија") на траци за навигацију, а затим додирните дугме **Омиљени и недавни записи** ![Дугме „Омиљени“](media/FavButton.png "Дугме Омиљени").
+- Да бисте приступили овим одељцима, додирните дугме **Мени** ![Дугме Мени.](media/MenuButton.png "Дугме менија") на траци за навигацију, а затим додирните дугме **Омиљени и недавни записи** ![Дугме Омиљени](media/FavButton.png "Дугме Омиљени").
 
 - Да бисте закачили ставку као омиљену, са листе ставки **Недавно коришћено** додирните чиоду. Тако ћете закачити ставку и преместити је у омиљене ставке.
 
-  ![Омиљене и недавне ставке](media/Favs_3.png "Омиљене и недавне ставке")
+  ![Омиљене и недавне ставке.](media/Favs_3.png "Омиљене и недавне ставке")
  
 ## <a name="enter-time"></a>Унесите време
 Унесите своје часове бар седмично – или у онолико често колико то менаџери захтевају – како бисте обезбедили да ваши клијенти исправно добијају фактуре и кредит.
 
-1. Додирните дугме менија ![Дугме „Мени“](media/MenuButton.png "Дугме менија"), а затим додирните **Ставке времена**. То ће приказати ваш календар.
+1. Додирните дугме менија ![Дугме Мени.](media/MenuButton.png "Дугме менија") , а затим додирните ставку **Временски уноси**. То ће приказати ваш календар.
 
 2. Да бисте видели календар за претходну или следећу седмицу, додирните дугме **Претходно** или **Следеће**. додирните дугме **Данас** да бисте се вратили на тренутну седмицу.
 
@@ -99,9 +97,12 @@ ms.locfileid: "5148211"
 5. Наставите да уносите трошкове за седмицу. Када завршите и све изгледа тачно, додирните **Пошаљи**. Менаџер ће прегледати и одобрити ваше уносе трошкова.
 
 ## <a name="general-information-on-how-to-use-the-mobile-app"></a>Опште информације о начину коришћења апликација за мобилне уређаје 
-[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Основни водич за мобилне уређаје](https://docs.microsoft.com/dynamics365/mobile-app/dynamics-365-phones-tablets-users-guide)
+[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Основни водич за мобилне уређаје](/dynamics365/mobile-app/dynamics-365-phones-tablets-users-guide)
 
 ### <a name="see-also"></a>Такође погледајте  
  [Преглед услуге Project Service](../psa/overview.md)   
  [Водич за време, трошак и сарадњу](../psa/time-expense-collaboration-guide.md)   
  
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

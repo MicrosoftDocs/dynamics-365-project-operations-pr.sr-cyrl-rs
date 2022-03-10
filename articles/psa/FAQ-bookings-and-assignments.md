@@ -2,8 +2,6 @@
 title: Резервације ресурса и како су оне повезане са доделом задатака
 description: Ова тема пружа информације о томе како управљати именованим ресурсима, резервацијама ресурса и доделама задатака, као и какав је њихов међусобни однос.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 9/27/2019
@@ -18,15 +16,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: c4b976b49bd643bc7a774a86b1ba89bd76d7c916
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
-ms.translationtype: HT
+ms.openlocfilehash: 94deab811a304026dd663a88e869013a3b88fb29674b35fa0b40fa68f8c5ea62
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4125026"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7003113"
 ---
 # <a name="resource-bookings-and-how-they-relate-to-task-assignments"></a>Резервације ресурса и како су оне повезане са доделом задатака
 
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 Именовани ресурси могу бити резервисани за пројектни тим и додељени пројектним задацима на два начина:
 
@@ -67,3 +66,6 @@ ms.locfileid: "4125026"
 > [!NOTE]
 > Ако преместите задатак који сте сами скицирали, те скице остају. Контуре се поново генеришу у складу са календаром пројекта како би одразиле промене у радном времену и празницима. То је тако пројектовано јер систем не зна намеру првобитне скице и не може да утврди да ли има смисла задржати ту скицу у новом временском периоду. Пошто резервације и доделе нису повезане, резервације задржавају првобитне скице резервације. У том случају, мораћете да откажете и поново резервишете за контуру нове доделе.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

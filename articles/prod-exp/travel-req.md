@@ -2,26 +2,25 @@
 title: Преглед захтева за путовање
 description: Ова тема пружа информације о захтевима за путовање. Планирани путни трошкови у документу захтева за путовање.
 author: saraschi2
-manager: AnnBe
 ms.date: 02/23/2018
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: TrvRequisitionList
 audience: Application User
 ms.reviewer: roschlom
 ms.search.scope: Core, Operations
+ms.custom: intro-internal
 ms.search.region: Global
 ms.author: saraschi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 1b8d68068c151c8530b9a7d3dccb742902fdc6a3
-ms.sourcegitcommit: 9f31b33ed6e7f1b49200a407913201a1337f3401
+ms.openlocfilehash: 9e6f7f92101b79db7145ca7f3e44aa22e5f21bddfc5fe3d5adfa765fe37b8fd8
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "4960670"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988174"
 ---
 # <a name="travel-requisitions-overview"></a>Преглед захтева за путовање
 
@@ -32,3 +31,6 @@ ms.locfileid: "4960670"
 Захтеви за путовање и смернице могу се користити за контролу буџета. На пример, ако ваша организација ради на пројекту са фиксном ценом који захтева путовање, путни трошкови чланова пројектног тима морају се уклапати у буџет за пројекат. Захтевањем да се путни трошкови одобре пре него што настану, организација може да помогне да пројекат остане у оквиру буџета.
 
 Можете поставити смернице за путне захтеве на страници **Захтев за путовањем**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,11 +2,9 @@
 title: Понуде – кључни концепти
 description: Ова тема пружа информације о понудама за пројекте и понудама за продају које су доступне у услузи Project Operations.
 author: rumant
-manager: AnnBe
 ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -17,14 +15,14 @@ ms.search.industry: Service industries
 ms.author: rumant
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 899279b33f4fe8780d110d7c18a097407bd8d839
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 8a1b5152b76cbcdfb5160a0af78eceec2c42b9a13dfc76701b6ad935318c7ba8
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5277536"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6997894"
 ---
-# <a name="quotes---key-concepts"></a>Понуде – кључни концепти
+# <a name="concepts-unique-to-project-based-quotes"></a>Концепти јединствени за понуде засноване на пројекту
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 

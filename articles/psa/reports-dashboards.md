@@ -2,8 +2,6 @@
 title: Контролне табле
 description: Ова тема пружа информације о контролним таблама за извештавање које су укључене у Dynamics 365 Project Service Automation.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5573bdaf05cb430131d92be771fb91900fb5453a
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 975f88b671f1ce46888731cc2aef4ea07228a71abe8e7c520d4c4a6e7be3b537
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5147806"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6990559"
 ---
 # <a name="dashboards"></a>Контролне табле
 
@@ -35,8 +33,11 @@ Dynamics 365 Project Service Automation укључује две системск
 
 ## <a name="practice-manager"></a>Менаџер обуке 
 
-Контролна табла **Менаџер обуке** пружа менаџерима обуке искуство коришћења графичке контролне табле за праћење трошкова, продаје, бруто марже и укупне искоришћености. Такође омогућава менаџерима обуке да деле информације према различитим димензијама, као што су клијент, пројекат или улога ресурса. За додатне информације о томе како да креирате и прилагодите контролне табле, погледајте чланак [Креирање и уређивање контролних табли](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/create-edit-dashboards).
+Контролна табла **Менаџер обуке** пружа менаџерима обуке искуство коришћења графичке контролне табле за праћење трошкова, продаје, бруто марже и укупне искоришћености. Такође омогућава менаџерима обуке да деле информације према различитим димензијама, као што су клијент, пројекат или улога ресурса. За додатне информације о томе како да креирате и прилагодите контролне табле, погледајте чланак [Креирање и уређивање контролних табли](/dynamics365/customerengagement/on-premises/customize/create-edit-dashboards).
 
 ## <a name="resource-manager"></a>Менаџер ресурса 
 
 Контролна табла **Менаџер ресурса** пружа менаџерима ресурса коришћења графичке контролне табле за надгледање захтева за ресурсе, потражње за ресурсима и укупне искоришћености ресурса. Такође омогућава менаџерима ресурса да деле надгледане информације према различитим димензијама.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

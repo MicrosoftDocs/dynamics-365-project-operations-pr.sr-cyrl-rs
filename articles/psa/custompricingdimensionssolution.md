@@ -2,12 +2,10 @@
 title: Креирање прилагођених решења за димензије цене
 description: У овој теми се објашњава како се креира прилагођено решење приликом креирања прилагођених димензија цене.
 author: Rumant
-manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: business-applications
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -17,12 +15,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1d8117d6f6bcedc97264401fc941470f34efb1ae
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 4dea80d8e4645675d3e89e846532ca7c0f292faa328c45938941c50dc15486fc
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5285006"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6995284"
 ---
 # <a name="create-custom-solutions-for-pricing-dimensions"></a>Креирање прилагођених решења за димензије цене
 
@@ -34,7 +32,7 @@ ms.locfileid: "5285006"
 1. Изаберите **Подешавања** > **Решења**, а затим изаберите **Ново**. 
 2. Именујте решење, **\<your organization name> димензије за одређивање цена**, унесите преостале захтеване информације, а затим изаберите **Сачувај**.
 
-> ![Креирање прилагођеног решења за димензије за одређивање цена](media/Creation-of-custom-pricing-dimension-solution.PNG)
+> ![Креирање прилагођеног решења за димензије за одређивање цена.](media/Creation-of-custom-pricing-dimension-solution.PNG)
   
 ## <a name="add-all-required-entities-and-related-components-to-the-pricing-dimension-solution"></a>Додајте све захтеване ентитете и сродне компоненте у решење за димензије цене
 Мораћете да додате следеће Project Service ентитете у решење за одређивање цена. Довршите кораке у овој процедури да бисте направили неке важне промене шема у решењу за одређивање цена, тако да ентитети постану свесни нових димензија цене.
@@ -56,16 +54,16 @@ ms.locfileid: "5285006"
 - Цена улоге 
 - Ставка времена 
 
-> ![Додавање постојећих ентитета у решење за димензије одређивања цена](media/Existing-entities-to-PD-solution.png)
+> ![Додавање постојећих ентитета у решење за димензије одређивања цена.](media/Existing-entities-to-PD-solution.png)
 
-> ![Изаберите компоненте решења](media/Dimension-Components.png)
+> ![Изаберите компоненте решења.](media/Dimension-Components.png)
 
 > [!NOTE]
 > Обавезно укључите све обрасце и приказе за сваки од изабраних ентитета.
 
 4. Када се од вас затражи да укључите зависне ентитете за изабране ентитете, изаберите **Не**.
 
-> ![Немојте да укључујете све повезане компоненте](media/Do-not-include-required.png)
+> ![Немојте да укључујете све повезане компоненте.](media/Do-not-include-required.png)
 
 
 

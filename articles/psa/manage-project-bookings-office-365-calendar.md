@@ -2,8 +2,6 @@
 title: Управљање пројектима и резервацијама у Office 365 календару
 description: Како да управљате пројектима и резервацијама у Office 365 календару
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -17,17 +15,19 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 31ff541f5b817c29b162c38c282df8cfd866e375
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
-ms.translationtype: HT
+ms.openlocfilehash: b38affbfc8d339ac1a2093391286ea4c095207be8de2e8eeca558e6fcc5bcc07
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4129066"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6985452"
 ---
 # <a name="manage-projects-and-bookings-in-your-calendar-project-service"></a>Управљање пројектима и резервацијама у календару (Project Service)
 
 > [!Note]
 > ЗАСТАРЕЛО: Ова функција је застарела и није више доступна.
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
@@ -50,7 +50,7 @@ ms.locfileid: "4129066"
   
 - Биће вам потребни акредитиви [!INCLUDE[pn_office_365](../includes/pn-office-365.md)] глобалног администратора или администратора система.  
   
-- Ваш администратор ће морати да конфигурише профилу сервера е-поште и сваки корисник ће морати да конфигурише своје поштанско сандуче. [!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Подешавање обраде е-поште путем синхронизације на страни сервера](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/admin/set-up-server-side-synchronization-of-email-appointments-contacts-and-tasks)  
+- Ваш администратор ће морати да конфигурише профилу сервера е-поште и сваки корисник ће морати да конфигурише своје поштанско сандуче. [!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [Подешавање обраде е-поште путем синхронизације на страни сервера](/dynamics365/customerengagement/on-premises/admin/set-up-server-side-synchronization-of-email-appointments-contacts-and-tasks)  
   
 ## <a name="turn-on-synchronization-for-your-organization-admin-task"></a>Укључите синхронизацију за организацију (задатак администратора)  
   
@@ -89,3 +89,6 @@ ms.locfileid: "4129066"
   
 ### <a name="see-also"></a>Такође погледајте  
  [Водич за време, трошак и сарадњу](../psa/time-expense-collaboration-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

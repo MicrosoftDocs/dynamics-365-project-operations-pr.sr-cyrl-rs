@@ -1,8 +1,6 @@
 ---
 title: Прослеђивање захтева за ресурс
 description: Ова тема пружа информације о прослеђивању захтева за ресурс пројекта.
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 12/1/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 8976ca2360be8676350178059615c59995544a71
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: da3e2798079816409ffbcfed911c05f3d51307fef22c48d112802927828faeb2
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5282261"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6985024"
 ---
 # <a name="submitting-a-resource-request"></a>Прослеђивање захтева за ресурс
 
@@ -36,7 +34,7 @@ ms.locfileid: "5282261"
 1. У апликацији Project Service Automation (PSA), на страници **Пројекти** кликните на картицу **Тим** да бисте видели листу ресурса који се могу резервисати. 
 2. Са листе изаберите генерички ресурс који има потребу за ресурсом, а затим кликните на **Проследи захтев**.
 
-![Прослеђивање захтева за ресурс](media/RM-how-to-18.png)
+![Прослеђивање захтева за ресурс.](media/RM-how-to-18.png)
 
 Статус захтева генеричког члана тима ће се променити у **Прослеђен**.
 

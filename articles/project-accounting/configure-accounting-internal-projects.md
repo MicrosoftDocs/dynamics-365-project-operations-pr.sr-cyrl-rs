@@ -2,18 +2,16 @@
 title: Конфигурисање рачуноводства за интерне пројекте
 description: Ова тема пружа информације о томе како поставити рачуноводствене праксе за интерне пројекте у услузи Project Operations.
 author: sigitac
-manager: Annbe
 ms.date: 10/09/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 9f1cc75b12fec81d726e46f8d970dcfe030f6b29
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: be1dcd1b6b18591c99c904e0013d9870c7cafe1077fa6e9634f2e9f495190848
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5287616"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7005544"
 ---
 # <a name="configure-accounting-for-internal-projects"></a>Конфигурисање рачуноводства за интерне пројекте
 
@@ -28,6 +26,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 - Временске трансакције се књиже задуживањем налога **Трошак** и кредитирањем налога **Расподела зарада**.
 - Трансакције трошкова се књиже задуживањем налога **Цена** и кредитирањем налога **Рачун за пребијање дуговања и потраживања за трошкове**.
+- Трансакције ставки књиже се задуживањем на рачуну **Цена** и потраживањем на рачуну **Цена – Ставка**.
 
 Након што су трансакције књижене у пројекат, ако је пројекат повезан са пројектним уговором, систем поништава све акумулиране трансакције и креира нове наплативе трансакције. Трансакције које се наплаћују прате рачуноводствена правила дефинисана у одговарајућем профилу трошкова и прихода пројекта.
 

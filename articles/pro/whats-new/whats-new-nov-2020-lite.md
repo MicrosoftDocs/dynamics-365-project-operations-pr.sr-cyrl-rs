@@ -2,18 +2,16 @@
 title: Шта је ново новембра 2020. – Једноставна примена услуге Project Operations – од погодбе до профактуре
 description: Ова тема пружа информације о исправкама квалитета доступним у издању једноставне примене услуге Project Operations за новембар 2020. – од погодбе до профактуре.
 author: sigitac
-manager: Annbe
 ms.date: 11/02/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: fa95406a27e6d32d2be75303904547b59f24c8b2
-ms.sourcegitcommit: 64d0de964a9b66c015ffcf1db62cbb6216cb3187
-ms.translationtype: HT
+ms.openlocfilehash: 4a65ab00c7f729b72cc32b4786055feba4aaee452ac4cf413047f81651c92290
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "4367194"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7003294"
 ---
 # <a name="whats-new-november-2020---project-operations-lite-deployment---deal-to-proforma-invoicing"></a>Шта је ново новембра 2020. – Једноставна примена услуге Project Operations – од погодбе до профактуре
 
@@ -37,3 +35,6 @@ _**Односи се на:** Једноставна примена – од по
 | Ставка времена и брзог трошка | 2047499          | Дугме **Ново** на страници Ставка времена отвара страницу **Нов потпис е-поште**.                                                                                               |
 | Ставка времена и брзог трошка | 2059859          | Отвара се неочекивани искачући прозор приликом креирања ставке трошка.                                                                                                                         |
 | Други                        | 2044181          | [Деинсталација PO] – Долази до грешке „Запис није доступан“ када покушате да деинсталирате основна решења **msdyn_ProjectServiceCore_Patch** и msdyn Project Service.        |
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

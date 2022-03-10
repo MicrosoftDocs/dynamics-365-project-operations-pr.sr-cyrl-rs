@@ -2,19 +2,17 @@
 title: Шта је ново или промењено у услузи Project Operations у априлу 2021. за сценарије засноване на залихама/производњи
 description: Ова тема пружа информације о исправкама квалитета доступним у издању услуге Project Operations за април 2021. године за сценарије засноване на залихама/производњи.
 author: andchoi
-manager: tfehr
 ms.date: 04/22/2021
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: andchoi
-ms.openlocfilehash: 2e2e3c1c717b5296964e0921aeec4999dd2f6e29
-ms.sourcegitcommit: 69fadd3ce475d6aed2e1ed81a15becb28f020eb9
-ms.translationtype: HT
+ms.openlocfilehash: 0b214678a17e5b1cdacb89ae00e4acb83b8292d02ff937f30e307751d39f152d
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "5935582"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7005589"
 ---
 # <a name="whats-new-or-changed-in-project-operations-april-2021-for-stockedproduction-based-scenarios"></a>Шта је ново или промењено у услузи Project Operations у априлу 2021. за сценарије засноване на залихама/производњи
 

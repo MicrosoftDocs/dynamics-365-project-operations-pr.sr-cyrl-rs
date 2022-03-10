@@ -2,27 +2,29 @@
 title: Преглед управљања пројектима
 description: Ова тема пружа информације о управљању пројектима у услузи Dynamics 365 Project Operations.
 author: ruhercul
-manager: AnnBe
 ms.date: 10/06/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: de7b77bbb0f6e8f7c55aadc35d1f732f37d56615
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.custom: intro-internal
+ms.openlocfilehash: f728b3665770e65357f85a5c6da3fb8aecd7923d57baddb4e4c720fcc920ee01
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4083822"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6991011"
 ---
 # <a name="project-management-overview"></a>Преглед управљања пројектима
 
-_**Односи се на:** Project Operations за ресурс/сценарије који нису засновани на залихама, лагану примену – од погодбе до профактуре_
+_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
-Алатке за управљање пројектима у услузи Dynamics 365 Project Operations помажу вам да лако извршавате пројекте. Алатке за заказивање помажу менаџерима пројеката и тимовима да остану продуктивни. Неки од задатака код којих ове алатке помажу обухватају следеће:
+Алатке за управљање пројектима у апликацији услузи Dynamics 365 Project Operations помажу вам да лако извршавате пројекте. Алатке за заказивање помажу менаџерима пројеката и тимовима да остану продуктивни. Неки од задатака код којих ове алатке помажу обухватају следеће:
 
 - Планирајте пројекте помоћу пословног распореда и процена.
 - Процењујте и пратите трошкове и приход за пројекат.
 - Користите процене пројеката током процеса продаје.
 - Предвиђајте потребе за ресурсима за пројекте у каналу.
 - Успешно испоручујте пројекте праћењем напретка и трошкове коришћења.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

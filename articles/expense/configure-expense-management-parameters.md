@@ -2,18 +2,16 @@
 title: Конфигурисање параметара управљања трошковима
 description: Ова тема описује параметре који контролишу опште понашање у управљању трошковима.
 author: suvaidya
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: suvaidya
-ms.openlocfilehash: 93cb95ffc0348a1ad1905fbf308477d18e589185
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 1cabb0be624f7f6c12761e4fb6d5a095396a5940a37616bb3a304798e1f97808
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5276681"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007794"
 ---
 # <a name="configure-expense-management-parameters"></a>Конфигурисање параметара управљања трошковима
 

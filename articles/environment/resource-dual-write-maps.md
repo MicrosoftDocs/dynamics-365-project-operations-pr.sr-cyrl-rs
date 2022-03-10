@@ -6,12 +6,12 @@ ms.date: 04/22/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: c8bc389c83eaf2a7720ef3fa969c677eed11e7959199b5f0083df5bf3b43ea43
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 452f9f16bfbae2d547afb9fcf4fc51595ea49890
+ms.sourcegitcommit: 74a7e1c9c338fb8a4b0ad57c5560a88b6e02d0b2
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7003834"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "7547127"
 ---
 # <a name="project-operations-dual-write-map-versions"></a>Верзије мапе двоструког уписивања за Project Operations
 
@@ -49,8 +49,8 @@ _**Односи се на:** Project Operations за сценарије засн
 | Project Operations табела интеграције за процене материјала (msdyn\__estimatelines) | 1.0.0.0 | Није потребно за резервисање. |
 | Предлози фактура пројекта V2 (фактуре) | 1.0.0.3 | Није потребно за резервисање. |
 | Project Operations стварне вредности интеграције (msdyn_actuals) | 1.0.0.14 | Није потребно за резервисање. |
-| Project Operations контролне тачке предмета уговора о интеграцији (msdyn_contractlinesscheduleofvalues) | 1.0.0.4 | Није потребно за резервисање. |
-| Project Operations ентитет интеграције за процене трошкова (msdyn_estimateslines) | 1.0.0.2 | Није потребно за резервисање. |
+| Контролне тачке предмета уговора за интеграцију са услугом Project Operations (msdyn_contractlinescheduleofvalues) | 1.0.0.4 | Није потребно за резервисање. |
+| Ентитет за интеграцију са услугом Project Operations за процену трошкова (msdyn_estimatelines) | 1.0.0.2 | Није потребно за резервисање. |
 | Project Operations ентитет интеграције за процене сати (msdyn_resourceassignments) | 1.0.0.5 | Није потребно за резервисање. |
 | Project Operations ентитет извоза категорија трошкова пројекта (msdyn_expensecategories) | 1.0.0.1 | Није потребно за резервисање. |
 | Project Operations ентитет извоза трошкова интеграције пројекта (msdyn_expenses) | 1.0.0.2 | Није потребно за резервисање. |

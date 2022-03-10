@@ -2,18 +2,16 @@
 title: Управљање већим бројем клијената у ставкама понуде засноване на пројекту – једноставно
 description: Ова тема описује како се управља са више клијената у ставкама понуда заснованим на пројекту.
 author: rumant
-manager: Annbe
 ms.date: 10/06/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 7cab29693fc1447beba74dc6266367f13e48634d
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
-ms.translationtype: HT
+ms.openlocfilehash: d015e9107741fd496f7d3639731f33fcdcc9b9bdd5f501c9ad2617e37a707f35
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4176494"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7001719"
 ---
 # <a name="manage-multiple-customers-on-project-based-quote-lines---lite"></a>Управљање већим бројем клијената у ставкама понуде засноване на пројекту – једноставно
 
@@ -43,3 +41,6 @@ _**Односи се на:** Једноставна примена – од по
 Проценте поделе наплате можете уредити изнутра. Када проценти поделе наплате не износе 100%, долази до грешке. Када уређујете проценте поделе наплате, освежите страницу ставке понуде да бисте уклонили грешку.
 
 Користите радњу равномерне расподеле на подформи клијената ставке понуде да бисте доделили поделе наплате свим клијентима ставке понуде. Ако постоји фактор заокруживања, то ће се додати клијенту за заокруживање. Један од клијената ставке понуде увек је означен као клијент за заокруживање, што значи да је у запису клијента ставке понуде заставица за заокруживање подешена на **Да**. 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -6,12 +6,12 @@ ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: ccca2f387ce3abef3b24cb96fdbcc69f3c0c075b
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 2f283771921504dc29ddcc26ca659d4e151598840339bd8c1a857e8bf5dde9ed
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6002276"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6991504"
 ---
 # <a name="security-model"></a>Модел безбедности
 
@@ -58,7 +58,7 @@ Project за Веб аутоматски додаје кориснике у гр
 
 Претрага чланова групе у дијалогу **Управљање групама** ограничена је на оне који су постављени као део безбедносне групе окружења. Више информација потражите у чланку [Контрола корисничког приступа окружењима: безбедносне групе и лиценце](/power-platform/admin/control-user-access).
 
-![Групни режим](./media/groupsmode.png)
+![Групни режим.](./media/groupsmode.png)
 
 1. Пројекат се креира и његов власник је корисник који га је креирао.
 2. Власник пројекта је обавештен о тиму.
