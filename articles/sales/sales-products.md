@@ -6,7 +6,7 @@ ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
 audience: Application User
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.search.scope: ''
 ms.custom: ''
 ms.assetid: ''
@@ -15,22 +15,22 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 085b7e4d9274f8c8d94d7a84109cfa782acf3dbb9241bfd25ecb8c2f329e1bb8
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 5c57b2596e1d480ff59591618f073ceb8f70a289
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6986869"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8574126"
 ---
 # <a name="products"></a>Производи
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
-Производи су основа вашег посла. Каталог производа у услузи Dynamics 365 Sales Professional је колекција производа и информација о ценама. Олакшајте представницима продаје да повећају своју продају брзим креирањем каталога производа.
+Производи су основа вашег посла. Каталог производа у програму Dynamics 365 Sales Professional је колекција производа и информација о ценама. Олакшајте представницима продаје да повећају своју продају брзим креирањем каталога производа.
 
 ## <a name="add-a-product"></a>Додавање производа
 
-1.  Уверите се да имате улогу менаџера за Sales Professional или администратор система да бисте могли да додајете производе у услузи Dynamics 365 Sales Professional.
+1.  Уверите се да имате улогу менаџер за Sales Professional или администратор система да бисте могли да додате производе у програм Dynamics 365 Sales Professional.
 2.  На мапи локације, у оквиру ставке **Инсталација**, изаберите **Производи**.
 3.  Изаберите **Додај производ** и попуните следеће податке:
 

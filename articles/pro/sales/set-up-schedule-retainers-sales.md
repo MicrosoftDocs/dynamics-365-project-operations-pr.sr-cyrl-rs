@@ -4,14 +4,14 @@ description: Ова тема пружа информације о томе ка�
 author: rumant
 ms.date: 10/22/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: a1cfd83837a91a8d1b3db6df688da6e216a90ada4735e5909a7e8cb26b87247d
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: b1c48f04aa47d50c9f3ab46031ef0d6cd68619d5
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6994384"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8574770"
 ---
 # <a name="set-up-a-retainer-schedule"></a>Подешавање распореда аванса
 

@@ -3,17 +3,16 @@ title: Преглед димензија за одређивање цена
 description: Ова тема пружа информације о димензијама за одређивање цена у услузи Dynamics 365 Project Operations.
 author: rumant
 ms.date: 11/30/2020
-ms.topic: article
+ms.topic: overview
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: rumant
-ms.custom: intro-internal
-ms.openlocfilehash: 4b3b71c0b64a24f6914c70c4383eee654e7d4947ececaf9b4e6394f45a081a4c
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 5f1fa83b52c3812f26e3ab75a8b08ebd40d82aa8
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7001989"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8579278"
 ---
 # <a name="pricing-dimensions-overview"></a>Преглед димензија за одређивање цена
 
@@ -60,16 +59,16 @@ Dynamics 365 Project Operations обавља испоруку помоћу по�
 
 | Улога        | Организациона јединица    |Јединица      |Цена      |Валута  |
 | ------------|-------------|----------|----------:|----------|
-| Програмер   | Contoso US  |Сат | 200|USD решење     |
-| Програмер   | Contoso India |Сат|   112|USD решење     |
+| Програмер   | Contoso US  |Hour | 200|USD     |
+| Програмер   | Contoso India |Hour|   112.|USD     |
 
 
 **Примери стопа трошкова**
 
 | Група личних доходака     | Организациона јединица    |Јединица      |Цена      |Валута  |
 | ----------------|-------------|----------|----------:|----------|
-| Моје предузеће_Прва група личних доходака | Contoso US  |Сат | 145|USD решење     |
-| Моје предузеће_друга група личних доходака | Contoso India |Сат|   67|USD решење     |
+| Моје предузеће_Прва група личних доходака | Contoso US  |Hour | 145.|USD     |
+| Моје предузеће_друга група личних доходака | Contoso India |Hour|   67.|USD     |
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

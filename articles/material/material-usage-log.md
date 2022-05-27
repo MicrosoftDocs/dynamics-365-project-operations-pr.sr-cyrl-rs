@@ -4,14 +4,14 @@ description: Ова тема пружа информације о томе ка�
 author: rumant
 ms.date: 03/31/2021
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 4d8757049953fab0ad8bf6ee1a1d695fcb6df75b1be52641ad4af3b3137d7a0a
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 60aed9aa82eeb0339e71b0171719e765a63d91e7
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6999289"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8579692"
 ---
 # <a name="record-material-usage-on-projects-and-project-tasks"></a>Евидентирање употребе материјала на пројектима и пројектним задацима
 

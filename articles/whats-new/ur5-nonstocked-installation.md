@@ -1,25 +1,25 @@
 ---
 title: Ажурирање услуге Project Operations у Finance окружењу
-description: Ова тема пружа информације о томе како да ажурирате услугу Project Operations у Dynamics 365 Finance окружењу.
+description: Овај тема пружа информације о томе како да ажурирате операције пројекта у Дyнамицс 365 Финанце окружењу.
 author: ruhercul
 ms.date: 12/11/2020
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 3665bccfa25c759c0f2351c691d24901867c178f7c339f4a524856842666aec5
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 9cd562ac3360298796fbe34dbe2ac8708b00150f
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6986779"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8579967"
 ---
 # <a name="update-project-operations-in-your-finance-environment"></a>Ажурирање услуге Project Operations у Finance окружењу
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_
 
 
-Ова тема пружа информације о томе како да ажурирате Dynamics 365 Project Operations у Dynamics 365 Finance окружењу. Постоје три процедуре потребне за ажурирање услуге Project Operations на исправку 5 (Microsoft Dynamics CRM 2011 Update Rollup 5):
+Овај тема пружа информације о томе како да ажурирате Dynamics 365 Project Operations Дyнамицс 365 Финанце окружењу. Постоје три процедуре потребне за ажурирање услуге Project Operations на исправку 5 (Microsoft Dynamics CRM 2011 Update Rollup 5):
 
 - [Увоз пакета у пројекат прегледа](#import)
 - [Примена исправке](#apply)
@@ -119,7 +119,7 @@ _**Односи се на:** Project Operations за сценарије засн
 4. На страници **Верзија мапе табеле** примените нову верзију мапе на сваки од три ентитета.
 5. На страници **Двоструко уписивање** изаберите „Покрени“ да бисте поново покренули мапе.
 6. На листи мапа одаберите мапу **Главна књига (msdyn_ledgers)** са свим предусловима и означите поље за потврду **Почетна синхронизација**. 
-7. У пољу **Мастер за почетну синхронизацију** изаберите **Finance and Operations апликације**, а затим изаберите **Покрени**.
+7. У пољу Мастер **за почетну синхронизацију изаберите** апликације"Финансије **и операције", а затим** изаберите ставку **Покрени**.
  
  ![Синхронизација мапе главне књиге.](media/DW6.png)
  
