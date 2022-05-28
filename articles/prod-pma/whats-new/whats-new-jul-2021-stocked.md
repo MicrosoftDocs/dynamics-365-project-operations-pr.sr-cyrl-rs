@@ -5,14 +5,14 @@ author: andchoi
 ms.date: 07/01/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: andchoi
-ms.openlocfilehash: dadcf3e9fa8432fb66f76b7c2f0fdb98bc00511d93984ea98fa30b4fc03fa426
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: db5bb27650d65bb68f45f95cb2562f4b773ddcea
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6992719"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8597080"
 ---
 # <a name="whats-new-or-changed-in-project-operations-july-2021-for-stockedproduction-based-scenarios"></a>Шта је ново или промењено у услузи Project Operations у јулу 2021. за сценарије засноване на залихама/производњи
 
@@ -20,7 +20,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 Ова тема се односи на следеће компоненте и верзије услуге Dynamics 365 Project Operations:
 
-- Управљање пројектима и рачуноводство у Dynamics 365 Finance окружењу верзије 10.0.20
+- Управљање пројектима и рачуноводство у Дyнамицс 365 Финанце окружењу верзија 10.0.20
  
 ### <a name="quality-updates"></a>Исправке квалитета
                                                                                                                                                                                   
@@ -64,7 +64,7 @@ _**Односи се на:** Project Operations за сценарије засн
 | Путовање и трошак                  | [523557](https://fix.lcs.dynamics.com/Issue/Details/?bugId=523557) | Алатка **Ресетовање статуса документа трошкова** би требало да ресетује статус извештаја о трошковима на **радну верзију** ако ток посла не буде пронађен. 
 
 ### <a name="regulatory-updates"></a>Регулаторне исправке
-За информације о регулаторним исправкама за Finance and Operations апликације, погледајте чланак [Регулаторне исправке](/dynamics365/finance/localizations/regulatory-updates). Такође се можете пријавити у Lifecycle Services (LCS) и прегледати планиране регулаторне исправке помоћу алатке за претрагу проблема. Претрага проблема вам омогућава претрагу по земљи, типу функције и издању.
+Више информација о регулаторним исправкама за апликације за финансије и операције потражите у чланку [Регулаторне исправке](/dynamics365/finance/localizations/regulatory-updates). Такође се можете пријавити у Lifecycle Services (LCS) и прегледати планиране регулаторне исправке помоћу алатке за претрагу проблема. Претрага проблема вам омогућава претрагу по земљи, типу функције и издању.
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

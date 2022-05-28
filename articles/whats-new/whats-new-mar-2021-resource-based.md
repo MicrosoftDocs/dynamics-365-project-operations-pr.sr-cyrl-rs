@@ -5,14 +5,14 @@ author: sigitac
 ms.date: 03/03/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: b11a57ae152be154fd6a7d330c8520f3b295ce3ef5cc7051ac9b343e3bcdbe12
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: a59aa5591dd5f5ed129ce710196eea572e66ea0b
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7006354"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8599472"
 ---
 # <a name="whats-new-march-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>Шта је ново у марту 2021. – Project Operations за сценарије засноване на ресурсима/без залиха
 
@@ -21,7 +21,7 @@ _**Односи се на:** Project Operations за сценарије засн
 Ова тема се односи на следеће компоненте и верзије услуге Dynamics 365 Project Operations:
 
 - Project Operations у Dataverse окружењу верзије 4.8.0.91 
-- Управљање пројектима и рачуноводство у Dynamics 365 Finance окружењу верзије 10.0.16 
+- Управљање пројектима и рачуноводство на Дyнамицс 365 Финанце окружењу верзија 10.0.16 
 
 ## <a name="quality-updates"></a>Исправке квалитета
 
@@ -42,13 +42,13 @@ _**Односи се на:** Project Operations за сценарије засн
 | Време и трошак | 2148910 | Исправљен је проблем са приказом странице **Измена уноса** на мрежи **Ставка времена**. |
 | Време и трошак | 2159798 | Појачане су контроле како би се осигурало да се одобрени уноси трошкова не могу уређивати. |
 
-### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Управљање пројектима и рачуноводство у услузи Dynamics 365 Finance
+### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Управљање пројектима и рачуноводство на Дyнамицс 365 Финанце
 
 Додатне информације потражите у одељку [Шта је ново у јануару 2021. – Project Operations за сценарије засноване на ресурсима/без залиха](whats-new-jan-2021-resource-based.md).
 
 ## <a name="regulatory-updates"></a>Регулаторне исправке
 
-За информације о регулаторним исправкама за Finance and Operations апликације, погледајте чланак [Регулаторне исправке](/dynamics365/finance/localizations/regulatory-updates). Други начин да сазнате више о регулаторним исправкама је да се пријавите на LCS и прегледате планиране регулаторне исправке помоћу алатке за претрагу проблема. Претрага проблема вам омогућава претрагу по земљи, типу функције и издању.
+Више информација о регулаторним исправкама за апликације за финансије и операције потражите у чланку [Регулаторне исправке](/dynamics365/finance/localizations/regulatory-updates). Други начин да сазнате више о регулаторним исправкама је да се пријавите на LCS и прегледате планиране регулаторне исправке помоћу алатке за претрагу проблема. Претрага проблема вам омогућава претрагу по земљи, типу функције и издању.
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

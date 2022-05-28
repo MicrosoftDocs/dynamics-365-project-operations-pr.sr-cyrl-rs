@@ -16,12 +16,13 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: d17939777a6670bafc41b372adc922f8bdcc0411f3fdb399e7c9ab01eca87dd0
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.reviewer: johnmichalak
+ms.openlocfilehash: 7dbee508cea074a8c443506d280a1b52eb698202
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6998479"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8593630"
 ---
 # <a name="pricing-and-costing-dimensions-home-page"></a>Матична страница за димензије одређивања цена и обрачуна трошкова
 
@@ -66,16 +67,16 @@ PSA обавља испоруку помоћу подразумеваног ск
 
 | Улога        | Организациона јединица    |Јединица      |Цена      |Валута  |
 | ------------|-------------|----------|----------:|----------|
-| Програмер   | Contoso US  |Сат | 200|USD решење     |
-| Програмер   | Contoso India |Сат|   112|USD решење     |
+| Програмер   | Contoso US  |Hour | 200|USD     |
+| Програмер   | Contoso India |Hour|   112.|USD     |
 
 
 **Примери стопа трошкова**
 
 | Група личних доходака     | Организациона јединица    |Јединица      |Цена      |Валута  |
 | ----------------|-------------|----------|----------:|----------|
-| Моје предузеће_Прва група личних доходака | Contoso US  |Сат | 145|USD решење     |
-| Моје предузеће_друга група личних доходака | Contoso India |Сат|   67|USD решење     |
+| Моје предузеће_Прва група личних доходака | Contoso US  |Hour | 145.|USD     |
+| Моје предузеће_друга група личних доходака | Contoso India |Hour|   67.|USD     |
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

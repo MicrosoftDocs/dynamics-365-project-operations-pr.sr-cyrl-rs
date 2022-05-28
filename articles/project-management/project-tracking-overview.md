@@ -2,17 +2,16 @@
 title: Праћење ангажовања у пројекту
 description: Ова тема пружа информације о томе како да пратите ангажовање у пројекту и напредак посла.
 author: ruhercul
-ms.date: 03/22/2021
-ms.topic: article
-ms.reviewer: kfend
+ms.date: 02/15/2022
+ms.topic: overview
+ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.custom: intro-internal
-ms.openlocfilehash: 0df357eaf662816107fbc1777ebae030c93bd199756e78a1c3d59155dc64d38f
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 037118714cf01ba2fb91cdd94345495d12ccb645
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6993979"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8593814"
 ---
 # <a name="project-effort-tracking"></a>Праћење ангажовања у пројекту
 
@@ -46,7 +45,8 @@ Project Operations приказује пројекцију одступања о
 - Израчунава се нови EAC за сваки од појединачних задатака све до задатака чвора листа. 
 - Подређени задаци на које ово утиче, све до чворова листа, имају поновно израчунато преостало ангажовање и проценат напретка на основу EAC вредности. То резултира новом пројекцијом одступања од ангажовања на задатку. 
 - Поново се израчунавају EAC-ови резимираних задатака све до основног чвора.
-
+- Одобрени напор на задатку резимеа је збир одобрених напора за све подређене задатке, као и одобрени напор у задатку резимеа.
+- Преостали напори на задатку резимеа су збир преосталих напора за све подређене задатке умањени за одобрени напор у задатку резимеа.
 
 ## <a name="project-status-summary"></a>Резиме статуса пројекта
 

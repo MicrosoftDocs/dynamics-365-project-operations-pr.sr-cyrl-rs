@@ -6,7 +6,7 @@ ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
 audience: Application User
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.search.scope: ''
 ms.custom: ''
 ms.assetid: ''
@@ -15,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 3d9f0cb2a054941b07809b61ca14a3145c6d6d06acd6ca40255d5ec9de92be22
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: cba1f9915087f7910a9aa93378cb861983ca36ab
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6994519"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8600346"
 ---
 # <a name="turning-off-a-pricing-dimension"></a>Искључивање димензије за одређивање цена
 
@@ -38,8 +38,8 @@ _**Односи се на:** Project Operations за сценарије засн
 
 | Стандардна позиција         | Организациона јединица    |Јединица   |Цена  |Валута  |
 | -----------------------|-------------|-------|-------|----------|
-| Инжењер система|Contoso US|Сат| 100|USD решење|
-| Виши инжењер система|Contoso US|Сат| 150| USD решење|
+| Инжењер система|Contoso US|Hour| 100.|USD|
+| Виши инжењер система|Contoso US|Hour| 150| USD|
 
 
 Када искључите поље **Стандардна позиција** као димензију за одређивање цена, а механизам за одређивање цена претражује цену, користиће само вредност **Организациона јединица** из контекста уноса. Ако је **Организациона јединица** контекста уноса „Contoso US“, резултат ће бити неодређен јер ће се оба реда подударати. Да бисте избегли овај сценарио, када креирате записе **Цена улоге**, систем проверава да ли је комбинације димензија јединствена. Ако је димензија искључена након креирања записа **Цена улоге**, ово ограничење може да се прекрши. Због тога је неопходно да пре искључивања димензије избришете све редове **Цена улоге** и **Провизија на цену улоге** у којима је та вредност димензије попуњена.

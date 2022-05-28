@@ -4,14 +4,14 @@ description: Ова тема пружа информације о томе ка�
 author: sigitac
 ms.date: 10/09/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: be1dcd1b6b18591c99c904e0013d9870c7cafe1077fa6e9634f2e9f495190848
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 9da72d8dbf720e380a49a1010caca472ee024783
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7005544"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8597862"
 ---
 # <a name="configure-accounting-for-internal-projects"></a>Конфигурисање рачуноводства за интерне пројекте
 
