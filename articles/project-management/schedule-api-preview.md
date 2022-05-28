@@ -2,16 +2,16 @@
 title: Коришћење API-ја за распоред пројеката за извођење операција са ентитетима распоређивања
 description: Ова тема пружа информације и примере за коришћење API-ја распореда пројеката.
 author: sigitac
-ms.date: 09/09/2021
+ms.date: 01/13/2022
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 6be35b1c52996f4f94dc429974ef47343a027c8c
-ms.sourcegitcommit: bbe484e58a77efe77d28b34709fb6661d5da00f9
-ms.translationtype: HT
+ms.openlocfilehash: cabdf9716e4e25ed682368b99a87b3a3bf483cca
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "7487703"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8592066"
 ---
 # <a name="use-project-schedule-apis-to-perform-operations-with-scheduling-entities"></a>Коришћење API-ја за распоред пројеката за извођење операција са ентитетима распоређивања
 
@@ -42,7 +42,7 @@ API-ји за распоред пројеката пружају могућно�
 
 Следи листа актуелних API-ја за распоред пројеката.
 
-- **msdyn_CreateProjectV1**: Овај API се може користити за креирање пројекта. Пројекат и подразумевани контејнер пројекта креирају се одмах.
+- **msdyn_CreateProjectV1**: Овај API се може користити за креирање пројекта. Пројекат и подразумевана кофа пројекта се креирају одмах.
 - **msdyn_CreateTeamMemberV1**: Овај API се може користити за креирање члана пројектног тима. Евиденција члана тима креира се одмах.
 - **msdyn_CreateOperationSetV1**: Овај API се може користити за заказивање неколико захтева који се морају извршити у оквиру трансакције.
 - **msdyn_PSSCreateV1**: Овај API се може користити за креирање ентитета. Ентитет може бити било који ентитет распоређивања пројекта који подржава операцију креирања.
@@ -56,14 +56,14 @@ API-ји за распоред пројеката пружају могућно�
 
 ## <a name="supported-operations"></a>Подржане операције
 
-| Ентитет планирања | Направи | Ажурирање | Delete | Важна разматрања |
+| Ентитет планирања | Направи | Ажурирање | Избриши | Важна разматрања |
 | --- | --- | --- | --- | --- |
-Пројектни задатак | Да | Да | Да | Ниједно |
-| Зависност пројектног задатка | Да | Да | | Записи зависности пројектних задатака се не ажурирају. Уместо тога, стари запис може да се избрише и може да се креира нови запис. |
-| Додела ресурса | Да | Да | | Нису подржане операције са следећим пољима: **BookableResourceID**, **Effort**, **EffortCompleted**, **EffortRemaining** и **PlannedWork**. Записи о додели ресурса се не ажурирају. Уместо тога, стари запис може да се избрише и може да се креира нови запис. |
-| Контејнер пројекта | Није применљиво | Није применљиво | Није применљиво | Подразумевани контејнер се креира се помоћу API-ја **CreateProjectV1**. |
+Пројектни задатак | Да | Да | Да | Поља **"Прогрес** ", " **Довршавање** напора" **и "ЕффортРемаининг** " могу да се уређују у пројекту за Wеб, али се не могу уређивати у операцијама пројекта.  |
+| Зависност пројектног задатка | Да |  | Да | Записи зависности пројектних задатака се не ажурирају. Уместо тога, може се избрисати стари запис и креирати нови запис. |
+| Додела ресурса | Да | Да | | Нису подржане операције са следећим пољима: **BookableResourceID**, **Effort**, **EffortCompleted**, **EffortRemaining** и **PlannedWork**. Записи о додели ресурса се не ажурирају. Уместо тога, стари запис се може избрисати и може се креирати нови запис. |
+| Контејнер пројекта | Да | Да | Да | Подразумевана кофа се креира помоћу **АПИ-ја CreateProjectV1**. Подршка за креирање и брисање кофа пројекта је додата у издању Упдате Релеасе 16. |
 | Члан пројектног тима | Да | Да | Да | За операцију креирања користите API **CreateTeamMemberV1**. |
-| Project | Да | Да | Није применљиво | Нису подржане операције са следећим пољима: **StateCode**, **BulkGenerationStatus**, **GlobalRevisionToken**, **CalendarID**, **Effort**, **EffortCompleted**, **EffortRemaining**, **Progress**, **Finish**, **TaskEarliestStart** и **Duration**. |
+| Project | Да | Да |  | Нису подржане операције са следећим пољима: **StateCode**, **BulkGenerationStatus**, **GlobalRevisionToken**, **CalendarID**, **Effort**, **EffortCompleted**, **EffortRemaining**, **Progress**, **Finish**, **TaskEarliestStart** и **Duration**. |
 
 Ови API-ји се могу позивати са објектима ентитета који укључују прилагођена поља.
 
@@ -71,196 +71,207 @@ API-ји за распоред пројеката пружају могућно�
 
 ## <a name="restricted-fields"></a>Ограничена поља
 
-Следеће табеле дефинишу поља за која је ограничено **Креирај** и **Уреди.**
+Следеће табеле дефинишу поља која су ограничена на креирање и **уређивање** **.**
 
 ### <a name="project-task"></a>Пројектни задатак
 
-| **Логичко име**                       | **Може да креира** | **Може да мења**     |
+| Логичко име                           | Може да креира     | Може да мења         |
 |----------------------------------------|----------------|------------------|
-| msdyn_actualcost                       | не             | не               |
-| msdyn_actualcost_base                  | не             | не               |
-| msdyn_actualend                        | не             | не               |
-| msdyn_actualsales                      | не             | не               |
-| msdyn_actualsales_base                 | не             | не               |
-| msdyn_actualstart                      | не             | не               |
-| msdyn_costatcompleteestimate           | не             | не               |
-| msdyn_costatcompleteestimate_base      | не             | не               |
-| msdyn_costconsumptionpercentage        | не             | не               |
-| msdyn_effortcompleted                  | не             | не               |
-| msdyn_effortestimateatcomplete         | не             | не               |
-| msdyn_iscritical                       | не             | не               |
-| msdyn_iscriticalname                   | не             | не               |
-| msdyn_ismanual                         | не             | не               |
-| msdyn_ismanualname                     | не             | не               |
-| msdyn_ismilestone                      | не             | не               |
-| msdyn_ismilestonename                  | не             | не               |
-| msdyn_LinkStatus                       | не             | не               |
-| msdyn_linkstatusname                   | не             | не               |
-| msdyn_msprojectclientid                | не             | не               |
-| msdyn_plannedcost                      | не             | не               |
-| msdyn_plannedcost_base                 | не             | не               |
-| msdyn_plannedsales                     | не             | не               |
-| msdyn_plannedsales_base                | не             | не               |
-| msdyn_pluginprocessingdata             | не             | не               |
-| msdyn_progress                         | не             | не (да за P4W) |
-| msdyn_remainingcost                    | не             | не               |
-| msdyn_remainingcost_base               | не             | не               |
-| msdyn_remainingsales                   | не             | не               |
-| msdyn_remainingsales_base              | не             | не               |
-| msdyn_requestedhours                   | не             | не               |
-| msdyn_resourcecategory                 | не             | не               |
-| msdyn_resourcecategoryname             | не             | не               |
-| msdyn_resourceorganizationalunitid     | не             | не               |
-| msdyn_resourceorganizationalunitidname | не             | не               |
-| msdyn_salesconsumptionpercentage       | не             | не               |
-| msdyn_salesestimateatcomplete          | не             | не               |
-| msdyn_salesestimateatcomplete_base     | не             | не               |
-| msdyn_salesvariance                    | не             | не               |
-| msdyn_salesvariance_base               | не             | не               |
-| msdyn_scheduleddurationminutes         | не             | не               |
-| msdyn_scheduledend                     | не             | не               |
-| msdyn_scheduledstart                   | не             | не               |
-| msdyn_schedulevariance                 | не             | не               |
-| msdyn_skipupdateestimateline           | не             | не               |
-| msdyn_skipupdateestimatelinename       | не             | не               |
-| msdyn_summary                          | не             | не               |
-| msdyn_varianceofcost                   | не             | не               |
-| msdyn_varianceofcost_base              | не             | не               |
+| msdyn_actualcost                       | No             | No               |
+| msdyn_actualcost_base                  | No             | No               |
+| msdyn_actualend                        | No             | No               |
+| msdyn_actualsales                      | No             | No               |
+| msdyn_actualsales_base                 | No             | No               |
+| msdyn_actualstart                      | No             | No               |
+| msdyn_costatcompleteestimate           | No             | No               |
+| msdyn_costatcompleteestimate_base      | No             | No               |
+| msdyn_costconsumptionpercentage        | No             | No               |
+| msdyn_effortcompleted                  | Не (да за пројекат)             | Не (да за пројекат)               |
+| msdyn_effortremaining                  | Не (да за пројекат)              | Не (да за пројекат)                |
+| msdyn_effortestimateatcomplete         | No             | No               |
+| msdyn_iscritical                       | No             | No               |
+| msdyn_iscriticalname                   | No             | No               |
+| msdyn_ismanual                         | No             | No               |
+| msdyn_ismanualname                     | No             | No               |
+| msdyn_ismilestone                      | No             | No               |
+| msdyn_ismilestonename                  | No             | No               |
+| msdyn_LinkStatus                       | No             | No               |
+| msdyn_linkstatusname                   | No             | No               |
+| msdyn_msprojectclientid                | No             | No               |
+| msdyn_plannedcost                      | No             | No               |
+| msdyn_plannedcost_base                 | No             | No               |
+| msdyn_plannedsales                     | No             | No               |
+| msdyn_plannedsales_base                | No             | No               |
+| msdyn_pluginprocessingdata             | No             | No               |
+| msdyn_progress                         | Не (да за пројекат)             | Не (да за пројекат) |
+| msdyn_remainingcost                    | No             | No               |
+| msdyn_remainingcost_base               | No             | No               |
+| msdyn_remainingsales                   | No             | No               |
+| msdyn_remainingsales_base              | No             | No               |
+| msdyn_requestedhours                   | No             | No               |
+| msdyn_resourcecategory                 | No             | No               |
+| msdyn_resourcecategoryname             | No             | No               |
+| msdyn_resourceorganizationalunitid     | No             | No               |
+| msdyn_resourceorganizationalunitidname | No             | No               |
+| msdyn_salesconsumptionpercentage       | No             | No               |
+| msdyn_salesestimateatcomplete          | No             | No               |
+| msdyn_salesestimateatcomplete_base     | No             | No               |
+| msdyn_salesvariance                    | No             | No               |
+| msdyn_salesvariance_base               | No             | No               |
+| msdyn_scheduleddurationminutes         | No             | No               |
+| msdyn_scheduledend                     | No             | No               |
+| msdyn_scheduledstart                   | No             | No               |
+| msdyn_schedulevariance                 | No             | No               |
+| msdyn_skipupdateestimateline           | No             | No               |
+| msdyn_skipupdateestimatelinename       | No             | No               |
+| msdyn_summary                          | No             | No               |
+| msdyn_varianceofcost                   | No             | No               |
+| msdyn_varianceofcost_base              | No             | No               |
 
 ### <a name="project-task-dependency"></a>Зависност пројектног задатка
 
-| **Логичко име**              | **Може да креира** | **Може да мења** |
+| Логичко име                  | Може да креира     | Може да мења     |
 |-------------------------------|----------------|--------------|
-| msdyn_linktype                | не             | не           |
-| msdyn_linktypename            | не             | не           |
-| msdyn_predecessortask         | Да            | не           |
-| msdyn_predecessortaskname     | Да            | не           |
-| msdyn_project                 | Да            | не           |
-| msdyn_projectname             | Да            | не           |
-| msdyn_projecttaskdependencyid | Да            | не           |
-| msdyn_successortask           | Да            | не           |
-| msdyn_successortaskname       | Да            | не           |
+| msdyn_linktype                | No             | No           |
+| msdyn_linktypename            | No             | No           |
+| msdyn_predecessortask         | Да            | No           |
+| msdyn_predecessortaskname     | Да            | No           |
+| msdyn_project                 | Да            | No           |
+| msdyn_projectname             | Да            | No           |
+| msdyn_projecttaskdependencyid | Да            | No           |
+| msdyn_successortask           | Да            | No           |
+| msdyn_successortaskname       | Да            | No           |
 
 ### <a name="resource-assignment"></a>Додела ресурса
 
-| **Логичко име**             | **Може да креира** | **Може да мења** |
+| Логичко име                 | Може да креира     | Може да мења     |
 |------------------------------|----------------|--------------|
-| msdyn_bookableresourceid     | Да            | не           |
-| msdyn_bookableresourceidname | Да            | не           |
-| msdyn_bookingstatusid        | не             | не           |
-| msdyn_bookingstatusidname    | не             | не           |
-| msdyn_committype             | не             | не           |
-| msdyn_committypename         | не             | не           |
-| msdyn_effort                 | не             | не           |
-| msdyn_effortcompleted        | не             | не           |
-| msdyn_effortremaining        | не             | не           |
-| msdyn_finish                 | не             | не           |
-| msdyn_plannedcost            | не             | не           |
-| msdyn_plannedcost_base       | не             | не           |
-| msdyn_plannedcostcontour     | не             | не           |
-| msdyn_plannedsales           | не             | не           |
-| msdyn_plannedsales_base      | не             | не           |
-| msdyn_plannedsalescontour    | не             | не           |
-| msdyn_plannedwork            | не             | не           |
-| msdyn_projectid              | Да            | не           |
-| msdyn_projectidname          | не             | не           |
-| msdyn_projectteamid          | не             | не           |
-| msdyn_projectteamidname      | не             | не           |
-| msdyn_start                  | не             | не           |
-| msdyn_taskid                 | не             | не           |
-| msdyn_taskidname             | не             | не           |
-| msdyn_userresourceid         | не             | не           |
+| msdyn_bookableresourceid     | Да            | No           |
+| msdyn_bookableresourceidname | Да            | No           |
+| msdyn_bookingstatusid        | No             | No           |
+| msdyn_bookingstatusidname    | No             | No           |
+| msdyn_committype             | No             | No           |
+| msdyn_committypename         | No             | No           |
+| msdyn_effort                 | No             | No           |
+| msdyn_effortcompleted        | No             | No           |
+| msdyn_effortremaining        | No             | No           |
+| msdyn_finish                 | No             | No           |
+| msdyn_plannedcost            | No             | No           |
+| msdyn_plannedcost_base       | No             | No           |
+| msdyn_plannedcostcontour     | No             | No           |
+| msdyn_plannedsales           | No             | No           |
+| msdyn_plannedsales_base      | No             | No           |
+| msdyn_plannedsalescontour    | No             | No           |
+| msdyn_plannedwork            | No             | No           |
+| msdyn_projectid              | Да            | No           |
+| msdyn_projectidname          | No             | No           |
+| msdyn_projectteamid          | No             | No           |
+| msdyn_projectteamidname      | No             | No           |
+| msdyn_start                  | No             | No           |
+| msdyn_taskid                 | No             | No           |
+| msdyn_taskidname             | No             | No           |
+| msdyn_userresourceid         | No             | No           |
 
 ### <a name="project-team-member"></a>Члан пројектног тима
 
-| **Логичко име**                                 | **Може да креира** | **Може да мења** |
+| Логичко име                                     | Може да креира     | Може да мења     |
 |--------------------------------------------------|----------------|--------------|
-| msdyn_calendarid                                 | не             | не           |
-| msdyn_creategenericteammemberwithrequirementname | не             | не           |
-| msdyn_deletestatus                               | не             | не           |
-| msdyn_deletestatusname                           | не             | не           |
-| msdyn_effort                                     | не             | не           |
-| msdyn_effortcompleted                            | не             | не           |
-| msdyn_effortremaining                            | не             | не           |
-| msdyn_finish                                     | не             | не           |
-| msdyn_hardbookedhours                            | не             | не           |
-| msdyn_hours                                      | не             | не           |
-| msdyn_markedfordeletiontimer                     | не             | не           |
-| msdyn_markedfordeletiontimestamp                 | не             | не           |
-| msdyn_msprojectclientid                          | не             | не           |
-| msdyn_percentage                                 | не             | не           |
-| msdyn_requiredhours                              | не             | не           |
-| msdyn_softbookedhours                            | не             | не           |
-| msdyn_start                                      | не             | не           |
+| msdyn_calendarid                                 | No             | No           |
+| msdyn_creategenericteammemberwithrequirementname | No             | No           |
+| msdyn_deletestatus                               | No             | No           |
+| msdyn_deletestatusname                           | No             | No           |
+| msdyn_effort                                     | No             | No           |
+| msdyn_effortcompleted                            | No             | No           |
+| msdyn_effortremaining                            | No             | No           |
+| msdyn_finish                                     | No             | No           |
+| msdyn_hardbookedhours                            | No             | No           |
+| msdyn_hours                                      | No             | No           |
+| msdyn_markedfordeletiontimer                     | No             | No           |
+| msdyn_markedfordeletiontimestamp                 | No             | No           |
+| msdyn_msprojectclientid                          | No             | No           |
+| msdyn_percentage                                 | No             | No           |
+| msdyn_requiredhours                              | No             | No           |
+| msdyn_softbookedhours                            | No             | No           |
+| msdyn_start                                      | No             | No           |
 
 ### <a name="project"></a>Project
 
-| **Логичко име**                       | **Може да креира** | **Може да мења** |
+| Логичко име                           | Може да креира     | Може да мења     |
 |----------------------------------------|----------------|--------------|
-| msdyn_actualexpensecost                | не             | не           |
-| msdyn_actualexpensecost_base           | не             | не           |
-| msdyn_actuallaborcost                  | не             | не           |
-| msdyn_actuallaborcost_base             | не             | не           |
-| msdyn_actualsales                      | не             | не           |
-| msdyn_actualsales_base                 | не             | не           |
-| msdyn_contractlineproject              | Да            | не           |
-| msdyn_contractorganizationalunitid     | Да            | не           |
-| msdyn_contractorganizationalunitidname | Да            | не           |
-| msdyn_costconsumption                  | не             | не           |
-| msdyn_costestimateatcomplete           | не             | не           |
-| msdyn_costestimateatcomplete_base      | не             | не           |
-| msdyn_costvariance                     | не             | не           |
-| msdyn_costvariance_base                | не             | не           |
-| msdyn_duration                         | не             | не           |
-| msdyn_effort                           | не             | не           |
-| msdyn_effortcompleted                  | не             | не           |
-| msdyn_effortestimateatcompleteeac      | не             | не           |
-| msdyn_effortremaining                  | не             | не           |
+| msdyn_actualexpensecost                | No             | No           |
+| msdyn_actualexpensecost_base           | No             | No           |
+| msdyn_actuallaborcost                  | No             | No           |
+| msdyn_actuallaborcost_base             | No             | No           |
+| msdyn_actualsales                      | No             | No           |
+| msdyn_actualsales_base                 | No             | No           |
+| msdyn_contractlineproject              | Да            | No           |
+| msdyn_contractorganizationalunitid     | Да            | No           |
+| msdyn_contractorganizationalunitidname | Да            | No           |
+| msdyn_costconsumption                  | No             | No           |
+| msdyn_costestimateatcomplete           | No             | No           |
+| msdyn_costestimateatcomplete_base      | No             | No           |
+| msdyn_costvariance                     | No             | No           |
+| msdyn_costvariance_base                | No             | No           |
+| msdyn_duration                         | No             | No           |
+| msdyn_effort                           | No             | No           |
+| msdyn_effortcompleted                  | No             | No           |
+| msdyn_effortestimateatcompleteeac      | No             | No           |
+| msdyn_effortremaining                  | No             | No           |
 | msdyn_finish                           | Да            | Да          |
-| msdyn_globalrevisiontoken              | не             | не           |
-| msdyn_islinkedtomsprojectclient        | не             | не           |
-| msdyn_islinkedtomsprojectclientname    | не             | не           |
-| msdyn_linkeddocumenturl                | не             | не           |
-| msdyn_msprojectdocument                | не             | не           |
-| msdyn_msprojectdocumentname            | не             | не           |
-| msdyn_plannedexpensecost               | не             | не           |
-| msdyn_plannedexpensecost_base          | не             | не           |
-| msdyn_plannedlaborcost                 | не             | не           |
-| msdyn_plannedlaborcost_base            | не             | не           |
-| msdyn_plannedsales                     | не             | не           |
-| msdyn_plannedsales_base                | не             | не           |
-| msdyn_progress                         | не             | не           |
-| msdyn_remainingcost                    | не             | не           |
-| msdyn_remainingcost_base               | не             | не           |
-| msdyn_remainingsales                   | не             | не           |
-| msdyn_remainingsales_base              | не             | не           |
-| msdyn_replaylogheader                  | не             | не           |
-| msdyn_salesconsumption                 | не             | не           |
-| msdyn_salesestimateatcompleteeac       | не             | не           |
-| msdyn_salesestimateatcompleteeac_base  | не             | не           |
-| msdyn_salesvariance                    | не             | не           |
-| msdyn_salesvariance_base               | не             | не           |
-| msdyn_scheduleperformance              | не             | не           |
-| msdyn_scheduleperformancename          | не             | не           |
-| msdyn_schedulevariance                 | не             | не           |
-| msdyn_taskearlieststart                | не             | не           |
-| msdyn_teamsize                         | не             | не           |
-| msdyn_teamsize_date                    | не             | не           |
-| msdyn_teamsize_state                   | не             | не           |
-| msdyn_totalactualcost                  | не             | не           |
-| msdyn_totalactualcost_base             | не             | не           |
-| msdyn_totalplannedcost                 | не             | не           |
-| msdyn_totalplannedcost_base            | не             | не           |
+| msdyn_globalrevisiontoken              | No             | No           |
+| msdyn_islinkedtomsprojectclient        | No             | No           |
+| msdyn_islinkedtomsprojectclientname    | No             | No           |
+| msdyn_linkeddocumenturl                | No             | No           |
+| msdyn_msprojectdocument                | No             | No           |
+| msdyn_msprojectdocumentname            | No             | No           |
+| msdyn_plannedexpensecost               | No             | No           |
+| msdyn_plannedexpensecost_base          | No             | No           |
+| msdyn_plannedlaborcost                 | No             | No           |
+| msdyn_plannedlaborcost_base            | No             | No           |
+| msdyn_plannedsales                     | No             | No           |
+| msdyn_plannedsales_base                | No             | No           |
+| msdyn_progress                         | No             | No           |
+| msdyn_remainingcost                    | No             | No           |
+| msdyn_remainingcost_base               | No             | No           |
+| msdyn_remainingsales                   | No             | No           |
+| msdyn_remainingsales_base              | No             | No           |
+| msdyn_replaylogheader                  | No             | No           |
+| msdyn_salesconsumption                 | No             | No           |
+| msdyn_salesestimateatcompleteeac       | No             | No           |
+| msdyn_salesestimateatcompleteeac_base  | No             | No           |
+| msdyn_salesvariance                    | No             | No           |
+| msdyn_salesvariance_base               | No             | No           |
+| msdyn_scheduleperformance              | No             | No           |
+| msdyn_scheduleperformancename          | No             | No           |
+| msdyn_schedulevariance                 | No             | No           |
+| msdyn_taskearlieststart                | No             | No           |
+| msdyn_teamsize                         | No             | No           |
+| msdyn_teamsize_date                    | No             | No           |
+| msdyn_teamsize_state                   | No             | No           |
+| msdyn_totalactualcost                  | No             | No           |
+| msdyn_totalactualcost_base             | No             | No           |
+| msdyn_totalplannedcost                 | No             | No           |
+| msdyn_totalplannedcost_base            | No             | No           |
 
+### <a name="project-bucket"></a>Контејнер пројекта
+
+| Логичко име          | Може да креира      | Може да мења     |
+|-----------------------|-----------------|--------------|
+| msdyn_displayorder    | Да             | No           |
+| msdyn_name            | Да             | Да          |
+| msdyn_project         | Да             | No           |
+| msdyn_projectbucketid | Да             | No           |
 
 ## <a name="limitations-and-known-issues"></a>Ограничења и познати проблеми
 Следи листа ограничења и познатих проблема:
 
-- API-је за распоред пројеката могу да користе само **Корисници са лиценцом за Microsoft Project.** Не могу их користити:
+- АПИ -је за план пројекта могу да користе само корисници **са лиценцом за Мицрософт Пројецт**. Не могу их користити:
+
     - Корисници апликације
     - Корисници система
     - Корисници интеграције
     - Остали корисници који немају потребну лиценцу
+
 - Сваки **OperationSet ентитет** може да има највише 100 операција.
 - Сваки корисник може да има највише 10 отворених **OperationSet ентитета**.
 - Project Operations тренутно подржава максимално 500 укупних задатака на пројекту.
@@ -269,8 +280,8 @@ API-ји за распоред пројеката пружају могућно�
 
 ## <a name="error-handling"></a>Руковање грешкама
 
-   - Да бисте прегледали грешке генерисане из скупова операција, идите на **Подешавања** \> **Закажи интеграцију** \> **Скупови операција**.
-   - Да бисте прегледали грешке које је генерисала услуга распореда пројеката, идите на **Подешавања** \> **Интеграција распореда** \> **PSS евиденције грешака**.
+- Да бисте прегледали грешке генерисане из скупова операција, идите на **Подешавања** \> **Закажи интеграцију** \> **Скупови операција**.
+- Да бисте прегледали грешке које је генерисала услуга распореда пројеката, идите на **Подешавања** \> **Интеграција распореда** \> **PSS евиденције грешака**.
 
 ## <a name="sample-scenario"></a>Пример сценарија
 
@@ -492,7 +503,6 @@ private Entity GetTask(string name, EntityReference projectReference, EntityRefe
     task["msdyn_effort"] = 4d;
     task["msdyn_scheduledstart"] = DateTime.Today;
     task["msdyn_scheduledend"] = DateTime.Today.AddDays(5);
-    task["msdyn_progress"] = 0.34m;
     task["msdyn_start"] = DateTime.Now.AddDays(1);
     task["msdyn_projectbucket"] = GetBucket(projectReference).ToEntityReference();
     task["msdyn_LinkStatus"] = new OptionSetValue(192350000);
@@ -524,9 +534,7 @@ private Entity GetResourceAssignment(string name, Entity teamMember, Entity task
     assignment["msdyn_taskid"] = task.ToEntityReference();
     assignment["msdyn_projectid"] = project.ToEntityReference();
     assignment["msdyn_name"] = name;
-    assignment["msdyn_start"] = DateTime.Now;
-    assignment["msdyn_finish"] = DateTime.Now;
-
+   
     return assignment;
 }
 

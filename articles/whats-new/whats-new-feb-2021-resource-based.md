@@ -5,14 +5,14 @@ author: sigitac
 ms.date: 02/08/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 41d7d7133652069ca3899db7f12e67e9ba531bcd3e36d67c3686a6b637b077d3
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: cb6ab1337652d18a30fba56560ffe50f78dd4eb4
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6986824"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8589030"
 ---
 # <a name="whats-new-february-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>Шта је ново у фебруару 2021. – Project Operations за сценарије засноване на ресурсима/без залиха
 
@@ -21,7 +21,7 @@ _**Односи се на:** Project Operations за сценарије засн
 Ова тема се односи на следеће компоненте и верзије услуге Dynamics 365 Project Operations:
 
 - Project Operations у Dataverse окружењу 4.7.0.95
-- Управљање пројектима и рачуноводство у Dynamics 365 Finance окружењу верзије 10.0.16 
+- Управљање пројектима и рачуноводство у Дyнамицс 365 Финанце окружењу верзија 10.0.16 
 
 ## <a name="quality-updates"></a>Исправке квалитета
 
@@ -44,14 +44,14 @@ _**Односи се на:** Project Operations за сценарије засн
 | **Ставка времена** | 2129161 | Примењују се строжа ограничења како би се осигурало да корисници не могу променити и ажурирати унос времена који је послат или одобрен. |
 | **Ставка времена** | 2103572 | Одобрење времена за уносе времена који се не односе на пројекат не сме тражити улогу одобраваоца пројекта. |
 
-### <a name="project-management-and-accounting-in-dynamics-365-finance"></a>Управљање пројектима и рачуноводство у услузи Dynamics 365 Finance 
+### <a name="project-management-and-accounting-in-dynamics-365-finance"></a>Управљање пројектима и рачуноводство у Дyнамицс 365 Финанце 
 
-За више информација о управљању пројектима и рачуноводству у услузи Dynamics 365 Finance, погледајте чланак [Шта је ново у јануару 2021. – Project Operations за сценарије засноване на ресурсима/без залиха](whats-new-jan-2021-resource-based.md).
+Више информација о управљању пројектима и рачуноводству у Дyнамицс 365 Финанце [. години потражите у чланку Шта је нови јануар 2021](whats-new-jan-2021-resource-based.md).
 
 
 ## <a name="regulatory-updates"></a>Регулаторне исправке
 
-За информације о регулаторним исправкама за Finance and Operations апликације, погледајте чланак [Регулаторне исправке](/dynamics365/finance/localizations/regulatory-updates). Други начин да сазнате више о регулаторним исправкама је да се пријавите на Lifecycle Services (LCS) и прегледате планиране регулаторне исправке помоћу алатке за претрагу проблема. Претрага проблема вам омогућава претрагу по земљи, типу функције и издању.
+Више информација о регулаторним исправкама за апликације за финансије и операције потражите у чланку [Регулаторне исправке](/dynamics365/finance/localizations/regulatory-updates). Други начин да сазнате више о регулаторним исправкама је да се пријавите на Lifecycle Services (LCS) и прегледате планиране регулаторне исправке помоћу алатке за претрагу проблема. Претрага проблема вам омогућава претрагу по земљи, типу функције и издању.
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

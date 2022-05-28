@@ -2,16 +2,16 @@
 title: Резервисање за пројекат
 description: Ова тема пружа информације о резервисању ресурса у пројекат.
 author: ruhercul
-ms.date: 10/01/2020
+ms.date: 01/24/2022
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 719892a37f381fc0ad6c3ccaca5c4d87c9947a4d7a39dca96aef464d04a71af0
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: b47ae8cb38be6d29804aec8b069e6a8aec0ffb70
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6994924"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8591407"
 ---
 # <a name="book-to-a-project"></a>Резервисање за пројекат
 
@@ -53,6 +53,9 @@ _**Односи се на:** Project Operations за сценарије засн
     - Статус резервације
     - Метод резервације
     - Трајање
+   
+   > [!NOTE]
+   > Тренутно не Dynamics 365 Project Operations подржава таблу распореда.   
 
 ## <a name="book-from-the-project-form"></a>Резервација из обрасца Пројекат
 

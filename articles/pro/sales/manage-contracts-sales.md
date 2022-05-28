@@ -4,14 +4,14 @@ description: Ова тема пружа информације о приказу
 author: rumant
 ms.date: 10/26/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 448c5a7c4144387440b26c526f66acbbbe475ad533da9e00db0eb5d5e86be9e8
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 64e81593065d97272af6261e17175c76bd8dca7a
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7001854"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8590522"
 ---
 # <a name="manage-project-contracts"></a>Управљање уговорима за пројекат
 
@@ -31,6 +31,9 @@ _**Односи се на:** Project Operations за сценарије засн
 2. Изаберите **Пребацивач приказа** (падајућа стрелица поред назива приказа) да бисте изабрали друге филтриране приказе. Можете да креирате сопствене приказе са прилагођеним критеријумима филтера.
 
 Уговори се могу креирати или избрисати са ове странице листе или страница са детаљима.
+
+> [!NOTE]
+> Уговори који имају пројекте, задатке, процене, налоге и/или стварне податке повезане са њима не могу се избрисати. 
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

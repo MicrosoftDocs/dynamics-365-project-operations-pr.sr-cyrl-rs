@@ -1,24 +1,24 @@
 ---
 title: Примена демо података на Finance окружење које се хостује у облаку
-description: Ова тема објашњава како да примените демо податке из услуге Project Operations на Dynamics 365 Finance окружење хостовано у облаку.
+description: Ова тема објашњава како да примените демо податке из операција пројекта на окружење Дyнамицс 365 Финанце хостовано у облаку.
 author: sigitac
 ms.date: 10/01/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: c04aab6ffb332a3095ca2a7890deb73f15a8b5e3713021c60eec02eb13dbd0cb
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: e4ccc7eb02fabdc0476fe454f33bff637ab8b835
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7009684"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8588984"
 ---
 # <a name="apply-demo-data-to-a-finance-cloud-hosted-environment"></a>Примена демо података на Finance окружење које се хостује у облаку
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_
 
 > [!IMPORTANT]
-> Ова тема је применљива је само на Microsoft Dynamics 365 Finance верзије 10.0.13 и може се изводити само у окружењу које се хостује у облаку. Довршите кораке у овој теми **ПРЕ НЕГО ШТО** примените исправке квалитета на окружење.
+> Овај тема је применљив само Microsoft Dynamics 365 Финанце верзија 10.0.13 и може се извршити само на цлоуд окружењу. Довршите кораке у овој теми **ПРЕ НЕГО ШТО** примените исправке квалитета на окружење.
 
 1. У свом LCS пројекту, отворите страницу **Детаљи окружења**. Приметите да садржи детаље потребне за повезивање са околином помоћу протокола удаљене радне површине (RDP).
 
@@ -76,7 +76,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 18. Затворите сесију удаљене радне површине и користите страницу LCS **Детаљи окружења** да бисте се пријавили у окружење и потврдили да ради као што се очекује.
 
-![Finance and Operations.](./media/10FinanceAndOperations.png)
+![Финансије и операције.](./media/10FinanceAndOperations.png)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

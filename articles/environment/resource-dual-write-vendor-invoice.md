@@ -5,14 +5,14 @@ author: sigitac
 ms.date: 04/27/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 538a2694591f1d0d368ee0ffeed9bdf12cb47420c3d0571f75185fe433f23436
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 8650eed2230b99b821c1635fdc88252bb65c5583
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6986509"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8591193"
 ---
 # <a name="vendor-invoice-integration"></a>Интеграција фактуре добављача
 
@@ -34,7 +34,7 @@ _**Односи се на:** Project Operations за сценарије засн
      > [!NOTE]
      > Детаљи о фактури добављача у Dataverse се не могу уређивати.
 
-Помоћна књига пореза, помоћна књига добављача и друга финансијска књижења евидентирају се према потреби у Dynamics 365 Finance када се фактура добављача објави.
+Подскуп за ПДВ, подскуп добављача и друга финансијска књижења записује се као применљиво у Дyнамицс 365 Финанце када се прокњижи фактура добављача.
 
 ![Интеграција фактуре добављача.](media/DW7VendorInvoice.png)
 

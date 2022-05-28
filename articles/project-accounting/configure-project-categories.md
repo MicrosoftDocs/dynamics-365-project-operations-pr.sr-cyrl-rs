@@ -4,14 +4,14 @@ description: Ова тема пружа информације о подешав
 author: sigitac
 ms.date: 10/01/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: cea43422469adf12f336f7686814a8199717090c18804d3d0a7509452349566e
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 94b66feef4164f3cd52d5fe917071647f731b047
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6997129"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8591560"
 ---
 # <a name="configure-project-categories"></a>Конфигурисање категорија пројекта
 
@@ -35,7 +35,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ## <a name="shared-categories"></a>Дељене категорије
 
-Dynamics 365 користи концепт дељених категорија за категоризацију трошкова у различитим апликацијама, као што су Dynamics 365 Finance, Dynamics 365 Supply Chain и Dynamics 365 Project Operations. За сваку креирану категорију трансакција, Project Operations аутоматски креира четири повезане дељене категорије: Сати, Трошкови, Накнаде и Ставка. Можете да прегледате и прилагодите дељене категорије тако што ћете отићи на **Управљање пројектима и рачуноводство** \> **Подешавање** \> **Категорије** \> **Дељене категорије**.
+Дyнамицс 365 користи концепт дељених категорија за категоризацију трошкова у различитим апликацијама, као што су Дyнамицс 365 Финанце, Дyнамицс 365 ланац снабдевања и Dynamics 365 Project Operations. За сваку креирану категорију трансакција, Project Operations аутоматски креира четири повезане дељене категорије: Сати, Трошкови, Накнаде и Ставка. Можете да прегледате и прилагодите дељене категорије тако што ћете отићи на **Управљање пројектима и рачуноводство** \> **Подешавање** \> **Категорије** \> **Дељене категорије**.
 
 ## <a name="project-categories"></a>Категорије пројеката
 
