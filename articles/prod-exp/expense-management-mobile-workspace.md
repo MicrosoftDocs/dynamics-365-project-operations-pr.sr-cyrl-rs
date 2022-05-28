@@ -5,20 +5,19 @@ author: suvaidya
 ms.date: 12/01/2017
 ms.topic: article
 audience: Application User
-ms.reviewer: roschlom
-ms.search.scope: Core, Operations
+ms.reviewer: johnmichalak
 ms.custom: 274023
 ms.assetid: 3605eda1-a7ed-4675-8031-5279c5a8f5e4
 ms.search.region: Global
 ms.author: suvaidya
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: 0559f881aba2d0a9c65ad123a40803743fc7407bb0d87ac6e8280ee8e30d36b7
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: d5309b55ed146d21d7a42e0b40add9ee346d48aa
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7001494"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8682820"
 ---
 # <a name="expense-management-mobile-workspace"></a>Мобилни радни простор за управљање трошковима
 
@@ -35,7 +34,7 @@ ms.locfileid: "7001494"
 
 Конкретно, мобилни радни простор за **Управљање трошковима** омогућава корисницима да извршавају ове задатке:
 
-- Фотографишите признаницу и отпремите га у Dynamics 365 Finance. Ову фотографију можете касније да приложите извештају о трошковима.
+- Направите фотографију потврде и отпремите је у Дyнамицс 365 Финанце. Ову фотографију можете касније да приложите извештају о трошковима.
 - Отпремите датотеку као снимљену признаницу. Ову датотеку можете касније да приложите извештају о трошковима.
 - Направите нову линију трошкова користећи приложену признаницу. Затим можете касније додати ставку у извештај о трошковима и предати је на одобрење и накнаду.
 
@@ -53,7 +52,7 @@ ms.locfileid: "7001494"
 ## <a name="prerequisites"></a>Предуслови
 Предуслови се разликују, на основу верзије која је примењена за вашу организацију.
 
-### <a name="prerequisites-if-you-use-dynamics-365-finance"></a>Предуслови ако користите Dynamics 365 Finance 
+### <a name="prerequisites-if-you-use-dynamics-365-finance"></a>Предуслови ако користите Дyнамицс 365 Финанце 
 Ако је у вашој организацији примењена апликација Finance, администратор система мора да објави мобилни радни простор за **Управљање трошковима**. За упутства погледајте [Објављивање мобилних радних простора](/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace).
 
 ### <a name="prerequisites-if-you-use-version-1611-with-platform-update-3-or-later"></a>Предуслови ако користите верзију 1611 са исправком 3 платформе или новијом

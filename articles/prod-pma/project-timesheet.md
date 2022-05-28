@@ -7,8 +7,7 @@ ms.topic: article
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: josaw
-ms.search.scope: Core, Operations
+ms.reviewer: johnmichalak
 ms.custom: ''
 ms.assetid: ''
 ms.search.region: Global
@@ -16,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: df6d286b6d5716fb0ea908ed71c2257b4db21ecfd35148fea65dfd96e058ac9a
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: cd5ea257472ef8dfa0d7181223a518c677c6d77b
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6997219"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8683234"
 ---
 # <a name="project-timesheet-mobile-application"></a>Апликација за мобилне уређаје Project Timesheet
 
@@ -29,7 +28,7 @@ ms.locfileid: "6997219"
 
 ## <a name="overview"></a>Преглед
 
-Апликација за мобилне уређаје Microsoft Dynamics 365 Project Timesheet омогућава корисницима да предају и одобре радне листове за пројекте на свом мобилном уређају (iPhone или Android). Ова апликација за мобилне уређаје приказује функционалност временског распореда која се налази у подручју управљања пројектима и рачуноводства услуге Dynamics 365 Finance, побољшавајући продуктивност и ефикасност корисника, као и омогућавање правовременог уноса и одобравања временских распореда пројеката.
+Апликација за мобилне уређаје Microsoft Dynamics 365 Project Timesheet омогућава корисницима да предају и одобре радне листове за пројекте на свом мобилном уређају (iPhone или Android). Ова мобилна апликација испливава на површину функционалности листа са временским листом која се налази у области управљања пројектима и рачуноводства Дyнамицс 365 Финанце, побољшања продуктивности и ефикасности корисника, као и омогућавања правовременог уласка и одобравања временских листова пројекта.
 
 ## <a name="download-and-install-the-mobile-app"></a>Преузмите и инсталирајте апликацију за мобилне уређаје
 

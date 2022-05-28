@@ -16,12 +16,13 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ccebf1439f49092b23da5b4fc2ebb4fc484de4dd17c870eea9fe37b00fbb3689
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.reviewer: johnmichalak
+ms.openlocfilehash: 460b5bb7baabcb804b9745f5fddae9bcc3fc7541
+ms.sourcegitcommit: 30242d7754bca300b594b0887eb4212d10bea1c4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7005319"
+ms.lasthandoff: 05/07/2022
+ms.locfileid: "8727976"
 ---
 # <a name="use-the-project-service-automation-add-in-to-plan-your-work-in-microsoft-project"></a>Користите програмски додатак Project Service Automation за планирање вашег рада у програму Microsoft Project
 
@@ -40,7 +41,7 @@ ms.locfileid: "7005319"
 ## <a name="download-and-install-the-add-in"></a>Преузмите и инсталирајте програмски додатак  
  Припремите ваше информације за пријављивање у [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)]. Те информације ће вам бити потребне да бисте се повезали са програма [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] на функцију [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)].  
 
-1.  Из центра за преузимање преузмите програмски додатак за подржану верзију услуге of Project Service, верзије [V2.X](https://go.microsoft.com/fwlink/?linkid=828268) или [V3.4+](https://www.microsoft.com/download/details.aspx?id=57956).  
+1.  Из центра за преузимање преузмите програмски додатак за подржану верзију услуге of Project Service, верзије [V2.X](/dynamics365/project-operations/psa/overview#guidance-for-earlier-versions-app-version-2x-or-1x) или [V3.4+](https://www.microsoft.com/download/details.aspx?id=57956).  
 
 2.  Кликните на везу за преузимање.  
 
@@ -87,9 +88,8 @@ ms.locfileid: "7005319"
 
 Пројекат ће се увести у функцију [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)]. Примењују се процеси одређивања цена и генерисања тима. Отворите пројекат у функцији [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] да бисте видели да ли су тим, процене за пројекат и структурна анализа посла генерисани. У следећој табели је приказано где да пронађете резултате:
 
-
-|                                                                                          |                                                                                                                                   |
-|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Project | Детаљи |
+| ---- | --- |
 |  [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] **Гантов графикон**   | Увози у [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] екран **Структурна анализа посла**. |
 | [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] **Листа ресурса** |   Увози у [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] екран **Чланови пројектног тима**.   |
 |   [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] **Користите употребу**    |    Увози у [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] екран **Процене пројекта**.     |

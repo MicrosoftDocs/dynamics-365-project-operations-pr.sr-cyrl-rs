@@ -1,33 +1,31 @@
 ---
 title: Преглед услуге Project Service Automation
-description: Ова тема пружа информације о решењу за интеграцију услуге Dynamics 365 Project Service Automation са услугом Dynamics 365 Finance.
+description: Овај тема пружа информације о решењу Dynamics 365 Project Service Automation за Дyнамицс 365 Финанце интеграције.
 author: ruhercul
 ms.date: 07/25/2019
-ms.topic: article
+ms.topic: overview
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: ruhercul
-ms.search.scope: Core, Operations
-ms.custom: intro-internal
+ms.reviewer: johnmichalak
 ms.assetid: b454ad57-2fd6-46c9-a77e-646de4153067
 ms.search.region: Global
 ms.author: ruhercul
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 551d511fda83857459a0488cfb48a9c7829171d2e4bd526ab27b4ee74b21910d
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 1b8588e664f140ca1b0dd740d27fe6a5137da595
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7005904"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8685580"
 ---
 # <a name="project-service-automation-overview"></a>Преглед услуге Project Service Automation
 
 [!include[banner](../includes/banner.md)]
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
-Решење за интеграцију из Project Service Automation у Finance користи функцију интеграције података за синхронизацију података у свим инстанцама услуга Dynamics 365 Finance и Dynamics 365 Project Service Automation преко услуге Common Data Service. Предлошци интеграције који су доступни са функцијом Интеграција података омогућавају ток пројеката, уговоре о пројекту, предмете уговора о пројекту, контролне тачке предмета уговора о пројекту, пројектне задатке, категорије трансакција трошкова, процене сати и процене трошкова из услуге Project Service Automation у Finance.
+
+Решење за аутоматизацију услуге пројекта за финансирање интеграције користи функцију интеграције података за синхронизацију података у Дyнамицс 365 Финанце и путем Dynamics 365 Project Service Automation Common Data Service. Предлошци интеграције који су доступни са функцијом Интеграција података омогућавају ток пројеката, уговоре о пројекту, предмете уговора о пројекту, контролне тачке предмета уговора о пројекту, пројектне задатке, категорије трансакција трошкова, процене сати и процене трошкова из услуге Project Service Automation у Finance.
 
 > [!NOTE]
 > - Ако користите верзију 7.3.0, морате инсталирати KB 4074835. Тада ћете моћи да интегришете пројекте са фиксном ценом.

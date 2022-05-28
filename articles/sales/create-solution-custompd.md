@@ -4,14 +4,14 @@ description: Ова тема пружа информације о томе ка�
 author: Rumant
 ms.date: 11/09/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 753f0c4496bafd43d7e4a399cedeb355c2163c7ce56d932b2c786d5f2e672b6b
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 82593d3d00b008c1922d70c508bc77624aeb46b3
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6992224"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8601128"
 ---
 # <a name="create-a-solution-for-custom-pricing-dimensions"></a>Креирање решења за прилагођене димензије одређивања цена
 
@@ -23,7 +23,7 @@ ms.locfileid: "6992224"
 ## <a name="create-a-solution-for-custom-pricing-dimensions"></a>Креирање решења за прилагођене димензије одређивања цена
 
 1.  Изаберите **Подешавања** > **Решења**, а затим изаберите **Ново**.
-2.  Именујте решење, *<your organization name> димензије за одређивање цена*.
+2.  Именујте решење, *\<your organization name\> димензије за одређивање цена*.
 3. Унесите преостале потребне информације, а затим изаберите **Сачувај**.
 
   ![Креирање решења за прилагођене димензије за одређивање цена.](./media/Creation-of-custom-pricing-dimension-solution.png)

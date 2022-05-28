@@ -1,24 +1,23 @@
 ---
 title: Обрада признаница за трошкове
-description: Ова тема пружа информације о обради признаница помоћу оптичког препознавања знакова (OCR). Ова функција је дизајнирана да побољша корисничко искуство приликом креирања извештаја о трошковима у услузи Microsoft Dynamics 365 Finance.
+description: Ова тема пружа информације о обради признаница помоћу оптичког препознавања знакова (OCR). Ова функција је дизајнирана да побољша корисничко искуство када се креирају извештаји о трошковима у Microsoft Dynamics програму 365 Финанце.
 author: stsporen
 ms.date: 05/14/2020
 ms.topic: article
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: roschlom
-ms.search.scope: Operations, Core
+ms.reviewer: johnmichalak
 ms.search.region: Global
 ms.author: stsporen
 ms.search.validFrom: 2019-11-20
 ms.dyn365.ops.version: 10.0.8
-ms.openlocfilehash: 0d43c44bf4f2a58e3249d6cc1028353555cfd836580a802ad6e1878dc9b2e263
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 067432106742447d2b8fa215ec05bf05f4b41e70
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7001404"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8684338"
 ---
 # <a name="expense-receipt-processing"></a>Обрада признаница за трошкове
 
@@ -51,7 +50,7 @@ ms.locfileid: "7001404"
 
 Ова функција ради у комбинацији са функцијом **Редизајнирани извештаји о трошковима** која вам помаже да поједноставите искуство са трошковима. Ова функција је доступна само за окружења 2. нивоа и виших, а то су Sandbox и Производња.
 
-Да бисте користили ове напредне могућности трошкова, инсталирајте програмски додатак Услуга управљања трошковима за Microsoft Dynamics 365 Finance и уклјучите функције у вашој инстанци. Програмском додатку можете приступити из свог пројекта у услузи Microsoft Dynamics Lifecycle Services (LCS).
+Да бисте користили ове напредне могућности трошкова, инсталирајте програмски додатак "Услуга управљања трошковима Microsoft Dynamics " за 365 финансија и укључите функције у инстанци. Програмском додатку можете приступити из свог пројекта у услузи Microsoft Dynamics Lifecycle Services (LCS).
 
 1. Пријавите се на LCS и отворите жељено окружење.
 2. Иди на ставку **Сви детаљи**.

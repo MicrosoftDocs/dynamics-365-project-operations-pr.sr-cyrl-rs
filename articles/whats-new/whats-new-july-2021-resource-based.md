@@ -5,14 +5,14 @@ author: sigitac
 ms.date: 07/07/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 69507427521466335df9cbbaba79db1cfc7be91386b8b2ded5b1c384555946ee
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 1c88f3b4747005bee0d68d0e8a4314c01ffdaf34
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7008064"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8600898"
 ---
 # <a name="whats-new-july-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>Шта је ново у јулу 2021. – Project Operations за сценарије засноване на ресурсима / без залиха
 
@@ -21,7 +21,7 @@ ms.locfileid: "7008064"
 Ова тема се односи на следеће компоненте и верзије услуге Dynamics 365 Project Operations:
 
    - Project Operations у Microsoft Dataverse окружењу верзије 4.12.0.148 или 4.12.0.152.
-   - Управљање пројектима и рачуноводство у Dynamics 365 Finance окружењу верзије 10.0.20.
+   - Управљање пројектима и рачуноводство у Дyнамицс 365 Финанце окружењу верзија 10.0.20.
 
 ## <a name="features-included-in-this-release"></a>Функције укључене у овом издању
 
@@ -80,7 +80,7 @@ ms.locfileid: "7008064"
 | Опште                       | 2253682              | Project Operations решење са двоструким уписивањем не би требало инсталирати када је језгро двоструког уписивања инсталирано у окружењу без решења оркестрације двоструког уписивања.                                                |
 | Опште                       | 2316420              | Обезбеђење Project Service језгра не успева ако се промени пословна јединица корисника апликације.                                                                                                                     |
 | Опште                       | 2376405              | Решен је проблем са ажурирањем које покреће произвођач (ажурирање квалитета је доступно у верзији 4.12.0.152)                                                                                                                     |
-### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Управљање пројектима и рачуноводство у услузи Dynamics 365 Finance
+### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Управљање пројектима и рачуноводство на Дyнамицс 365 Финанце
 
 | Област функција                      | Референтни број | Исправка квалитета                                                                                                                                                                                                                                                                                                                |
 |-----------------------------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
