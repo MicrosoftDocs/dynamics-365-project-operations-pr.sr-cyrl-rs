@@ -4,14 +4,14 @@ description: У овој теми се пружају информације о 
 author: sigitac
 ms.date: 11/16/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 487e3de7895ca0752e6c9033c7bb7007ba89301c01e6205b3bc8a7d750724bc9
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 83cf88bafbc7fc97fba664e278b232c24db53391
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6998794"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8580474"
 ---
 # <a name="period-types"></a>Типови периода
 
@@ -22,7 +22,7 @@ _**Односи се на:** Project Operations за сценарије засн
 ## <a name="create-and-work-with-period-types"></a>Креирање и рад са типовима периода
 Да бисте креирали и радили са типовима периода, извршите следеће кораке:
 
-1. У Dynamics 365 Finance окружењу, идите на **Управљање пројектима и рачуноводство** > **Подешавање** > **Процене** > **Типови периода**.
+1. У окружењу Дyнамицс 365 Финанце на врсте периода **управљања пројектима и** > **обрачунавања** > **процена** > **подешавања**.
 2. Да бисте креирали нови тип периода, изаберите **Ново**. Унесите назив и опис.
 3. У пољу **Учесталост**, изаберите вредност:
 

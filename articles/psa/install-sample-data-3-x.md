@@ -3,19 +3,19 @@ title: Инсталирање пробних података
 description: Ова тема пружа информације о инсталирању узорака података у услузи Project Service Automation.
 ms.custom: dyn365-projectservice
 ms.date: 11/08/2018
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.suite: ''
 applies_to: Dynamics 365 Project Service Automation
 author: ruhercul
 ms.author: ruhercul
 search.audienceType: IT Pro, Developer
 search.app: ''
-ms.openlocfilehash: 01e2f1f6b29e040d5c72af402031e13a867736405c4ee161e49b74a30e4b506e
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 952f3c3c037bb8459bdd1400288c4ea8604ce282
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6985564"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8581854"
 ---
 # <a name="sample-data-installation-for-the-project-service-application"></a>Инсталирање пробних података за апликацију Project Service
 
@@ -135,7 +135,7 @@ ms.locfileid: "6985564"
     - Пуно име корисника="Molly Clark" као менаџер пословних контаката   
     - Пуно име корисника="Spencer Low" као менаџер праксе и пројеката  
     - Пуно име корисника="Veronica Quek" као члан тима   
-    - Пуно име корисника="Радмило Contoso"
+    - Пуно име корисника="William Contoso"
   
 2. У сврху увоза демо података, доделите шест корисника изнад улоге Администратора како би се пробни записи увезли исправно. 
 
