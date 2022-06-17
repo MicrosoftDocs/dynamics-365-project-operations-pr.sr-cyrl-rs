@@ -1,24 +1,24 @@
 ---
 title: Шта је ново у мају 2022. – једноставна примена услуге Project Operations
-description: Ова тема пружа информације о квалитетним исправкама које су доступне у издању Мицрософт лите примене у мају Dynamics 365 Project Operations 2022.
+description: Овај чланак пружа информације о квалитетним исправкама које су доступне у издању Мицрософт Dynamics 365 Project Operations лите примене у мају 2022.
 author: sigitac
 ms.date: 05/02/2022
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: a2684d51e643d37c90d2c03ee7a0c2a6ead18682
-ms.sourcegitcommit: 7e419a5f73f80fa887084e3b212c90586fc397dd
+ms.openlocfilehash: dd7f03068473ee09608945876047710fa44e914a
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "8710165"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8934154"
 ---
 # <a name="whats-new-may-2022---project-operations-lite-deployment"></a>Шта је ново у мају 2022. – једноставна примена услуге Project Operations
 
 _**Односи се на:** Једноставна примена – од погодбе до профактуре_
 
-Ова тема примењује на следеће компоненте и верзије корпорације Мицрософт Dynamics 365 Project Operations:
+Овај чланак се односи на следеће компоненте и верзије корпорације Мицрософт Dynamics 365 Project Operations:
 
 - Операције пројекта у верзији Dataverse окружења 4.42.0.70
 

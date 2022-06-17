@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у издању 22 исправке за Project Service Automation у верзији 3
-description: У овој теми дате су функције и исправке које су доступне у издању 22 исправке за Project Service Automation у верзији 3.
+description: Овај чланак наводи функције и исправке које су доступне у оквиру исправке за аутоматизацију услуге пројекта Релеасе 22, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 07/28/2020
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 2718509a21c76c12427ec1d78e287df2274f4d72
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 733ee6e0d3583f21d0f58f9651920be3e3fd8cb0
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8588800"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8930658"
 ---
 # <a name="project-service-automation-update-release-22-v3"></a>Project Service Automation издање исправке 22, у верзији 3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8588800"
 
 Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
-У овој теми дате су функције које су нове или су промењене у издању 22 исправке за Project Service Automation у верзији 3. Број израде ове верзије је V 3.10.33.48 и углавном је доступна путем самосталног ажурирања у јуну 2020. године.
+Овај чланак наводи функције и исправке које су нове или промењене за V3 за аутоматизацију услуге пројекта, издање за ажурирање 22. Број израде ове верзије је V 3.10.33.48 и углавном је доступна путем самосталног ажурирања у јуну 2020. године.
 
 ## <a name="update-release-22"></a>Издање исправке 22
 

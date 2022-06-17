@@ -1,23 +1,23 @@
 ---
 title: Типови периода
-description: У овој теми се пружају информације о томе како да конфигуришете типове периода за процену прихода.
+description: Овај чланак пружа информације о томе како да подесите врсте периода за процену прихода.
 author: sigitac
 ms.date: 11/16/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 83cf88bafbc7fc97fba664e278b232c24db53391
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 5bbf2dcb4758611aa9d0591ddfec42869f4438c0
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8580474"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8930980"
 ---
 # <a name="period-types"></a>Типови периода
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_
 
-Тип периода дефинише колико се често процењује приход од пројекта. У овој теми се пружају информације о томе како да конфигуришете типове периода за процену прихода. 
+Тип периода дефинише колико се често процењује приход од пројекта. Овај чланак пружа информације о томе како да подесите врсте периода за процену прихода. 
 
 ## <a name="create-and-work-with-period-types"></a>Креирање и рад са типовима периода
 Да бисте креирали и радили са типовима периода, извршите следеће кораке:

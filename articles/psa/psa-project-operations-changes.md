@@ -1,6 +1,6 @@
 ---
-title: Промене функција из аутоматизације пројектне услуге у пројектне операције
-description: Ова тема пружа преглед промена функција из аутоматизације услуге пројекта у Dynamics 365 Project Operations.
+title: Промене функција од апликације Project Service Automation до услуге Project Operations
+description: Овај чланак пружа преглед промена функција из аутоматизације услуге пројекта у Dynamics 365 Project Operations.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 02/03/2022
@@ -16,16 +16,16 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 7e41b381d6da267f58174305f33fc229c66cd7b7
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8a6030faf777051ea1003679589af4bdf97322ab
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8595424"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8925368"
 ---
-# <a name="feature-changes-from-project-service-automation-to-project-operations"></a>Промене функција из аутоматизације пројектне услуге у пројектне операције
+# <a name="feature-changes-from-project-service-automation-to-project-operations"></a>Промене функција од апликације Project Service Automation до услуге Project Operations
 
-Надоградња са Dynamics 365 Project Service Automation на Dynamics 365 Project Operations Лите биће испоручена у три фазе. Ова тема пружа информације о великим променама које можете очекивати да видите када се надоградња доврши.
+Надоградња са Dynamics 365 Project Service Automation на Dynamics 365 Project Operations Лите биће испоручена у три фазе. Овај чланак пружа информације о великим променама које можете очекивати када се надоградња доврши.
 
 | Надоградња испоруке | Фаза 1 <br>(јануар 2022. године) | Фаза 2 <br>(Априлски талас 2022) | Фаза 3  |
 |------------------|------------------------|---------------------------|---------------------------|

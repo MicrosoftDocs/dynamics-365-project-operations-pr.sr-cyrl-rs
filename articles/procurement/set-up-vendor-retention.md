@@ -1,24 +1,24 @@
 ---
 title: Подесите одлагање обавеза према добављачу
-description: Ова тема објашњава како да подесите одлагање плаћања добављачу.
+description: Овај чланак садржи објашњења о томе како да подесите задржавање добављача.
 author: sigitac
 ms.date: 09/27/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: e0cd7669c7d6b916261e2c85cce0f24ff241a075
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: f30e8829d8d5d99c81fce730cb93cd7ce31913fe
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8583722"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8929784"
 ---
 # <a name="set-up-vendor-retention"></a>Подесите одлагање обавеза према добављачу
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_
 
-Ова тема опружа информације о томе како да подесите одлагање плаћања добављачу.
+Овај чланак пружа информације о томе како да подесите задржавање добављача.
 
 ## <a name="set-up-a-vendor-retention-account-in-general-ledger"></a>Подесите рачун за одлагање плаћања добављачу у главној књизи
 

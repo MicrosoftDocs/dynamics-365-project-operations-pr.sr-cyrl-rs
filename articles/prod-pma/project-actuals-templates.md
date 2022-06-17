@@ -1,6 +1,6 @@
 ---
 title: Синхронизуј стварне резултате пројекта директно из аутоматизације пројектних услуга у налог за интеграцију пројеката за књижење у области финансија и операција
-description: Овај тема описује предлошке и основне задатке који се користе за синхронизацију стварних пројеката директно из "Финансије Microsoft Dynamics 365 Project Service Automation " и "Операције".
+description: Овај чланак описује предлошке и основне задатке који се користе за синхронизацију стварних пројеката директно из "Финансије Microsoft Dynamics 365 Project Service Automation " и "Операције".
 author: Yowelle
 ms.date: 07/20/2018
 ms.topic: article
@@ -14,18 +14,18 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 12929c324bb3a7c344edc9be2e3a8f4941ff9ea4
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 7d912a11d9c7bc66ed43911ee32f25092d551cd6
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8683556"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8929508"
 ---
 # <a name="synchronize-project-actuals-directly-from-project-service-automation-to-the-project-integration-journal-for-posting-in-finance-and-operations"></a>Синхронизуј стварне резултате пројекта директно из аутоматизације пројектних услуга у налог за интеграцију пројеката за књижење у области финансија и операција
 
 [!include[banner](../includes/banner.md)]
 
-Овај тема описује предлошке и основне задатке који се користе за синхронизацију стварних пројеката директно из Dynamics 365 Project Service Automation Дyнамицс 365 Финанце.
+Овај чланак описује предлошке и основне задатке који се користе за синхронизацију стварних пројеката директно из Dynamics 365 Project Service Automation Дyнамицс 365 Финанце.
 
 Предложак синхронизује трансакције из услуге Project Service Automation у припремну табелу у услузи Finance. По завршетку синхронизације, **морате** да увезете податке из припремне табеле у дневник интеграције.
 

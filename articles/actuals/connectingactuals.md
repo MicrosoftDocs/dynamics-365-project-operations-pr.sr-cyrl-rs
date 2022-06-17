@@ -1,19 +1,19 @@
 ---
-title: Везе трансакција - повезивање стварних ставки различитих врста трансакција
-description: Ова тема објашњења о томе како се веза трансакције користи за повезивање стварних врста различитих типова ради праћења профитабилности, заостале наплате и обрачуна неодовршених прихода.
+title: Везе са трансакцијама – повезивање стварних вредности различитих типова трансакција
+description: Овај чланак садржи објашњења о томе како се веза трансакције користи за повезивање стварних врста различитих типова ради праћења профитабилности, заосталих наплата и обрачуна неодовршених прихода.
 author: rumant
 ms.date: 03/25/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 2e8d75a69e27619e6a21f0fe61e2c656e94017b0
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 19a78336099f54c5d6b36a963a90b9fd77e3d0af
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8580796"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8926104"
 ---
-# <a name="transaction-connections---link-actuals-of-different-transaction-types"></a>Везе трансакција - повезивање стварних ставки различитих врста трансакција
+# <a name="transaction-connections---link-actuals-of-different-transaction-types"></a>Везе са трансакцијама – повезивање стварних вредности различитих типова трансакција
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 

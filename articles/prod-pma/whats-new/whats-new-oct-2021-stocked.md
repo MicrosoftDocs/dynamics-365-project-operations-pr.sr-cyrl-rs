@@ -1,24 +1,24 @@
 ---
 title: Шта је ново или промењено у пројектно пословање, октобар 2021. за снабдевене/производне сценарије
-description: Овај тема пружа информације о квалитетним исправкама које су доступне у октобру 2021.
+description: Овај чланак пружа информације о квалитетним исправкама које су доступне у октобру 2021.
 author: andchoi
 ms.date: 11/17/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: andchoi
-ms.openlocfilehash: 03491ccab855e48819fccf4c9d2b584fd87cb4ba
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: ba88268e74269c774b41396a8b6574e5bab477b9
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8576058"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8933694"
 ---
 # <a name="whats-new-or-changed-in-project-operations-october-2021-for-stockedproduction-based-scenarios"></a>Шта је ново или промењено у пројектно пословање, октобар 2021. за снабдевене/производне сценарије
 
 _**Односи се на:** Project Operations за сценарије засноване на залихама/производњи_
 
-Ова тема примењује на следеће компоненте и верзије корпорације Мицрософт Dynamics 365 Project Operations:
+Овај чланак се односи на следеће компоненте и верзије корпорације Мицрософт Dynamics 365 Project Operations:
 
 - Управљање пројектима и рачуноводство у Дyнамицс 365 Финанце окружењу верзија 10.0.22
  

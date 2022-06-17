@@ -1,17 +1,17 @@
 ---
 title: Опозив претходно одобрених ставки
-description: Ова тема објашњава како члан пројектног тима може да затражи опозив претходно прослеђеног и одобреног времена, трошкова и записа о коришћењу материјала и како менаџер пројекта може да одобри или одбије захтеве за опозив.
+description: Овај чланак садржи објашњења о томе како члан пројектног тима може да затражи опозив претходно прослеђених и одобрених записа о времену, трошковима и коришћењу материјала и како менаџер пројекта може да одобри или одбије захтеве за опозив.
 author: rumant
 ms.date: 01/31/2021
 ms.topic: overview
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 18796e803ff73806aaa60b453048ee3160406b40
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 54fc7ac2301a4423ebf70b0b67ad489580c347b5
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8586592"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8930382"
 ---
 # <a name="recall-previously-approved-entries"></a>Опозив претходно одобрених ставки
 

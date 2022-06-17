@@ -1,17 +1,17 @@
 ---
 title: Кључни концепти у подуговарању
-description: Ова тема објашњава неке кључне концепте који се примењују на подуговарање у услузи Microsoft Dynamics 365 Project Operations.
+description: Овај чланак садржи објашњења о неким кључним концептима који се примењују на подизвођач у корпорацији Мицрософт Dynamics 365 Project Operations.
 author: rumant
 ms.date: 08/03/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 159eeca3aa9ed0c490be5ce3a8f46c7d7206aebe
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 0ac84d132a2d62528d97ed3776a78062a589a380
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8578175"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8927714"
 ---
 # <a name="key-concepts-in-subcontracting"></a>Кључни концепти у подуговарању
 
@@ -19,7 +19,7 @@ ms.locfileid: "8578175"
 
 _**Односи се на:** Једноставна примена – од погодбе до профактуре_
 
-Ова тема објашњава неке кључне концепте којих морате да будете свесни пре него што почнете да користите функцију за подуговарање у услузи Microsoft Dynamics 365 Project Operations.
+Чланак садржи објашњења о неким кључним концептима којих би требало да будете свесни пре него што почнете да користите функционалност подизвођања у корпорацији Мицрософт Dynamics 365 Project Operations.
 
 ## <a name="contracting-unit-on-the-subcontract"></a>Уговорна јединица подуговора
 

@@ -1,17 +1,17 @@
 ---
 title: Пријавите се за пробну верзију апликације Project Operations
-description: Ова тема пружа информације о томе како да примените пробну верзију апликације Dynamics 365 Project Operations.
+description: Овај чланак пружа информације о примени пробне верзије програма Dynamics 365 Project Operations.
 author: ruhercul
 ms.date: 01/10/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: a0c2532370c99cfe75b54da42c329f5b244a47e7
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 7db7ea6b3cffe6eb43ee0519bbaccfc9092c9311
+ms.sourcegitcommit: 51745acac29dfacba43a4003d86baff4d6ca2fb8
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8584292"
+ms.lasthandoff: 06/14/2022
+ms.locfileid: "8959695"
 ---
 # <a name="sign-up-for-project-operations-trials"></a>Пријавите се за пробну верзију апликације Project Operations 
 
@@ -19,9 +19,9 @@ _**Односи се на:** Project Operations за сценарије засн
 
 
 
-Ова тема објашњава како да се претплатите на верзију за преглед партнерске понуде и како да примените Dynamics 365 Project Operations окружење.
+Овај чланак садржи објашњења о томе како да се претплатите на понуду партнера за преглед и примените Dynamics 365 Project Operations окружење.
 
-Уз нову пробну верзију апликације Project Operations, можете аутоматски применити било који од три подржана сценарија примене попуњавањем упитника који препоручује најбољи приступ примене. Ова тема пружа информације о томе како да:
+Уз нову пробну верзију апликације Project Operations, можете аутоматски применити било који од три подржана сценарија примене попуњавањем упитника који препоручује најбољи приступ примене. Овај чланак пружа информације о томе како да:
 
 - Искористите пробну понуду.
 - Покренете обезбеђивање.
@@ -89,7 +89,8 @@ _**Односи се на:** Project Operations за сценарије засн
 4.  Изаберите одговарајуће Microsoft Dataverse УРЛ адресе и УРЛ адресе апликација за финансије и операције да бисте проверили ваљаност примене.
 
 ## <a name="configuring-dual-write"></a>Конфигурисање двоструког уписивања
-- Да бисте конфигурисали безбедносне улоге за двоструко писање, погледајте ажурирање [безбедносних поставки за операције пројекта у програму Dataverse](resource-provision-new-environment.md).
+- Да бисте конфигурисали безбедносне улоге за двоструко писање, погледајте ажурирање [безбедносних поставки за операције пројекта у програму Dataverse](resource-provision-new-environment.md#update-security-settings-on-project-operations-on-dataverse).
+- Да бисте приступили конфигурацији двоструког писања, дођите до инстанце"Финансије" и "Операције", а затим се крећите **до дуалног писања** > **управљања подацима**.
 - Да бисте конфигурисали мапе са два писања, погледајте мапе [двоструког писања"Покрени операције пројекта"](resource-provision-new-environment.md#run-project-operations-dual-write-maps).
 
 ## <a name="assign-licenses"></a>Додела лиценци

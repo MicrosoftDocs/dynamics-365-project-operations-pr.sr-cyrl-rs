@@ -1,6 +1,6 @@
 ---
 title: Формирање цена за пројекат
-description: Ова тема пружа информације о начину формирања цена у апликацији Dynamics 365 Project Service Automation.
+description: Овај чланак пружа информације о начину на који цене функционишу Dynamics 365 Project Service Automation.
 author: rumant
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: c9a5e1ef52eec99ee580258b5dd6db9823cdb4cb
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: fb2a63246a21e5f1306b5ce7f2e2420a93af7ff3
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8576472"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8926978"
 ---
 # <a name="project-pricing"></a>Формирање цена за пројекат 
 

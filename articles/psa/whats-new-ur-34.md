@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у издању 33 исправке услуге Project Service Automation верзије 3
-description: У овој теми наведене су функције и исправке које су доступне у издању 34 исправке услуге Project Service Automation верзије 3.
+description: Овај чланак наводи функције и исправке које су доступне у оквиру исправке за аутоматизацију услуге пројекта Релеасе 34, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 08/05/2021
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: c7a4feaeebf8fa2ef3447dc6dfc3d0903266f3b2
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: e47a5442f285952c165a2d30e337a362a6b065dd
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8588708"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8928680"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-34-v3"></a>Шта је ново или промењено у издању 33 исправке услуге Project Service Automation верзије 3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8588708"
 
 Задовољство нам је да најавимо најновију исправку за апликацију Microsoft Dynamics 365 Project Service Automation. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Компатибилна је са системом Dynamics 365 9.x. Да бисте се ажурирали на ово издање, посетите страницу центра администрације за Dynamics 365 мрежна решења и инсталирајте исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
-У овој теми наведене су функције које су нове или промењене у издању 34 услуге Project Service Automation верзије 3. Ова верзија има број верзије 3.10.55.38 и опште је доступна путем самосталног ажурирања у јулу 2021.
+Овај чланак наводи функције и исправке које су нове или промењене за V3 за аутоматизацију услуге пројекта, издање за ажурирање 34. Ова верзија има број верзије 3.10.55.38 и опште је доступна путем самосталног ажурирања у јулу 2021.
 
 ## <a name="update-release-34"></a>Издање исправке 34
 

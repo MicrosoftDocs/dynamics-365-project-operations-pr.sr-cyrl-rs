@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у издању 26 исправке Project Service Automation верзије 3
-description: У овој теми су наведене функције и исправке које су доступне у издању исправке 26 за Project Service Automation верзије 3.
+description: Овај чланак наводи функције и исправке које су доступне у оквиру ажурирања за аутоматизацију услуге пројекта Релеасе 26, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 01/12/2021
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: cebfcd6425f11b74ce6331a093d8d3db3da356a0
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 11f722c1f31c0e8aa08192cc955aabbe97018225
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8577300"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8928818"
 ---
 # <a name="project-service-automation-update-release-26-v3"></a>Project Service Automation издање исправке 26, у верзији 3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8577300"
 
 Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
-У овој теми дате су функције које су нове или су промењене у решењу Project Service Automation у верзији 3, издање исправке 26. Ова верзија има број верзије V3.10.44.59 и генерално је доступна путем самосталног ажурирања у децембру 2020.
+Овај чланак наводи функције и исправке које су нове или промењене за исправку за аутоматизацију услуге пројекта Издање 26, V3. Ова верзија има број верзије V3.10.44.59 и генерално је доступна путем самосталног ажурирања у децембру 2020.
 
 ## <a name="update-release-26"></a>Издање исправке 26
 

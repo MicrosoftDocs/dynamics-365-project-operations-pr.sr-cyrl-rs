@@ -1,24 +1,24 @@
 ---
 title: Креирање додела ресурса
-description: Ова тема пружа информације о креирању генеричких и именованих додела ресурса.
+description: Овај чланак пружа информације о креирању генеричких и именованих додела ресурса.
 author: ruhercul
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 2b918392fbcde1071aa52ffa7834938be1acd383
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 31404fc35d72acb9ad791ef8a755f23108f528ad
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8576564"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8933510"
 ---
 # <a name="create-resource-assignments"></a>Креирање додела ресурса
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 
-Додељивање ресурса је директно повезивање члана пројектног тима са задатком чвора листа. Ова тема пружа информације о различитим начинима за додељивање ресурса.
+Додељивање ресурса је директно повезивање члана пројектног тима са задатком чвора листа. Овај чланак пружа информације о различитим начинима додељивања ресурса.
 
 ## <a name="create-a-generic-team-member-through-task-assignment"></a>Креирање генеричког члана тима преко доделе задатка
 

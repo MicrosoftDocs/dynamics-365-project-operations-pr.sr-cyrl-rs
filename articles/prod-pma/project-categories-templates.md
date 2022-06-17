@@ -1,6 +1,6 @@
 ---
 title: Синхронизуј категорије трошкова пројекта између финансија и операција и аутоматизације пројектних услуга
-description: Овај тема описује предлошке и основне задатке који се користе за синхронизацију категорија трошкова пројекта између Microsoft Dynamics 365 Финансије и Dynamics 365 Project Service Automation.
+description: Овај чланак описује предлошке и основне задатке који се користе за синхронизацију категорија трошкова пројекта између Microsoft Dynamics 365 Финансије и Dynamics 365 Project Service Automation.
 author: Yowelle
 ms.date: 07/20/2018
 ms.topic: article
@@ -14,18 +14,18 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 8.0.0
-ms.openlocfilehash: c5513285c8beb96e2aa8b9c67ebde38b3c938edd
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 630c4fa7a159aa46b46984736080cd007d519a6c
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8685488"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8927254"
 ---
 # <a name="synchronize-project-expense-categories-between-finance-and-operations-and-project-service-automation"></a>Синхронизуј категорије трошкова пројекта између финансија и операција и аутоматизације пројектних услуга
 
 [!include[banner](../includes/banner.md)]
 
-Овај тема описује предлошке и основне задатке који се користе за синхронизацију категорија трошкова пројекта између Дyнамицс 365 Финанце и Dynamics 365 Project Service Automation.
+Овај чланак описује предлошке и основне задатке који се користе за синхронизацију категорија трошкова пројекта између Дyнамицс 365 Финанце и Dynamics 365 Project Service Automation.
 
 > [!NOTE]
 > - Интеграција пројектних задатака, категорије трансакција трошкова, процене сати, процене трошкова и закључавање функционалности доступни су у верзији 8.0.

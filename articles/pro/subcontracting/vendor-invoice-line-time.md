@@ -1,19 +1,19 @@
 ---
-title: Редови фактуре добављача за време
-description: Ова тема објашњења о томе како се записују редови фактуре добављача за временске трошкове које су подизвођачи ставили.
+title: Ставке фактуре добављача за време
+description: Овај чланак садржи објашњења о томе како се записују редови фактуре добављача за временске трошкове које су подизвођачи ставили.
 author: rumant
 ms.date: 03/15/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: ac598dff7b0b4a29ac0397a31130ada3b197fe44
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 0b81d2884580e9054457906627c1f9101f435524
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8597218"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8927576"
 ---
-# <a name="vendor-invoice-lines-for-time"></a>Редови фактуре добављача за време
+# <a name="vendor-invoice-lines-for-time"></a>Ставке фактуре добављача за време
 
 [!include [banner](../../includes/dataverse-preview.md)]
 

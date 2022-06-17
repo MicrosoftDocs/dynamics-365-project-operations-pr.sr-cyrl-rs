@@ -1,6 +1,6 @@
 ---
 title: Матична страница за давање понуда, формирање цена и наплату
-description: Ова тема пружа информације о давању понуда, формирању цена и наплати.
+description: Овај чланак пружа информације о наводу, ценама и наплати.
 author: rumant
 ms.author: rumant
 ms.custom:
@@ -18,12 +18,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 09be2e3ed2bb17374f5d5151abf4ce7e5e2530a1
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: ef63d48703059bac8cadf3b12ecb025ae103d44d
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8581118"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8926748"
 ---
 # <a name="quoting-pricing-and-billing-home-page"></a>Матична страница за давање понуда, формирање цена и наплату
 
@@ -33,7 +33,7 @@ ms.locfileid: "8581118"
 
 Давање понуда, формирање цена и наплата су функције које користе и мале и велике организације. Разумевањем начина њиховог функционисања у апликацији, организације могу лакше прилагодити конфигурације.
 
-Следеће теме пружају више информација о функционалностима давања понуда, формирања цена и наплате у апликацији PSA:
+Следећи чланци пружају више информација о функционалности цитирања, одређивања цена и наплате у ПСА:
 
 - [Процес продаје](basic-sales-process.md)
 - [Ставке понуде](basic-quote-lines.md)

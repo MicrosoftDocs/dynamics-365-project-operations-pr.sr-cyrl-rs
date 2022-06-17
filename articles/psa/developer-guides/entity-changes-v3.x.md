@@ -1,6 +1,6 @@
 ---
 title: Промене ентитета, контрола и корисничког интерфејса (Project Service Automation 3.x)
-description: Ова тема описује промене решења за Microsoft Dynamics Project Service Automation 3.x.
+description: Овај чланак описује промене решења за аутоматизацију Microsoft Dynamics пројектне услуге 3.x.
 author: makk
 ms.custom:
 - dyn365-projectservice
@@ -15,19 +15,19 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: da43e0d15e655977c0c1be7348192a0189a56a6c
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8f54d263666c4fb999464f98c0138fc008dbbbd2
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8597586"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8926886"
 ---
 # <a name="entity-control-and-user-interface-changes-project-service-automation-3x"></a>Промене ентитета, контрола и корисничког интерфејса (Project Service Automation 3.x)
 
 [!include [banner](../../includes/psa-now-project-operations.md)]
 
 
-Уз издање Microsoft Dynamics Project Service Automation (PSA) 3.x, извршене су многе промене у ентитетима, контролама, приказима и корисничком интерфејсу. Ова тема пружа информације о овим важним променама.
+Уз издање Microsoft Dynamics Project Service Automation (PSA) 3.x, извршене су многе промене у ентитетима, контролама, приказима и корисничком интерфејсу. Овај чланак пружа информације о овим важним променама.
 
 ## <a name="parent-child-relationships-for-sales-document-sales-document-line-sales-document-line-detail-entities"></a>Односи надређених и подређених ентитета за документ продаје, ставку документа продаје, детаљи ставке документа продаје
 У верзијама апликације Dynamics 365 Project Service Automation (PSA) које су објављене пре верзије 3.0, неки од односа између ентитета докумената продаје, ставки докумената продаје и детаља ставке докумената продаје имплементирани су кроз поља ниске која су евидентирала приказ ниске за of GUID повезаног ентитета. До овога је долазило због ограничења платформе која је захтевала значајни део прилагођеног кода на страни сервера, као и на страни клијента решења да би ти односи радили слично типичном односу између Dynamics CRM ентитета и да би се поља ниске понашала као поља за проналажење.

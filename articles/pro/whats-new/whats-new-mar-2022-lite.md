@@ -1,24 +1,24 @@
 ---
 title: Шта је ново у марту 2022. – Project Operations једноставна примена
-description: Ова тема пружа информације о квалитетним исправкама које су доступне у издању примене лите операција пројекта у марту 2022.
+description: Овај чланак пружа информације о квалитетним исправкама које су доступне у издању примене лите операција пројекта у марту 2022.
 author: sigitac
 ms.date: 03/18/2022
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 8a83491da1d312406dfb36f5ad214c307c15cfbf
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 321d59568bfd33bb00a1500afe514fbecf9a0250
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8583768"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8934246"
 ---
 # <a name="whats-new-march-2022---project-operations-lite-deployment"></a>Шта је ново у марту 2022. – Project Operations једноставна примена
 
 _Односи се на: Једноставна примена – од погодбе до профактуре_
 
-Ова тема примењује на следеће компоненте и верзије корпорације Мицрософт Dynamics 365 Project Operations:
+Овај чланак се односи на следеће компоненте и верзије корпорације Мицрософт Dynamics 365 Project Operations:
 
 - Операције пројекта у верзији Dataverse окружења 4.30.0.99
 
@@ -51,9 +51,9 @@ _Односи се на: Једноставна примена – од пого
 
 ## <a name="removed-and-deprecated-features"></a>Уклоњене и неодобрене функције
 
-Уклоњене [или застареле функције у програму Пројецт Оператионс](../../whats-new/removed-depreciated-features-project.md) тема описују функције које су уклоњене или застареле за Dynamics 365 Project Operations.
+Уклоњене [или застареле функције у чланку "Операције](../../whats-new/removed-depreciated-features-project.md) пројекта" описују функције које су уклоњене или застареле за Dynamics 365 Project Operations.
 
 - Уклоњена функција више није доступна у производу.
 - Застарела функција није у активном развоју и може бити уклоњена у будућој исправци.
 
-Најава амортизације ће се појавити у функцијама ["Уклоњено" или "Застарело](../../whats-new/removed-depreciated-features-project.md) " у операцијама пројекта тема 12 месеци пре него што било која функција буде уклоњена из производа.
+Најава амортизације ће се појавити у функцијама" [Уклоњено" или "Застарело" у чланку "Операције](../../whats-new/removed-depreciated-features-project.md) пројекта" 12 месеци пре него што било која функција буде уклоњена из производа.

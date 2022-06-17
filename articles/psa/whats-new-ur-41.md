@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у ажурирању аутоматског ажурирања услуге пројекта Релеасе 41, V3
-description: Овај тема наводи функције и исправке које су доступне у издању Microsoft Dynamics 365 Project Service Automation Упдате Релеасе 41, V3.
+description: Овај чланак наводи функције и исправке које су доступне у издању Microsoft Dynamics 365 Project Service Automation Упдате Релеасе 41, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 03/07/2022
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 649d8bca36fda0a09dc7230ee4d742cadb32f3b3
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8625ae16e45da30614b3a3eec44193bee0c0b36f
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8580980"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8930566"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-41-v3"></a>Шта је ново или промењено у ажурирању аутоматског ажурирања услуге пројекта Релеасе 41, V3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8580980"
 
 Задовољство нам је да најавимо најновију исправку за апликацију Microsoft Dynamics 365 Project Service Automation. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Компатибилна је са системом Dynamics 365 9.x. Да бисте се ажурирали на ово издање, посетите страницу центра администрације за Dynamics 365 мрежна решења и инсталирајте исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
-Ова тема наводи функције и исправке које су нове или промењене за исправку за аутоматизацију услуге пројекта Релеасе 41, V3. Ова верзија има број верзије V3.10.62.162 и опште је доступна путем само-исправке у марту 2022. године.
+Овај чланак наводи функције и исправке које су нове или промењене за исправку за аутоматизацију услуге пројекта Релеасе 41, V3. Ова верзија има број верзије V3.10.62.162 и опште је доступна путем само-исправке у марту 2022. године.
 
 ## <a name="update-release-41"></a>Издање исправке 41
 

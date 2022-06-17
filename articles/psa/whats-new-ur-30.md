@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у издању 30 исправке Project Service Automation верзије 3
-description: У овој теми дате су функције и исправке које су доступне у издању 30 исправке за Project Service Automation верзије 3.
+description: Овај чланак наводи функције и исправке које су доступне у оквиру ажурирања за аутоматизацију услуге пројекта Релеасе 30, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 04/01/2021
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: f99d2df3f9f6c0752109c39132c2401e0130d5df
-ms.sourcegitcommit: 577fa51e0892625f98f17ff39874ed1a09444421
+ms.openlocfilehash: ad00b126a13e18a5de47df335aea06b9690efa13
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/06/2022
-ms.locfileid: "8723558"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8925092"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-30-v3"></a>Шта је ново или промењено у издању 30 исправке Project Service Automation верзије 3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8723558"
 
 Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
-У овој теми дате су функције које су нове или су промењене у решењу Project Service Automation у верзији 3, издање исправке 30. Број израде ове верзије је V3.10.51.61 и углавном је доступна путем самосталног ажурирања у априлу 2021. године.
+Овај чланак наводи функције и исправке које су нове или промењене за V3 за аутоматизацију пројектне услуге, издање за ажурирање 30. Број израде ове верзије је V3.10.51.61 и углавном је доступна путем самосталног ажурирања у априлу 2021. године.
 
 ## <a name="update-release-30"></a>Издање исправке 30
 

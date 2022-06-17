@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у издању 28 исправке Project Service Automation верзије 3
-description: У овој теми су наведене функције и исправке које су доступне у издању исправке 28 за Project Service Automation верзије 3.
+description: Овај чланак наводи функције и исправке које су доступне у издању за ажурирање аутоматизације услуге пројекта Релеасе 28, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 01/26/2021
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: b3afeaf131c8bab25e1ed3a9eb3b41cb3059f711
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 56a87bce55c560e541e20709b10d38b9512ffcee
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8586822"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8930612"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-28-v3"></a>Шта је ново или промењено у издању 28 исправке Project Service Automation верзије 3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8586822"
 
 Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
-У овој теми су наведене функције и исправке које су нове или промењене у издању исправке 28 за Project Service Automation верзије 3. Ова верзија има број верзије V3.10.46.32 и постала је опште доступна путем самосталне исправке у јануару 2021.
+Овај чланак наводи функције и исправке које су нове или промењене за Пројецт Сервице Аутоматион V3, Упдате Релеасе 28 Ова верзија има број верзије В3.10.46.32 и обично је доступна путем самосталног ажурирања у јануару 2021.
 
 ## <a name="update-release-28"></a>Издање исправке 28
 

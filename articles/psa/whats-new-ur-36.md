@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у издању 36 исправке Project Service Automation верзије 3
-description: У овој теми наведене су функције и исправке које су доступне у издању 36 исправке услуге Microsoft Dynamics 365 Project Service Automation верзије 3.
+description: Овај чланак наводи функције и исправке које су доступне у издању Microsoft Dynamics 365 Project Service Automation Упдате Релеасе 36, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 10/06/2021
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 108c75598dc7dd3dd0cdb9ce68e30423d051a4cf
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: a8942713109075da2503c9d22d40b6ac95ae00be
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8586684"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8925000"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-36-v3"></a>Шта је ново или промењено у издању 36 исправке Project Service Automation верзије 3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8586684"
 
 Задовољство нам је да најавимо најновију исправку за апликацију Microsoft Dynamics 365 Project Service Automation. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Компатибилна је са системом Dynamics 365 9.x. Да бисте се ажурирали на ово издање, посетите страницу центра администрације за Dynamics 365 мрежна решења и инсталирајте исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
-У овој теми наведене су функције које су нове или су промењене у решењу Project Service Automation у верзији 3, издање исправке 36. Ова верзија има број верзије V3.10.57.152 и опште је доступна путем само-исправке у октобру 2021. године.
+Овај чланак наводи функције и исправке које су нове или промењене за исправку за аутоматизацију услуге пројекта Релеасе 36, V3. Ова верзија има број верзије V3.10.57.152 и опште је доступна путем само-исправке у октобру 2021. године.
 
 ## <a name="update-release-36"></a>Издање исправке 36
 

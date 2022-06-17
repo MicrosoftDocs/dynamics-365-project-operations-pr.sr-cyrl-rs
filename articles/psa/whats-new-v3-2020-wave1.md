@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у апликацији Project Service Automation у верзији 3.x таласу 1 за 2020. годину
-description: У овој теми дате су информације о томе шта је ново и шта се променило у решењу Project Service Automation у верзији 3 таласу 1 за 2020.
+description: Овај чланак пружа информације о томе шта је ново и промењено у програму Пројецт Сервице Аутоматион верзија 3 wаве 1 2020.
 ms.custom:
 - dyn365-projectservice
 ms.date: 05/15/2020
@@ -17,18 +17,18 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 073b70b4ae02d943eb0794b51e888815ee16f438
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: c762f2e7931046d32464cfa8486ef8405aa7d836
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8577898"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8928634"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-version-3-wave-1-2020"></a>Шта је ново или промењено у апликацији Project Service Automation у верзији 3 таласу 1 за 2020. годину
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-Тема истиче кључне чињенице које треба узети у обзир приликом надоградње када прелазите на најновије издање решења Project Service Automation (PSA) верзије 3.x таласа 1 за 2020.
+Чланак наглашава кључна разматрања надоградње приликом преласка на најновије издање Пројецт Сервице Аутоматион (ПСА) верзије 3.x таласа 1 2020.
 
 ## <a name="time-entry"></a>Ставка времена
 Искуство ставке времена је проширено како би испоручило могућности продужетка ставке времена у више сценарија клијената. Ово обухвата могућност додавања типова ставки, који сада покрећу одређено понашање на основу назива плана поља **Подешавања ставке времена**, приказано као **Извор времена**. Ново решење, под називом „Time, Expense, Statusing, and Approvals“ (TESA) је додат како би била подржана ова функционалност.

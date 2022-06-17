@@ -1,25 +1,25 @@
 ---
-title: Детаљи заглавља за фактуре добављача
-description: Ова тема објашњава функционалност која је обезбеђена у заглављу фактуре добављача у корпорацији Мицрософт Dynamics 365 Project Operations.
+title: Детаљи за заглавље фактура добављача
+description: Овај чланак садржи објашњења о функционалности која је обезбеђена у заглављу фактуре добављача у корпорацији Мицрософт Dynamics 365 Project Operations.
 author: rumant
 ms.date: 03/25/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 17be106d5486358ff0bbf011af3da26a4c85a274
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 95f84f2d2a357abbd8d507705412a0434b44f658
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8575598"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8929876"
 ---
-# <a name="header-details-for-vendor-invoices"></a>Детаљи заглавља за фактуре добављача
+# <a name="header-details-for-vendor-invoices"></a>Детаљи за заглавље фактура добављача
 
 [!include [banner](../../includes/dataverse-preview.md)]
 
 _**Односи се на:** Једноставна примена – од погодбе до профактуре_
 
-Ова тема објашњава функционалност која је обезбеђена у заглављу фактуре добављача у корпорацији Мицрософт Dynamics 365 Project Operations.
+Овај чланак садржи објашњења о функционалности која је обезбеђена у заглављу фактуре добављача у корпорацији Мицрософт Dynamics 365 Project Operations.
 
 Док менаџери пројеката планирају и извршавају пројекте, они могу да запошљавају подизвођача и производе за набавку и услуге од добављача. Током извршења пројекта, трошкови настају из категорија услуга, материјала и трошкова који се набављају на подизвођачима са добављачима. Добављачи фактурише ове трошкове пројектима креирањем фактура добављача.
 

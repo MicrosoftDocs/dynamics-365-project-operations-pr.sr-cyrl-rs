@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у издању 13 исправке Project Service Automation верзије 3
-description: У овој теми дате су информације о томе шта је ново у издању исправке 13 за Project Service Automation у верзији 3.
+description: Овај чланак пружа информације о томе шта је ново у издању за ажурирање аутоматизације услуге пројекта Релеасе 13, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 02/04/2020
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: eb935d5bf3d2deb95db420f20a8102dae1864515
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: f4898391922f5ecbc99d78e49358ea749fe27b3f
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8596206"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8930704"
 ---
 # <a name="project-service-automation-update-release-13-v3"></a>Project Service Automation издање исправке 13, у верзији 3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8596206"
 
 Са задовољство најављујемо најновију исправку за апликацију Dynamics 365 Project Service Automation (PSA). Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите центар за администрацију за Dynamics 365 online и идите до странице са решењима како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
-У овој теми дате су функције које су нове или су промењене у решењу Project Service Automation у верзији 3, издање исправке 13. Ова верзија има број верзије V3.10.3.18 и доступна је према следећем плану:
+Овај чланак наводи функције и исправке које су нове или промењене за V3 аутоматизацију услуге пројекта, издање за ажурирање 13. Ова верзија има број верзије V3.10.3.18 и доступна је према следећем плану:
 
 - **Општа доступност (само-исправка):** новембар 2019. године
 - **аутоматска исправка:** децембар 2019. године

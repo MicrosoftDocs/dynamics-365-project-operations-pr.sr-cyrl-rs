@@ -1,25 +1,25 @@
 ---
-title: Државни прелази на фактури добављача
-description: Ова тема објашњава државне прелазе у фактури добављача у корпорацији Мицрософт Dynamics 365 Project Operations.
+title: Промене статуса на фактури добављача
+description: Овај чланак садржи објашњења о прелазима стања на фактури добављача у корпорацији Мицрософт Dynamics 365 Project Operations.
 author: rumant
 ms.date: 03/30/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 7efb52621ee325d5025dfad0b45218d1fe20a063
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 58b07322fb6480fdeb07eb867a7aabc0eff7b955
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8584706"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8934338"
 ---
-# <a name="state-transitions-on-a-vendor-invoice"></a>Државни прелази на фактури добављача
+# <a name="state-transitions-on-a-vendor-invoice"></a>Промене статуса на фактури добављача
 
 [!include [banner](../../includes/dataverse-preview.md)]
 
 _**Односи се на:** Једноставна примена – од погодбе до профактуре_
 
-Ова тема објашњава државне прелазе у фактури добављача у корпорацији Мицрософт Dynamics 365 Project Operations. Користе се следеће државе: "Радна **верзија",** "У **прегледу", "** Потврђено **",** **"На чекању** " и "Отказано **"**.
+Овај чланак садржи објашњења о прелазима стања на фактури добављача у корпорацији Мицрософт Dynamics 365 Project Operations. Користе се следеће државе: "Радна **верзија",** "У **прегледу", "** Потврђено **",** **"На чекању** " и "Отказано **"**.
 
 Следеће илустрације приказују државне транзиције.
 

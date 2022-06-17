@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у издању 16 исправке Project Service Automation верзије 3
-description: У овој теми дате су функције и исправке које су доступне у издању 16 исправке за Project Service Automation верзије 3.
+description: Овај чланак наводи функције и исправке које су доступне у издању за ажурирање аутоматизације услуге пројекта Релеасе 16, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 02/18/2020
@@ -16,19 +16,19 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 5651f8b3a2ddf406fcfd7a4e21901c53789fa4ed
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: e4429ace3d8206369b91917cf87f6968fbb12277
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8577392"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8926518"
 ---
 # <a name="project-service-automation-update-release-16-v3"></a>Project Service Automation издање исправке 16, у верзији 3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
 Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости.  Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање и исправка жељеног решења](/dynamics365/project-service/upgrade-psa-home-page).
-У овој теми дате су функције и исправке које су нове или су промењене у решењу PSA у верзији 3, издање исправке 16. Ова верзија има број верзије V3.10.6.34 и опште је доступна путем само-исправке у јануару 2020. године.
+Овај чланак наводи функције и исправке које су нове или промењене за ПСА V3, Издање за ажурирање 16. Ова верзија има број верзије V3.10.6.34 и опште је доступна путем само-исправке у јануару 2020. године.
 
 
 ## <a name="update-release-16"></a>Издање исправке 16

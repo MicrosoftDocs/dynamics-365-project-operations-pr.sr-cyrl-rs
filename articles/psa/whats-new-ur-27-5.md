@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у издању хитне исправке 27.5 за Project Service Automation верзије 3
-description: У овој теми су наведене функције и исправке које су доступне у издању хитне исправке 27.5 за Project Service Automation верзије 3.
+description: Овај чланак наводи функције и исправке које су доступне у хитној исправки за ажурирање услуге пројекта Релеасе 27.5, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 02/03/2021
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 347f0516550b4b144a579f26602141c898884424
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: cd3af0ad349c14e7cdfc1e2e86c08685b8b5baab
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8588202"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8928772"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-275-v3"></a>Шта је ново или промењено у издању исправке 27.5 за Project Service Automation верзије 3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8588202"
 
 Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
-У овој теми су наведене функције и исправке које су нове или промењене у издању исправке 27.5 за Project Service Automation верзије 3. Ова верзија има број верзије V3.10.45.119 и опште је доступна путем само-исправке у јануару 2021. године.
+Овај чланак наводи функције и исправке које су нове или промењене за V3 за аутоматизацију услуге пројекта, издање за ажурирање 27.5. Ова верзија има број верзије V3.10.45.119 и опште је доступна путем само-исправке у јануару 2021. године.
 
 ## <a name="update-release-275"></a>Издање исправке 27.5
 

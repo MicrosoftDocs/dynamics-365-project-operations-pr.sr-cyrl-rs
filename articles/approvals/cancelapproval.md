@@ -1,17 +1,17 @@
 ---
 title: Отказивање одобравања претходно одобрених ставки
-description: Ова тема објашњава како менаџер пројекта може да откаже одобравање претходно одобрених ставки времена, трошкова или коришћења материјала.
+description: Овај чланак садржи објашњења о томе како менаџер пројекта може да откаже одобравање претходно одобрених ставки времена, трошкова или коришћења материјала.
 author: rumant
 ms.date: 01/31/2021
 ms.topic: overview
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 03d4511e85e9fc8d596b269274c4a7e10016244c
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 08c2248a5fcfc9b7569871a76bc09234ffd172c7
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8584798"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8930474"
 ---
 # <a name="cancel-the-approval-of-previously-approved-entries"></a>Отказивање одобравања претходно одобрених ставки
 

@@ -1,6 +1,6 @@
 ---
 title: Користите програмски додатак Project Service за планирање вашег рада у програму Microsoft Project | MicrosoftDocs
-description: Ова тема пружа информације о додавању, конфигурисању и коришћењу програмског додатка Microsoft Project у програму Microsoft Project Service.
+description: Овај чланак пружа информације о томе како да додате, конфигуришете и користите програмски додатак Мицрософт Пројецт за Мицрософт Пројецт услугу.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 460b5bb7baabcb804b9745f5fddae9bcc3fc7541
-ms.sourcegitcommit: 30242d7754bca300b594b0887eb4212d10bea1c4
+ms.openlocfilehash: d286adfdffa6a0b5f0c96eb14be588c6cedb80c2
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/07/2022
-ms.locfileid: "8727976"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8925552"
 ---
 # <a name="use-the-project-service-automation-add-in-to-plan-your-work-in-microsoft-project"></a>Користите програмски додатак Project Service Automation за планирање вашег рада у програму Microsoft Project
 
