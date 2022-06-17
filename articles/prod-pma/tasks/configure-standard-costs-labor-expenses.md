@@ -1,6 +1,6 @@
 ---
 title: Конфигурисање стандардне цене рада и трошкова
-description: Ова тема објашњава како да поставите стандардну цену рада и трошкове пројекта.
+description: Овај чланак садржи објашњења о томе како да подесите стандардне трошкове рада и трошкове за пројекат.
 author: Yowelle
 ms.date: 08/02/2019
 ms.topic: business-process
@@ -14,18 +14,18 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.search.validFrom: 2016-06-30
 ms.dyn365.ops.version: Version 7.0.0
-ms.openlocfilehash: fd74da69986a73e933f8cfedce40158555c2ac60
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: a51eee8d2eb960b6f24b6511dab7b7a27303dddb
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8685350"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8919556"
 ---
 # <a name="configure-standard-costs-for-labor-and-expenses"></a>Конфигурисање стандардне цене рада и трошкова
 
 [!include [banner](../../includes/banner.md)]
 
-Ова тема објашњава како да поставите стандардну цену рада и трошкове пројекта. Овај задатке користи USSI скуп података.
+Овај чланак садржи објашњења о томе како да подесите стандардне трошкове рада и трошкове за пројекат. Овај задатке користи USSI скуп података.
 
 1. У окну за навигацију, идите на **Модули > Управљање пројектима и рачуноводство > Подешавање > Цене > Цена коштања (сат)**.
 2. Изаберите **Ново**.

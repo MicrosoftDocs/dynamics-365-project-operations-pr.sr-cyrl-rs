@@ -1,25 +1,25 @@
 ---
 title: Шта је ново у марту 2021. – Project Operations једноставна примена
-description: Ова тема пружа информације о исправкама квалитета доступним у издању једноставне примене услуге Project Operations за март 2021.
+description: Овај чланак пружа информације о квалитетним исправкама доступним у марту 2021.
 author: sigitac
 ms.date: 03/03/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: dd9c3b5fc4eb30aaf385ba67a8d54875048e40cd
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8ab045af503e9944fbc013b4e75ce45446786912
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8583878"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8913914"
 ---
 # <a name="whats-new-march-2021---project-operations-lite-deployment"></a>Шта је ново у марту 2021. – Project Operations једноставна примена
 
 _Односи се на: Једноставна примена – од погодбе до профактуре_
 
 
-Ова тема се односи на следеће компоненте и верзије услуге Dynamics 365 Project Operations:
+Овај чланак се односи на следеће Dynamics 365 Project Operations компоненте и верзије:
 
 - Project Operations у Dataverse окружењу верзије 4.8.0.91 
 

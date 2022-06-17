@@ -1,6 +1,6 @@
 ---
 title: Синхронизуј процене пројекта директно из аутоматизације пројектних услуга у финансије и операције
-description: Овај тема описује предлошке и основне задатке који се користе за синхронизацију процена часова пројекта и процене трошкова Microsoft Dynamics 365 Project Service Automation пројекта директно са Дyнамицс 365 Финанце.
+description: Овај чланак описује предлошке и основне задатке који се користе за синхронизацију процена часова пројекта и процене трошкова Microsoft Dynamics 365 Project Service Automation пројекта директно из Дyнамицс 365 Финанце.
 author: Yowelle
 ms.date: 07/20/2018
 ms.topic: article
@@ -14,18 +14,18 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 47de3556034227e072d14dc93908edec42cec93c
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: fb39a377a51b09f04564b4fe8527e34f0ea12682
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8684614"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8920860"
 ---
 # <a name="synchronize-project-estimates-directly-from-project-service-automation-to-finance-and-operations"></a>Синхронизуј процене пројекта директно из аутоматизације пројектних услуга у финансије и операције
 
 [!include[banner](../includes/banner.md)]
 
-Овај тема описује предлошке и основне задатке који се користе за синхронизацију процена часова пројекта и процене трошкова Dynamics 365 Project Service Automation пројекта директно са Дyнамицс 365 Финанце.
+Овај чланак описује предлошке и основне задатке који се користе за синхронизацију процена часова пројекта и процене трошкова Dynamics 365 Project Service Automation пројекта директно из Дyнамицс 365 Финанце.
 
 > [!NOTE]
 > - Интеграција пројектних задатака, категорије трансакција трошкова, процене радних сати, процене трошкова и закључавање функционалности доступни су у верзији 8.0.

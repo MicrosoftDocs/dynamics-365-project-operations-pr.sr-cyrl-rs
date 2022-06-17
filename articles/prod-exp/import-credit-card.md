@@ -1,6 +1,6 @@
 ---
 title: Увоз и одржавање трансакција кредитним картицама
-description: Ова тема објашњава како да уведете и одржавате трансакције кредитне картице повезане са трошковима. Ове трансакције се могу подесити тако да се аутоматски увозе по редовном распореду или се могу ручно увести по потреби.
+description: Овај чланак садржи објашњења о начину увоза и одржавања трансакција кредитним картицама везаним за трошкове. Ове трансакције се могу подесити тако да се аутоматски увозе по редовном распореду или се могу ручно увести по потреби.
 author: KimANelson
 ms.date: 01/12/2018
 ms.topic: article
@@ -15,12 +15,12 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: bd7ca997e18bf3c11fa188b603c899cc470df035
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 44aac1db60ef8f0e3f25612d03b46520dd09ee9e
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8683786"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8916812"
 ---
 # <a name="import-and-maintain-credit-card-transactions"></a>Увоз и одржавање трансакција кредитним картицама
 

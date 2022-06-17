@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у издању 25 исправке Project Service Automation верзије 3
-description: У овој теми су наведене функције и исправке које су доступне у издању 25 исправке за Project Service Automation верзије 3.
+description: Овај чланак наводи функције и исправке које су доступне у оквиру ажурирања за аутоматизацију услуге пројекта Релеасе 25, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 10/26/2020
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 2d24403b1bf6a06cc138de3f0158f675f6d3b6ec
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 2330c7dc5d2dfb148d5c7fb9a5ce643fded84dde
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8581532"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8922562"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-25-v3"></a>Шта је ново или промењено у издању 25 исправке Project Service Automation верзије 3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8581532"
 
 Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
-У овој теми су наведене функције и исправке које су нове или промењене за Project Service Automation верзије 3, издање 25 исправке. Ова верзија има број верзије V 3.10.43.76 и постала је опште доступна путем самосталне исправке у октобру 2020.
+Овај чланак наводи функције и исправке које су нове или промењене за Пројецт Сервице Аутоматион V3, Упдате Релеасе 25 Ова верзија има број верзије В 3.10.43.76 и обично је доступна путем самосталног ажурирања у октобру 2020.
 
 ## <a name="update-release-25"></a>Издање исправке 25
 

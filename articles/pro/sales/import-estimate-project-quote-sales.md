@@ -1,17 +1,17 @@
 ---
 title: Увоз процена за пројекат у ставку понуде засновану на пројекту – једноставно
-description: Ова тема пружа информације о начину увоза процена из пројекта у ставку понуде.
+description: Овај чланак пружа информације о начину увоза процена из пројекта у ред понуде.
 author: rumant
 ms.date: 10/09/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 1c676011660cd06e49996c137f7e9dca0ef2e491
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 820d858fecf70e50a9ce8943db706ff6cac29992
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8584062"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8917318"
 ---
 # <a name="import-estimates-for-a-project-to-a-project-based-quote-line"></a>Увоз процена за пројекат у ставку понуде засновану на пројекту 
 

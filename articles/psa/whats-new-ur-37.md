@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у издању 37 исправке за Project Service Automation верзије 3
-description: У овој теми наведене су функције и исправке које су доступне у издању 37 исправке услуге Microsoft Dynamics 365 Project Service Automation верзије 3.
+description: Овај чланак наводи функције и исправке које су доступне у издању Microsoft Dynamics 365 Project Service Automation Упдате Релеасе 37, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 11/01/2021
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: e8696d84aaca019c2e12d852e669df71146484b3
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: bdbb125b4f41bb9970f5bd8a01cf0bb863c34738
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8593492"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8922516"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-37-v3"></a>Шта је ново или промењено у издању 37 исправке за Project Service Automation верзије 3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8593492"
 
 Задовољство нам је да најавимо најновију исправку за апликацију Microsoft Dynamics 365 Project Service Automation. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Компатибилна је са системом Dynamics 365 9.x. Да бисте се ажурирали на ово издање, посетите страницу центра администрације за Dynamics 365 мрежна решења и инсталирајте исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
-У овој теми дате су функције које су нове или су промењене у издању исправке 37 у решењу Project Service Automation у верзији 3. Ова верзија има број V3.10.58.120 и опште је доступна кроз самосталну исправку у новембру 2021.
+Овај чланак наводи функције и исправке које су нове или промењене за исправку за аутоматизацију услуге пројекта Релеасе 37, V3. Ова верзија има број V3.10.58.120 и опште је доступна кроз самосталну исправку у новембру 2021.
 
 ## <a name="update-release-37"></a>Издање исправке 37
 

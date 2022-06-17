@@ -1,21 +1,21 @@
 ---
-title: Пријављивање за претплату на преглед – једноставно
-description: Ова тема пружа информације о томе како да се претплатите и примените услугу Project Operations Lite – од погодбе до профактуре.
+title: Уписивање за претплату на верзију за преглед – једноставно
+description: Овај чланак пружа информације о томе како да се претплатите и примените Пројецт Оператионс лите деплоyмент - договор за проформа фактурисање.
 author: sigitac
 ms.date: 07/02/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 3b06ac29e8021967490534d3aefc8b5ce733413b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 6953956c0b3401a6c64ee597f966ba4a4c0d07b5
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8588018"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921274"
 ---
 # <a name="sign-up-for-a-preview-subscription---lite"></a>Уписивање за претплату на верзију за преглед – једноставно 
 
-Ова тема објашњава како да се претплатите на понуду пробне верзије и применити Dynamics 365 Project Operations једноставну примену – од погодбе до профактуре.
+Овај чланак садржи објашњења о томе како да се претплатите на пробну понуду Dynamics 365 Project Operations и распоредите распоређивање лите - договор са проформа фактурисањем.
 
 > [!NOTE]
 > Овај поступак ће се променити у предстојећим издањима услуге Project Operations.
@@ -50,7 +50,7 @@ ms.locfileid: "8588018"
 
 ## <a name="create-a-new-dataverse-environment"></a>Направите ново Dataverse окружење
 
-1. Обезбедите ново окружење за примену услуге Project Operations Dataverse пратећи упутства у теми [Модел примене за Dataverse](lite-deployment.md). Када одаберете тип окружења, обавезно користите **пробну верзију (засновано на претплати)**.
+1. Обезбедите ново окружење за примену Dataverse операција пројекта следећи упутства у чланку, [Dataverse модел примене](lite-deployment.md). Када одаберете тип окружења, обавезно користите **пробну верзију (засновано на претплати)**.
 
   ![Ново окружење.](./media/19CreateEnvironment.png)
 
@@ -65,7 +65,7 @@ ms.locfileid: "8588018"
 
 ## <a name="install-a-cds-configuration-and-setup-demo-data"></a>Инсталирање CDS конфигурације и подешавање демо података
 
-Инсталирајте CDS конфигурацију и подесите демо податке пратећи упутства у теми [Примените демо подешавања и података о конфигурацији](lite-apply-demo-setup-config-data.md).
+Инсталирајте конфигурацију ЦДС-а и подесите демо податке следећи упутства у чланку, примените податке [о подешавању демонстрације и конфигурацији](lite-apply-demo-setup-config-data.md).
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

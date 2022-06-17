@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 0ceaa3af630df132339895a8497e49daf2e102c3
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 75fe0aab8ea8bf41fcb98f4318380c93ac52fef8
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8592349"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8919250"
 ---
 # <a name="configure-additional-parameter-settings-project-service"></a>Конфигурисање подешавања додатних параметара (Project Service)
 
@@ -30,7 +30,7 @@ ms.locfileid: "8592349"
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
-Када конфигуришете ставке у претходним темама, треба да подесите додатне параметре пројекта које ћете користити у пројектима. Када сте први пут инсталирали [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)], креирали сте подешавање параметара да прво креирате све записе потребне како би [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] функционисао. Сада је време да се вратите и конфигуришете додатна поља за ова подешавања.  
+Када конфигуришете ставке у претходним чланцима, потребно је да подесите додатне параметре пројекта које ћете користити за своје пројекте. Када сте први пут инсталирали [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)], креирали сте подешавање параметара да прво креирате све записе потребне како би [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] функционисао. Сада је време да се вратите и конфигуришете додатна поља за ова подешавања.  
   
  Мораћете да конфигуришете следећа подешавања:  
   

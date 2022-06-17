@@ -1,18 +1,18 @@
 ---
 title: Порекло трансакције - Повезивање стварних података са њиховим извором
-description: Ова тема објашњава како се концепт порекла трансакције користи за повезивање стварних података са оригиналним изворним записима, као што су ставка времена, ставка трошкова или евиденције коришћења материјала.
+description: Овај чланак садржи објашњења о томе како се концепт порекла трансакције користи за повезивање стварних података са оригиналним изворним записима, као што су ставка времена, ставка трошкова или евиденције коришћења материјала.
 author: rumant
 ms.date: 03/25/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 908f78f7d58ec4b18f37d03b6fa7c4e2295491fa
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: f1beff392ddd449a930d38016ca6083fea97953b
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8584844"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921320"
 ---
 # <a name="transaction-origins---link-actuals-to-their-source"></a>Порекло трансакције - Повезивање стварних података са њиховим извором
 

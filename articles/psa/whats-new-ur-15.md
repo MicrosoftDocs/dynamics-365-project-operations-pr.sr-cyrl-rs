@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у издању 15 исправке Project Service Automation верзије 3
-description: У овој теми дате су информације о томе шта је ново у издању исправке 15 за Project Service Automation у верзији 3.
+description: Овај чланак пружа информације о томе шта је ново у издању за ажурирање аутоматизације услуге пројекта Релеасе 15, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 01/27/2020
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 26b9ee0a6ff1ad81d6c77a6a7091733667c493ff
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: b87cae2cd8913457c2931d1661a57509d1398d29
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8585166"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8915662"
 ---
 # <a name="project-service-automation-update-release-15-v3"></a>Project Service Automation издање исправке 15, у верзији 3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8585166"
 
 Са задовољство најављујемо најновију исправку за апликацију Dynamics 365 Project Service Automation (PSA). Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите центар за администрацију за Dynamics 365 online и идите до странице са решењима како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
-У овој теми дате су функције и исправке које су нове или су промењене у решењу PSA у верзији 3, издање исправке 15. Ова верзија има број верзије V3.10.5.28 и опште је доступна путем само-исправке у јануару 2020. године.
+Овај чланак наводи функције и исправке које су нове или промењене за ПСА V3, Издање за ажурирање 15. Ова верзија има број верзије V3.10.5.28 и опште је доступна путем само-исправке у јануару 2020. године.
 
 ## <a name="update-release-15"></a>Издање исправке 15 
 

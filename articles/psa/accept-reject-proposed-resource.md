@@ -1,6 +1,6 @@
 ---
 title: Прихватање или одбијање предложеног ресурса пројекта
-description: Ова тема пружа информације о томе како да одобрите или одбијете предложени ресурс пројекта.
+description: Овај чланак пружа информације о томе како да одобрите или одбијете предложени пројектни ресурс.
 ms.custom:
 - dyn365-projectservice
 ms.date: 12/07/2018
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 8337ed19764e62cf2e095ec2f51d325caf92e6fb
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 94c3f9f960adc7c348b19e23a11bc05bd60e0b56
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8599150"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8916214"
 ---
 # <a name="accept-or-reject-a-proposed-project-resource"></a>Прихватање или одбијање предложеног ресурса пројекта
 
@@ -30,7 +30,7 @@ ms.locfileid: "8599150"
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
-Ова тема пружа информације о томе како да одобрите или одбијете предложени ресурс пројекта.
+Овај чланак пружа информације о томе како да одобрите или одбијете предложени пројектни ресурс.
 
 Када менаџер ресурса предложи именовани ресурс за попуњавање захтева за генерички ресурс за пројекат, поље **Статус захтева** за генеричког члана тима биће ажурирано на **Потребан је преглед**. Захтев ће бити упућен менаџеру пројекта на одобравање или одбијање.
 

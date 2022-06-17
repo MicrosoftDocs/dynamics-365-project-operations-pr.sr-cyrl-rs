@@ -1,6 +1,6 @@
 ---
 title: Стварни утицај на интерни пројекат
-description: Овај тема информације о утицају на табелу "Стварне ствари" на различитим догађајима за интерни пројекат у корпорацији Мицрософт Dynamics 365 Project Operations.
+description: Овај чланак пружа информације о утицају на табелу "Актуелности" на различитим догађајима за интерни пројекат у корпорацији Мицрософт Dynamics 365 Project Operations.
 author: rumant
 ms.date: 02/22/2022
 ms.topic: overview
@@ -13,12 +13,12 @@ ms.search.region: ''
 ms.search.industry: ''
 ms.author: rumant
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 66a9ac4d2f56ae95313ed6731c3e51926105cff7
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: de05714c079fe121ef68e28b1acb82c24bce095e
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8579784"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921366"
 ---
 # <a name="actuals-impact-for-an-internal-project"></a>Стварни утицај на интерни пројекат
 

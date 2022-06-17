@@ -1,17 +1,17 @@
 ---
 title: Решите продајне цене за процене и тренутно стање
-description: Ова тема пружа информације о решавању стопа продаје за процене и тренутно стање.
+description: Овај чланак пружа информације о решавању продајних стопа за процене и стварне вредности.
 author: rumant
 ms.date: 04/07/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 697d5e330fec1874e8cb59fb86dd688637860346
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: ee750b93a5be7be09ed76942c7c235f8c811e8bb
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8578266"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8911844"
 ---
 # <a name="resolve-sales-prices-for-estimates-and-actuals"></a>Решите продајне цене за процене и тренутно стање
 

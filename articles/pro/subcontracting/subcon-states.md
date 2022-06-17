@@ -1,17 +1,17 @@
 ---
 title: Промене статуса подуговора
-description: Ова тема објашњава стање прелаза на подизвођачима у корпорацији Мицрософт Dynamics 365 Project Operations док се подизвођачи креирају, извршавају и затварају.
+description: Овај чланак садржи објашњења о прелазима стања на подизвођач у корпорацији Мицрософт Dynamics 365 Project Operations док се подизвођач креира, извршава и затвара.
 author: rumant
 ms.date: 12/03/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: c9533d046398c708c55467e6b1a25acf6abade3e
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: b41e3d44a17c51778dd850c7d4a48351a5d44554
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8579186"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8919756"
 ---
 # <a name="state-transitions-on-a-subcontract"></a>Промене статуса подуговора 
 
@@ -19,7 +19,7 @@ ms.locfileid: "8579186"
 
 _**Односи се на:** Једноставна примена – од погодбе до профактуре_
 
-Ова тема објашњава стање прелази на подизвођачима у корпорацији Мицрософт Dynamics 365 Project Operations. Свака држава је представљена као радна верзија, потврђена, затворена или отказана. Следећа слика представља државне прелазе.
+Овај чланак садржи објашњења о прелазима стања на подизвођач у корпорацији Мицрософт Dynamics 365 Project Operations. Свака држава је представљена као радна верзија, потврђена, затворена или отказана. Следећа слика представља државне прелазе.
 
 ![Модел стања подизвођачи](../media/SubconStates.png)  
 

@@ -1,17 +1,17 @@
 ---
 title: Преглед укупне искоришћености ресурса
-description: Ова тема пружа информације о приказу укупне искоришћености ресурса у услузи Project Operations.
+description: Овај чланак пружа информације о коришћењу ресурса у операцијама пројекта.
 author: ruhercul
 ms.date: 11/05/2020
 ms.topic: overview
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: e24bbb33cdf34426d4e7fff21b68fcaea2fcef5e
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 5fbba4c9feaf3b26fba3423e160b09c58e049c70
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8587144"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8918514"
 ---
 # <a name="resource-utilization-overview"></a>Преглед укупне искоришћености ресурса
 

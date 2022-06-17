@@ -1,17 +1,17 @@
 ---
 title: Конфигурисање табеле распореда за приказивање радника по уговору и капацитета подизвођача
-description: Овај тема описује како да конфигуришете Сцхедуле Боард у корпорацији Мицрософт да Dynamics 365 Project Operations прикаже капацитет ресурса подизвођачем приликом особља захтева за пројектне ресурсе.
+description: Овај чланак описује како да конфигуришете Сцхедуле Боард у корпорацији Мицрософт да Dynamics 365 Project Operations прикаже капацитет ресурса подизвођач када користите захтеве пројектних ресурса.
 author: rumant
 ms.date: 08/02/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 6e382b33fafe91c8b96a91d033fe12b998114bdc
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: b965fd5011a575354f50c47081be198ab43248f9
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8587864"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8919848"
 ---
 # <a name="configure-schedule-board-to-show-contract-workers-and-subcontracted-capacity"></a>Конфигурисање табеле распореда за приказивање радника по уговору и капацитета подизвођача 
 

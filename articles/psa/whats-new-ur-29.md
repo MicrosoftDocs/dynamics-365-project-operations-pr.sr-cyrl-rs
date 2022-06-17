@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у издању 29 исправке Project Service Automation верзије 3
-description: У овој теми су наведене функције и исправке које су доступне у издању исправке 29 за Project Service Automation верзије 3.
+description: Овај чланак наводи функције и исправке које су доступне у оквиру исправке за аутоматизацију услуге пројекта Релеасе 29, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 02/22/2021
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 56cf47d207c7ee518d5d4b53866c3d6ddf1d1fb3
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 733bbad53933b2de62222e78e3c5c919543c59e9
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8587236"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8915387"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-29-v3"></a>Шта је ново или промењено у издању 29 исправке Project Service Automation верзије 3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8587236"
 
 Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
-У овој теми су наведене функције и исправке које су нове или промењене у издању исправке 29 за Project Service Automation верзије 3. Ова верзија има број верзије V3.10.47.7 и генерално је доступна путем самосталног ажурирања у фебруаре 2021.
+Овај чланак наводи функције и исправке које су нове или промењене за V3 за аутоматизацију пројектне услуге, издање за ажурирање 29. Ова верзија има број верзије V3.10.47.7 и генерално је доступна путем самосталног ажурирања у фебруаре 2021.
 
 ## <a name="update-release-29"></a>Издање исправке 29
 

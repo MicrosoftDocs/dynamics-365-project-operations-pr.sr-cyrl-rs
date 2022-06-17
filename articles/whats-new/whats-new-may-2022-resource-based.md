@@ -1,24 +1,24 @@
 ---
 title: Шта је ново у мају 2022. – Project Operations за сценарије засноване на ресурсима / без залиха
-description: Ова тема пружа информације о квалитетним исправкама које су доступне у издању корпорације Мицрософт у мају Dynamics 365 Project Operations 2022.
+description: Овај чланак пружа информације о квалитетним исправкама које су доступне у издању корпорације Мицрософт Dynamics 365 Project Operations у мају 2022.
 author: sigitac
 ms.date: 05/02/2022
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: d3ac63f0d33d36cc5b6d4cea3ab8167e5974cfe6
-ms.sourcegitcommit: 7e419a5f73f80fa887084e3b212c90586fc397dd
+ms.openlocfilehash: beb75fc4b721d52cddbdaf2d20194218cefced5e
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "8710166"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921412"
 ---
 # <a name="whats-new-may-2022---project-operations-for-resourcenon-stocked-based-scenarios"></a>Шта је ново у мају 2022. – Project Operations за сценарије засноване на ресурсима / без залиха
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_
 
-Ова тема примењује на следеће компоненте и верзије корпорације Мицрософт Dynamics 365 Project Operations:
+Овај чланак се односи на следеће компоненте и верзије корпорације Мицрософт Dynamics 365 Project Operations:
 
 - Операције пројекта у верзији Dataverse окружења 4.42.0.70
 - Управљање пројектима и рачуноводство у Дyнамицс 365 Финанце окружењу верзија 10.0.26

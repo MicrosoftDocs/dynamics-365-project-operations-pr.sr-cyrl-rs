@@ -1,6 +1,6 @@
 ---
 title: Промене у управљању ресурсима (Project Service Automation 3.x)
-description: Ова тема пружа информације о променама у области управљања ресурсима.
+description: Овај чланак пружа информације о променама у области управљања ресурсима.
 author: makk
 ms.custom:
 - dyn365-projectservice
@@ -15,18 +15,18 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: d19b8b453c544bb4c6fd11a8b9f750cb08e0c168
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: cac11606811632bdc48f462eb3a09a163ba1620d
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8595516"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8916030"
 ---
 # <a name="resource-management-changes-project-service-automation-3x"></a>Промене у управљању ресурсима (Project Service Automation 3.x)
 
 [!include [banner](../../includes/psa-now-project-operations.md)]
 
-Одељци ове теме пружају информације о променама које су извршене у области управљања ресурсима у услузи Dynamics 365 Project Service Automation верзије 3.x.
+Одељци овог чланка пружају информације о променама које су извршене у области управљања ресурсима верзије Dynamics 365 Project Service Automation 3.x.
 
 ## <a name="project-estimates"></a>Процене за пројекат
 

@@ -1,25 +1,25 @@
 ---
 title: Ручно распоређивање Project Operations Dataverse апликације са подршком за двоструко уписивање
-description: Ова тема објашњава како да ручно примените Project Operations Dataverse апликацију тако да подржава двоструко уписивање.
+description: Овај чланак садржи објашњења о томе како да ручно примените апликацију "Операције Dataverse пројекта" тако да подржава двоструко писање.
 author: stsporen
 ms.date: 06/18/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: stsporen
-ms.openlocfilehash: b82eef7b5f64705f37f224172c14f6734612329e
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: be80ea3956fbf0264c2eeb7a5e30dd50b77e3c78
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8591238"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8912028"
 ---
 # <a name="manually-deploy-the-project-operations-dataverse-app-with-dual-write-support"></a>Ручно распоређивање Project Operations Dataverse апликације са подршком за двоструко уписивање
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_
 
-Ова тема објашњава како да ручно примените апликацију Microsoft Dynamics 365 Project Operations на платформи Microsoft Dataverse тако да подржава двоструко уписивање. Project Operations открива конфигурацију окружења и додаје додатну подршку за двоструко уписивање ако су испуњени предуслови.
+Овај чланак садржи објашњења о томе како да ручно примените Dynamics 365 Project Operations Мицрософт Microsoft Dataverse тако да подржава двоструко писање. Project Operations открива конфигурацију окружења и додаје додатну подршку за двоструко уписивање ако су испуњени предуслови.
 
-Током примене преко услуге Microsoft Dynamics Lifecycle Services (LCS), ако сте следили упутства у овој теми, можете прескочити примену Microsoft Power Platform интеграције (раније познате као Common Data Service окружење).
+Током примене Microsoft Dynamics путем услуга животног циклуса (ЛЦС), ако сте следили упутства из овог чланка, можете да прескочите примену Microsoft Power Platform интеграције (раније познате као Common Data Service окружење).
 
 Процес примене услуге Project Operations на платформи Dataverse тако да подржава двоструко уписивање има четири главна корака:
 

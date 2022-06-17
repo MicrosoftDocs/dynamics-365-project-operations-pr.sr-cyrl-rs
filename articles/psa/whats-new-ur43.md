@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у ажурирању аутоматизације услуге пројекта Релеасе 43, V3
-description: Овај тема наводи функције и исправке које су доступне у издању Microsoft Dynamics 365 Project Service Automation Упдате Релеасе 43, V3.
+description: Овај чланак наводи функције и исправке које су доступне у издању Microsoft Dynamics 365 Project Service Automation Упдате Релеасе 43, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 05/04/2022
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: fcf18a24b3bc354a16a415368063133743e79696
-ms.sourcegitcommit: 7e419a5f73f80fa887084e3b212c90586fc397dd
+ms.openlocfilehash: b12cfda08f1ea1fc441782003130be445a437f7c
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "8710177"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8915340"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-43-v3"></a>Шта је ново или промењено у ажурирању аутоматизације услуге пројекта Релеасе 43, V3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8710177"
 
 Задовољство нам је да најавимо најновију исправку за апликацију Microsoft Dynamics 365 Project Service Automation. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Компатибилан је са системом Дyнамицс 365 9.x. Да бисте се ажурирали на ово издање, посетите страницу центра администрације за Dynamics 365 мрежна решења и инсталирајте исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
-Овај тема наводи функције и исправке које су нове или промењене за исправку за аутоматизацију услуге пројекта Релеасе 43, V3. Број израде ове верзије је V3.10.74.200 и углавном је доступна путем самосталног ажурирања у мају 2022. године.
+Овај чланак наводи функције и исправке које су нове или промењене за исправку за аутоматизацију услуге пројекта Релеасе 43, V3. Број израде ове верзије је V3.10.74.200 и углавном је доступна путем самосталног ажурирања у мају 2022. године.
 
 ## <a name="update-release-43"></a>Издање исправке 43
 

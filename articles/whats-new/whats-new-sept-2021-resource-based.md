@@ -1,24 +1,24 @@
 ---
 title: Шта је ново у септембру 2021. – Project Operations за ресурс/сценарије који нису засновани на залихама
-description: Ова тема пружа информације о ажурирањима квалитета доступним у издању Project Operations за септембар 2021. године за за сценарије засноване на ресурсима/материјалима који нису на залихама.
+description: Овај чланак пружа информације о квалитетним исправкама доступним у септембру 2021.
 author: sigitac
 ms.date: 09/12/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 06f23630ef0205394f376e5bb93a29ae8a9eab15
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: c7f764b3e8ee3775167ee57b4f034e383899aea3
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8582912"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8923390"
 ---
 # <a name="whats-new-september-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>Шта је ново у септембру 2021. – Project Operations за ресурс/сценарије који нису засновани на залихама
 
 *Односи се на: Project Operations за сценарије засноване на ресурсима / без залиха*
 
-Ова тема се односи на следеће компоненте и верзије услуге Dynamics 365 Project Operations:
+Овај чланак се односи на следеће Dynamics 365 Project Operations компоненте и верзије:
 
    - Project Operations у Microsoft Dataverse окружењу верзије 4.14.0.99.
    - Управљање пројектима и рачуноводство у Дyнамицс 365 Финанце окружењу верзија 10.0.20.

@@ -1,24 +1,24 @@
 ---
 title: Шта је ново у јулу 2021. – Project Operations једноставна примена
-description: Ова тема пружа информације о исправкама квалитета доступним у издању услуге Project Operations једноставна примена за јул 2021. године.
+description: Овај чланак пружа информације о квалитетним исправкама доступним у јулу 2021.
 author: sigitac
 ms.date: 07/07/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 475ceea3a6c6db9fe63e3950eaca5d9074faa766
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 7964f38c1bc7a8e0440e2e922ff153fd9bede131
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8583970"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8914006"
 ---
 # <a name="whats-new-july-2021---project-operations-lite-deployment"></a>Шта је ново у јулу 2021. – Project Operations једноставна примена
 
 _Односи се на: Једноставна примена – од погодбе до профактуре_
 
-Ова тема се односи на следеће компоненте и верзије услуге Dynamics 365 Project Operations:
+Овај чланак се односи на следеће Dynamics 365 Project Operations компоненте и верзије:
 
   - Project Operations у Dataverse окружењу верзије 4.12.0.148 или 4.12.0.152.
 

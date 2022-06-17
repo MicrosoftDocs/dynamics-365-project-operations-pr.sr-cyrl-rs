@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у Project Service Automation издању исправке 19 у верзији 3
-description: У овој теми дате су функције и исправке које су доступне у Project Service Automation издању исправке 19 у верзији 3.
+description: Овај чланак наводи функције и исправке које су доступне у издању за ажурирање аутоматизације услуге пројекта Релеасе 19, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 05/05/2020
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 96229a6c656cd88b7314b4692ae5d53897b4e6c5
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: a17275220eec726107e8ce5f82bdf5cdd403033e
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8596186"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8915524"
 ---
 # <a name="project-service-automation-update-release-19-v3"></a>Project Service Automation издање исправке 19, у верзији 3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8596186"
 
 Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
-У овој теми дате су функције и исправке које су нове или су промењене у решењу PSA у верзији 3, издање исправке 19. Број израде ове верзије је V3.10.30.41 и углавном је доступна путем самосталног ажурирања у мају 2020. године.
+Овај чланак наводи функције и исправке које су нове или промењене за ПСА V3, Издање за ажурирање 19. Број израде ове верзије је V3.10.30.41 и углавном је доступна путем самосталног ажурирања у мају 2020. године.
 
 ## <a name="update-release-19"></a>Издање исправке 19
 

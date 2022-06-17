@@ -1,17 +1,17 @@
 ---
 title: Режими планирања
-description: Ова тема пружа информације о режимима планирања.
+description: Овај чланак пружа информације о режимима заказивања.
 author: ruhercul
 ms.date: 05/28/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: cb507528c4815f5149c813bba0a354f7d840a4a5
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 3cbe14f8d458c5d9631e0595912afa8cbb87b9de
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8588432"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8923666"
 ---
 # <a name="scheduling-modes"></a>Режими планирања
 
@@ -38,7 +38,7 @@ Dynamics 365 Project Operations пружа могућност организац
 | Задатак фиксног ангажовања    | Трајање је прерачунато. | Јединице се прерачунавају.    | Трајање је прерачунато. |
 | Задатак фиксног трајања  | Напор се прерачунава.   | Напор се прерачунава.    | Јединице се прерачунавају.   |
 
-За више информација о импликацијама датог режима погледајте [Промените тип задатка за тачније распоређивање](https://support.microsoft.com/en-us/office/change-the-task-type-for-more-accurate-scheduling-b0b969ad-45bc-4e9e-8967-435587548a72). У теми се појам **Посао** користи уместо **Напор**.
+За више информација о импликацијама датог режима погледајте [Промените тип задатка за тачније распоређивање](https://support.microsoft.com/en-us/office/change-the-task-type-for-more-accurate-scheduling-b0b969ad-45bc-4e9e-8967-435587548a72). У чланку се уместо напора **користи** термин **Рад**.
 
 ## <a name="change-the-organizations-scheduling-mode"></a>Промените режим заказивања организације
 

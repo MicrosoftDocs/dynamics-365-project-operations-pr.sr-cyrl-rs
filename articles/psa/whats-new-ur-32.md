@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у издању 32 исправке услуге Project Service Automation верзије 3
-description: У овој теми наведене су функције и исправке које су доступне у издању 32 исправке услуге Project Service Automation верзије 3.
+description: Овај чланак наводи функције и исправке које су доступне у издању за ажурирање аутоматизације услуге пројекта Релеасе 32, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 06/01/2021
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 3ad87eceb90a48997aadf00803b8d14c5108eb83
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 5124137c24da9b579ee1365524d66d9135b2d420
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8580106"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8912902"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-32-v3"></a>Шта је ново или промењено у издању 32 исправке услуге Project Service Automation верзије 3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8580106"
 
 Задовољство нам је да најавимо најновију исправку за апликацију Microsoft Dynamics 365 Project Service Automation. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Компатибилна је са системом Dynamics 365 9.x. Да бисте се ажурирали на ово издање, посетите страницу центра администрације за Dynamics 365 мрежна решења и инсталирајте исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
-У овој теми наведене су функције које су нове или промењене у издању 32 исправке услуге Project Service Automation верзије 3. Ова верзија има број верзије 3.10.53.108 и опште је доступна путем самосталног ажурирања у јуну 2021.
+Овај чланак наводи функције и исправке које су нове или промењене за V3 за аутоматизацију услуге пројекта, издање за ажурирање 32. Ова верзија има број верзије 3.10.53.108 и опште је доступна путем самосталног ажурирања у јуну 2021.
 
 ## <a name="update-release-32"></a>Издање исправке 32
 

@@ -1,6 +1,6 @@
 ---
 title: Напредно давање понуда, формирање цена и наплата
-description: Ова тема пружа информације о давању понуда, наплати и формирању цена у решењу Project Service Automation.
+description: Овај чланак пружа информације о наводу, наплати и ценама у аутоматизацији пројектне услуге.
 author: kfend
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 54047f34d950fc79e510bfe0d6601e271c02a92c
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8106a18fefc34141fdc5d350c60e87ec4b2a4c1d
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8579370"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921826"
 ---
 # <a name="advanced-quoting-pricing-and-billing-guide"></a>Напредни водич за давање понуда, формирање цена и наплата
 
@@ -32,7 +32,7 @@ ms.locfileid: "8579370"
 
 Способност проналажења правих ресурса у право време, резервисање тих ресурса за пројекте и њихово редовно коришћење помаже организацијама да испуне циљеве у погледу прихода и задовољства клијената. 
 
-PDF веза која је претходно била у овој теми уклоњена је, а садржај је премештен у следеће теме:
+ПДФ линк који је претходно био у овом чланку је уклоњен и садржај је премештен у следеће чланке:
 
 - [Давање понуда, формирање цена и наплата](../quote-bill-price.md)
 - [Процеси продаје](../basic-sales-process.md)
@@ -50,7 +50,7 @@ PDF веза која је претходно била у овој теми ук
 - [Евидентирање стварних вредности](../advanced-actuals.md)
 
 > [!NOTE]
-> Ова тема биће уклоњена у будућој исправци документације. 
+> Овај чланак ће бити уклоњен у будућој исправци. 
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

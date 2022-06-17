@@ -1,18 +1,18 @@
 ---
 title: Конфигуришите материјале који нису на залихама и фактуре добављача на чекању
-description: Ова тема објашњава како да омогућите материјале који нису на залихама и фактуре добављача на чекању.
+description: Овај чланак садржи објашњења о томе како да омогућите нефактурисане материјале и фактуре добављача на чекању.
 author: sigitac
 ms.date: 06/22/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 1b14ab17a317e7082bc9c24709590745a5c48ea8
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 6473ef3510f0d3641a2d61b6a1b1f28980993277
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8592986"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8913776"
 ---
 # <a name="configure-non-stocked-materials-and-pending-vendor-invoices"></a>Конфигуришите материјале који нису на залихама и фактуре добављача на чекању
 
@@ -32,7 +32,7 @@ Dynamics 365 Dataverse решења:
 
 ## <a name="run-dual-write-maps-for-non-stocked-materials-and-vendor-invoice-integration"></a>Покрените мапе двоструког писања за нескладиштене материјале и интеграцију рачуна добављача
 
-Овај одељак пружа информације о одређеним мапама потребним за материјал који није на залихама и фактуре добављача. Проверите да ли су неопходне мапе наведене у теми [Обезбедите ново окружење](../environment/resource-provision-new-environment.md#run-project-operations-dual-write-maps) покренуте у вашем окружењу.
+Овај одељак пружа информације о одређеним мапама потребним за материјал који није на залихама и фактуре добављача. Проверите да ли су предусловне мапе наведене у одредби [новог чланка о окружењу](../environment/resource-provision-new-environment.md#run-project-operations-dual-write-maps) покренуте на вашем окружењу.
 
 1. Идите на Lifecycle Services (LCS), дођите до LCS пројекта и идите на страницу **Детаљи окружења**.
 2. У одељку Информације о **Common Data Service окружењу**, изаберите **Веза до услуге CDS за апликације**. Када изаберете везу, бићете преусмерени на листу ентитета у мапирањима.

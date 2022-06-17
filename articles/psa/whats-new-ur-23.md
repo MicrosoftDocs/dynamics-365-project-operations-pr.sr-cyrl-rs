@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у издању 23 исправке Project Service Automation верзије 3
-description: У овој теми дате су функције и исправке које су доступне у издању 23 исправке за Project Service Automation верзије 3.
+description: Овај чланак наводи функције и исправке које су доступне у оквиру исправке за аутоматизацију услуге пројекта Релеасе 23, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 08/25/2020
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: cc918f1516d4751b3f8e70a93d8fc66058201f22
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 968626c7b2097a9b85178cb000b3633a766f54c9
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8581624"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8913047"
 ---
 # <a name="project-service-automation-update-release-23-v3"></a>Project Service Automation издање 23 исправке верзије 3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8581624"
 
 Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
-У овој теми дате су функције и исправке које су нове или промењене у решењу Project Service Automation у верзији 3, издање исправке 23. Ова верзија има број V3.10.34.30 и опште је доступна путем самосталне исправке објављене августа 2020.
+Овај чланак наводи функције и исправке које су нове или промењене за V3 аутоматизацију услуге пројекта, издање за ажурирање 23. Ова верзија има број V3.10.34.30 и опште је доступна путем самосталне исправке објављене августа 2020.
 
 ## <a name="update-release-23"></a>Издање исправке 23
 

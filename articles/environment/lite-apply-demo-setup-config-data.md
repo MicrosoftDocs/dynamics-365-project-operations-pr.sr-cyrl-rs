@@ -1,17 +1,17 @@
 ---
 title: Примена демо подешавања и података о конфигурацији – једноставно
-description: Ова тема пружа информације о томе како да примените демо подешавања и податке о конфигурацији за Project Operations.
+description: Овај чланак пружа информације о примени података о подешавању демонстрације и конфигурацији за операције пројекта.
 author: sigitac
 ms.date: 01/27/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: ecb5da3bccf35f8ed7e2246f68dd4da2b145c6be
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 68e504dd031596b295b1383a8e81621744cae8d2
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8587006"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8922332"
 ---
 # <a name="apply-demo-setup-and-configuration-data-for-project-operations---lite"></a>Примена демо подешавања и података о конфигурацији за Project Operations – једноставно 
 

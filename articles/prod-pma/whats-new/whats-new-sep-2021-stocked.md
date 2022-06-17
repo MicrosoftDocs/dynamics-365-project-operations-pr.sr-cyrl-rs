@@ -1,24 +1,24 @@
 ---
 title: Шта је ново или промењено у пројектно пословање, септембар 2021. за снабдевене/производне сценарије
-description: Ова тема пружа информације о квалитетним исправкама које су доступне у издању Пројектних операција за сценарије засноване на залихама/производњи у септембру 2021.
+description: Овај чланак пружа информације о квалитетним исправкама које су доступне у издању пројектних операција за сценарије засноване на залихама/производњи у септембру 2021.
 author: andchoi
 ms.date: 11/11/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: andchoi
-ms.openlocfilehash: 24de8626199a3ed56bb6703b78d746ff7a43a089
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 1e99471b4338209c1f7fe411084d1745d74b2d2c
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8582038"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8916536"
 ---
 # <a name="whats-new-or-changed-in-project-operations-september-2021-for-stockedproduction-based-scenarios"></a>Шта је ново или промењено у пројектно пословање, септембар 2021. за снабдевене/производне сценарије
 
 _**Односи се на:** Project Operations за сценарије засноване на залихама/производњи_
 
-Ова тема примењује на следеће компоненте и верзије корпорације Мицрософт Dynamics 365 Project Operations:
+Овај чланак се односи на следеће компоненте и верзије корпорације Мицрософт Dynamics 365 Project Operations:
 
 - Управљање пројектима и рачуноводство у Дyнамицс 365 Финанце окружењу верзија 10.0.21
  

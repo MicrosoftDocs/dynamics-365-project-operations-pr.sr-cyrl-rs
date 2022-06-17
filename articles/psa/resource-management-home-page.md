@@ -1,6 +1,6 @@
 ---
 title: Матична страница за управљање ресурсима
-description: Ова тема пружа информације о томе како да управљате ресурсима.
+description: Овај чланак пружа информације о начину управљања ресурсима.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
@@ -18,12 +18,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 1d909b0cb3530b5f1a829983d2d4737d81bf0d1b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: bf61922ab185a4a5589b9aa9247ab93909ce169b
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8578772"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8913270"
 ---
 # <a name="resource-management-home-page"></a>Матична страница за управљање ресурсима
 
@@ -31,9 +31,9 @@ ms.locfileid: "8578772"
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
-Ресурси су најважнији адут организације засноване на услугама. Способност проналажења и резервисања одговарајућих ресурса када су вам потребни и њихова стална искоришћеност помаже организацији да испуни циљеве у погледу прихода и задовољства клијената. Следеће теме су усмерене на тахничке могућности апликације Dynamics 365 Project Service Automation да управља ресурсима:
+Ресурси су најважнији адут организације засноване на услугама. Способност проналажења и резервисања одговарајућих ресурса када су вам потребни и њихова стална искоришћеност помаже организацији да испуни циљеве у погледу прихода и задовољства клијената. Следећи чланци су фокусирани на могућности управљања ресурсима: Dynamics 365 Project Service Automation
 
-- [Управљање ресурсима](manage-resources.md)
+- [Управљај ресурсима](manage-resources.md)
 - [Кључни концепти](reports-key-concepts.md)
 - [Испуњавање захтева за ресурсе](resource-management-fulfill-requests.md)
 - [Предлагање ресурса](resource-management-propose-resources.md)

@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у издању 12 исправке Project Service Automation верзије 3
-description: У овој теми дате су информације о томе шта је ново у издању исправке 12 за Project Service Automation у верзији 3.
+description: Овај чланак пружа информације о томе шта је ново у издању за ажурирање аутоматизације услуге пројекта Релеасе 12, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 02/04/2020
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 2712cc671e9868bc4b3b143a2067da4381102eda
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 28539b2e1331c8509e40aaf771f4d88d6f54e022
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8577438"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8922654"
 ---
 # <a name="project-service-automation-update-release-12-v3"></a>Project Service Automation издање исправке 12, у верзији 3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8577438"
 
 Са задовољство најављујемо најновију исправку за апликацију Dynamics 365 Project Service Automation (PSA). Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите центар за администрацију за Dynamics 365 online и идите до странице са решењима како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
-У овој теми дате су функције које су нове или су промењене у решењу Project Service Automation у верзији 3, издање исправке 12. Ова верзија има број верзије V3.10.2.34 и опште је доступна путем само-исправке у октобру 2019. године.
+Овај чланак наводи функције и исправке које су нове или промењене за V3 за аутоматизацију пројектне услуге, издање за ажурирање 12. Ова верзија има број верзије V3.10.2.34 и опште је доступна путем само-исправке у октобру 2019. године.
 
 ## <a name="update-release-12"></a>Издање исправке 12
 

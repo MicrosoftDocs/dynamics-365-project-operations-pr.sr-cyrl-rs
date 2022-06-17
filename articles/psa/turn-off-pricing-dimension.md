@@ -1,6 +1,6 @@
 ---
 title: Искључивање димензије за одређивање цена
-description: Ова тема показује како се подешавају димензије за одређивање цена у решењу Project Service.
+description: Овај чланак приказује како се посирећу димензије цена у решењу пројектне услуге.
 author: Rumant
 ms.custom:
 - dyn365-projectservice
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: f308104246efe671d2001e660aa8c0ab9ef44c7a
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 81c3cfaad8dc8d057985b509f20c3ba31de45e3b
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8581716"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8913178"
 ---
 # <a name="turn-off-a-pricing-dimension"></a>Искључивање димензије за одређивање цена
 

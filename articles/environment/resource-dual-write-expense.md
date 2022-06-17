@@ -1,24 +1,24 @@
 ---
 title: Интеграција управљања трошковима
-description: Ова тема пружа информације о интеграцији управљања трошковима у Project Operations помоћу двоструког уписивања.
+description: Овај чланак пружа информације о интеграцији извештаја о трошковима у операцијама пројекта помоћу двоструког писања.
 author: sigitac
 ms.date: 04/28/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: b41be519dbfa89668712bc28ccb1888cd08c38a2
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: c64c318dc1915a9a87b6ae3c6b8a2aa6d3c9cd36
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8585810"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8924632"
 ---
 # <a name="expense-management-integration"></a>Интеграција управљања трошковима
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_
 
-Ова тема пружа информације о интеграцији управљања извештајима у Project Operations [пуној примени трошкова](../expense/expense-overview.md) помоћу двоструког уписивања.
+Овај чланак пружа информације о интеграцији извештаја о трошковима у операције пројекта потпуно [распоређивање трошкова](../expense/expense-overview.md) помоћу двоструког писања.
 
 ## <a name="expense-categories"></a>Категорије трошкова
 

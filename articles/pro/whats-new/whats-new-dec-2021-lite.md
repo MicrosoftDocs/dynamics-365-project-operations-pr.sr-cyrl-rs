@@ -1,24 +1,24 @@
 ---
 title: Шта је нови децембар 2021.
-description: Овај тема пружа информације о квалитетним исправкама које су доступне у децембру 2021.
+description: Овај чланак пружа информације о квалитетним исправкама које су доступне у децембру 2021.
 author: sigitac
 ms.date: 12/09/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: b1ff0a14bf6cb445913bcba11f83234826014857
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 301acc5be76fb0318d6298820b62ae5bb05efac3
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8585396"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8914098"
 ---
 # <a name="whats-new-december-2021---project-operations-lite-deployment"></a>Шта је нови децембар 2021.
 
 _Односи се на: Једноставна примена – од погодбе до профактуре_
 
-Ова тема примењује на следеће компоненте и верзије корпорације Мицрософт Dynamics 365 Project Operations:
+Овај чланак се односи на следеће компоненте и верзије корпорације Мицрософт Dynamics 365 Project Operations:
 
 - Операције пројекта у верзији Dataverse окружења 4.27.0.195, 4.27.0.242, 4.27.0.244
 

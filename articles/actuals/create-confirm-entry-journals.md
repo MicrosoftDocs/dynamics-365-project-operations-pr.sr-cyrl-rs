@@ -1,6 +1,6 @@
 ---
-title: Креирање и потврда налога уноса
-description: Ова тема информације о креирању и потврђију дневнике уноса у корпорацији Мицрософт Dynamics 365 Project Operations.
+title: Креирање и потврда ставки књижења у главној књизи
+description: Овај чланак пружа информације о креирању и потврђију дневника уноса у корпорацији Мицрософт Dynamics 365 Project Operations.
 author: rumant
 ms.date: 09/18/2020
 ms.topic: article
@@ -13,14 +13,14 @@ ms.assetid: ''
 ms.author: rumant
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 8cb768337bc197895a837670f93b99b132c97437
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 138dccd72607d6515eeeffb066fa485f83eabbec
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8584246"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8912350"
 ---
-# <a name="create-and-confirm-entry-journals"></a>Креирање и потврда налога уноса
+# <a name="create-and-confirm-entry-journals"></a>Креирање и потврда ставки књижења у главној књизи
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 

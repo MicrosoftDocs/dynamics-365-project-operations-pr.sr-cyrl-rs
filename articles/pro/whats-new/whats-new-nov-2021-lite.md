@@ -1,24 +1,24 @@
 ---
 title: Шта је нови новембар 2021 - Пројецт Оператионс лите деплоyмент
-description: Ова тема пружа информације о квалитетним исправкама које су доступне у новембру 2021.
+description: Овај чланак пружа информације о квалитетним исправкама које су доступне у новембру 2021.
 author: sigitac
 ms.date: 11/09/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 3f3a19cddd1b91fc76c852153526fb7197a9f92c
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 947e7f6183ddeef3ab9a88d140331956bbcf23bd
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8587788"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8913822"
 ---
 # <a name="whats-new-november-2021---project-operations-lite-deployment"></a>Шта је нови новембар 2021 - Пројецт Оператионс лите деплоyмент
 
 _Односи се на: Једноставна примена – од погодбе до профактуре_
 
-Ова тема примењује на следеће компоненте и верзије корпорације Мицрософт Dynamics 365 Project Operations:
+Овај чланак се односи на следеће компоненте и верзије корпорације Мицрософт Dynamics 365 Project Operations:
 
 - Операције пројекта у верзији Dataverse окружења 4.26.0.145, 4.26.0.148, 4.26.0.150, 4.26.0.155
   

@@ -1,6 +1,6 @@
 ---
 title: Шта је ново или промењено у издању 18 исправке за Project Service Automation верзије 3
-description: У овој теми дате су функције и исправке које су доступне у издању 18 исправке за Project Service Automation верзије 3.
+description: Овај чланак наводи функције и исправке које су доступне у издању за ажурирање аутоматизације услуге пројекта Релеасе 18, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 04/27/2020
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 8c76672e63fc4b01d5c6f8cce2831782b9c22326
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: e8d423c550d9aa09c9cbb7d4f7c277c43bbe10ae
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8598782"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8918882"
 ---
 # <a name="project-service-automation-update-release-18-v3"></a>Project Service Automation издање исправке 18, у верзији 3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8598782"
 
 Задовољство нам је да објавимо најновије ажурирање за апликацију Project Service Automation за Dynamics 365. Ово издање укључује нека важна побољшања у квалитету, перформансама и употребљивости. Ово издање је компатибилно са услугом Dynamics 365 9.x. Да бисте ажурирали ово издање, посетите страницу са решењима центра за администрацију за Dynamics 365 online како бисте инсталирали исправку. За још информација погледајте чланак [Инсталирање, исправка или уклањање жељеног решења](/power-platform/admin/install-remove-preferred-solution).
 
-У овој теми дате су функције које су нове или су промењене у решењу Project Service Automation у верзији 3, издање исправке 18. Број израде ове верзије је V3.10.8.12 и углавном је доступна путем самосталног ажурирања у априлу 2020. године.
+Овај чланак наводи функције и исправке које су нове или промењене за V3, издање за ажурирање 18. Број израде ове верзије је V3.10.8.12 и углавном је доступна путем самосталног ажурирања у априлу 2020. године.
 
 ## <a name="update-release-18"></a>Издање исправке 18
 

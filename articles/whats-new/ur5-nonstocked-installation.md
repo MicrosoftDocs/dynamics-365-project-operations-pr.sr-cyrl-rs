@@ -1,25 +1,25 @@
 ---
 title: Ажурирање услуге Project Operations у Finance окружењу
-description: Овај тема пружа информације о томе како да ажурирате операције пројекта у Дyнамицс 365 Финанце окружењу.
+description: Овај чланак пружа информације о томе како да ажурирате операције пројекта у Дyнамицс 365 Финанце окружењу.
 author: ruhercul
 ms.date: 12/11/2020
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 9cd562ac3360298796fbe34dbe2ac8708b00150f
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 0cf9da8cc9d1f29dc41d4b119278e545047020bc
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8579967"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8912488"
 ---
 # <a name="update-project-operations-in-your-finance-environment"></a>Ажурирање услуге Project Operations у Finance окружењу
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_
 
 
-Овај тема пружа информације о томе како да ажурирате Dynamics 365 Project Operations Дyнамицс 365 Финанце окружењу. Постоје три процедуре потребне за ажурирање услуге Project Operations на исправку 5 (Microsoft Dynamics CRM 2011 Update Rollup 5):
+Овај чланак пружа информације о томе како да ажурирате Dynamics 365 Project Operations Дyнамицс 365 Финанце окружењу. Постоје три процедуре потребне за ажурирање услуге Project Operations на исправку 5 (Microsoft Dynamics CRM 2011 Update Rollup 5):
 
 - [Увоз пакета у пројекат прегледа](#import)
 - [Примена исправке](#apply)
