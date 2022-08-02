@@ -6,12 +6,12 @@ ms.date: 01/10/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 7db7ea6b3cffe6eb43ee0519bbaccfc9092c9311
-ms.sourcegitcommit: 51745acac29dfacba43a4003d86baff4d6ca2fb8
+ms.openlocfilehash: 6a6986cfd6c01d1c22d37a10c8d824730fad2e9e
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "8959695"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9029318"
 ---
 # <a name="sign-up-for-project-operations-trials"></a>Пријавите се за пробну верзију апликације Project Operations 
 
@@ -90,7 +90,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ## <a name="configuring-dual-write"></a>Конфигурисање двоструког уписивања
 - Да бисте конфигурисали безбедносне улоге за двоструко писање, погледајте ажурирање [безбедносних поставки за операције пројекта у програму Dataverse](resource-provision-new-environment.md#update-security-settings-on-project-operations-on-dataverse).
-- Да бисте приступили конфигурацији двоструког писања, дођите до инстанце"Финансије" и "Операције", а затим се крећите **до дуалног писања** > **управљања подацима**.
+- Да бисте приступили конфигурацији двоструког уписивача, дођите до инстанце финансирања и операција, а затим се крећите **до дуалног писања** > **управљања подацима**.
 - Да бисте конфигурисали мапе са два писања, погледајте мапе [двоструког писања"Покрени операције пројекта"](resource-provision-new-environment.md#run-project-operations-dual-write-maps).
 
 ## <a name="assign-licenses"></a>Додела лиценци
@@ -117,7 +117,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ## <a name="frequently-asked-questions"></a>Најчешћа питања
 
-### <a name="what-if-i-require-alm-or-elm-for-my-finance-and-operations-apps-environment"></a>Шта ако ми је потребан АЛМ или ЕЛМ за окружење апликација за финансије и операције?
+### <a name="what-if-i-require-alm-or-elm-for-my-finance-and-operations-apps-environment"></a>Шта ако захтевам АЛМ или ЕЛМ за окружење апликација за финансије и операције?
 
 - За партнере којима су потребне пуне могућности управљања животним циклусом окружења, погледајте [Захтев за лиценцу за Sandbox партнера](https://experience.dynamics.com/requestlicense) да бисте прегледали нову понуду партнера. 
 - За партнере који траже више информација о правима интерне употребе, погледајте [Погодности облака и софтвера за права интерне употребе (microsoft.com](https://partner.microsoft.com/membership/internal-use-software).

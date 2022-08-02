@@ -7,12 +7,12 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: df9d8a40fa853e72416e64846bf59748815048be
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: f0fbaed028db11d8fb1551d304a40543faf35b0d
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8921504"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9028347"
 ---
 # <a name="removed-or-deprecated-features-in-dynamics-365-project-operations"></a>Уклоњене или неодобрене функције у Dynamics 365 Project Operations
 
@@ -26,7 +26,7 @@ _**Односи се на:** Project Operations за сценарије засн
 Сврха ове листе је да вам помогне да размислите о овим уклањањима и застаревањима за сопствено планирање.
 
 > [!NOTE]
-> Детаљне информације о објектима у апликацијама "Финансије и операције" можете пронаћи у техничким [**референтним извештајима**](/dynamics/s-e/global/axtechrefrep_61). Можете да упоредите различите верзије ових извештаја да бисте сазнали више о објектима који су промењени или уклоњени у свакој верзији апликација "Финансије и операције".
+> Детаљне информације о објектима у апликацијама за финансије и операције можете пронаћи у техничким [**референтним извештајима**](/dynamics/s-e/global/axtechrefrep_61). Можете да упоредите различите верзије ових извештаја да бисте сазнали више о објектима који су промењени или уклоњени у свакој верзији апликација за финансије и операције.
 
 ## <a name="features-removed-or-deprecated-in-the-project-operations-march-2022-release"></a>Функције уклоњене или застареле у издању Пројектне операције марта 2022.
 

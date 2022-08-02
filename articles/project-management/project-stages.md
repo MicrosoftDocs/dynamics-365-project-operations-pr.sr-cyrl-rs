@@ -15,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: b146174583fdea45481b87375158ebe83ed63418
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: a8c8e63a2d8c238f582b67348f88b7285a0b1e12
+ms.sourcegitcommit: 278740b352f1ed9618ee5c79597c8f449984d6f4
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8911154"
+ms.lasthandoff: 07/19/2022
+ms.locfileid: "9177398"
 ---
 # <a name="project-stages"></a>Фазе пројекта
 
@@ -47,7 +47,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ## <a name="plan"></a>План
 
-Када вам буде одобрена понуда повезана са пројектом и када се пројекат пребаци у фазу **уговора**, фаза пројекта се ажурира на **План**. Док је пројекат је у фази **плана**, на страници **Ентитет пројекта** се приказују детаљи уговора.
+Када вам буде одобрена понуда повезана са пројектом и када се пројекат пребаци у фазу **уговора**, фаза пројекта се ажурира на **План**. Док је пројекат у фази **плана**, картица "Продаја **" на** страници **"Ентитет пројекта** " приказује детаље уговора.
 
 ## <a name="deliver"></a>Испорука
 

@@ -2,16 +2,16 @@
 title: Верзије мапе двоструког уписивања за Project Operations
 description: Овај чланак обезбеђује листу мапа са двоструким писањем које су потребне за Dynamics 365 Project Operations.
 author: sigitac
-ms.date: 04/22/2021
+ms.date: 07/01/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: ee0b6a1722405e6a50c42db6bd2a25b872c6118c
-ms.sourcegitcommit: 51745acac29dfacba43a4003d86baff4d6ca2fb8
-ms.translationtype: HT
+ms.openlocfilehash: e904ad18b6ea94cd6d31d1878b5bc9e7c52be741
+ms.sourcegitcommit: c8b8fef5626790208c5290b1bb92b17a5d90d286
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "8959659"
+ms.lasthandoff: 07/02/2022
+ms.locfileid: "9112447"
 ---
 # <a name="project-operations-dual-write-map-versions"></a>Верзије мапе двоструког уписивања за Project Operations
 
@@ -25,7 +25,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 | Мапа табела | Почетна синхронизација |
 | --- | --- |
-| Књига (msdyn_ledgers) | Захтева почетну синхронизацију за мапу табеле и све предуслове. Мастер за почетну синхронизацију су апликације"Финансије и операције". |
+| Књига (msdyn_ledgers) | Захтева почетну синхронизацију за мапу табеле и све предуслове. Мастер за почетну синхронизацију су апликације за финансије и операције. |
 | Правна лица (cdm_companies) | Није обавезно. Систем аутоматски попуњава овај ентитет када су окружења повезана помоћу двоструког уписивања. |
 | Клијенти V3 (пословни контакти) | Није потребно за резервисање. |
 | Продавци V2 (msdyn_vendors) | Није потребно за резервисање. |
@@ -46,7 +46,7 @@ _**Односи се на:** Project Operations за сценарије засн
 | Заглавља пројектних уговора (налози за продају) | 1.0.0.1 | Није потребно за резервисање. ||
 | Предмети уговора пројекта (salesorderdetails) | 1.0.0.0 | Није потребно за резервисање. ||
 | Извор финансирања пројеката (msdyn_projectcontractsplitbillingrules) | 1.0.0.2 | Није потребно за резервисање. ||
-| Project Operations табела интеграције за процене материјала (msdyn\__estimatelines) | 1.0.0.0 | Није потребно за резервисање. ||
+| Табела интеграције пројеката за процене материјала (мсдyн \_ естимателинес) | 1.0.0.0 | Није потребно за резервисање. ||
 | Предлози фактура пројекта V2 (фактуре) | 1.0.0.3 | Није потребно за резервисање. ||
 | Project Operations стварне вредности интеграције (msdyn_actuals) | 1.0.0.14 | Није потребно за резервисање. ||
 | Контролне тачке предмета уговора за интеграцију са услугом Project Operations (msdyn_contractlinescheduleofvalues) | 1.0.0.4 | Није потребно за резервисање. ||

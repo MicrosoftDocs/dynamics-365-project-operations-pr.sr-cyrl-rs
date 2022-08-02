@@ -7,12 +7,12 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 0cf9da8cc9d1f29dc41d4b119278e545047020bc
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: aedfd815521054d58944496500aa03a27be9267b
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8912488"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9030053"
 ---
 # <a name="update-project-operations-in-your-finance-environment"></a>Ажурирање услуге Project Operations у Finance окружењу
 
@@ -119,7 +119,7 @@ _**Односи се на:** Project Operations за сценарије засн
 4. На страници **Верзија мапе табеле** примените нову верзију мапе на сваки од три ентитета.
 5. На страници **Двоструко уписивање** изаберите „Покрени“ да бисте поново покренули мапе.
 6. На листи мапа одаберите мапу **Главна књига (msdyn_ledgers)** са свим предусловима и означите поље за потврду **Почетна синхронизација**. 
-7. У пољу Мастер **за почетну синхронизацију изаберите** апликације"Финансије **и операције", а затим** изаберите ставку **Покрени**.
+7. У пољу Мастер **за почетну синхронизацију изаберите** апликације"Финансије **" и "Операције", а затим** изаберите ставку **Покрени**.
  
  ![Синхронизација мапе главне књиге.](media/DW6.png)
  

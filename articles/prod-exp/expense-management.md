@@ -14,12 +14,12 @@ ms.search.region: Global
 ms.author: shylaw
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 778a068bc80b099037b895f7e0d4add4d454242f
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
-ms.translationtype: HT
+ms.openlocfilehash: d693177ac68a92cec3893b4126a0bd7c79e0bb74
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8934062"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9029364"
 ---
 # <a name="expense-management-overview"></a>Преглед управљања трошковима
 
@@ -43,7 +43,7 @@ ms.locfileid: "8934062"
 
 ### <a name="blogs"></a>Блогови
 
-Мишљења, новости и друге информације можете пронаћи на [Microsoft Dynamics блогу 365 и](https://community.dynamics.com/b/msftdynamicsblog?c=Enterprise) блогу [Microsoft Dynamics 365 Финансије и финансије](https://community.dynamics.com/365/financeandoperations/b/financials).
+Мишљења, новости и друге информације можете пронаћи на [Microsoft Dynamics блогу 365 и](https://community.dynamics.com/b/msftdynamicsblog?c=Enterprise) блогу [Microsoft Dynamics 365 Финанце - Финанциалс](https://community.dynamics.com/365/financeandoperations/b/financials).
 
 [Microsoft Dynamics Operations Partner Community блог](https://community.dynamics.com/partner/b/operationspartnercommunityblog) даје Microsoft Dynamics партнерима јединствени ресурс где могу да науче шта је ново и у тренду у одељењу MBS Operations.
 

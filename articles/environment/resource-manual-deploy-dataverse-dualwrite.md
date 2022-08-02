@@ -6,12 +6,12 @@ ms.date: 06/18/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: stsporen
-ms.openlocfilehash: be80ea3956fbf0264c2eeb7a5e30dd50b77e3c78
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
-ms.translationtype: HT
+ms.openlocfilehash: a25e2a59f1c069057c6689825ce52b13d842af71
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8912028"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9028582"
 ---
 # <a name="manually-deploy-the-project-operations-dataverse-app-with-dual-write-support"></a>Ручно распоређивање Project Operations Dataverse апликације са подршком за двоструко уписивање
 
@@ -37,7 +37,7 @@ _**Односи се на:** Project Operations за сценарије засн
 3. Изаберите тип окружења. Ако сте се пријавили за понуду пробне верзије, изаберите **Пробна верзија (заснована на претплати)**.
 4. Потврдите регион примене.
 5. Омогућите опцију **Креирање базе података за ово окружење**. 
-6. Потврдите језик, а затим потврдите да се валута подудара са валутом за апликације"Финансије и операције".
+6. Потврдите језик, а затим потврдите да се валута подудара са валутом за апликације за финансије и операције.
 7. Омогућите **Dynamics 365 апликације** и потврдите да је поље **Аутоматски примени ове апликације** подешено на **Ниједна**.
 8. Додајте безбедносну групу ако је потребна безбедносна група.
 9. Изаберите **Сачувај** да бисте креирали окружење.
@@ -62,4 +62,4 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ## <a name="link-your-environments"></a><a name="link"></a>Повезивање окружења
 
-Након што је Dataverse окружење распоређено, можете да подесите везу у апликацијама за финансије и операције. Следите кораке у чланку [Коришћење чаробњака за двоструко уписивање ради повезивања окружења](/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/link-your-environment).
+Након што Dataverse је окружење распоређено, можете да подесите везу у апликацијама за финансије и операције. Следите кораке у чланку [Коришћење чаробњака за двоструко уписивање ради повезивања окружења](/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/link-your-environment).

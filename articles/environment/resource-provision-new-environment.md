@@ -7,12 +7,12 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 9cc3dafd6a2b6f92b585643c5d43ab52a3faf59e
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
-ms.translationtype: HT
+ms.openlocfilehash: 78f40ebe79c038799fbc59902442ad6c23fb94d4
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
+ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8931624"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9028536"
 ---
 # <a name="provision-a-new-environment"></a>Обезбеђење новог окружења
 
@@ -117,7 +117,7 @@ Project Operations захтева Finance окружење са верзијом
 
     ![Примена решења.](./media/13ApplySolutions.png)
 
-5. Изаберите оба решења, **Дyнамицс 365 Финанце анд Оператионс мапу ентитета за двоструко писање и мапе** **Dynamics 365 Project Operations ентитета за двоструко писање, а затим** изаберите **Примени**.
+5. Изаберите оба решења, **Дyнамицс 365 Финанце мапу ентитета за двоструко писање и мапе** **Dynamics 365 Project Operations ентитета за двоструко писање, а затим** изаберите **Примени**.
 
     ![Потврда решења.](./media/14ConfirmSolutions.png)
 
