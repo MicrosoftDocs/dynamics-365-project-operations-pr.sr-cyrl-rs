@@ -62,10 +62,12 @@
           href: environment/uninstall-project-operations.md
     - name: Шта је ново
       items:
-        - name: Јул 2022. – Project Operations за сценарије са ресурсима/материјалима који нису на залихама
-          href: whats-new/whats-new-july-2022-resource-based.md
+        - name: Август 2022. – Project Operations за сценарије са ресурсима/материјалима који нису на залихама
+          href: whats-new/whats-new-aug-2022-resource-based.md
         - name: Архива
           items:
+            - name: Јул 2022. – Project Operations за сценарије са ресурсима/материјалима који нису на залихама
+              href: whats-new/whats-new-july-2022-resource-based.md
             - name: Јун 2022. – Project Operations за сценарије са ресурсима/материјалима који нису на залихама
               href: whats-new/whats-new-june-2022-resource-based.md
             - name: Мај 2022. – Project Operations за сценарије са ресурсима/материјалима који нису на залихама
@@ -384,6 +386,42 @@
           items:
             - name: Преглед укупне искоришћености ресурса
               href: resource-management/resource-utilization-overview.md
+    - name: Управљање подуговорима
+      items:
+        - name: Управљање подуговорима у услузи Project Operations
+          href: pro/subcontracting/managing-subcontracts-overview.md
+        - name: Кључни концепти у подуговарању
+          href: pro/subcontracting/key-concepts-subcontracting.md
+        - name: Управљање добављачима и ценовницима пројеката
+          href: pro/subcontracting/vendors-purchase-price-lists.md
+        - name: Подизвођачи као ресурси који могу да се резервишу
+          href: pro/subcontracting/subcontractors-as-bookable-resources.md
+        - name: Детаљи заглавља за подуговоре
+          href: pro/subcontracting/subcontract-header-details.md
+        - name: Предмети подуговора за време
+          href: pro/subcontracting/subcontract-line-time.md
+        - name: Предмети подуговора за категорије трошкова
+          href: pro/subcontracting/subcontract-line-expense.md
+        - name: Предмети подуговора за производе
+          href: pro/subcontracting/subcontract-line-products.md
+        - name: Ресурси предмета подизвођача
+          href: pro/subcontracting/subcontract-line-resources.md
+        - name: Контролне тачке предмета подуговора
+          href: pro/subcontracting/subcontract-line-milestones.md
+        - name: Чланови пројектног тима подуговарања
+          href: pro/subcontracting/subcontracting-project-team-members.md
+        - name: Опције подуговарања за чланове пројектног тима
+          href: pro/subcontracting/subcon-options.md
+        - name: Процена трошкова додељивања ресурса подизвођачима
+          href: pro/subcontracting/costing-subcon-ra.md
+        - name: Конфигурисање табеле распореда за приказивање радника по уговору и капацитета подизвођача
+          href: pro/subcontracting/configure-sb-subcon.md
+        - name: Особље пројекта са радницима по уговору и подизвођачима
+          href: pro/subcontracting/staffing-cw.md
+        - name: 'Време снимања, трошкови и коришћење материјала за компоненте подизвођачима'
+          href: pro/subcontracting/recording-subcon-actuals.md
+        - name: Промене статуса подуговора
+          href: pro/subcontracting/subcon-states.md
     - name: Време
       items:
         - name: Преглед времена
@@ -580,6 +618,8 @@
       items:
         - name: Миграција потпуно фактурисаних контролних тачака фактурисања током потпуне миграције
           href: advanced-configuration/migrating-invoiced-milestones.md
+        - name: Синхронизовање статуса пројекта ради спречавања уласка у затворене пројекте
+          href: advanced-configuration/sync-project-status.md
     - name: Надоградња
       items:
         - name: Разматрања о надоградњи за модерна одобрења
@@ -610,10 +650,12 @@
           href: environment/security-model.md
     - name: Шта је ново
       items:
-        - name: Шта је ново у јулу 2022. – једноставна примена
-          href: pro/whats-new/whats-new-july-2022-lite.md
+        - name: Шта је ново у августу 2022. – једноставна примена
+          href: pro/whats-new/whats-new-aug-2022-lite.md
         - name: Архива
           items:
+            - name: Шта је ново у јулу 2022. – једноставна примена
+              href: pro/whats-new/whats-new-july-2022-lite.md
             - name: Шта је ново у јуну 2022. – једноставна примена
               href: pro/whats-new/whats-new-june-2022-lite.md
             - name: Шта је ново у вези са раним приступом 2. таласа за 2021. – једноставна примена
