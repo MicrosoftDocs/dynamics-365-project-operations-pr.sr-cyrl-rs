@@ -14,12 +14,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10
 ms.search.validFrom: 2019-02-28
-ms.openlocfilehash: b4ed85123c92a60c6b6308fda3d9ef2f6693a0dd
-ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
+ms.openlocfilehash: 74d3f5377559763e035155bd3f10818076f97ea3
+ms.sourcegitcommit: fcfcedacfea4d6feabacb6b83bb9c14e5a25fcaf
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/18/2022
-ms.locfileid: "9028904"
+ms.lasthandoff: 08/19/2022
+ms.locfileid: "9317006"
 ---
 # <a name="project-mobile-applications-overview"></a>Преглед пројеката апликација за мобилне уређаје
 
@@ -42,9 +42,8 @@ ms.locfileid: "9028904"
 ## <a name="for-more-information"></a>За више информација
 
 - [Апликација за мобилне уређаје Project Timesheet](project-timesheet.md)
-- [Ставка времена пројекта]( project-time-entry-mobile-workspace.md)
+- [Ставка времена пројекта](project-time-entry-mobile-workspace.md)
 - [Временски распореди пројекта на мобилном уређају](Mobile-timesheets.md)
 - [Примените прилагођена поља за Microsoft Dynamics 365 Project Timesheet апликацију за мобилне уређаје на платформама iOS и Android](custom-fields-mobile.md)
-
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
