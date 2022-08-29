@@ -1,17 +1,17 @@
 ---
-title: Подешавање и примена података о конфигурацији у услузи Common Data Service
+title: Подешавање и примена података о конфигурацији у услузи Microsoft Dataverse
 description: Овај чланак пружа информације о подешавању и примени података о конфигурацији у операцијама пројекта.
 author: sigitac
 ms.date: 05/10/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 2c918425e9a6c5fe8888ed8a4258ca59f0464828
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: b09d3ea7348082a0467fd7b47918c9e00d1f1e8c
+ms.sourcegitcommit: 8edd24201cded2672cec16cd5dc84c6a3516b6c2
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8928036"
+ms.lasthandoff: 08/06/2022
+ms.locfileid: "9230270"
 ---
 # <a name="set-up-and-apply-configuration-data-in-the-common-data-service"></a>Подешавање и примена података о конфигурацији у услузи Common Data Service 
 
@@ -21,10 +21,10 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ## <a name="prerequisites"></a>Предуслови
 
-Пре него што почнете да конфигуришете податке у услузи Common Data Service (CDS), морају бити испуњени следећи предуслови:
+Пре него што почнете да конфигуришете Microsoft Dataverse податке у, морају се испунити следећи предуслови:
 
-1.  Обезбеђивање ЦДС окружења и окружења Дyнамицс 365 Финанце за пројектне операције.
-2.  Информације о правном лицу Дyнамицс 365 Финанце се деле у ЦДС окружење. То значи да ентитет **Компанија** у CDS-у има следеће евиденције предузећа:
+1.  Обезбеђивање окружења Dataverse и окружења Дyнамицс 365 Финанце за пројектне операције.
+2.  Информације о правном лицу Дyнамицс 365 Финанце се деле са околином Dataverse. То значи да ентитет **предузећа** у програму Dataverse има следеће записе предузећа:
   - THPM
   - USPM
   - GBPM

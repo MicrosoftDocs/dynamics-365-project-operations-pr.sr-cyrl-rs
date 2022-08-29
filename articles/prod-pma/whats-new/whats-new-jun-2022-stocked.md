@@ -7,12 +7,12 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: ef2be1f6286c55861e92abf5c85a5387aec8cd1c
-ms.sourcegitcommit: 51745acac29dfacba43a4003d86baff4d6ca2fb8
+ms.openlocfilehash: a3173b98bee90b138bb7ce1b59bde90d8d0f5db2
+ms.sourcegitcommit: fcfcedacfea4d6feabacb6b83bb9c14e5a25fcaf
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "8959692"
+ms.lasthandoff: 08/19/2022
+ms.locfileid: "9316960"
 ---
 # <a name="whats-new-or-changed-in-project-operations-june-2022-for-stockedproduction-based-scenarios"></a>Шта је ново или промењено у пројектно пословање, јун 2022. за снабдевене/производне сценарије
 
@@ -24,7 +24,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ## <a name="features-included-in-this-release"></a>Функције укључене у овом издању
 
-Захтеви артикла се могу користити за пројектне уговоре који имају више извора финансирања. Више информација потражите у чланку [Захтеви артикла за пројектне уговоре са више извора финансирања](/multiple-funding-sources-item-req.md).
+Захтеви артикла се могу користити за пројектне уговоре који имају више извора финансирања. Више информација потражите у чланку [Захтеви артикла за пројектне уговоре са више извора финансирања](../multiple-funding-sources-item-req.md).
 
 ## <a name="quality-updates"></a>Исправке квалитета
 

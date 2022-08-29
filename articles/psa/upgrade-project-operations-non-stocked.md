@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 30eb02240de6617d4c550ce59db2a454eee36f5b
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: c7958c1474820361269f19ea8c9279b96f087d7a
+ms.sourcegitcommit: 8edd24201cded2672cec16cd5dc84c6a3516b6c2
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8912994"
+ms.lasthandoff: 08/06/2022
+ms.locfileid: "9230287"
 ---
 # <a name="upgrade-from-project-service-automation-to-project-operations"></a>Надоградња са аутоматизације пројектних услуга на пројектне операције
 
@@ -67,7 +67,7 @@ ms.locfileid: "8912994"
 
 ## <a name="testing-and-refactoring-customizations"></a>Прилагођавања тестирања и реактората
 
-Као полазну тачку, увезите сва прилагођавања у чисто окружење пројектних операција (лите) да бисте потврдили да је увоз успешан и да се пословно пословање понаша на очекивани начин.
+Као полазну тачку, увезите сва прилагођавања у чисто окружење пројектних операција (Лите) да бисте потврдили да је увоз успешан и да се пословно пословање понаша као што се очекивало.
 
 Ево неких ствари на које треба да се пазите:
 
