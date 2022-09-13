@@ -6,12 +6,12 @@ ms.date: 01/27/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 68e504dd031596b295b1383a8e81621744cae8d2
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 9a3a99c326b7ebbdfa859c3298b35e910af0eb2a
+ms.sourcegitcommit: 16c9eded66d60d4c654872ff5a0267cccae9ef0e
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8922332"
+ms.lasthandoff: 09/07/2022
+ms.locfileid: "9410053"
 ---
 # <a name="apply-demo-setup-and-configuration-data-for-project-operations---lite"></a>Примена демо подешавања и података о конфигурацији за Project Operations – једноставно 
 
@@ -21,10 +21,10 @@ _**Једноставна примена – од погодбе до профа
 
 ## <a name="prerequisites"></a>Предуслови
 
-Пре него што започнете конфигурацију, морате имати Common Data Service (CDS) окружење предвиђено за Dynamics 365 Project Operations.
+Пре него што започнете конфигурацију, морате имати Dataverse окружење обезбеђено за Dynamics 365 Project Operations.
 
 
-## <a name="instructions"></a>Упутства
+## <a name="instructions"></a>Упутство
 
 1. Преузмите [Пакет главних података](https://download.microsoft.com/download/3/4/1/341bf279-a64f-4baa-af31-ce624859b518/ProjOpsSampleSetupData-%20CE%20only.zip). 
 2. Дођите до фасцикле *ProjOpsSampleSetupData - CE only CMT* и покрените извршну датотеку *DataMigrationUtility*.
