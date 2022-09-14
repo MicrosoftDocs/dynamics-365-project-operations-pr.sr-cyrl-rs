@@ -168,6 +168,8 @@
                   href: sales/invoice-schedule-quote-line.md
             - name: Копирање понуда за пројекат
               href: sales/lose-quote.md
+            - name: Активирање и кориговање понуде за пројекат
+              href: sales/activation-and-revision.md
             - name: Затварање понуда за пројекат
               href: sales/win-quote.md
         - name: Управљање уговорима за пројекат
@@ -198,6 +200,8 @@
                   href: sales/import-estimate-project-contract-line.md
                 - name: Креирање распореда фактурисања за предмете уговора засноване на пројекту
                   href: sales/invoice-schedules-contract-line.md
+            - name: Копирање уговора заснованих на пројекту
+              href: sales/copy-project-based-contracts-sales.md
             - name: Потврда уговора за пројекат
               href: pro/sales/confirm-contract-sales.md
             - name: Аванси и авансне уплате
@@ -228,9 +232,9 @@
               href: pricing-costing/default-project-sales-price-lists.md
             - name: Измена продајних ценовника за пројекат
               href: pricing-costing/override-project-sales-price-list-default.md
-            - name: Решавање цена коштања за процене и тренутно стање
+            - name: Утврђивање цена коштања за процене и тренутно стање
               href: pricing-costing/cost-price-resolution.md
-            - name: Решавање продајних цена за процене и тренутно стање
+            - name: Утврђивање продајних цена за процене и тренутно стање
               href: pricing-costing/sales-price-resolution.md
             - name: Копирање ценовника
               href: pricing-costing/copy-price-lists.md
@@ -766,6 +770,8 @@
                   href: sales/invoice-schedule-quote-line.md
             - name: Копирање понуда заснованих на пројекту
               href: sales/lose-quote.md
+            - name: Активирање и кориговање понуде за пројекат
+              href: sales/activation-and-revision.md
             - name: Затварање понуда заснованих на пројекту
               href: pro/sales/win-quote-sales.md
         - name: Управљање уговорима заснованим на пројекту
@@ -838,9 +844,9 @@
               href: pricing-costing/default-project-sales-price-lists.md
             - name: Измена продајних ценовника за пројекат
               href: pricing-costing/override-project-sales-price-list-default.md
-            - name: Решавање цена коштања за процене и тренутно стање пројекта
+            - name: Утврђивање цена коштања за процене и тренутно стање пројекта
               href: pro/pricing-costing/cost-price-resolution-sales.md
-            - name: Решавање продајних цена за процене и тренутно стање пројекта
+            - name: Утврђивање продајних цена за процене и тренутно стање пројекта
               href: pro/pricing-costing/sales-price-resolution-sales.md
             - name: Копирање ценовника
               href: pricing-costing/copy-price-lists.md
