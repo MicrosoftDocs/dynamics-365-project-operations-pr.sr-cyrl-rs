@@ -232,6 +232,8 @@
               href: pricing-costing/default-project-sales-price-lists.md
             - name: Измена продајних ценовника за пројекат
               href: pricing-costing/override-project-sales-price-list-default.md
+            - name: Подешавање измена на одређени датум за одређене цене у ценовнику
+              href: pricing-costing/dateffective_price_overrides.md
             - name: Утврђивање цена коштања за процене и тренутно стање
               href: pricing-costing/cost-price-resolution.md
             - name: Утврђивање продајних цена за процене и тренутно стање
@@ -544,6 +546,14 @@
           href: procurement/pending-vendor-invoices.md
         - name: Наручивање роба и услуга које нису на залихама за пројекте помоћу наруџбеница пројеката
           href: procurement/non-stocked-materials-project-purchase-orders.md
+        - name: Фактуре добављача за подизвођаче у услузи Dataverse
+          items:
+            - name: Креирање фактура продавца
+              href: procurement/Vendor-invoicing-concept-and-creation.md
+            - name: Верификација фактура добављача са одобреним стварним вредностима
+              href: pro/subcontracting/VI-Verification.md
+            - name: Потврда фактура добављача за пројекат
+              href: procurement/Confirm-a-project-vendor-invoice.md
         - name: Одлагање обавеза према добављачу
           items:
             - name: Преглед одлагања обавеза према добављачу
@@ -844,6 +854,8 @@
               href: pricing-costing/default-project-sales-price-lists.md
             - name: Измена продајних ценовника за пројекат
               href: pricing-costing/override-project-sales-price-list-default.md
+            - name: Подешавање измена на одређени датум за одређене цене у ценовнику
+              href: pricing-costing/dateffective_price_overrides.md
             - name: Утврђивање цена коштања за процене и тренутно стање пројекта
               href: pro/pricing-costing/cost-price-resolution-sales.md
             - name: Утврђивање продајних цена за процене и тренутно стање пројекта
