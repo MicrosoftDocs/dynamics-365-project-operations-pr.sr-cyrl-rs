@@ -16,18 +16,18 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 8a6030faf777051ea1003679589af4bdf97322ab
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: a9c69fc4296d30763f3994a4955e64ab258ceb4f
+ms.sourcegitcommit: 675e9f3615e701c5f998de3a5ea3e25df11ae107
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8925368"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "9459945"
 ---
 # <a name="feature-changes-from-project-service-automation-to-project-operations"></a>Промене функција од апликације Project Service Automation до услуге Project Operations
 
 Надоградња са Dynamics 365 Project Service Automation на Dynamics 365 Project Operations Лите биће испоручена у три фазе. Овај чланак пружа информације о великим променама које можете очекивати када се надоградња доврши.
 
-| Надоградња испоруке | Фаза 1 <br>(јануар 2022. године) | Фаза 2 <br>(Априлски талас 2022) | Фаза 3  |
+| Надоградња испоруке | Фаза 1 <br>(јануар 2022. године) | Фаза 2 <br>(новембар 2022) | Фаза 3  |
 |------------------|------------------------|---------------------------|---------------------------|
 | Нема зависности од структуре анализе рада (WБС) за пројекте. | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | WБС је укључен у тренутно подржана ограничења пројектних операција. | &nbsp; | :heavy_check_mark: | :heavy_check_mark: |
