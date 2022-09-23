@@ -2,20 +2,20 @@
 title: Особље пројекта са радницима по уговору и подизвођачима
 description: Овај чланак садржи објашњења о томе како захтеви пројекта могу да се користе помоћу радника по уговору или капацитета подизвођачима у корпорацији Мицрософт Dynamics 365 Project Operations.
 author: rumant
-ms.date: 12/03/2021
+ms.date: 09/14/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 8edb053467ef200ca3e051e2fd78106734318389
-ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
+ms.openlocfilehash: 30e16efeed93ab4568eac57fb3ed46067a08524d
+ms.sourcegitcommit: 08eb3be9eda44e9446c43ed9b6aefd58d77927c5
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/11/2022
-ms.locfileid: "9261273"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9522454"
 ---
 # <a name="staffing-a-project-with-contract-workers-and-subcontracted-capacity"></a>Особље пројекта са радницима по уговору и подизвођачима
 
-_**Односи се на:** Једноставна примена – од погодбе до профактуре_
+_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 Генерички чланови пројектног тима могу бити запослени или радници по уговору. Када користите пројекат са радницима по уговору, можете да ограничите опције особља на одређене раднике по уговору који су додељени реду подизвођаче. 
 

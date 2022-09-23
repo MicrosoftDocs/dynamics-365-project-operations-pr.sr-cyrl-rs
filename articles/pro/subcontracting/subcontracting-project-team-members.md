@@ -2,20 +2,20 @@
 title: Чланови пројектног тима подуговарања
 description: Овај чланак садржи објашњења о томе како да подизвођачите чланове пројектног тима у корпорацији Мицрософт Dynamics 365 Project Operations.
 author: rumant
-ms.date: 12/03/2021
+ms.date: 9/14/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 14abd82cbbd256770105d4272f686590737e2648
-ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
+ms.openlocfilehash: a2f17d6f270029e3a517e99c7bb518cdb19b8d23
+ms.sourcegitcommit: 08eb3be9eda44e9446c43ed9b6aefd58d77927c5
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/11/2022
-ms.locfileid: "9261389"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9522814"
 ---
 # <a name="subcontracting-project-team-members"></a>Чланови пројектног тима подуговарања
 
-_**Односи се на:** Једноставна примена – од погодбе до профактуре_
+_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 У корпорацији Мицрософт Dynamics 365 Project Operations можете одабрати да подизвођачима одврате чланове пројектног тима који нису у штимованим или особљем.
 

@@ -2,20 +2,20 @@
 title: Предмет подуговора за производе
 description: Овај чланак садржи објашњења о томе како да запушите редове подизвођача за производе и користите разна поља за записивање набавки производа од добављача.
 author: rumant
-ms.date: 08/06/2021
+ms.date: 09/14/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: b5852df1876eff591ae6a131b229d979eacf5aad
-ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
+ms.openlocfilehash: 1ca042eaf95a5e252f00248e83efb959ab3ce801
+ms.sourcegitcommit: 08eb3be9eda44e9446c43ed9b6aefd58d77927c5
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/11/2022
-ms.locfileid: "9262141"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9522861"
 ---
 # <a name="subcontract-lines-for-products"></a>Предмет подуговора за производе
 
-_**Односи се на:** Једноставна примена – од погодбе до профактуре_
+_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 Подуговор у услузи Dynamics 365 Project Operations може имати предмет подуговора за производе. Ови предмети омогућавају менаџеру пројекта да купује производе од продаваца које затим може користити у пројектним задацима.
 

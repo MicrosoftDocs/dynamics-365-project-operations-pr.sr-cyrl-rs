@@ -2,20 +2,20 @@
 title: Детаљи заглавља за подуговоре
 description: Овај чланак садржи објашњења о функционалности наведеној у заглављу подизвођача у операцијама пројекта.
 author: rumant
-ms.date: 09/14/2021
+ms.date: 09/14/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: ce16b7a968bc7e6904411ae9e021a5ca1839d02e
-ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
+ms.openlocfilehash: 00b7c08235654d4bed0bcb4053d2044a3d092b54
+ms.sourcegitcommit: 08eb3be9eda44e9446c43ed9b6aefd58d77927c5
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/11/2022
-ms.locfileid: "9261436"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9522579"
 ---
 # <a name="header-details-for-subcontracts"></a>Детаљи заглавља за подуговоре
 
-_**Односи се на:** Једноставна примена – од погодбе до профактуре_
+_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 Овај чланак садржи објашњења о функционалности наведеној у заглављу подизвођач у програму Dynamics 365 Project Operations.
 

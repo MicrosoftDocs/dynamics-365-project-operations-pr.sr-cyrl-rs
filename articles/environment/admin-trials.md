@@ -6,12 +6,12 @@ ms.date: 01/10/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 6a6986cfd6c01d1c22d37a10c8d824730fad2e9e
-ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
+ms.openlocfilehash: 60790d83d5fcc8c75fef8eac2877d1ca14a761f2
+ms.sourcegitcommit: 385081ecc839d7d4a557eda2bb1578ca073f7e41
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/18/2022
-ms.locfileid: "9029318"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9528038"
 ---
 # <a name="sign-up-for-project-operations-trials"></a>Пријавите се за пробну верзију апликације Project Operations 
 
@@ -112,7 +112,7 @@ _**Односи се на:** Project Operations за сценарије засн
 Следећи ресурси пружају корисне смернице док започињете своје путовање са апликацијом Project Operations:
 
 - [Видео серија – преглед апликације Project Operations, садржи детаљне анализе и план](https://youtube.com/playlist?list=PLcakwueIHoT_LJ3Fr1tHnkPk5lioqE6uH)
-- [Dynamics 365 Project Operations](/learn/modules/examine-dynamics-365-project-operations/)
+- [Dynamics 365 Project Operations](/training/modules/examine-dynamics-365-project-operations/)
 - [Одређивање врсте примене](determine-deployment-type.md)
 
 ## <a name="frequently-asked-questions"></a>Најчешћа питања

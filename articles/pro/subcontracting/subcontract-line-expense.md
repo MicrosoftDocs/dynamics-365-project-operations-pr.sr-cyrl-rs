@@ -2,20 +2,20 @@
 title: Предмети подуговора за категорије трошкова
 description: Овај чланак садржи објашњења о томе како да запушите редове подизвођача за трошкове и користите поља да бисте записали набавку времена од добављача.
 author: rumant
-ms.date: 08/06/2021
+ms.date: 09/14/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 7166642abc2187a53f7019639df6f0d7124f4765
-ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
+ms.openlocfilehash: ba1241ce40b7c5b488e278e8f1b8e9f352f45dc8
+ms.sourcegitcommit: 08eb3be9eda44e9446c43ed9b6aefd58d77927c5
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 08/11/2022
-ms.locfileid: "9261859"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9522626"
 ---
 #  <a name="subcontract-lines-for-expense-categories"></a>Предмети подуговора за категорије трошкова
 
-_**Односи се на:** Једноставна примена – од погодбе до профактуре_
+_**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 Подуговор у услузи Dynamics 365 Project Operations може имати предмет за категорије трошкова. Предмети подуговора за категорије трошкова дозвољавају менаџеру пројекта да купује категорије услуга или производа од продаваца које могу да наплате на име пројекта.
 

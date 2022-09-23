@@ -7,12 +7,12 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: e11f1cfd714212691146eed59bcfb5b5facd750c
-ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
+ms.openlocfilehash: da37adcf63a10b9f245283d377e70fd08b3aa9c5
+ms.sourcegitcommit: 385081ecc839d7d4a557eda2bb1578ca073f7e41
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/18/2022
-ms.locfileid: "9029227"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9528023"
 ---
 # <a name="expense-management-integration"></a>Интеграција управљања трошковима
 
@@ -34,7 +34,7 @@ _**Односи се на:** Project Operations за сценарије засн
 
 ## <a name="expense-reports"></a>Извештаји о трошковима
 
-Извештаји о трошковима се креирају и одобравају у апликацијама за финансије и операције. За више информација погледајте [Креирајте и обрадите извештаје о трошковима у Dynamics 365 Project Operations](/learn/modules/create-process-expense-reports/). Након што менаџер пројекта одобри извештај о трошковима, он се књижи у главној књизи. У Project Operations, редови извештаја о трошковима у вези са пројектом објављују се користећи посебна правила књижења:
+Извештаји о трошковима се креирају и одобравају у апликацијама за финансије и операције. За више информација погледајте [Креирајте и обрадите извештаје о трошковима у Dynamics 365 Project Operations](/training/modules/create-process-expense-reports/). Након што менаџер пројекта одобри извештај о трошковима, он се књижи у главној књизи. У Project Operations, редови извештаја о трошковима у вези са пројектом објављују се користећи посебна правила књижења:
 
   - Трошкови повезани са пројектом (укључујући неповратни порез) не књиже се одмах на рачун трошкова пројекта у главној књизи, већ се књиже на рачун интеграције трошкова. Налог конфигурисан у **Управљање пројектима и рачуноводство** > **Подешавање** > **Параметри управљања пројектом и рачуноводствени параметри**, картица **Project Operations у услузи Dynamics 365 Customer Engagement**.
   - Двоструко писање се синхронизује са Dataverse користећи **Project Operations ентитет извоза трошкова интеграције пројекта (msdyn\_expenses)** мапу табела.
