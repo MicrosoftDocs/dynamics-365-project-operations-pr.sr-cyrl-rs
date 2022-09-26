@@ -324,7 +324,7 @@
           items:
             - name: Сарадња са Office групама
               href: project-management/collaboration-groups.md
-        - name: Напомене програмера
+        - name: Белешке програмера
           items:
             - name: Развој предложака пројеката помоћу опције за копирање пројеката
               href: project-management/dev-copy-project.md
@@ -436,7 +436,7 @@
           items:
             - name: Кориснички интерфејс за ставку времена
               href: time/ui-behavior-time.md
-        - name: Напомене програмера
+        - name: Белешке програмера
           items:
             - name: Прилагођавање мреже седмичне ставке времена
               href: time/customize-weekly-time-entry-grid.md
@@ -508,9 +508,11 @@
           href: approvals/cancelapproval.md
         - name: Опозив претходно одобрених ставки
           href: approvals/recall-cancel.md
-        - name: Напомене програмера
+        - name: Безбедност и одобрења
+          href: approvals/approvals-security.md
+        - name: Белешке програмера
           items:
-            - name: Напомене програмера за одобрења
+            - name: Белешке програмера за одобрења
               href: approvals/dev-notes-approvals.md
     - name: Стварне вредности
       items:
@@ -560,6 +562,8 @@
               href: procurement/vendor-retention-overview.md
             - name: Подесите одлагање обавеза према добављачу
               href: procurement/set-up-vendor-retention.md
+            - name: Плаћање након извршене наплате
+              href: procurement/Pay-when-paid.md
     - name: Фактурисање
       items:
         - name: Преглед процеса фактурисања
@@ -946,7 +950,7 @@
           items:
             - name: Сарадња са Office групама
               href: project-management/collaboration-groups.md
-        - name: Напомене програмера
+        - name: Белешке програмера
           items:
             - name: Развој предложака пројеката помоћу опције за копирање пројеката
               href: project-management/dev-copy-project.md
@@ -1078,7 +1082,7 @@
           items:
             - name: Кориснички интерфејс за ставку времена
               href: time/ui-behavior-time.md
-        - name: Напомене програмера
+        - name: Белешке програмера
           items:
             - name: Прилагођавање мреже седмичне ставке времена
               href: time/customize-weekly-time-entry-grid.md
@@ -1102,9 +1106,11 @@
           href: approvals/cancelapproval.md
         - name: Опозив претходно одобрених ставки
           href: approvals/recall-cancel.md
-        - name: Напомене програмера
+        - name: Безбедност и одобрења
+          href: approvals/approvals-security.md
+        - name: Белешке програмера
           items:
-            - name: Напомене програмера за одобрења
+            - name: Белешке програмера за одобрења
               href: approvals/dev-notes-approvals.md
     - name: Стварне вредности
       items:
