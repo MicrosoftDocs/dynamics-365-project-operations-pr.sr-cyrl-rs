@@ -6,12 +6,12 @@ ms.date: 07/01/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: e904ad18b6ea94cd6d31d1878b5bc9e7c52be741
-ms.sourcegitcommit: c8b8fef5626790208c5290b1bb92b17a5d90d286
+ms.openlocfilehash: b86b9ecdc63989189c76dd8380024aa44c7641a5
+ms.sourcegitcommit: a2d720ac6d7ddb20a0967fe87992a376b2478208
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 07/02/2022
-ms.locfileid: "9112447"
+ms.lasthandoff: 10/04/2022
+ms.locfileid: "9621100"
 ---
 # <a name="project-operations-dual-write-map-versions"></a>Верзије мапе двоструког уписивања за Project Operations
 
@@ -48,14 +48,14 @@ _**Односи се на:** Project Operations за сценарије засн
 | Извор финансирања пројеката (msdyn_projectcontractsplitbillingrules) | 1.0.0.2 | Није потребно за резервисање. ||
 | Табела интеграције пројеката за процене материјала (мсдyн \_ естимателинес) | 1.0.0.0 | Није потребно за резервисање. ||
 | Предлози фактура пројекта V2 (фактуре) | 1.0.0.3 | Није потребно за резервисање. ||
-| Project Operations стварне вредности интеграције (msdyn_actuals) | 1.0.0.14 | Није потребно за резервисање. ||
+| Project Operations стварне вредности интеграције (msdyn_actuals) | 1.0.0.15. | Није потребно за резервисање. |10.0.29 или новији|
 | Контролне тачке предмета уговора за интеграцију са услугом Project Operations (msdyn_contractlinescheduleofvalues) | 1.0.0.4 | Није потребно за резервисање. ||
 | Ентитет за интеграцију са услугом Project Operations за процену трошкова (msdyn_estimatelines) | 1.0.0.2 | Није потребно за резервисање. ||
 | Project Operations ентитет интеграције за процене сати (msdyn_resourceassignments) | 1.0.0.5 | Није потребно за резервисање. ||
 | Project Operations ентитет извоза категорија трошкова пројекта (msdyn_expensecategories) | 1.0.0.1 | Није потребно за резервисање. ||
 | Project Operations ентитет извоза трошкова интеграције пројекта (msdyn_expenses) | 1.0.0.3 | Није потребно за резервисање. ||
-| Project Operations ентитет извоза фактуре продавца (msdyn_projectvendorinvoices) | 1.0.0.1 | Није потребно за резервисање. |10.0.26 или новији|
-| Project Operations ентитет извоза реда фактуре продавца (msdyn_projectvendorinvoicelines) | 1.0.0.4 | Није потребно за резервисање. | 10.0.26 или новији |
+| Project Operations ентитет извоза фактуре продавца (msdyn_projectvendorinvoices) | 1.0.0.2 | Није потребно за резервисање. |10.0.29 или новији|
+| Project Operations ентитет извоза реда фактуре продавца (msdyn_projectvendorinvoicelines) | 1.0.0.5 | Није потребно за резервисање. | 10.0.29 или новији |
 | Улоге пројектних ресурса за сва предузећа (bookableresourcecategories) | 1.0.0.1 | Захтева почетну синхронизацију за мапу табеле за синхронизацију улога ресурса Менаџера пројекта и члана тима који су попуњени у Dynamics 365 Dataverse окружењу током резервисања. Dataverse је главни извор за почетну синхронизацију. ||
 | Пројектни задаци (msdyn_projecttasks) | 1.0.0.4 | Није потребно за резервисање. ||
 | Категорије пројектних трансакција (msdyn_transactioncategories) | 1.0.0.0 | Није потребно за резервисање. ||
