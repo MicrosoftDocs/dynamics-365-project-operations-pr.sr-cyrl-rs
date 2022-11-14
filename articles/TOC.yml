@@ -286,6 +286,8 @@
           href: project-management/define-project-calendars.md
         - name: Режими заказивања
           href: project-management/scheduling-modes.md
+        - name: Спољно заказивање
+          href: project-management/external-scheduling.md
         - name: Ажурирање пројекта
           href: project-management/update-project.md
         - name: Копирање пројекта
@@ -914,6 +916,8 @@
           href: project-management/define-project-calendars.md
         - name: Режими заказивања
           hreF: project-management/scheduling-modes.md
+        - name: Спољно заказивање
+          href: project-management/external-scheduling.md
         - name: Ажурирање пројекта
           href: project-management/update-project.md
         - name: Копирање пројекта
