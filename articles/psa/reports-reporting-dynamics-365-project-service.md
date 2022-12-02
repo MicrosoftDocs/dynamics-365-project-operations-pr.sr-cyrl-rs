@@ -1,6 +1,6 @@
 ---
 title: Почетна страница за извештавање
-description: Овај чланак пружа информације о извештавању у Dynamics 365 Project Service Automation.
+description: Овај чланак пружа информације о извештавању у апликацији Dynamics 365 Project Service Automation.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
@@ -47,7 +47,7 @@ Microsoft Power BI и Dynamics 365 заједно пружају моћан на
 
 
 ## <a name="additional-resources"></a>Додатни ресурси
-Више информација о извештавању у ПСА потражите у следећим чланцима:
+За више информација о извештавању у апликацији PSA, погледајте следеће чланке:
 
 - [Рад са Project Service моделом података](reports-working-project-service-data-model.md)
 - [Контролне табле](reports-dashboards.md)

@@ -1,6 +1,6 @@
 ---
 title: Матична страница за развој (Project Service Automation 3.x)
-description: Овај чланак пружа везе ка чланцима који обезбеђују информације о развоју Dynamics 365 Project Service Automation за (ПСА) верзију 3.x.
+description: Овај чланак обезбеђује везе ка чланцима који пружају информације о развоју апликације Dynamics 365 Project Service Automation (PSA) верзије 3.x.
 author: makk
 ms.custom:
 - dyn365-projectservice
@@ -27,7 +27,7 @@ ms.locfileid: "8929002"
 
 [!include [banner](../../includes/psa-now-project-operations.md)]
 
-Dynamics 365 Project Service Automation 3.x нуди нове функције, примену нових могућности платформе и побољшања постојећих функција у разним областима. Следећи чланци пружају више информација о променама које су направљене у најновијој верзији ПСА:
+Dynamics 365 Project Service Automation 3.x нуди нове функције, примену нових могућности платформе и побољшања постојећих функција у разним областима. Следећи чланак пружа више информација о изменама у најновијој верзији апликације PSA:
 
 - [Промене ентитета, контрола и корисничког интерфејса (Project Service Automation 3.x)](../developer-guides/entity-changes-v3.x.md)
 - [Промене времена и трошкова (Project Service Automation 3.x)](../developer-guides/time-expense-changes-v3.x.md)

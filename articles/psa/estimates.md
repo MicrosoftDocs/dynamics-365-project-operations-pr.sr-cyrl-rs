@@ -1,6 +1,6 @@
 ---
 title: Процене
-description: Овај чланак пружа информације о проценама у Dynamics 365 Project Service Automation.
+description: Овај чланак пружа информације о проценама у апликацији Dynamics 365 Project Service Automation.
 author: rumant
 ms.custom:
 - dyn365-projectservice

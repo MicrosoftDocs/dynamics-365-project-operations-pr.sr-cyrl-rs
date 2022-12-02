@@ -1,6 +1,6 @@
 ---
 title: Затварање понуде – једноставно
-description: Овај чланак пружа информације о затварању понуде у операцијама пројекта.
+description: Овај чланак пружа информације о затварању понуде у услузи Project Operations.
 author: rumant
 ms.date: 10/01/2020
 ms.topic: article
