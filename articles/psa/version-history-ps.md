@@ -1,6 +1,6 @@
 ---
 title: План издања исправке за Project Service 3.x
-description: Овај чланак пружа информације о доступним и предстојећим издањима програм Dynamics 365 Project Service Automation.
+description: Овај чланак пружа информације о доступним и предстојећим издањима услуге Dynamics 365 Project Service Automation.
 ms.custom: dyn365-projectservice
 ms.date: 03/28/2022
 ms.reviewer: johnmichalak
@@ -65,7 +65,7 @@ ms.locfileid: "9621960"
 |<strong>Станица 4</strong> | |  |  | |
 | | <i>Европа</i> | [3.10.78.8](whats-new-ur-47.md) | TBD | 21. октобар 2022.
 |<strong>Станица 5</strong> | |  |  | |
-| | <i>Северна Америка</i> | [3.10.78.8](whats-new-ur-47.md) | TBD | Новембар 04 2022
+| | <i>Северна Америка</i> | [3.10.78.8](whats-new-ur-47.md) | TBD | 04. новембар 2022.
 |<strong>Станица 6</strong> | |  |  | |
 | | <i>Government Community Cloud</i> | [3.10.78.8](whats-new-ur-47.md) | TBD | 02. новембар 2022.
 | | <i>Групе наменских скала</i> | [3.10.78.8](whats-new-ur-47.md) | TBD | 11. новембар 2022.

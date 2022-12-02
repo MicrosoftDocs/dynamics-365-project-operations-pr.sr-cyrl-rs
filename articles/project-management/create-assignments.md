@@ -8,7 +8,7 @@ ms.reviewer: johnmichalak
 ms.author: ruhercul
 ms.openlocfilehash: 31404fc35d72acb9ad791ef8a755f23108f528ad
 ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
 ms.lasthandoff: 06/03/2022
 ms.locfileid: "8933510"
@@ -18,7 +18,7 @@ ms.locfileid: "8933510"
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима/без залиха, једноставна примена – од погодбе до профактуре_
 
 
-Додељивање ресурса је директно повезивање члана пројектног тима са задатком чвора листа. Овај чланак пружа информације о различитим начинима додељивања ресурса.
+Додељивање ресурса је директно повезивање члана пројектног тима са задатком чвора листа. Овај чланак пружа информације о различитим начинима за додељивање ресурса.
 
 ## <a name="create-a-generic-team-member-through-task-assignment"></a>Креирање генеричког члана тима преко доделе задатка
 
