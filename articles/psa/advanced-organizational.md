@@ -1,6 +1,6 @@
 ---
 title: Напредне организационе јединице
-description: Овај чланак пружа информације о организационим јединицама у Dynamics 365 Project Service Automation.
+description: Овај чланак пружа информације о организационим јединицама у апликацији Dynamics 365 Project Service Automation.
 author: rumant
 ms.custom:
 - dyn365-projectservice
@@ -24,7 +24,7 @@ ms.contentlocale: sr-Cyrl-RS
 ms.lasthandoff: 06/03/2022
 ms.locfileid: "8927116"
 ---
-# <a name="about-organizational-units"></a>Организационе јединице 
+# <a name="about-organizational-units"></a>О организационим јединицама 
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 

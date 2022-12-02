@@ -1,6 +1,6 @@
 ---
 title: Разумевање статуса пројекта
-description: Овај чланак пружа информације о статусу додељеном пројектима у програму Dynamics 365 Project Operations.
+description: Овај чланак пружа информације о статусу додељеном пројектима у услузи Dynamics 365 Project Operations.
 author: ruhercul
 ms.date: 10/01/2020
 ms.topic: article

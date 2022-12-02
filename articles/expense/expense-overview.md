@@ -1,6 +1,6 @@
 ---
 title: Преглед трошкова
-description: Овај чланак пружа информације о функционалности трошкова у операцијама пројекта.
+description: Овај чланак пружа информације о функционалности трошкова у услузи Project Operations.
 author: stsporen
 ms.date: 10/06/2020
 ms.topic: overview

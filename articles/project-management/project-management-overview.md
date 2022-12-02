@@ -1,6 +1,6 @@
 ---
 title: Преглед управљања пројектима
-description: Овај чланак пружа информације о управљању пројектима у Dynamics 365 Project Operations.
+description: Овај чланак пружа информације о управљању пројектима у услузи Dynamics 365 Project Operations.
 author: ruhercul
 ms.date: 10/06/2020
 ms.topic: overview

@@ -1,6 +1,6 @@
 ---
 title: Шта је ново у фебруару 2021. – Project Operations једноставна примена
-description: Овај чланак пружа информације о квалитетним исправкама доступним у фебруару 2021.
+description: Овај чланак пружа информације о исправкама квалитета доступним у издању једноставне примене услуге Project Operations за фебруар 2021.
 author: sigitac
 ms.date: 02/08/2021
 ms.topic: article
@@ -16,7 +16,7 @@ ms.locfileid: "8914052"
 ---
 # <a name="whats-new-february-2021---project-operations-lite-deployment"></a>Шта је ново у фебруару 2021. – Project Operations једноставна примена
 
-Овај чланак се односи на следеће Dynamics 365 Project Operations компоненте и верзије:
+Овај чланак се односи на следеће компоненте и верзије услуге Dynamics 365 Project Operations:
 
   - Project Operations у Dataverse окружењу верзије 4.7.0.95
 

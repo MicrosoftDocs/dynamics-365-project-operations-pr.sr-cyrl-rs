@@ -1,6 +1,6 @@
 ---
 title: Користите програмски додатак Project Service за планирање вашег рада у програму Microsoft Project | MicrosoftDocs
-description: Овај чланак пружа информације о томе како да додате, конфигуришете и користите програмски додатак Мицрософт Пројецт за Мицрософт Пројецт услугу.
+description: Овај чланак пружа информације о додавању, конфигурисању и коришћењу програмског додатка Microsoft Project у програму Microsoft Project Service.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

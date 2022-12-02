@@ -1,6 +1,6 @@
 ---
 title: Преглед времена
-description: Овај чланак пружа информације о функционалности времена у програму Dynamics 365 Project Operations.
+description: Овај чланак пружа информације о функцији времена у услузи Dynamics 365 Project Operations.
 author: stsporen
 ms.date: 10/02/2020
 ms.topic: overview

@@ -1,6 +1,6 @@
 ---
 title: Project Operations интеграција двоструког уписивања
-description: Овај чланак пружа преглед интеграције двоструког писања операција пројекта.
+description: Овај чланак пружа преглед Project Operations интеграцији двоструког уписивања.
 author: sigitac
 ms.date: 04/28/2021
 ms.topic: overview
@@ -18,7 +18,7 @@ ms.locfileid: "8927990"
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_
 
-Операције пројекта користе [могућности двоструког писања за](/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-home-page) синхронизацију података преко Microsoft Dataverse и Дyнамицс 365 Финанце.
+Project Operations користи [могућности двоструког уписивања](/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-home-page) за синхронизацију података у решењу Microsoft Dataverse и Dynamics 365 Finance.
 
 Следећа илустрација показује како се подаци синхронизују као део ове интеграције између Dataverse и Finance.
 

@@ -1,6 +1,6 @@
 ---
 title: Планирање рада у програму Microsoft Project помоћу програмског додатка за Project Service
-description: Овај чланак пружа информације о коришћењу Мицрософт Пројецт програмског додатка за Мицрософт Пројецт услугу.
+description: Овај чланак пружа информације о томе како да користите програмски додатак Microsoft Project у програму Microsoft Project Service.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

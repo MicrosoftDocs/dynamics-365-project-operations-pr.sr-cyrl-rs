@@ -1,6 +1,6 @@
 ---
 title: Резервисање за пројекат
-description: Овај чланак пружа информације о резервисању ресурса за пројекат.
+description: Овај чланак пружа информације о резервисању ресурса у пројекат.
 author: ruhercul
 ms.date: 01/24/2022
 ms.topic: article
@@ -55,7 +55,7 @@ _**Односи се на:** Project Operations за сценарије засн
     - Трајање
    
    > [!NOTE]
-   > Тренутно не Dynamics 365 Project Operations подржава таблу распореда.   
+   > Тренутно Dynamics 365 Project Operations не подржава таблу распореда.   
 
 ## <a name="book-from-the-project-form"></a>Резервација из обрасца Пројекат
 

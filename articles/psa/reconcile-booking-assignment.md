@@ -1,6 +1,6 @@
 ---
 title: Усаглашавање ресурса и додела
-description: Овај чланак пружа информације о стварним стварима.
+description: Овај чланак пружа информације о стварним вредностима.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

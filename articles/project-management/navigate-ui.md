@@ -1,6 +1,6 @@
 ---
 title: Кретање кроз кориснички интерфејс
-description: Овај чланак пружа информације о управљању пројектима у дyнамицс 365 пројектним операцијама.
+description: Овај чланак пружа информације о управљању пројектима у услузи Dynamics 365 Project operations.
 author: ruhercul
 ms.date: 10/05/2020
 ms.topic: article

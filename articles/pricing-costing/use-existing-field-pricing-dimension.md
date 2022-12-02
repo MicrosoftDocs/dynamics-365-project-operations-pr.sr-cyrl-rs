@@ -1,6 +1,6 @@
 ---
 title: Project Operations поља као аспекти за одређивање цена
-description: Овај чланак обезбеђује информације које користе поља као димензије цена у програму Dynamics 365 Project Operations.
+description: Овај чланак пружа информације о употреби поља као димензија за одређивање цена у услузи Dynamics 365 Project Operations.
 author: rumant
 ms.date: 09/18/2020
 ms.topic: article

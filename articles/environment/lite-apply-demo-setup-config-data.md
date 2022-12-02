@@ -1,6 +1,6 @@
 ---
 title: Примена демо подешавања и података о конфигурацији – једноставно
-description: Овај чланак пружа информације о примени података о подешавању демонстрације и конфигурацији за операције пројекта.
+description: Овај чланак пружа информације о томе како да примените демо подешавања и податке о конфигурацији за Project Operations.
 author: sigitac
 ms.date: 01/27/2021
 ms.topic: article
@@ -8,7 +8,7 @@ ms.reviewer: johnmichalak
 ms.author: sigitac
 ms.openlocfilehash: 9a3a99c326b7ebbdfa859c3298b35e910af0eb2a
 ms.sourcegitcommit: 16c9eded66d60d4c654872ff5a0267cccae9ef0e
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
 ms.lasthandoff: 09/07/2022
 ms.locfileid: "9410053"
@@ -21,7 +21,7 @@ _**Једноставна примена – од погодбе до профа
 
 ## <a name="prerequisites"></a>Предуслови
 
-Пре него што започнете конфигурацију, морате имати Dataverse окружење обезбеђено за Dynamics 365 Project Operations.
+Пре него што започнете конфигурацију, морате имати Dataverse окружење предвиђено за Dynamics 365 Project Operations.
 
 
 ## <a name="instructions"></a>Упутство

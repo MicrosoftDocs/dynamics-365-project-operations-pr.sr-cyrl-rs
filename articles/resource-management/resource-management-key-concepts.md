@@ -1,6 +1,6 @@
 ---
 title: Кључни концепти управљања ресурсима
-description: Овај чланак пружа информације о могућностима управљања ресурсима у операцијама Microsoft Dynamics пројекта.
+description: Овај чланак пружа информације о могућностима управљања ресурсима у услузи Microsoft Dynamics Project Operations.
 author: ruhercul
 ms.date: 10/01/2020
 ms.topic: article

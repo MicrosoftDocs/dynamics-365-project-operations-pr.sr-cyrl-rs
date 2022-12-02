@@ -1,6 +1,6 @@
 ---
 title: Одредите врсту примене
-description: Овај чланак пружа информације које вам помажу да одредите исправан тип примене операција пројекта за ваше предузеће.
+description: Овај чланак пружа информације које вам помажу да утврдите правилан тип примене услуге Project Operations за ваше предузеће.
 author: stsporen
 ms.date: 03/15/2021
 ms.topic: article
@@ -25,7 +25,7 @@ _**Односи се на:** Project Operations за сценарије засн
 ## <a name="existing-customers-of-dynamics-using-dynamics-365-project-service-automation"></a>Постојећи клијенти система Dynamics који користе Dynamics 365 Project Service Automation
 Project Operations укључује могућности које су испоручене са услугом Project Service Automation. Путања надоградње ће бити објављена за ове клијенте у 1. таласу издања за 2021. годину.
 
-## <a name="existing-customers-of-dynamics-365-finance-using-project-management-and-accounting"></a>Постојећи клијенти Дyнамицс 365 Финанце управљање пројектима и рачуноводство 
+## <a name="existing-customers-of-dynamics-365-finance-using-project-management-and-accounting"></a>Постојећи клијенти услуге Dynamics 365 Finance који користе управљање пројектима и рачуноводство 
 
 Постојећи клијенти услуге Finance који користе функционалност управљања пројектима и рачуноводства могу да наставе да је користе онакву каква јесте. Погледајте [Project Operations за сценарије засноване на залихама/производњи](#pma).
 

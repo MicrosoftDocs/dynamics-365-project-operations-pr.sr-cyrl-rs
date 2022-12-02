@@ -1,6 +1,6 @@
 ---
 title: Промене времена и трошкова (Project Service Automation 3.x)
-description: Овај чланак пружа информације о променама у решењу за време и трошкове.
+description: Овај чланак пружа информације о променама у решењу које се односе на време и трошкове.
 author: makk
 ms.custom:
 - dyn365-projectservice

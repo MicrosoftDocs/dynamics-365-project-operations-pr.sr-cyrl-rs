@@ -1,6 +1,6 @@
 ---
 title: Креирање и ажурирање пројекта
-description: Овај чланак пружа информације о ажурирању пројеката Пројектних операција.
+description: Овај чланак пружа информације о ажурирању пројеката у услузи Project Operations.
 author: ruhercul
 ms.date: 10/20/2021
 ms.topic: article

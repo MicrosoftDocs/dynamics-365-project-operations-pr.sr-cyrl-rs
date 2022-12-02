@@ -1,6 +1,6 @@
 ---
 title: Модел безбедности
-description: Овај чланак пружа информације о безбедносном моделу у програму Dynamics 365 Project Operations.
+description: У овом чланку дате су информације о безбедносном моделу у услузи Dynamics 365 Project Operations.
 author: stsporen
 ms.date: 10/01/2020
 ms.topic: article
@@ -70,7 +70,7 @@ Project за Веб аутоматски додаје кориснике у гр
 
 За више информација, погледајте [Безбедност у услузи Common Data Service](/power-platform/admin/wp-security).
 
-## <a name="project-operations-and-microsoft-dynamics-365-finance-security"></a>Пројектне Microsoft Dynamics операције и 365 финансијска сигурност
+## <a name="project-operations-and-microsoft-dynamics-365-finance-security"></a>Project Operations и Microsoft Microsoft Dynamics 365 Finance безбедност
 Услуга Project Operations укључује следеће улоге:
 
 - Менаџер пројекта

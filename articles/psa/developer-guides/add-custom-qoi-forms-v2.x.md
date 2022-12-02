@@ -1,6 +1,6 @@
 ---
 title: Додавање нових образаца прилагођених ентитета (Project Service Automation 2. x)
-description: Овај чланак пружа информације о томе како да додате прилагођене обрасце ентитета за прилике, понуде, поруџбине или фактуре у Dynamics 365 Project Service Automation 2.x.
+description: Овај чланак пружа информације о додавању прилагођених образаца ентитета за могућности за пословање, понуде, поруџбине или фактуре у апликацији Dynamics 365 Project Service Automation 2.x.
 author: makk
 ms.custom:
 - dyn365-projectservice

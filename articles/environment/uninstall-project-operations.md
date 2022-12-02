@@ -1,6 +1,6 @@
 ---
 title: Деинстралирање Dynamics 365 Project Operations
-description: Овај чланак пружа информације о деинсталирању Dynamics 365 Project Operations.
+description: Овај чланак пружа информације о начину деинсталирања услуге Dynamics 365 Project Operations.
 author: stsporen
 ms.date: 11/09/2021
 ms.topic: article
@@ -35,8 +35,8 @@ _**Односи се на:** Project Operations за сценарије засн
     | 6 | ProjectServiceCore_Patch                           | Нема додатних белешки.                                                                         |
     | 7 | ProjectServiceCore                                 | Нема додатних белешки.                                                                         |
     | 8 | ProjectServiceDeprecatedComponents                 | Ако га не нађете, прескочите ово решење.                                                            |
-    | 9 | FieldServiceCommon                                 | Потребно за двоструко писање са Дyнамицс 365 Финанце или Dynamics 365 Supply Chain Management.   |
-    | 1.0. | msdyn_AssetCommon                                  | Потребно за двоструко писање са Дyнамицс 365 Финанце или Dynamics 365 Supply Chain Management.   |
+    | 9 | FieldServiceCommon                                 | Потребно за двоструко писање са услугом Dynamics 365 Finance или Dynamics 365 Supply Chain Management.   |
+    | 1.0. | msdyn_AssetCommon                                  | Потребно за двоструко писање са услугом Dynamics 365 Finance или Dynamics 365 Supply Chain Management.   |
     | 11. | msdyn_TESA_Anchor                                  | Обавезно за Dynamics 365 Field Service.                                                     |
     | 12 | msdyn_TESA_Patch                                   | Обавезно за Dynamics 365 Field Service.                                                     |
     | 13 | msdyn_TESA                                         | Обавезно за Dynamics 365 Field Service.                                                     |

@@ -1,6 +1,6 @@
 ---
 title: Преглед одобрења
-description: Овај чланак пружа информације о раду са одобрењима у операцијама пројекта.
+description: Овај чланак пружа информације о раду са одобрењима у услузи Project Operations.
 author: stsporen
 ms.date: 03/31/2021
 ms.topic: overview
