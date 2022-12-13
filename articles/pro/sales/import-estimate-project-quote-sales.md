@@ -1,19 +1,19 @@
 ---
-title: Увоз процена за пројекат у ставку понуде засновану на пројекту – једноставно
-description: Овај чланак пружа информације о начину увоза процена из пројекта у ставку понуде.
+title: Увоз процена из пројекта у ред понуде пројекта
+description: Овај чланак пружа информације о начину увоза процена из пројекта у ред понуде пројекта.
 author: rumant
 ms.date: 10/09/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 820d858fecf70e50a9ce8943db706ff6cac29992
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 61c9660f18882d12a7da8965c23b65e408256219
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8917318"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9824505"
 ---
-# <a name="import-estimates-for-a-project-to-a-project-based-quote-line"></a>Увоз процена за пројекат у ставку понуде засновану на пројекту 
+# <a name="import-estimates-from-a-project-to-a-project-quote-line"></a>Увоз процена из пројекта у ред понуде пројекта 
 
 _**Односи се на:** Једноставна примена – од погодбе до профактуре, Project Operations за сценарије засноване на ресурсима / без залиха_
 

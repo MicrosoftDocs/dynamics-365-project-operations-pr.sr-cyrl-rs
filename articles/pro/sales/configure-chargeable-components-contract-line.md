@@ -1,23 +1,23 @@
 ---
-title: Конфигурисање наплативих компоненти за предмет уговора заснован на пројекту
+title: Конфигурисање наплативих компоненти предмета уговора за пројекат
 description: Овај чланак пружа информације о томе како додати наплативе компоненте у предмете уговора у услузи Project Operations.
 author: rumant
 ms.date: 10/08/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 0e4118e8e56d45ef75f53d828e267a8a9c1c903a
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 33296c93964cc88499e7a98d499b99463e59d62a
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8922976"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9825583"
 ---
-# <a name="configure-chargeable-components-of-a-project-based-contract-line"></a>Конфигурисање наплативих компоненти за предмет уговора заснован на пројекту
+# <a name="configure-chargeable-components-of-a-project-contract-line"></a>Конфигурисање наплативих компоненти предмета уговора за пројекат
 
 _**Односи се на:** Једноставна примена – од погодбе до профактуре, Project Operations за сценарије засноване на ресурсима / без залиха_
 
-Предмет уговора заснован на пројекту има *укључене* компоненте и *наплативе* компоненте.
+Ред уговора о пројекту је укључивао  *·*  компоненте и компоненте  *за*  наплату.
 
 Укључене компоненте су компоненте које подлежу:
 

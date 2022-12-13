@@ -1,19 +1,19 @@
 ---
-title: Процена предмета уговора за пројекат
+title: Процена предмета уговора заснованог на пројекту
 description: Овај чланак пружа информације о проценама на предмету уговора за пројекат.
 author: rumant
 ms.date: 10/27/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 553f7e4a9e9f57732267a48da2b299c1751b0c0e
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 633ad3130a28d75ad10b81e03a883e0a732b1ba8
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8932038"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9825228"
 ---
-# <a name="estimate-a-project-contract-line"></a>Процена предмета уговора за пројекат
+# <a name="estimate-a-project-based-contract-line"></a>Процена предмета уговора заснованог на пројекту
 
 _**Односи се на:** Project Operations за сценарије засноване на ресурсима / без залиха_ 
 

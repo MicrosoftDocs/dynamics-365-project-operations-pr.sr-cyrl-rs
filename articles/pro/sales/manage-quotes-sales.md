@@ -6,12 +6,12 @@ ms.date: 10/26/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: b9dad9ab9b6cef11ad337f9c3f536fe467b6a347
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 79da23d83133241204eaad44e39e64c5c6a1591d
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8911660"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9826100"
 ---
 # <a name="manage-project-quotes"></a>Управљање понудама за пројекат
 
@@ -23,7 +23,7 @@ _**Односи се на:** Project Operations за сценарије засн
   - Детаљи ставке понуде који идентификују и процењују посао за сваку компоненту или ставку понуде на високом нивоу. Процене распореда или датума у финансијски аспекти посла су повезани са том ставком понуде.
   - Модели уговарања и наплативе компоненте постављају се за сваку ставку понуде. Ова поставка помаже у процени ширења прихода, потрошње и исплативости за сваку ставку понуде и укупну цену.
 
-## <a name="view-all-project-based-quotes"></a>Приказ свих понуда заснованих на пројекту
+## <a name="view-all-project-quotes"></a>Приказ свих понуда за пројекат
 
 Листа свих понуда за пројекат може се видети на страници листе **Понуде**. 
 

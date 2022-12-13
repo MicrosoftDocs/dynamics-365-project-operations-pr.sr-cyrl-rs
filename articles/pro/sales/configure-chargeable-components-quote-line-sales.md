@@ -1,19 +1,19 @@
 ---
-title: Конфигуришите наплативе компоненте ставке понуде
+title: Конфигурисање компоненти за наплату у редовима понуде пројекта
 description: Овај чланак пружа информације о подешавању наплативих и ненаплативих компонената на линији понуде заснованој на пројекту.
 author: rumant
 ms.date: 03/30/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: d4829055f429546c7911a05a765bc28ae085afa1
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 1e454278a1c5c24ac346c537c778b25448d9ea03
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8930060"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9825536"
 ---
-# <a name="configure-the-chargeable-components-of-a-quote-line"></a>Конфигуришите наплативе компоненте ставке понуде 
+# <a name="configure-chargeable-components-on-project-quote-lines"></a>Конфигурисање компоненти за наплату у редовима понуде пројекта
 
 _**Односи се на:** Једноставна примена – од погодбе до профактуре, Project Operations за сценарије засноване на ресурсима / без залиха_
 
