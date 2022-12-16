@@ -846,7 +846,7 @@
               items:
                 - name: Аванси и уговори засновани на авансним уплатама
                   href: pro/sales/set-up-advances-retainer-based-contracts-sales.md
-                - name: Подешавање распореда авансаПодешавање распореда аванса
+                - name: Подешавање распоред аванса авансних уплата
                   href: pro/sales/set-up-schedule-retainers-sales.md
                 - name: Креирање ад-хок авансне уплате на уговору за пројекат
                   href: pro/sales/create-ad-hoc-advance-sales.md
